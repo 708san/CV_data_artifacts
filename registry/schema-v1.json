@@ -1,0 +1,43 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "CV_data_artifacts dataset registry",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "repository", "datasets"],
+  "properties": {
+    "schema_version": {"const": "1.0.0"},
+    "repository": {"const": "708san/CV_data_artifacts"},
+    "datasets": {
+      "type": "array",
+      "items": {"$ref": "#/definitions/dataset"}
+    }
+  },
+  "definitions": {
+    "dataset": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "dataset_id", "artifact_version", "artifact_url", "artifact_sha256",
+        "source_url", "source_version", "source_sha256", "license",
+        "rights_status", "attribution", "modifications", "transform_version",
+        "manifest_url", "audit_report_url"
+      ],
+      "properties": {
+        "dataset_id": {"type": "string", "pattern": "^[a-z][a-z0-9_]*$"},
+        "artifact_version": {"type": "string", "minLength": 1},
+        "artifact_url": {"type": "string", "pattern": "^https://"},
+        "artifact_sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"},
+        "source_url": {"type": "string", "pattern": "^https://"},
+        "source_version": {"type": "string", "minLength": 1},
+        "source_sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"},
+        "license": {"type": "string", "minLength": 1},
+        "rights_status": {"const": "approved_for_redistribution"},
+        "attribution": {"type": "string", "minLength": 1},
+        "modifications": {"type": "array", "items": {"type": "string"}},
+        "transform_version": {"type": "string", "minLength": 1},
+        "manifest_url": {"type": "string", "pattern": "^https://"},
+        "audit_report_url": {"type": "string", "pattern": "^https://"}
+      }
+    }
+  }
+}

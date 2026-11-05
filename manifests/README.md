@@ -21,4 +21,4 @@
 }
 ```
 
-空の雛形は登録データを意味しません。実データを公開するReleaseには、空欄のないmanifestを添付します。
+空の雛形は登録データを意味しません。実データを公開するReleaseには、空欄のないmanifestを添付します。台帳の形式は[`registry/schema-v1.json`](../registry/schema-v1.json)で検査します。
