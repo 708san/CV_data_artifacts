@@ -1,0 +1,15 @@
+# 公開用アーカイブや取得中の一時ファイルはRelease assetとして管理する。
+*.zip
+*.tar
+*.tar.gz
+*.tar.zst
+*.7z
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+*.bin
+raw/
+derived/
+cache/
+tmp/
