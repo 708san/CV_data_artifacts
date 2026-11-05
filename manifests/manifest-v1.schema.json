@@ -1,0 +1,44 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "CV_data artifact manifest",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "manifest_version", "dataset_id", "artifact_version", "files",
+    "image_count", "label_format", "transform_version", "license",
+    "attribution", "source"
+  ],
+  "properties": {
+    "manifest_version": {"const": "1.0.0"},
+    "dataset_id": {"type": "string", "pattern": "^[a-z][a-z0-9_]*$"},
+    "artifact_version": {"type": "string", "minLength": 1},
+    "files": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["path", "sha256", "size"],
+        "properties": {
+          "path": {"type": "string", "pattern": "^(?!/)(?!.*(?:^|/)\\.\\.(?:/|$))(?!.*\\\\).+"},
+          "sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"},
+          "size": {"type": "integer", "minimum": 0}
+        }
+      }
+    },
+    "image_count": {"type": "integer", "minimum": 0},
+    "label_format": {"type": "string", "minLength": 1},
+    "transform_version": {"type": "string", "minLength": 1},
+    "license": {"type": "string", "minLength": 1},
+    "attribution": {"type": "string", "minLength": 1},
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["url", "version", "sha256"],
+      "properties": {
+        "url": {"type": "string", "pattern": "^https://"},
+        "version": {"type": "string", "minLength": 1},
+        "sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"}
+      }
+    }
+  }
+}
