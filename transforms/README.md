@@ -10,3 +10,34 @@
 - 変更点と派生データのライセンス
 
 ライセンスが派生物の再配布を許さない場合、変換仕様だけを記録し、画像本体は公開しません。
+# Transform specifications
+
+`classification_v1.py`は、固定版を安全に展開した画像分類データを、CV_dataの共通形式へ変換します。
+
+共通形式は、データセットディレクトリ内に次を持ちます。
+
+- `images/<split>/<label>/画像ファイル`
+- `labels.csv`（`image,label,label_id,split,sample_id`）
+- `metadata.jsonl`
+- `manifest.json`
+- `README.md`
+
+元画像の内容は変更しません。入力のラベルとファイル配置を検証し、シンボリックリンク・パストラバーサル・重複パスを拒否します。変換後のartifact全ファイルは、manifest v1でサイズとSHA-256を記録します。
+
+Release assetは`tools/package_artifact.py`でタイムスタンプを固定して作成します。これにより、同じ入力から同じZIPを再生成しやすくします。
+
+例：
+
+```bash
+python transforms/classification_v1.py \
+  /path/to/extracted/tomato-leaves \
+  /tmp/tomato-leaves-common-v1.0.0/tomato_leaves \
+  --dataset-id tomato_leaves \
+  --artifact-version 1.0.0 \
+  --source-url https://github.com/708san/CV_sample_data/releases/download/tomato-v1.2.0/tomato-leaves.zip \
+  --source-version tomato-v1.2.0 \
+  --source-sha256 506560a5ce57394fd739fa73ac3b997a2646f87ea04257334dacb54497e0e1fa \
+  --license 'CC0 1.0' \
+  --attribution 'Pandianj, Arun; Geetharamanigopal (2019), Mendeley Data, DOI: 10.17632/tywbtsjrjv.1' \
+  --manifest-output /tmp/tomato-leaves-common-v1.0.0/tomato_leaves-manifest.json
+```

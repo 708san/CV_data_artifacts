@@ -1,0 +1,35 @@
+{
+  "dataset_id": "tomato_leaves",
+  "artifact_version": "1.0.0",
+  "status": "passed",
+  "source_audit_report": "https://raw.githubusercontent.com/708san/CV_data/main/reports/tomato-leaves-v1.2.0.json",
+  "source_archive_sha256": "506560a5ce57394fd739fa73ac3b997a2646f87ea04257334dacb54497e0e1fa",
+  "artifact_manifest": "manifests/tomato_leaves-v1.0.0.json",
+  "image_count": 7209,
+  "file_count": 7213,
+  "source_image_audit": {
+    "image_decode_checked": 7209,
+    "image_decode_failed": 0,
+    "duplicate_candidate_count": 0,
+    "label_mismatch_count": 0
+  },
+  "artifact_checks": {
+    "manifest_file_sha256": "passed",
+    "all_file_sha256": "passed",
+    "labels_and_images": "passed",
+    "zip_path_safety": "passed",
+    "symlink_check": "passed",
+    "zip_crc_check": "passed"
+  },
+  "license_review": {
+    "status": "source_license_verified",
+    "license": "CC0 1.0",
+    "source_url": "https://data.mendeley.com/datasets/tywbtsjrjv/1",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "redistribution": "allowed_under_cc0_with_residual_rights_note",
+    "attribution": "retained"
+  },
+  "transform_version": "classification_v1.0.0",
+  "transform_summary": "Copied source images without pixel changes; normalized labels.csv and metadata.jsonl; retained source train/test split; added deterministic artifact packaging.",
+  "validated_at": "2026-11-05"
+}

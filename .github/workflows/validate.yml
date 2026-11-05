@@ -16,6 +16,7 @@ jobs:
         run: |
           python -m json.tool registry/datasets.json >/dev/null
           python -m json.tool registry/schema-v1.json >/dev/null
+          python tools/validate_manifest.py
           python tools/validate_registry.py
       - name: Run tests
         run: python -m unittest discover -s tests -v
