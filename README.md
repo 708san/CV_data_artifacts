@@ -34,3 +34,5 @@ reports/        実体監査の要約
 ```
 
 画像やLoRA素材の追加は、対応するmanifest・ライセンス記録・監査レポートがそろった変更で行います。
+
+`manifests/`と`reports/`に準備中の候補があっても、`registry/datasets.json`に登録されていないものは公開済みではありません。Release assetの作成とartifact URL・SHA-256の登録が完了するまで、ライブラリから利用可能とは案内しません。
