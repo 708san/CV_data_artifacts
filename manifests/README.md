@@ -1,24 +1,13 @@
-# Manifests
+# Artifact manifest
 
-各GitHub Release assetの取得条件をJSONで記録します。
+各artifactには、`manifest-v1.schema.json`に適合するmanifestを添付します。manifestは、データ本体の代わりに、公開するファイルの相対パス・サイズ・SHA-256、画像数、ラベル形式、変換版、ライセンス、出典を記録する台帳です。
 
-最低限、次の項目を含めます。
+manifestの`source.sha256`は、元データの固定アーカイブまたは固定ファイル集合を表します。元データに単一の固定アーカイブがない場合は、公開artifactを作成する前に、固定方法を別途決めてください。動的な`main`や`latest`だけを参照するmanifestは受け付けません。
 
-```json
-{
-  "dataset_id": "example",
-  "artifact_version": "v1.0.0",
-  "artifact_url": "https://github.com/708san/CV_data_artifacts/releases/download/...",
-  "artifact_sha256": "",
-  "source_url": "https://example.org/original",
-  "source_version": "",
-  "source_sha256": "",
-  "license": "",
-  "rights_status": "approved_for_redistribution",
-  "attribution": "",
-  "modifications": [],
-  "transform_version": ""
-}
-```
+公開前には、次を確認します。
 
-空の雛形は登録データを意味しません。実データを公開するReleaseには、空欄のないmanifestを添付します。台帳の形式は[`registry/schema-v1.json`](../registry/schema-v1.json)で検査します。
+1. `files`の全対象ファイルを実際に取得し、記載のSHA-256とサイズを照合する。
+2. パスがartifactルート外へ出ないこと、シンボリックリンクを含まないことを確認する。
+3. 画像とラベルの件数・対応・分割・重複を検査する。
+4. ライセンス、元画像の権利、改変・再配布・教材公開の範囲を分けて記録する。
+5. `registry/datasets.json`のartifact URL、manifest URL、監査レポートURL、SHA-256を一致させる。
