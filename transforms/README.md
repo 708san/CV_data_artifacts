@@ -2,7 +2,7 @@
 
 派生データを作る場合は、元データを変更せず、再現可能な変換仕様を記録します。
 
-- 入力アーカイブのSHA-256
+- 入力アーカイブまたはファイル集合のSHA-256
 - 変換コードまたはコミット
 - 除外条件
 - ラベル・分割の規則
@@ -10,7 +10,17 @@
 - 変更点と派生データのライセンス
 
 ライセンスが派生物の再配布を許さない場合、変換仕様だけを記録し、画像本体は公開しません。
-# Transform specifications
+
+## 共通形式の方針
+
+| 課題 | 共通配置 | 状態 |
+| --- | --- | --- |
+| 画像分類 | `images/<split>/<label>/` + `labels.csv` + `metadata.jsonl` | `classification_v1.0.0`を実装済み |
+| 物体検出 | `images/<split>/` + `labels/<split>/*.txt` + `classes.json` | GeoSetEnneaで設計・全量監査待ち |
+| 領域分割 | `images/<split>/` + `masks/<split>/` + `classes.json` | FruitSeg30で設計・全量監査待ち |
+| LoRA素材 | `images/` + `captions.csv`またはJSONL | 権利確認済み素材ができるまでReleaseしない |
+
+検出・分割については、形式を先に固定し、実装済みとは案内しません。各artifactのmanifestで`label_format`と`transform_version`を明示します。
 
 `classification_v1.py`は、固定版を安全に展開した画像分類データを、CV_dataの共通形式へ変換します。
 
