@@ -1,0 +1,21 @@
+name: Validate artifact registry
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  registry:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+      - name: Validate JSON and registry
+        run: |
+          python -m json.tool registry/datasets.json >/dev/null
+          python -m json.tool registry/schema-v1.json >/dev/null
+          python tools/validate_registry.py
+      - name: Run tests
+        run: python -m unittest discover -s tests -v
