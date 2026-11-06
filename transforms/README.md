@@ -17,7 +17,7 @@
 | --- | --- | --- |
 | 画像分類 | `images/<split>/<label>/` + `labels.csv` + `metadata.jsonl` | `classification_v1.0.0`を実装済み |
 | 物体検出 | `images/<split>/` + `labels/<split>/*.txt` + `classes.json` | GeoSetEnneaで設計・全量監査待ち |
-| 領域分割 | `images/<split>/` + `masks/<split>/` + `classes.json` | FruitSeg30で設計・全量監査待ち |
+| 領域分割 | `images/<split>/` + `masks/<split>/` + `classes.json` | `segmentation_v1.0.0`を実装、FruitSeg30全量画像監査待ち |
 | LoRA素材 | `images/` + `captions.csv`またはJSONL | 権利確認済み素材ができるまでReleaseしない |
 
 検出・分割については、形式を先に固定し、実装済みとは案内しません。各artifactのmanifestで`label_format`と`transform_version`を明示します。
