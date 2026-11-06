@@ -62,6 +62,15 @@ def validate(path: Path) -> list[str]:
             errors.append("source.sha256 must be lowercase SHA-256")
     if not isinstance(data.get("image_count"), int) or data.get("image_count", -1) < 0:
         errors.append("image_count must be a non-negative integer")
+    conversion = data.get("annotation_conversion")
+    if conversion is not None:
+        required_conversion = {"source_bbox_rows_preserved", "source_polygon_rows_converted_to_bbox", "polygon_method"}
+        if not isinstance(conversion, dict) or set(conversion) != required_conversion:
+            errors.append("annotation_conversion has invalid fields")
+        elif any(not isinstance(conversion.get(key), int) or conversion.get(key, -1) < 0 for key in required_conversion - {"polygon_method"}):
+            errors.append("annotation_conversion counts must be non-negative integers")
+        elif conversion.get("polygon_method") != "axis_aligned_enclosing_rectangle; polygon boundary shape is discarded":
+            errors.append("annotation_conversion polygon_method is invalid")
     return errors
 
 

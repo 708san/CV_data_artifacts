@@ -2,15 +2,17 @@
 from __future__ import annotations
 
 import argparse
+import ast
 import hashlib
 import json
+import math
 import shutil
 from pathlib import Path, PurePosixPath
 from typing import Any
 
 
 IMAGE_EXTENSIONS = {".jpg", ".jpeg", ".png"}
-TRANSFORM_VERSION = "detection_yolo_v1.0.0"
+TRANSFORM_VERSION = "detection_yolo_v1.1.0"
 
 
 class TransformError(RuntimeError):
@@ -34,9 +36,31 @@ def _safe_filename(value: str) -> PurePosixPath:
 
 def _read_classes(source_root: Path) -> list[str]:
     path = source_root / "classes.json"
-    if not path.is_file():
-        raise TransformError("input classes.json is required")
-    data = json.loads(path.read_text(encoding="utf-8"))
+    if path.is_file():
+        data = json.loads(path.read_text(encoding="utf-8"))
+    else:
+        yaml_path = source_root / "data.yaml"
+        if not yaml_path.is_file():
+            raise TransformError("input classes.json or a supported data.yaml is required")
+        names_value = None
+        count_value = None
+        for line in yaml_path.read_text(encoding="utf-8").splitlines():
+            key, separator, value = line.partition(":")
+            if not separator:
+                continue
+            if key.strip() == "names":
+                try:
+                    names_value = ast.literal_eval(value.strip())
+                except (ValueError, SyntaxError) as exc:
+                    raise TransformError("data.yaml names must be a Python-style string list") from exc
+            elif key.strip() == "nc":
+                try:
+                    count_value = int(value.strip())
+                except ValueError as exc:
+                    raise TransformError("data.yaml nc must be an integer") from exc
+        if not isinstance(names_value, list) or count_value != len(names_value):
+            raise TransformError("data.yaml nc and names are missing or inconsistent")
+        data = {"classes": names_value}
     classes = data.get("classes") if isinstance(data, dict) else data
     if not isinstance(classes, list) or not classes or any(not isinstance(x, str) or not x for x in classes):
         raise TransformError("classes.json must contain a non-empty string list")
@@ -51,16 +75,35 @@ def _annotation_rows(label_path: Path, class_count: int) -> list[dict[str, Any]]
         if not line.strip():
             continue
         columns = line.split()
-        if len(columns) != 5:
-            raise TransformError(f"YOLO label must have 5 columns: {label_path}:{line_number}")
         try:
             class_id = int(columns[0])
-            values = [float(value) for value in columns[1:]]
+            coordinates = [float(value) for value in columns[1:]]
         except ValueError as exc:
             raise TransformError(f"YOLO label contains a non-number: {label_path}:{line_number}") from exc
-        if not 0 <= class_id < class_count or any(not 0 <= value <= 1 for value in values):
-            raise TransformError(f"YOLO label is out of range: {label_path}:{line_number}")
-        rows.append({"class_id": class_id, "x_center": values[0], "y_center": values[1], "width": values[2], "height": values[3]})
+        if not 0 <= class_id < class_count:
+            raise TransformError(f"YOLO class ID is out of range: {label_path}:{line_number}")
+        if any(not math.isfinite(value) or not 0 <= value <= 1 for value in coordinates):
+            raise TransformError(f"YOLO coordinates are out of range: {label_path}:{line_number}")
+        if len(coordinates) == 4:
+            x_center, y_center, width, height = coordinates
+            source_format = "bbox"
+            if width <= 0 or height <= 0 or x_center - width / 2 < 0 or y_center - height / 2 < 0 or x_center + width / 2 > 1 or y_center + height / 2 > 1:
+                raise TransformError(f"YOLO box has invalid dimensions: {label_path}:{line_number}")
+        elif len(coordinates) >= 6 and len(coordinates) % 2 == 0:
+            xs, ys = coordinates[0::2], coordinates[1::2]
+            left, right = min(xs), max(xs)
+            top, bottom = min(ys), max(ys)
+            width, height = right - left, bottom - top
+            if width <= 0 or height <= 0:
+                raise TransformError(f"YOLO polygon has invalid dimensions: {label_path}:{line_number}")
+            x_center, y_center = (left + right) / 2, (top + bottom) / 2
+            source_format = "polygon"
+        else:
+            raise TransformError(f"YOLO label must be a box or polygon: {label_path}:{line_number}")
+        rows.append({
+            "class_id": class_id, "x_center": x_center, "y_center": y_center,
+            "width": width, "height": height, "source_annotation_format": source_format,
+        })
     return rows
 
 
@@ -85,6 +128,7 @@ def prepare(
     classes = _read_classes(source_root)
     rows: list[dict[str, Any]] = []
     files: list[dict[str, Any]] = []
+    annotation_formats = {"bbox": 0, "polygon": 0}
     for split_dir in sorted(path for path in source_root.iterdir() if path.is_dir()):
         images_dir, labels_dir = split_dir / "images", split_dir / "labels"
         if not images_dir.is_dir() or not labels_dir.is_dir():
@@ -99,7 +143,11 @@ def prepare(
         for stem, image_path in image_names.items():
             image_name = _safe_filename(image_path.name).name
             label_path = label_names[stem]
+            if image_path.is_symlink() or label_path.is_symlink():
+                raise TransformError(f"symlink is not allowed: {split}/{image_name}")
             annotations = _annotation_rows(label_path, len(classes))
+            for annotation in annotations:
+                annotation_formats[annotation["source_annotation_format"]] += 1
             image_rel = PurePosixPath("images", split, image_name)
             label_rel = PurePosixPath("labels", split, f"{stem}.txt")
             image_target = destination_root.joinpath(*image_rel.parts)
@@ -107,7 +155,10 @@ def prepare(
             image_target.parent.mkdir(parents=True, exist_ok=True)
             label_target.parent.mkdir(parents=True, exist_ok=True)
             shutil.copyfile(image_path, image_target)
-            shutil.copyfile(label_path, label_target)
+            label_target.write_text("".join(
+                f"{item['class_id']} {item['x_center']:.17g} {item['y_center']:.17g} {item['width']:.17g} {item['height']:.17g}\n"
+                for item in annotations
+            ), encoding="utf-8")
             rows.append({"file_name": image_rel.as_posix(), "label_file": label_rel.as_posix(), "split": split, "annotations": annotations})
             for rel, target in ((image_rel, image_target), (label_rel, label_target)):
                 files.append({"path": f"{dataset_id}/{rel.as_posix()}", "sha256": _sha256(target), "size": target.stat().st_size})
@@ -120,6 +171,11 @@ def prepare(
         "classes_file": "classes.json", "annotations": "annotations.jsonl", "metadata": "metadata.jsonl",
         "source": {"url": source_url, "version": source_version, "sha256": source_sha256},
         "license": {"name": license_name}, "attribution": attribution, "transform_version": TRANSFORM_VERSION,
+        "annotation_conversion": {
+            "source_bbox_rows_preserved": annotation_formats["bbox"],
+            "source_polygon_rows_converted_to_bbox": annotation_formats["polygon"],
+            "polygon_method": "axis_aligned_enclosing_rectangle; polygon boundary shape is discarded",
+        },
     }
     (destination_root / "classes.json").write_text(json.dumps({"classes": classes}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     (destination_root / "annotations.jsonl").write_text("".join(json.dumps(row, ensure_ascii=False, sort_keys=True) + "\n" for row in rows), encoding="utf-8")
@@ -136,6 +192,11 @@ def prepare(
         "files": files, "image_count": len(rows), "label_format": "yolo_normalized_jsonl",
         "transform_version": TRANSFORM_VERSION, "license": license_name, "attribution": attribution,
         "source": {"url": source_url, "version": source_version, "sha256": source_sha256},
+        "annotation_conversion": {
+            "source_bbox_rows_preserved": annotation_formats["bbox"],
+            "source_polygon_rows_converted_to_bbox": annotation_formats["polygon"],
+            "polygon_method": "axis_aligned_enclosing_rectangle; polygon boundary shape is discarded",
+        },
     }
 
 

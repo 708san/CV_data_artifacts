@@ -1,0 +1,53 @@
+{
+  "dataset_id": "bangladeshi_ewaste_image",
+  "source_url": "https://data.mendeley.com/datasets/77383kmdnw/1",
+  "source_version": "1",
+  "license": "CC BY 4.0",
+  "license_evidence": [
+    "Mendeley Data v1 landing page",
+    "README.dataset.txt included in the fixed source archive"
+  ],
+  "attribution": "Tanzila Afrin; Azizul Abedin Azmi, Custom Bangladeshi E-Waste Image Dataset for Object Detection and Recognition, Mendeley Data v1, DOI 10.17632/77383kmdnw.1",
+  "source_archive": {
+    "file_id": "ad031b3c-13e5-4913-8cdd-71dccfab980f",
+    "filename": "E-Waste Dataset (2).zip",
+    "size": 72987704,
+    "sha256": "f73b30286225c208e98b34f81eb5ffef7baf79e883039d2087e8db53f6ee284e"
+  },
+  "technical_audit": {
+    "archive_members": 4326,
+    "regular_files": 4317,
+    "zip_crc": "passed",
+    "unsafe_paths": 0,
+    "symlinks": 0,
+    "image_count": 2157,
+    "image_decode": "passed_all_images",
+    "image_format": "JPEG",
+    "image_dimensions": "640x640_all",
+    "image_label_pairs": 2157,
+    "unpaired_images": 0,
+    "orphan_labels": 0,
+    "exact_duplicate_images": 0,
+    "annotation_count": 2159,
+    "bbox_rows": 752,
+    "polygon_rows": 1407,
+    "empty_labels": 4,
+    "malformed_labels": 0,
+    "class_count": 12
+  },
+  "prepared_artifact": {
+    "version": "0.1.0",
+    "transform_version": "detection_yolo_v1.1.0",
+    "package_size": 71762431,
+    "package_sha256": "fe06d5579e3a84010e0e6ccd7d90d8230ca72d5fcd39719d6d6d8731595007fa",
+    "manifest_validation": "passed",
+    "polygon_conversion": "axis-aligned enclosing rectangle; polygon boundary shape discarded"
+  },
+  "rights_review": {
+    "dataset_license_terms": "reviewed",
+    "dataset_author_attribution": "recorded",
+    "incidental_trademarks_visible": true,
+    "third_party_trademark_license": "not_claimed",
+    "redistribution_status": "candidate; library API and student instructions pending"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "manifest_type": "source_file_inventory",
+  "manifest_version": "1.0.0",
+  "dataset_id": "bangladeshi_ewaste_image",
+  "provider": "Mendeley Data",
+  "source_url": "https://data.mendeley.com/datasets/77383kmdnw/1",
+  "source_version": "1",
+  "license_claim": "CC BY 4.0",
+  "file_count": 1,
+  "archive_count": 1,
+  "image_count": 2157,
+  "class_count": 12,
+  "files": [
+    {
+      "path": "E-Waste Dataset (2).zip",
+      "role": "source_archive",
+      "image_count": 2157,
+      "file_id": "ad031b3c-13e5-4913-8cdd-71dccfab980f",
+      "filename": "E-Waste Dataset (2).zip",
+      "size": 72987704,
+      "sha256": "f73b30286225c208e98b34f81eb5ffef7baf79e883039d2087e8db53f6ee284e",
+      "download_url": "https://data.mendeley.com/public-files/datasets/77383kmdnw/files/ad031b3c-13e5-4913-8cdd-71dccfab980f/file_downloaded"
+    }
+  ]
+}
