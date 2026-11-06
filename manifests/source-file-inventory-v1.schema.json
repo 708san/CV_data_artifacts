@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "CV_data source file inventory",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["manifest_type", "manifest_version", "dataset_id", "provider", "source_url", "source_version", "license_claim", "file_count", "files"],
+  "properties": {
+    "manifest_type": {"const": "source_file_inventory"},
+    "manifest_version": {"const": "1.0.0"},
+    "dataset_id": {"type": "string", "pattern": "^[a-z][a-z0-9_]*$"},
+    "provider": {"type": "string", "minLength": 1},
+    "source_url": {"type": "string", "pattern": "^https://"},
+    "source_version": {"type": "string", "minLength": 1},
+    "license_claim": {"type": "string", "minLength": 1},
+    "file_count": {"type": "integer", "minimum": 0},
+    "files": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": true,
+        "required": ["path", "file_id", "filename", "size", "sha256", "download_url"],
+        "properties": {
+          "path": {"type": "string", "minLength": 1},
+          "file_id": {"type": "string", "minLength": 1},
+          "filename": {"type": "string", "minLength": 1},
+          "size": {"type": "integer", "minimum": 0},
+          "sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"},
+          "download_url": {"type": "string", "pattern": "^https://"}
+        }
+      }
+    }
+  }
+}
