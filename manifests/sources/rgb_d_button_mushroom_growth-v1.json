@@ -1,0 +1,23 @@
+{
+  "manifest_type": "source_file_inventory",
+  "manifest_version": "1.0.0",
+  "dataset_id": "rgb_d_button_mushroom_growth",
+  "provider": "Mendeley Data",
+  "source_url": "https://data.mendeley.com/datasets/8n6nr43gk3/1",
+  "source_version": "1",
+  "license_claim": "CC BY 4.0",
+  "file_count": 1,
+  "archive_count": 0,
+  "image_count": 0,
+  "files": [
+    {
+      "path": "readme.txt",
+      "role": "source_documentation",
+      "file_id": "6d5832b5-c7c7-494f-a471-ec31b6709e00",
+      "filename": "readme.txt",
+      "size": 4712,
+      "sha256": "a39f7231cdc51bc7fb103d3ff319830caa63f4b196f81593124d435b18dd032f",
+      "download_url": "https://data.mendeley.com/public-files/datasets/8n6nr43gk3/files/6d5832b5-c7c7-494f-a471-ec31b6709e00/file_downloaded"
+    }
+  ]
+}
