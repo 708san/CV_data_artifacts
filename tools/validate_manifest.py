@@ -70,7 +70,7 @@ def main() -> int:
     if not paths:
         paths = sorted(
             path for path in Path("manifests").glob("*.json")
-            if path.name != "manifest-v1.schema.json"
+            if not path.name.endswith(".schema.json")
         )
     errors = []
     for path in paths:
