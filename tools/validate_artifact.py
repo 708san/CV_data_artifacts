@@ -68,17 +68,38 @@ def validate(manifest_path: Path, extracted_root: Path) -> dict[str, Any]:
     image_paths = [path for path in expected if path.startswith(prefix + "images/")]
     if len(image_paths) != manifest.get("image_count"):
         raise ArtifactValidationError("image_count does not match manifest files")
-    labels = extracted_root / dataset_id / "labels.csv"
-    with labels.open(encoding="utf-8", newline="") as stream:
-        rows = list(csv.DictReader(stream))
-    if len(rows) != manifest.get("image_count"):
-        raise ArtifactValidationError("image_count does not match labels.csv")
-    image_names = [row.get("image") for row in rows]
-    if any(not isinstance(name, str) for name in image_names) or len(set(image_names)) != len(image_names):
-        raise ArtifactValidationError("labels.csv contains duplicate or missing image paths")
+    label_format = manifest.get("label_format")
     expected_image_names = {path[len(prefix):] for path in image_paths}
-    if set(image_names) != expected_image_names:
-        raise ArtifactValidationError("labels.csv does not match image files")
+    dataset_root = extracted_root / dataset_id
+    if label_format == "classification_csv_and_jsonl":
+        labels = dataset_root / "labels.csv"
+        with labels.open(encoding="utf-8", newline="") as stream:
+            rows = list(csv.DictReader(stream))
+        image_names = [row.get("image") for row in rows]
+        if len(rows) != manifest.get("image_count") or any(not isinstance(name, str) for name in image_names) or len(set(image_names)) != len(image_names):
+            raise ArtifactValidationError("labels.csv does not match image_count or contains duplicate paths")
+        if set(image_names) != expected_image_names:
+            raise ArtifactValidationError("labels.csv does not match image files")
+    elif label_format == "paired_image_mask_csv_and_jsonl":
+        labels = dataset_root / "labels.csv"
+        with labels.open(encoding="utf-8", newline="") as stream:
+            rows = list(csv.DictReader(stream))
+        image_names = [row.get("image") for row in rows]
+        mask_names = [row.get("mask") for row in rows]
+        if len(rows) != manifest.get("image_count") or len(set(image_names)) != len(image_names) or len(set(mask_names)) != len(mask_names):
+            raise ArtifactValidationError("segmentation labels do not match image_count or contain duplicates")
+        if set(image_names) != expected_image_names or not all(isinstance(name, str) and name.startswith("masks/") for name in mask_names):
+            raise ArtifactValidationError("segmentation labels do not match image/mask files")
+        if not all(f"{dataset_id}/{name}" in expected for name in mask_names):
+            raise ArtifactValidationError("segmentation mask file is missing from manifest")
+    elif label_format == "yolo_normalized_jsonl":
+        annotations = dataset_root / "annotations.jsonl"
+        records = [json.loads(line) for line in annotations.read_text(encoding="utf-8").splitlines() if line.strip()]
+        names = [record.get("file_name") for record in records]
+        if len(records) != manifest.get("image_count") or len(set(names)) != len(names) or set(names) != expected_image_names:
+            raise ArtifactValidationError("detection annotations do not match image files")
+    else:
+        raise ArtifactValidationError(f"unsupported label_format: {label_format}")
     return {
         "dataset_id": dataset_id,
         "artifact_version": manifest.get("artifact_version"),
