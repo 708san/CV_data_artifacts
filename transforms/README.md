@@ -53,3 +53,6 @@ python transforms/classification_v1.py \
   --attribution 'Pandianj, Arun; Geetharamanigopal (2019), Mendeley Data, DOI: 10.17632/tywbtsjrjv.1' \
   --manifest-output /tmp/tomato-leaves-common-v1.0.0/tomato_leaves-manifest.json
 ```
+
+
+classification_source_v1.pyは、検査済みクラス別フォルダを決定的な層化分割へ整え、クラス内完全一致重複を除外して入力manifestと除外記録を作成します。classification_v1.pyは、その入力をCV_dataの共通形式へ変換します。
