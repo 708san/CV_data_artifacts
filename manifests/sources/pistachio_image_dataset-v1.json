@@ -1,0 +1,23 @@
+{
+  "manifest_type": "source_file_inventory",
+  "manifest_version": "1.0.0",
+  "dataset_id": "pistachio_image_dataset",
+  "provider": "Mendeley Data",
+  "source_url": "https://data.mendeley.com/datasets/h7pf57cgg9/1",
+  "source_version": "1",
+  "license_claim": "CC BY 4.0",
+  "file_count": 1,
+  "archive_count": 1,
+  "image_count": 2148,
+  "files": [
+    {
+      "path": "Pistachio_Image_Dataset.zip",
+      "role": "source_archive",
+      "file_id": "4b6f3853-12dc-4f07-ab15-06be2d51b7e3",
+      "filename": "Pistachio_Image_Dataset.zip",
+      "size": 27859492,
+      "sha256": "140760707018b7f53d91a86a1d7be96d92b1a0d26a75690ab9280ed1170df895",
+      "download_url": "https://data.mendeley.com/public-files/datasets/h7pf57cgg9/files/4b6f3853-12dc-4f07-ab15-06be2d51b7e3/file_downloaded"
+    }
+  ]
+}

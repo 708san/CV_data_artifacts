@@ -1,0 +1,24 @@
+{
+  "manifest_type": "source_file_inventory",
+  "manifest_version": "1.0.0",
+  "dataset_id": "tangerines",
+  "provider": "Mendeley Data",
+  "source_url": "https://data.mendeley.com/datasets/9tfbpxpyjz/1",
+  "source_version": "1",
+  "license_claim": "CC BY 4.0",
+  "file_count": 1,
+  "archive_count": 1,
+  "image_count": 340,
+  "files": [
+    {
+      "path": "Tangerines_Images.rar",
+      "role": "source_archive",
+      "image_count": 340,
+      "file_id": "6393bf4a-6619-4bc3-91f9-ce986a6451bf",
+      "filename": "Tangerines_Images.rar",
+      "size": 4154193,
+      "sha256": "0beab31ff2ae3b7e17068f62de3ba8861739f0ab8733454cf4c123a5cca11ada",
+      "download_url": "https://data.mendeley.com/public-files/datasets/9tfbpxpyjz/files/6393bf4a-6619-4bc3-91f9-ce986a6451bf/file_downloaded"
+    }
+  ]
+}
