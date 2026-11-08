@@ -12,3 +12,9 @@ Changes in this prepared artifact: images were placed in the common `images/<spl
 Rights status: the Mendeley dataset page displays CC BY 4.0. The related 2021 journal article has a separate CC BY-NC 4.0 notice. These are recorded separately; the article PDF and figures are not included. Independent confirmation of image rights holders and any third-party rights remains pending. This prepared artifact is not approved for public redistribution and has no Release.
 
 The dataset is for educational classification experiments. It does not establish food quality, safety, freshness, commercial value, or performance on real-world scenes.
+
+## 2026-11-09 redistribution review
+
+The Mendeley Data v1 page identifies Murat Koklu as contributor, displays CC BY 4.0, and describes the images as camera captures of pistachio samples. Redistribution is approved within the dataset's displayed CC BY 4.0 terms. Preserve the attribution above and cite both works requested by the dataset page. The related journal article's separate CC BY-NC 4.0 terms apply to that article; no article PDF or figures are included. The source grant is the basis for this decision; the visual review is limited to sample content and is not an independent legal audit of every depicted object.
+
+The v0.1.0 ZIP was rechecked: all 2,153 files match the artifact manifest by size and SHA-256, and ZIP CRC passed. ZIP SHA-256: `32bc15c4788052207e3dd52d4450cc15fec9efade3df169d59bb94556d715f24`. No Release asset has been created.
