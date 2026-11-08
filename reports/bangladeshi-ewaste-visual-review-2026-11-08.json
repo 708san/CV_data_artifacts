@@ -1,0 +1,51 @@
+{
+  "dataset_id": "bangladeshi_ewaste_image",
+  "source_version": "1",
+  "review_date": "2026-11-08",
+  "source": {
+    "landing_page": "https://data.mendeley.com/datasets/77383kmdnw/1",
+    "filename": "E-Waste Dataset (2).zip",
+    "file_id": "ad031b3c-13e5-4913-8cdd-71dccfab980f",
+    "size": 72987704,
+    "sha256": "f73b30286225c208e98b34f81eb5ffef7baf79e883039d2087e8db53f6ee284e"
+  },
+  "scope": {
+    "source_images": 2157,
+    "images_in_contact_sheets": 2157,
+    "contact_sheets": 22,
+    "archive_sha256_verified_before_extraction": true,
+    "archive_crc_test": "passed",
+    "unsafe_paths": 0,
+    "symlinks": 0,
+    "extraction_location": "temporary directory; not committed or published",
+    "visual_method": "Human review of contact sheets containing every source image. Each thumbnail was approximately 94 by 94 pixels. Representative and ambiguous material-category examples were then reviewed at full resolution."
+  },
+  "findings": {
+    "images_match_broad_object_categories": true,
+    "content_observation": "The images broadly depict objects corresponding to their 12 labels, including batteries, glass items, keyboards, bulbs, medical waste, metal items, phones, mice, organic waste, circuit boards, paper, and plastic items. No clearly unrelated image was noticed in the full contact-sheet review.",
+    "scope_vs_title": "The 12 labels include general paper, organic, medical, metal, glass, and plastic waste as well as electronic devices and parts. The dataset is broader than electronic waste alone.",
+    "capture_context": "Images predominantly show isolated items arranged on bright green fabric. They do not represent ordinary collection-site scenes or document that each pictured object was discarded.",
+    "people_or_faces_observed": false,
+    "third_party_marks_visible": true,
+    "third_party_mark_observation": "Brand names and product/package text are visible on some containers and discarded items. The source audit records no separate trademark license.",
+    "ambiguous_material_categories": "Some objects and packages are made of mixed or visually ambiguous materials; an image alone does not always establish whether a particular item is glass, plastic, or composite waste.",
+    "jpeg_metadata_scan": {
+      "images_scanned": 2157,
+      "exif_app1_segments": 0,
+      "xmp_app1_segments": 0,
+      "iptc_app13_segments": 0,
+      "jpeg_comment_segments": 0,
+      "parse_errors": 0
+    }
+  },
+  "educational_use": {
+    "status": "suitable_for_introductory_waste_item_classification",
+    "recommended_activity": "Classify the pictured waste-item categories and compare predictions with the supplied labels.",
+    "description_guidance": "Describe it as a controlled-background, 12-category waste-item image dataset that includes some e-waste classes; do not describe it as a dataset of real-world electronic-waste collection scenes."
+  },
+  "publication_decision": {
+    "status": "hold_pending_rights_signoff",
+    "release_asset_created": false,
+    "reason": "The content review supports introductory classification use. Preserve the source and prepared artifact unchanged; document attribution and confirm redistribution scope for visible third-party marks before creating a public release asset."
+  }
+}
