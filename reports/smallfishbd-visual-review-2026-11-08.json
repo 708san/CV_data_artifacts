@@ -1,0 +1,56 @@
+{
+  "dataset_id": "smallfishbd",
+  "source_version": "2",
+  "review_date": "2026-11-08",
+  "source": {
+    "landing_page": "https://data.mendeley.com/datasets/8jvxtvz52x/2",
+    "filename": "SmallFishBD.zip",
+    "file_id": "7dbfdaef-21e6-4a1f-aae5-3c65079e5bfb",
+    "size": 29802305,
+    "sha256": "2d97368d351f4c5940b7b54f19eec2b771a7d76421dbe5ad66977cf3003eafbb"
+  },
+  "scope": {
+    "source_images": 1700,
+    "images_in_contact_sheets": 1700,
+    "contact_sheets": 27,
+    "archive_sha256_verified_before_extraction": true,
+    "archive_crc_test": "passed",
+    "unsafe_paths": 0,
+    "symlinks": 0,
+    "extraction_location": "temporary directory; not committed or published",
+    "visual_method": "Human review of contact sheets containing every source image, with filenames. Each thumbnail was approximately 112 by 112 pixels."
+  },
+  "findings": {
+    "people_or_visible_faces_observed": false,
+    "readable_text_or_logos_observed": false,
+    "visible_watermarks_observed": false,
+    "image_decode_or_contact_sheet_omissions_observed": false,
+    "jpeg_metadata_scan": {
+      "images_scanned": 1700,
+      "exif_app1_segments": 0,
+      "xmp_app1_segments": 0,
+      "iptc_app13_segments": 0,
+      "jpeg_comment_segments": 0,
+      "parse_errors": 0
+    },
+    "dataset_bias_observations": [
+      "Background appearance varies substantially by class. Kachki images include both vivid cyan backgrounds and mottled gray-blue surfaces; Tengra images predominantly use a mottled gray-blue surface. Several other classes predominantly use vivid cyan or blue backgrounds.",
+      "Fish size, framing, and camera angle also vary across classes. These correlations can let a classifier predict class from capture setup or background rather than fish features."
+    ]
+  },
+  "educational_use": {
+    "status": "suitable_for_limited_classification_exercise_with_background-bias-caveat",
+    "recommended_activity": "Compare a normal classifier with an experiment that crops or masks the fish, then inspect how accuracy and errors change.",
+    "limitations": [
+      "A full-resolution, image-by-image rights review was not performed; contact-sheet review can miss small details.",
+      "The visual review does not establish permission for any third-party rights that may attach to the photographs.",
+      "The dataset license and authorship/authority to license all image content still require documented sign-off before redistribution.",
+      "Near-duplicate and same-capture relationships were not exhaustively assessed."
+    ]
+  },
+  "publication_decision": {
+    "status": "hold_pending_rights_signoff",
+    "release_asset_created": false,
+    "reason": "The visual and metadata triage found no people, readable text, logos, watermarks, or embedded EXIF/XMP/IPTC/comment metadata, but it does not resolve all third-party rights or document final redistribution approval."
+  }
+}
