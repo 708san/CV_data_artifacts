@@ -1,0 +1,70 @@
+{
+  "candidate_id": "DS-132",
+  "dataset_id": "hgm_4_hand_gestures",
+  "audit_date": "2026-11-08",
+  "source": {
+    "landing_page": "https://data.mendeley.com/datasets/jzy8zngkbg/8",
+    "version": "8",
+    "doi": "10.17632/jzy8zngkbg.8",
+    "author": "Vinh Truong Hoang",
+    "license_claim": "CC BY 4.0",
+    "file_id": "2b300b67-ebb2-46e5-a8d8-72093ffeaa77",
+    "filename": "HGM-4.rar",
+    "size": 228825330,
+    "sha256": "c24da158944463132dcf808ba114fa405cbc4085e0c96f42aa126019b7daea58",
+    "fixed_download_url": "https://data.mendeley.com/public-files/datasets/jzy8zngkbg/files/2b300b67-ebb2-46e5-a8d8-72093ffeaa77/file_downloaded"
+  },
+  "publisher_claims": {
+    "image_count": 4160,
+    "classes": 26,
+    "image_dimensions": "1280x700 RGB",
+    "camera_views": [
+      "Below_CAM",
+      "Front_CAM",
+      "Left_CAM",
+      "Right_CAM"
+    ],
+    "participants": 5,
+    "images_per_class_per_camera": 40,
+    "paper_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7229479/"
+  },
+  "archive_listing": {
+    "format": "RAR",
+    "listed_entries": 4270,
+    "listed_regular_files": 4161,
+    "listed_directories": 109,
+    "root": "HGM-1.0",
+    "unsafe_paths": 0,
+    "symlinks": 0,
+    "sha256_verified_before_listing": true,
+    "complete_content_test": "not_completed"
+  },
+  "extraction_attempt": {
+    "tool": "macOS /usr/bin/bsdtar",
+    "result": "failed",
+    "error": "Parsing filters is unsupported; delayed extraction errors",
+    "extracted_files_present_but_trustworthy": false,
+    "image_decode_count": null,
+    "decision": "Do not inspect, transform, or distribute partial extraction. Use a RAR implementation that supports the archive filters, then verify all entries and image contents."
+  },
+  "rights_review": {
+    "mendeley_record": "CC BY 4.0",
+    "attribution": "Vinh Truong Hoang (2020), HGM-4, Mendeley Data, V8, DOI 10.17632/jzy8zngkbg.8",
+    "human_data": "Academic article describes five volunteers photographed by four laptop cameras, with backgrounds removed using Otsu thresholding.",
+    "assessment": "License metadata is available, but image contents, background removal, subject-identifying remnants, and consent/privacy implications were not examined because extraction failed. Keep on hold."
+  },
+  "pedagogy": {
+    "potential_task": "classify 26 Vietnamese manual alphabet hand shapes and compare performance across camera views",
+    "limitations": [
+      "4,160 images originate from five participants; random image-level splits can leak participant and capture-session patterns",
+      "not a general Vietnamese sign-language translator; dynamic signs, facial grammar, and conversation are outside this data",
+      "not for biometric identification, person matching, surveillance, or consequential decisions"
+    ]
+  },
+  "decision": {
+    "publication_status": "hold",
+    "artifact_created": false,
+    "api_added": false,
+    "reason": "full archive extraction and image/privacy review not yet possible"
+  }
+}
