@@ -1,0 +1,53 @@
+{
+  "dataset_id": "pistachio_image_dataset",
+  "source_version": "1",
+  "source_url": "https://data.mendeley.com/datasets/h7pf57cgg9/1",
+  "source_doi": "10.17632/h7pf57cgg9.1",
+  "source_archive_bytes": 27859492,
+  "source_archive_sha256": "140760707018b7f53d91a86a1d7be96d92b1a0d26a75690ab9280ed1170df895",
+  "source_archive_entries": 2164,
+  "source_file_count": 2158,
+  "source_image_count": 2148,
+  "source_nonimage_file_count": 10,
+  "archive_unsafe_paths": 0,
+  "archive_symlinks": 0,
+  "image_decode_count": 2148,
+  "image_decode_errors": 0,
+  "formats": {
+    "JPEG": 2148
+  },
+  "dimensions": {
+    "600x600": 2148
+  },
+  "rgb_images": 2148,
+  "exact_duplicate_groups": 0,
+  "class_counts": {
+    "Kirmizi_Pistachio": 1232,
+    "Siirt_Pistachio": 916
+  },
+  "manual_sample_count": 4,
+  "manual_sample_findings": "Four representative images show isolated pistachio samples on a black background; no people or brand marks were visible in the reviewed samples. This is not a full manual review.",
+  "license_claim": "Mendeley Data v1 displays CC BY 4.0. The 2021 related research article has a separate CC BY-NC 4.0 statement; the article and dataset licenses are recorded separately.",
+  "dataset_creation_claim": "Related research article describes pistachio samples collected for the study and images acquired through the authors’ computer vision system. Independent rights-holder confirmation is pending.",
+  "requested_citations": [
+    "Ozkan, Koklu & Saracoglu (2021), DOI 10.23751/pn.v23i2.9686",
+    "Singh et al. (2022), DOI 10.3390/electronics11070981"
+  ],
+  "artifact": {
+    "version": "0.1.0",
+    "image_count": 2148,
+    "split_counts": {
+      "train": 1503,
+      "val": 322,
+      "test": 323
+    },
+    "files": 2153,
+    "unpacked_bytes": 35666279,
+    "zip_bytes": 25875554,
+    "zip_sha256": "32bc15c4788052207e3dd52d4450cc15fec9efade3df169d59bb94556d715f24",
+    "excluded_source_files": 10,
+    "image_pixels_changed": false,
+    "release_created": false
+  },
+  "publication_status": "hold_pending_image_rights_confirmation"
+}
