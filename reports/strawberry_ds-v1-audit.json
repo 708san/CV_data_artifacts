@@ -1,0 +1,127 @@
+{
+  "candidate_id": "DS-033",
+  "dataset_id": "strawberry_ds",
+  "audit_date": "2026-11-08",
+  "source": {
+    "landing_page": "https://data.mendeley.com/datasets/z6dtfdpzz8/1",
+    "version": "1",
+    "doi": "10.17632/z6dtfdpzz8.1",
+    "authors": [
+      "Nashwa El-Bendary",
+      "Esraa Elhariri"
+    ],
+    "license_claim": "CC BY 4.0",
+    "file_id": "3abfdfbe-3a33-43c1-99d4-cbc4f0aa7596",
+    "filename": "Strawberry (2).zip",
+    "size": 293289160,
+    "sha256": "861c50605b3e479398a7b3522c8fd4bd2705cb6562f73b2f210088a739c0da49",
+    "fixed_download_url": "https://data.mendeley.com/public-files/datasets/z6dtfdpzz8/files/3abfdfbe-3a33-43c1-99d4-cbc4f0aa7596/file_downloaded"
+  },
+  "archive": {
+    "sha256_verified_before_extraction": true,
+    "zip_entries": 505,
+    "regular_files": 496,
+    "uncompressed_bytes": 293168288,
+    "crc_test": "passed",
+    "unsafe_paths": 0,
+    "symlinks": 0
+  },
+  "content": {
+    "image_count": 247,
+    "images_by_split": {
+      "train": 172,
+      "valid": 49,
+      "test": 26
+    },
+    "label_file_count": 247,
+    "labels_without_images": 0,
+    "images_without_labels": 0,
+    "empty_label_files": 0,
+    "image_decode": "all 247 decoded by macOS sips",
+    "format_counts": {
+      "JPEG": 247
+    },
+    "dimensions": {
+      "3840x2160": 247
+    },
+    "color_space": "RGB/sRGB",
+    "image_bytes": 293084838,
+    "exact_duplicate_groups": 0,
+    "duplicate_excess": 0,
+    "exif_app1_files": 0,
+    "xmp_app1_files": 0,
+    "class_names": [
+      "Early-Turning",
+      "Green",
+      "Late-Turning",
+      "Red",
+      "Turning",
+      "White"
+    ],
+    "object_counts_by_class": {
+      "Early-Turning": 34,
+      "Green": 450,
+      "Late-Turning": 56,
+      "Red": 225,
+      "Turning": 42,
+      "White": 276
+    },
+    "total_objects": 1083,
+    "objects_by_split": {
+      "train": 754,
+      "valid": 225,
+      "test": 104
+    },
+    "annotation_format": "YOLO normalized axis-aligned bounding boxes",
+    "annotation_validation": {
+      "otherwise_valid_rows": 1081,
+      "tiny_out_of_bounds_rows": 2,
+      "other_invalid_rows": 0,
+      "findings": [
+        {
+          "file": "test/labels/DSC_1283_JPG.rf.db41d3371de53605a2a1a2d24ed1706c.txt",
+          "line": 2,
+          "max_normalized_overflow": 2.314814814816102e-06,
+          "max_pixel_overflow_at_3840x2160": 0.005
+        },
+        {
+          "file": "train/labels/DSC_1259_JPG.rf.27e254d1b953392c7ba9bc5e070334b7.txt",
+          "line": 2,
+          "max_normalized_overflow": 2.314814814816102e-06,
+          "max_pixel_overflow_at_3840x2160": 0.005
+        }
+      ]
+    }
+  },
+  "rights_review": {
+    "mendeley_license_record": "CC BY 4.0; attribution, license link, and change notice required",
+    "embedded_metadata_finding": "README.roboflow.txt links to Roboflow workspace fym-no3zr/strawberry-2szl9/version 4; data.yaml declares roboflow.license: Private",
+    "assessment": "The public Mendeley license claim and upstream export metadata are inconsistent. Mendeley states that it does not validate or curate dataset content. Rights to relicense the Roboflow-derived images and annotations are therefore not sufficiently established for mirroring or redistribution.",
+    "status": "hold_pending_rights_clarification"
+  },
+  "visual_review": {
+    "sample_images_reviewed": 2,
+    "faces_or_people_visible_in_samples": false,
+    "whole_dataset_manual_privacy_review": false,
+    "notes": "The two reviewed orchard samples show strawberry plants and ground/covering. This limited review is not a whole-image privacy clearance."
+  },
+  "pedagogy": {
+    "potential_task": "boxes + ripeness class for individual strawberries; compare errors for partly occluded fruit and class imbalance",
+    "limitations": [
+      "247 images only; overfitting risk",
+      "severe class imbalance (Green 450 vs Early-Turning 34)",
+      "labels represent annotation classes, not independently verified harvest readiness or food safety",
+      "not for yield, market grading, or food-safety decisions"
+    ]
+  },
+  "decision": {
+    "publication_status": "hold",
+    "reason": [
+      "embedded Roboflow metadata says Private despite public Mendeley CC BY 4.0 record",
+      "two bbox rows exceed image boundary by about 0.005 pixel and fail the current strict converter",
+      "all-image third-party rights review is incomplete"
+    ],
+    "artifact_created": false,
+    "api_added": false
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "manifest_type": "source_file_inventory",
+  "manifest_version": "1.0.0",
+  "dataset_id": "smallfishbd",
+  "provider": "Mendeley Data",
+  "source_url": "https://data.mendeley.com/datasets/8jvxtvz52x/2",
+  "source_version": "2",
+  "license_claim": "CC BY 4.0",
+  "file_count": 2,
+  "archive_count": 2,
+  "image_count": 1700,
+  "files": [
+    {
+      "path": "SmallFishBD.zip",
+      "role": "source_archive_used",
+      "file_id": "7dbfdaef-21e6-4a1f-aae5-3c65079e5bfb",
+      "filename": "SmallFishBD.zip",
+      "size": 29802305,
+      "sha256": "2d97368d351f4c5940b7b54f19eec2b771a7d76421dbe5ad66977cf3003eafbb",
+      "download_url": "https://data.mendeley.com/public-files/datasets/8jvxtvz52x/files/7dbfdaef-21e6-4a1f-aae5-3c65079e5bfb/file_downloaded"
+    },
+    {
+      "path": "Augmented SmallFishBD.zip",
+      "role": "source_archive_excluded_augmentation",
+      "file_id": "7bb83046-49a9-4506-9e58-947a37d919c0",
+      "filename": "Augmented SmallFishBD.zip",
+      "size": 553413830,
+      "sha256": "971cd3d2c6cec652c5aca5ee15571ef9ad2ded6a6f80c30a38f5e32abcdac14d",
+      "download_url": "https://data.mendeley.com/public-files/datasets/8jvxtvz52x/files/7bb83046-49a9-4506-9e58-947a37d919c0/file_downloaded"
+    }
+  ],
+  "selected_source_file": "SmallFishBD.zip",
+  "excluded_source_file": "Augmented SmallFishBD.zip",
+  "excluded_source_image_count": 20400
+}

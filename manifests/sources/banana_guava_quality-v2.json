@@ -1,0 +1,25 @@
+{
+  "manifest_type": "source_file_inventory",
+  "manifest_version": "1.0.0",
+  "dataset_id": "banana_guava_quality",
+  "provider": "Mendeley Data",
+  "source_url": "https://data.mendeley.com/datasets/56td5w4wz2/2",
+  "source_version": "2",
+  "license_claim": "CC BY 4.0",
+  "file_count": 1,
+  "archive_count": 1,
+  "image_count": 1748,
+  "class_count": 6,
+  "files": [
+    {
+      "path": "Fruits_Data.zip",
+      "role": "source_archive",
+      "image_count": 1748,
+      "file_id": "4f2c1005-9e8d-4f44-9a4c-f99ac7f30dd2",
+      "filename": "Fruits_Data.zip",
+      "size": 476073240,
+      "sha256": "0a020e17ba0269151573dc4f695819486ff2a5d71e28d7bbd56eade6233bb2a2",
+      "download_url": "https://data.mendeley.com/public-files/datasets/56td5w4wz2/files/4f2c1005-9e8d-4f44-9a4c-f99ac7f30dd2/file_downloaded"
+    }
+  ]
+}

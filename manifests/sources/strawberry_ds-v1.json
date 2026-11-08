@@ -1,0 +1,23 @@
+{
+  "manifest_type": "source_file_inventory",
+  "manifest_version": "1.0.0",
+  "dataset_id": "strawberry_ds",
+  "provider": "Mendeley Data",
+  "source_url": "https://data.mendeley.com/datasets/z6dtfdpzz8/1",
+  "source_version": "1",
+  "license_claim": "CC BY 4.0 on Mendeley Data; embedded Roboflow export metadata states Private, requiring rights clarification",
+  "file_count": 1,
+  "archive_count": 1,
+  "image_count": 247,
+  "files": [
+    {
+      "path": "Strawberry (2).zip",
+      "role": "source_archive_examined",
+      "file_id": "3abfdfbe-3a33-43c1-99d4-cbc4f0aa7596",
+      "filename": "Strawberry (2).zip",
+      "size": 293289160,
+      "sha256": "861c50605b3e479398a7b3522c8fd4bd2705cb6562f73b2f210088a739c0da49",
+      "download_url": "https://data.mendeley.com/public-files/datasets/z6dtfdpzz8/files/3abfdfbe-3a33-43c1-99d4-cbc4f0aa7596/file_downloaded"
+    }
+  ]
+}

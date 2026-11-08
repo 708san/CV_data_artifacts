@@ -1,0 +1,22 @@
+{
+  "manifest_type": "source_file_inventory",
+  "manifest_version": "1.0.0",
+  "dataset_id": "hgm_4_hand_gestures",
+  "provider": "Mendeley Data",
+  "source_url": "https://data.mendeley.com/datasets/jzy8zngkbg/8",
+  "source_version": "8",
+  "license_claim": "CC BY 4.0 on Mendeley Data; data-subject/privacy review remains open",
+  "file_count": 1,
+  "archive_count": 1,
+  "files": [
+    {
+      "path": "HGM-4.rar",
+      "role": "source_archive_listed_but_not_extracted",
+      "file_id": "2b300b67-ebb2-46e5-a8d8-72093ffeaa77",
+      "filename": "HGM-4.rar",
+      "size": 228825330,
+      "sha256": "c24da158944463132dcf808ba114fa405cbc4085e0c96f42aa126019b7daea58",
+      "download_url": "https://data.mendeley.com/public-files/datasets/jzy8zngkbg/files/2b300b67-ebb2-46e5-a8d8-72093ffeaa77/file_downloaded"
+    }
+  ]
+}

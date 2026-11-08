@@ -1,0 +1,65 @@
+{
+  "dataset_id": "fruitseg30",
+  "source_url": "https://data.mendeley.com/datasets/vkht8pfsp3/3",
+  "source_version": "3",
+  "doi": "10.17632/vkht8pfsp3.3",
+  "license_claim": "CC BY 4.0",
+  "source_inventory_file_count": 3938,
+  "source_image_count": 1969,
+  "source_mask_count": 1969,
+  "source_total_bytes": 224579761,
+  "source_file_set_sha256": "6409bf4299e6c53ce6208cc0433f11eae88f3f444143957345ecd326b3b74158",
+  "source_sha256_check": "all_files_passed",
+  "full_decode": {
+    "jpeg_count": 1969,
+    "png_count": 1969,
+    "decode_errors": 0,
+    "mask_png_crc_errors": 0,
+    "duplicate_sha_groups": 0,
+    "mask_format": "8-bit grayscale; pixel range includes 0 and 255 with intermediate boundary values"
+  },
+  "pair_audit": {
+    "matched_by_class_and_pair_id": 1969,
+    "valid_512x512_pairs_excluding_guava": 1914,
+    "guava_pairs": 55,
+    "guava_dimension_mismatches": 52,
+    "guava_nonstandard_dimensions": 55,
+    "decision": "exclude all Guava pairs; no inferred rotation, resizing, or relabeling"
+  },
+  "artifact": {
+    "version": "0.1.0",
+    "images": 1914,
+    "masks": 1914,
+    "classes": 29,
+    "split_counts": {
+      "train": 1325,
+      "val": 274,
+      "test": 315
+    },
+    "files": 3833,
+    "uncompressed_bytes": 69235199,
+    "zip_size": 68242354,
+    "zip_sha256": "129384a6e9599b0b9eb756ec93abda25a90bdd70a514fd04f905a2ff2e8c5ba5",
+    "manifest_validation": "passed",
+    "artifact_release_created": false,
+    "license_notice_in_zip": true
+  },
+  "rights_review": {
+    "mendeley_license_page": "CC BY 4.0",
+    "dataset_article_license": "CC BY 4.0",
+    "author_description": "Authors report collecting/capturing images in Malaysia, Bangladesh, and Australia.",
+    "attribution": "F. M. Javed Mehedi Shamrat; Rashiduzzaman Shakil; Mohd Yamani Idna Idris; Bonna Akter; Xujuan Zhou (2024), FruitSeg30_Segmentation Dataset & Mask Annotations, Mendeley Data v3, DOI 10.17632/vkht8pfsp3.3.",
+    "third_party_source_review": "No conflicting rights metadata found in official record/article; independent provenance review of every source image not performed.",
+    "status": "CC BY 4.0 claim verified; final redistribution record pending"
+  },
+  "pedagogy": {
+    "use": "fruit foreground segmentation and mask-boundary threshold exploration",
+    "limitations": [
+      "class counts range from 16 to 147",
+      "near-duplicate and capture-session leakage not examined",
+      "grayscale masks contain antialiased boundary values; thresholding alters boundaries",
+      "not for freshness, quality, or food-safety judgments"
+    ]
+  },
+  "decision": "prepare 29-class artifact; hold public Release and library API until rights record and segmentation adapter are complete"
+}

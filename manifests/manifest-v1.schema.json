@@ -39,6 +39,16 @@
         "version": {"type": "string", "minLength": 1},
         "sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"}
       }
+    },
+    "annotation_conversion": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["source_bbox_rows_preserved", "source_polygon_rows_converted_to_bbox", "polygon_method"],
+      "properties": {
+        "source_bbox_rows_preserved": {"type": "integer", "minimum": 0},
+        "source_polygon_rows_converted_to_bbox": {"type": "integer", "minimum": 0},
+        "polygon_method": {"const": "axis_aligned_enclosing_rectangle; polygon boundary shape is discarded"}
+      }
     }
   }
 }

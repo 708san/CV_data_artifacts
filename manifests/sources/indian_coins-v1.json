@@ -1,0 +1,25 @@
+{
+  "manifest_type": "source_file_inventory",
+  "manifest_version": "1.0.0",
+  "dataset_id": "indian_coins",
+  "provider": "Mendeley Data",
+  "source_url": "https://data.mendeley.com/datasets/txn6vz28g9/1",
+  "source_version": "1",
+  "license_claim": "CC BY 4.0",
+  "file_count": 1,
+  "archive_count": 1,
+  "image_count": 6680,
+  "class_count": 7,
+  "files": [
+    {
+      "path": "Indian Coins Image Dataset.zip",
+      "role": "source_archive",
+      "image_count": 6680,
+      "file_id": "9eeb2a4c-43bd-4c73-87b6-1a22d351a03a",
+      "filename": "Indian Coins Image Dataset.zip",
+      "size": 728966897,
+      "sha256": "93405d0883907d2775b58fe7b8c18ee6d4a34d540b090aa687f20c74d731500d",
+      "download_url": "https://data.mendeley.com/public-files/datasets/txn6vz28g9/files/9eeb2a4c-43bd-4c73-87b6-1a22d351a03a/file_downloaded"
+    }
+  ]
+}

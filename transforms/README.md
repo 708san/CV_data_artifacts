@@ -16,13 +16,15 @@
 | 課題 | 共通配置 | 状態 |
 | --- | --- | --- |
 | 画像分類 | `images/<split>/<label>/` + `labels.csv` + `metadata.jsonl` | `classification_v1.0.0`を実装済み |
-| 物体検出 | `images/<split>/` + `labels/<split>/*.txt` + `classes.json` | `detection_yolo_v1.0.0`を実装、GeoSetEnnea全量監査待ち |
+| 物体検出 | `images/<split>/` + `labels/<split>/*.txt` + `classes.json` | `detection_yolo_v1.1.0`を実装。YOLO矩形とpolygon入力を受け、polygonは外接矩形へ変換 |
 | 領域分割 | `images/<split>/` + `masks/<split>/` + `classes.json` | `segmentation_v1.0.0`を実装、FruitSeg30全量画像監査待ち |
 | LoRA素材 | `images/` + `captions.csv`またはJSONL | 権利確認済み素材ができるまでReleaseしない |
 
-検出・分割については、形式を先に固定し、実装済みとは案内しません。各artifactのmanifestで`label_format`と`transform_version`を明示します。
+検出・分割については、形式を先に固定し、実装済みとは案内しません。各artifactのmanifestで`label_format`と`transform_version`を明示します。検出変換はYOLO矩形を保ち、YOLO polygonは軸に平行な外接矩形へ変換します。polygonの輪郭情報は残らないため、派生物manifestに入力形式別件数と変換規則を記録します。
 
 `classification_v1.py`は、固定版を安全に展開した画像分類データを、CV_dataの共通形式へ変換します。
+
+`detection_yolo_v1.py`は、`classes.json`または`nc`・`names`を含む単純な`data.yaml`、ならびにYOLO bbox / polygonラベルを受け取ります。polygon行は座標の最小値・最大値から軸平行なbboxへ変換し、変換元形式をJSONLとmanifestへ残します。bbox注釈の座標・クラスは維持します。これはbbox形式の学習用artifactであり、元のpolygon輪郭を保持したsegmentationデータではありません。
 
 共通形式は、データセットディレクトリ内に次を持ちます。
 
@@ -51,3 +53,6 @@ python transforms/classification_v1.py \
   --attribution 'Pandianj, Arun; Geetharamanigopal (2019), Mendeley Data, DOI: 10.17632/tywbtsjrjv.1' \
   --manifest-output /tmp/tomato-leaves-common-v1.0.0/tomato_leaves-manifest.json
 ```
+
+
+classification_source_v1.pyは、検査済みクラス別フォルダを決定的な層化分割へ整え、クラス内完全一致重複を除外して入力manifestと除外記録を作成します。classification_v1.pyは、その入力をCV_dataの共通形式へ変換します。

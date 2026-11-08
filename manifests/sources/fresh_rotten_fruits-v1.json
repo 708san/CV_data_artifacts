@@ -1,0 +1,35 @@
+{
+  "manifest_type": "source_file_inventory",
+  "manifest_version": "1.0.0",
+  "dataset_id": "fresh_rotten_fruits",
+  "provider": "Mendeley Data",
+  "source_url": "https://data.mendeley.com/datasets/bdd69gyhv8/1",
+  "source_version": "1",
+  "license_claim": "CC BY 4.0",
+  "file_count": 2,
+  "archive_count": 2,
+  "image_count": 15535,
+  "class_count": 16,
+  "files": [
+    {
+      "path": "Original Image.zip",
+      "role": "source_archive_original",
+      "image_count": 3200,
+      "file_id": "de93ba06-6a58-45e3-913d-837b2ae52acb",
+      "filename": "Original Image.zip",
+      "size": 2794170228,
+      "sha256": "f89d67d4c4b24810bcd8406db877db6b1ac9834cea0b0cb56d65acebe59e66ff",
+      "download_url": "https://data.mendeley.com/public-files/datasets/bdd69gyhv8/files/de93ba06-6a58-45e3-913d-837b2ae52acb/file_downloaded"
+    },
+    {
+      "path": "Augmented Image.zip",
+      "role": "source_archive_augmented",
+      "image_count": 12335,
+      "file_id": "ccd1f142-03b2-473a-8c78-78920e63b8bd",
+      "filename": "Augmented Image.zip",
+      "size": 803272180,
+      "sha256": "5c748b5904932cd8cf631a0b776253d6217d577067d9477c267014d03ac16e10",
+      "download_url": "https://data.mendeley.com/public-files/datasets/bdd69gyhv8/files/ccd1f142-03b2-473a-8c78-78920e63b8bd/file_downloaded"
+    }
+  ]
+}
