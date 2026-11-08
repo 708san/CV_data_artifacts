@@ -1,0 +1,76 @@
+{
+  "dataset_id": "food_waste_bangladesh",
+  "source_version": "1",
+  "review_date": "2026-11-08",
+  "source": {
+    "landing_page": "https://data.mendeley.com/datasets/w68f9w6jmm/1",
+    "filename": "Root.zip",
+    "file_id": "d3e82a1b-66c2-4987-8432-efa5c1201441",
+    "size": 31426593,
+    "sha256": "10e7a106a1f4570f404f93f8fa5c523c53f837f5e3f70981c8a06c02b7080e14"
+  },
+  "scope": {
+    "source_images": 645,
+    "images_in_contact_sheets": 645,
+    "contact_sheets": 26,
+    "archive_sha256_verified_before_extraction": true,
+    "archive_crc_test": "passed",
+    "unsafe_paths": 0,
+    "symlinks": 0,
+    "extraction_location": "temporary directory; not committed or published",
+    "visual_method": "Human review of contact sheets containing every source image, with filenames. Each thumbnail was approximately 210 by 150 pixels. Selected images showing people or third-party marks were then reviewed at full resolution."
+  },
+  "findings": {
+    "people_visible": true,
+    "people_observation": "Several photographs show partial bodies, arms, or hands of diners or workers. No clearly recognizable face was observed in the contact sheets or selected full-resolution examples; this is not a formal identity clearance.",
+    "example_images_with_people": [
+      "Wedding Food waste/IMG_5063.JPG",
+      "Wedding Food waste/IMG_5129.JPG",
+      "Wedding Food waste/IMG_5963.JPG",
+      "Wedding Food waste/IMG_5964.JPG",
+      "Wedding Food waste/IMG_5965.JPG",
+      "Wedding Food waste/IMG_5981.JPG",
+      "Wedding Food waste/IMG_5982.JPG",
+      "Wedding Food waste/IMG_6032.JPG",
+      "Wedding Food waste/IMG_20241227_154343.jpg",
+      "Wedding Food waste/IMG_20241227_154345.jpg",
+      "Wedding Food waste/IMG_20241227_154350.jpg"
+    ],
+    "third_party_marks_visible": true,
+    "third_party_mark_observation": "Brand names, logos, and product packaging are visible on plates, cups, bottles, and food containers in multiple images. A QR-code-like printed mark is visible in Buffet Food waste/IMG_5484.JPG.",
+    "jpeg_metadata_scan": {
+      "images_scanned": 645,
+      "exif_app1_segments": 0,
+      "xmp_app1_segments": 0,
+      "iptc_app13_segments": 0,
+      "jpeg_comment_segments": 0,
+      "parse_errors": 0
+    },
+    "dataset_quality_observations": [
+      "Images include event/table context, packaging, plates, discarded food, and outdoor waste scenes. Folder labels can correlate with venue, background, containers, or camera framing rather than a consistent visual definition of food waste.",
+      "Wedding Food waste has 320 images while Vegetables waste has 16. Sequential and timestamped filenames suggest neighboring captures may share a scene or event; the existing random split does not establish capture-group independence.",
+      "Images depict food leftovers or discarded vegetables but do not measure mass, cost, or prevalence of food waste."
+    ],
+    "folder_label_content_review": {
+      "all_source_images_reviewed": true,
+      "overall_assessment": "Images in each folder generally match the folder topic; they depict food leftovers or discarded food/vegetable material in the named collection context.",
+      "categories": {
+        "Buffet Food waste": "Leftovers on buffet plates and serving dishes.",
+        "Food waste (General)": "Mixed food leftovers, discarded food, and containers.",
+        "Restaurant food waste": "Food remains on plates and trays in restaurant settings.",
+        "Vegetables waste": "Discarded vegetables and vegetable trimmings.",
+        "Wedding Food waste": "Leftovers and serving scenes from banquet or wedding settings."
+      }
+    }
+  },
+  "educational_use": {
+    "status": "suitable_for_introductory_image_classification",
+    "recommended_activity": "Classify images by the folder category and inspect examples where the setting or food makes the category clear.",
+    "limitation": "The labels describe the collection context; the images do not measure the amount or prevalence of food waste."
+  },
+  "publication_decision": {
+    "status": "hold_pending_rights_signoff",
+    "release_asset_created": false,
+    "reason": "The folder contents are broadly consistent with their labels. Partial people and third-party product/plate marks are visible in some images. Keep the existing image files intact; document attribution and confirm the dataset redistribution scope before creating a public release asset."
+  }
+}
