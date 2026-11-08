@@ -1,0 +1,26 @@
+{
+  "dataset_id": "recyclable_waste",
+  "review_date": "2026-11-08",
+  "artifact_version": "0.1.0",
+  "artifact_zip_sha256": "39c52710ddaeb4e662dbbf3ba7cd95725a8b11cf2b22434d04bc52626b721299",
+  "artifact_zip_size": 93666718,
+  "review_method": "Rendered all prepared images in labeled contact sheets and visually reviewed every sheet at thumbnail scale.",
+  "reviewed_images": 977,
+  "reviewed_classes": 5,
+  "contact_sheets": 10,
+  "class_content_match": "The visible contents generally match the cardboard, glass, metal, paper, and plastic labels. No obvious unrelated image or class-level mismatch was noticed.",
+  "visual_findings": {
+    "people": "No clearly identifiable bystander was apparent in the contact sheets. One item appears to contain a printed portrait on packaging; this is a depiction on a product, not evidence of a photographed bystander.",
+    "brands_and_text": "Product branding and package text are visible in many images. This visual observation is not a trademark or rights clearance.",
+    "backgrounds": "Images show discarded items on indoor floors, pavement, soil, and other everyday surfaces. No location was inferred from those backgrounds.",
+    "review_limit": "This was a thumbnail-scale visual screen for image content and obvious privacy issues, not a full-resolution forensic privacy review or legal assessment."
+  },
+  "metadata_handling": "The reviewed prepared artifact has EXIF/GPS/TIFF metadata removed according to the existing preparation audit. This does not establish that all visual privacy concerns are absent.",
+  "rights_review": {
+    "source_license_claim": "CC BY 4.0, as recorded in the source audit",
+    "independent_image_rights_clearance": false,
+    "status": "redistribution and rights review remain pending"
+  },
+  "release_decision": "Keep public release and library availability on hold pending rights review. The visual review does not change that hold.",
+  "source_report": "recyclable_waste-v1-full-audit.json"
+}
