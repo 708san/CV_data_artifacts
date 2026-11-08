@@ -10892,5 +10892,7 @@
   ],
   "unique_content_count": 977,
   "duplicate_sha_groups": 12,
-  "max_duplicate_sha_count": 2
+  "max_duplicate_sha_count": 2,
+  "total_bytes": 1707541468,
+  "file_set_sha256": "154381f20cb1775f24e39801a3516cc0607d8330502924b9da6c7f2cbcfd8339"
 }

@@ -36,3 +36,7 @@ reports/        実体監査の要約
 画像やLoRA素材の追加は、対応するmanifest・ライセンス記録・監査レポートがそろった変更で行います。
 
 `manifests/`と`reports/`に準備中の候補があっても、`registry/datasets.json`に登録されていないものは公開済みではありません。Release assetの作成とartifact URL・SHA-256の登録が完了するまで、ライブラリから利用可能とは案内しません。
+
+## 準備中の候補
+
+`recyclable_waste` v0.1.0は、Mendeley Data v1の989画像を全件SHA-256照合・デコードし、完全一致重複を除いた977画像で共通形式artifactを準備しました。元画像にGPS情報が含まれていたため、派生画像はEXIF等を除去しています。全画像の人手によるプライバシー・権利確認が残っているため、`registry/datasets.json`とReleaseには登録していません。詳細は監査reportとライセンス記録を参照してください。
