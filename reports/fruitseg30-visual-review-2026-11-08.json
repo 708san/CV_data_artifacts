@@ -1,0 +1,25 @@
+{
+  "dataset_id": "fruitseg30",
+  "review_date": "2026-11-08",
+  "artifact_version": "0.1.0",
+  "artifact_zip_sha256": "129384a6e9599b0b9eb756ec93abda25a90bdd70a514fd04f905a2ff2e8c5ba5",
+  "artifact_zip_size": 68242354,
+  "review_method": "Rendered every prepared image beside its paired mask in contact sheets and visually reviewed all sheets.",
+  "reviewed_image_mask_pairs": 1914,
+  "reviewed_classes": 29,
+  "contact_sheets": 20,
+  "pair_inventory_check": "passed; 1914 images and 1914 masks paired by split, class, and sample ID",
+  "findings": {
+    "class_content_match": "No obvious class-level content mismatch or unrelated image was observed in the visual review.",
+    "mask_correspondence": "Masks generally follow the visible fruit foreground and are suitable for introductory foreground-segmentation exercises.",
+    "mask_scope_variation": "Small stems, calyxes, and leafy crowns are included inconsistently across examples; pineapple crown inclusion varies. Some fruit touch or extend to image edges, and masks follow the visible crop.",
+    "boundary_precision": "Contact-sheet inspection supports broad alignment only; it is not a pixel-level boundary accuracy assessment. The source audit records antialiased grayscale boundary values."
+  },
+  "rights_review": {
+    "visual_review_is_rights_clearance": false,
+    "third_party_provenance_review": "not performed",
+    "status": "CC BY 4.0 source claim remains verified as recorded in the full audit; final redistribution record remains pending"
+  },
+  "release_decision": "Hold public artifact release and library API pending final rights record and segmentation adapter. This visual review does not change that hold.",
+  "source_report": "fruitseg30-v3-full-audit.json"
+}
