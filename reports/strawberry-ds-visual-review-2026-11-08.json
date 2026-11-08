@@ -1,0 +1,25 @@
+{
+  "dataset_id": "strawberry_ds",
+  "review_date": "2026-11-08",
+  "source_version": "Mendeley Data v1 / DOI 10.17632/z6dtfdpzz8.1",
+  "source_archive_sha256": "861c50605b3e479398a7b3522c8fd4bd2705cb6562f73b2f210088a739c0da49",
+  "review_method": "Rendered all source images with their YOLO bounding boxes overlaid in contact sheets and visually reviewed all sheets.",
+  "reviewed_images": 247,
+  "reviewed_annotation_files": 247,
+  "contact_sheets": 3,
+  "content_findings": {
+    "image_subject": "All reviewed images show strawberry plants in growing settings; no unrelated image was apparent.",
+    "boxes": "Bounding boxes generally correspond to visible strawberry fruit. No conspicuous class or image-label mismatch was observed at contact-sheet scale. Some small, partly obscured targets are difficult to judge at this scale; this was not a pixel-level annotation adjudication.",
+    "people": "No clearly identifiable people or faces were apparent in the full contact-sheet review.",
+    "backgrounds": "Images show cultivated beds, ground, and crop covering. No location was inferred."
+  },
+  "technical_findings": "The existing archive audit reports 247 decoded images with matching annotation files and two boxes extending about 0.005 pixel beyond the image edge due to tiny normalized-coordinate overflow. This visual review does not change the strict converter result for those rows.",
+  "rights_review": {
+    "mendeley_license_claim": "CC BY 4.0",
+    "embedded_roboflow_license": "Private",
+    "rights_conflict_resolved": false,
+    "status": "redistribution and artifact preparation remain on hold pending rights clarification"
+  },
+  "release_decision": "Do not create a mirrored artifact or enable the library API while the upstream rights conflict remains unresolved. Visual inspection does not establish redistribution permission.",
+  "source_report": "strawberry_ds-v1-audit.json"
+}
