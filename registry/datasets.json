@@ -22,6 +22,27 @@
       "transform_version": "classification_v1.0.0",
       "manifest_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/manifests/pistachio_image_dataset-v0.1.0.json",
       "audit_report_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/reports/pistachio_image_dataset-v1-full-audit.json"
+    },
+    {
+      "dataset_id": "smallfishbd",
+      "artifact_version": "0.1.1",
+      "artifact_url": "https://github.com/708san/CV_data_artifacts/releases/download/smallfishbd-v0.1.1/smallfishbd-v0.1.1.zip",
+      "artifact_sha256": "367b332bc0da479e9a708449f45cf7aa10eb190267a6bc1f1a87e5a38ce8f547",
+      "source_url": "https://data.mendeley.com/datasets/8jvxtvz52x/2",
+      "source_version": "2",
+      "source_sha256": "2d97368d351f4c5940b7b54f19eec2b771a7d76421dbe5ad66977cf3003eafbb",
+      "license": "CC BY 4.0",
+      "rights_status": "approved_for_redistribution_with_attribution",
+      "attribution": "Md Hasanul Ferdaus; Rizvee Hassan Prito; Masud Ahmed; Syeda Raisha Abedin Ohona; Khandaker Golam Morshed; Israt Jahan Jarin; Sawkat Ali; Mohammad Rifat Ahmmad Rashid; Nishat Tasnim Niloy; Mohammad Manzurul Islam; Maheen Islam (2024), SmallFishBD, Mendeley Data v2, DOI 10.17632/8jvxtvz52x.2, CC BY 4.0.",
+      "modifications": [
+        "Excluded three exact duplicate images.",
+        "Created deterministic class-stratified train/validation/test splits using seed 42 (1188/254/255).",
+        "Did not change image pixels.",
+        "Included attribution, license, and dataset-use limitations in LICENSE.md."
+      ],
+      "transform_version": "classification_v1.0.0",
+      "manifest_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/manifests/smallfishbd-v0.1.1.json",
+      "audit_report_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/reports/smallfishbd-v0.1.1-full-audit.json"
     }
   ]
 }
