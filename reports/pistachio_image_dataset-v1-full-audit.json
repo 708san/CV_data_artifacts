@@ -47,9 +47,19 @@
     "zip_sha256": "32bc15c4788052207e3dd52d4450cc15fec9efade3df169d59bb94556d715f24",
     "excluded_source_files": 10,
     "image_pixels_changed": false,
-    "release_created": false
+    "release_created": true,
+    "release_asset": {
+      "tag": "pistachio_image_dataset-v0.1.0",
+      "release_url": "https://github.com/708san/CV_data_artifacts/releases/tag/pistachio_image_dataset-v0.1.0",
+      "asset_name": "pistachio_image_dataset-v0.1.0.zip",
+      "download_url": "https://github.com/708san/CV_data_artifacts/releases/download/pistachio_image_dataset-v0.1.0/pistachio_image_dataset-v0.1.0.zip",
+      "size": 25875554,
+      "sha256": "32bc15c4788052207e3dd52d4450cc15fec9efade3df169d59bb94556d715f24",
+      "github_asset_state": "uploaded",
+      "published_at": "2026-11-09T11:45:28Z"
+    }
   },
-  "publication_status": "approved_for_redistribution",
+  "publication_status": "published",
   "rights_review": {
     "date": "2026-11-09",
     "status": "approved_for_redistribution_with_CC_BY_attribution_and_two_requested_citations",
