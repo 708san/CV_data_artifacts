@@ -49,7 +49,17 @@
         "Four-image sample review is not a full manual visual review.",
         "Related paper's separate license applies to the paper, which is not included."
       ],
-      "release_asset": "pending_release_creation"
+      "release_asset": {
+        "status": "published",
+        "tag": "pistachio_image_dataset-v0.1.0",
+        "release_url": "https://github.com/708san/CV_data_artifacts/releases/tag/pistachio_image_dataset-v0.1.0",
+        "asset_name": "pistachio_image_dataset-v0.1.0.zip",
+        "download_url": "https://github.com/708san/CV_data_artifacts/releases/download/pistachio_image_dataset-v0.1.0/pistachio_image_dataset-v0.1.0.zip",
+        "size": 25875554,
+        "sha256": "32bc15c4788052207e3dd52d4450cc15fec9efade3df169d59bb94556d715f24",
+        "published_at": "2026-11-09T11:45:28Z",
+        "github_asset_state": "uploaded"
+      }
     },
     {
       "dataset_id": "recyclable_waste",
