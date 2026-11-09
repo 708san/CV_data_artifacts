@@ -178,7 +178,16 @@
     "manifest_validation": "passed",
     "artifact_validation": "passed",
     "file_count": 638,
-    "image_count": 633
+    "image_count": 633,
+    "release": {
+      "tag": "food-waste-bangladesh-v0.1.1",
+      "status": "published",
+      "url": "https://github.com/708san/CV_data_artifacts/releases/tag/food-waste-bangladesh-v0.1.1",
+      "download_url": "https://github.com/708san/CV_data_artifacts/releases/download/food-waste-bangladesh-v0.1.1/food_waste_bangladesh-v0.1.1.zip",
+      "published_at": "2026-11-09T21:50:26Z",
+      "size": 30760217,
+      "sha256": "bcbd7fe1f2b8d37a1b86952d59987b1067cdc55c0099199eee0217a4f805c57d"
+    }
   },
   "rights": {
     "license": "CC BY 4.0",
@@ -186,6 +195,6 @@
     "modification_notice_required": true,
     "attribution": "Mohammad Manzurul Islam; Saifur Rahman; Fatema Tahsin; Zarif Syndeed Sikder (2025), “An image dataset for food waste in Bangladesh,” Mendeley Data v1, DOI: 10.17632/w68f9w6jmm.1, CC BY 4.0.",
     "third_party_rights_note": "The fixed Mendeley v1 page displays CC BY 4.0. The dataset description says contributors captured photos at food venues; incidental product and venue marks remain on some packaging/tableware, with no endorsement implied. Eleven images showing partial people and one QR-like image were removed.",
-    "publication_status": "release_pending_publication"
+    "publication_status": "published"
   }
 }
