@@ -1,0 +1,268 @@
+{
+  "candidate_id": "DS-028",
+  "dataset_id": "smallfishbd",
+  "audit_date": "2026-11-09",
+  "source": {
+    "landing_page": "https://data.mendeley.com/datasets/8jvxtvz52x/2",
+    "version": "2",
+    "doi": "10.17632/8jvxtvz52x.2",
+    "authors": [
+      "Md Hasanul Ferdaus",
+      "Rizvee Hassan Prito",
+      "Masud Ahmed",
+      "Syeda Raisha Abedin Ohona",
+      "Khandaker Golam Morshed",
+      "Israt Jahan Jarin",
+      "Sawkat Ali",
+      "Mohammad Rifat Ahmmad Rashid",
+      "Nishat Tasnim Niloy",
+      "Mohammad Manzurul Islam",
+      "Maheen Islam"
+    ],
+    "license_claim": "CC BY 4.0",
+    "used_file": {
+      "file_id": "7dbfdaef-21e6-4a1f-aae5-3c65079e5bfb",
+      "filename": "SmallFishBD.zip",
+      "size": 29802305,
+      "sha256": "2d97368d351f4c5940b7b54f19eec2b771a7d76421dbe5ad66977cf3003eafbb"
+    },
+    "excluded_file": {
+      "file_id": "7bb83046-49a9-4506-9e58-947a37d919c0",
+      "filename": "Augmented SmallFishBD.zip",
+      "size": 553413830,
+      "sha256": "971cd3d2c6cec652c5aca5ee15571ef9ad2ded6a6f80c30a38f5e32abcdac14d",
+      "publisher_described_images": 20400
+    }
+  },
+  "archive": {
+    "sha256_verified_before_extraction": true,
+    "zip_entries": 1710,
+    "regular_files": 1700,
+    "uncompressed_bytes": 34507341,
+    "crc_test": "passed",
+    "unsafe_paths": 0,
+    "symlinks": 0
+  },
+  "content": {
+    "source_images": 1700,
+    "decoded_images": 1700,
+    "decode_errors": 0,
+    "format_counts": {
+      "JPEG": 1700
+    },
+    "dimensions": {
+      "320x320": 1700
+    },
+    "publisher_class_counts": {
+      "Bele": 205,
+      "Nama Chanda": 110,
+      "Chela": 190,
+      "Guchi": 164,
+      "Kachki": 247,
+      "Mola": 179,
+      "Kata Phasa": 129,
+      "Pabda": 125,
+      "Puti": 218,
+      "Tengra": 133
+    },
+    "exact_duplicate_groups": [
+      {
+        "class": "Pabda",
+        "kept": "Pabda_29.jpg",
+        "excluded": "Pabda_72.jpg",
+        "sha256": "fb95647b68df32afb0e7078b4b76cb0e63eabfe71fd566bda54bc4c35e930f9d"
+      },
+      {
+        "class": "Pabda",
+        "kept": "Pabda_23.jpg",
+        "excluded": "Pabda_75.jpg",
+        "sha256": "de64bd872a364b7db643a43e92a6e9b6a0ddde802c31953cb7861822fcefdd89"
+      },
+      {
+        "class": "Pabda",
+        "kept": "Pabda_22.jpg",
+        "excluded": "Pabda_98.jpg",
+        "sha256": "5349cc63f286fe2612f1b8f1bbbedaebb70a66549915e3b16b0ff049bceaee18"
+      }
+    ],
+    "visual_sample_review": {
+      "images_reviewed": 1700,
+      "method": "all source images appeared in human-reviewed contact sheets, thumbnails approximately 112x112 pixels",
+      "people_or_visible_faces_observed": false,
+      "readable_text_or_logos_observed": false,
+      "visible_watermarks_observed": false,
+      "metadata_segments": {
+        "exif": 0,
+        "xmp": 0,
+        "iptc": 0,
+        "comments": 0
+      }
+    },
+    "usable_images_after_exact_deduplication": 1697,
+    "class_counts_after_deduplication": {
+      "Bele": {
+        "source_images": 205,
+        "unique_images": 205,
+        "excluded_exact_duplicates": 0,
+        "splits": {
+          "train": 144,
+          "val": 31,
+          "test": 30
+        }
+      },
+      "Chela": {
+        "source_images": 190,
+        "unique_images": 190,
+        "excluded_exact_duplicates": 0,
+        "splits": {
+          "train": 133,
+          "val": 28,
+          "test": 29
+        }
+      },
+      "Guchi": {
+        "source_images": 164,
+        "unique_images": 164,
+        "excluded_exact_duplicates": 0,
+        "splits": {
+          "train": 115,
+          "val": 25,
+          "test": 24
+        }
+      },
+      "Kachki": {
+        "source_images": 247,
+        "unique_images": 247,
+        "excluded_exact_duplicates": 0,
+        "splits": {
+          "train": 173,
+          "val": 37,
+          "test": 37
+        }
+      },
+      "Kata Phasa": {
+        "source_images": 129,
+        "unique_images": 129,
+        "excluded_exact_duplicates": 0,
+        "splits": {
+          "train": 90,
+          "val": 19,
+          "test": 20
+        }
+      },
+      "Mola": {
+        "source_images": 179,
+        "unique_images": 179,
+        "excluded_exact_duplicates": 0,
+        "splits": {
+          "train": 125,
+          "val": 27,
+          "test": 27
+        }
+      },
+      "Nama Chanda": {
+        "source_images": 110,
+        "unique_images": 110,
+        "excluded_exact_duplicates": 0,
+        "splits": {
+          "train": 77,
+          "val": 16,
+          "test": 17
+        }
+      },
+      "Pabda": {
+        "source_images": 125,
+        "unique_images": 122,
+        "excluded_exact_duplicates": 3,
+        "splits": {
+          "train": 85,
+          "val": 18,
+          "test": 19
+        }
+      },
+      "Puti": {
+        "source_images": 218,
+        "unique_images": 218,
+        "excluded_exact_duplicates": 0,
+        "splits": {
+          "train": 153,
+          "val": 33,
+          "test": 32
+        }
+      },
+      "Tengra": {
+        "source_images": 133,
+        "unique_images": 133,
+        "excluded_exact_duplicates": 0,
+        "splits": {
+          "train": 93,
+          "val": 20,
+          "test": 20
+        }
+      }
+    }
+  },
+  "pedagogy": {
+    "status": "suitable_for_limited_classification_exercise",
+    "task": "classify ten fish-name categories and inspect confusion between visually similar classes",
+    "limitations": [
+      "one market/country context",
+      "uniform blue/cyan background",
+      "labels use local fish names",
+      "not suitable for food safety, pricing, or conservation abundance claims"
+    ],
+    "split_leakage_risk": "The separate augmented archive is excluded. Exact duplicate source images were removed before splitting; other near-duplicate or same-capture relationships were not exhaustively assessed."
+  },
+  "transform": {
+    "source_transform": "classification_source_v1.0.0",
+    "common_transform": "classification_v1.0.0",
+    "seed": 42,
+    "ratios": {
+      "train": 0.7,
+      "val": 0.15,
+      "test": 0.15
+    },
+    "output_image_count": 1697,
+    "pixel_changes": false,
+    "changes": [
+      "excluded three exact duplicate images within Pabda",
+      "created deterministic stratified train/val/test split"
+    ]
+  },
+  "artifact": {
+    "version": "0.1.1",
+    "filename": "smallfishbd-v0.1.1.zip",
+    "size": 29799609,
+    "sha256": "367b332bc0da479e9a708449f45cf7aa10eb190267a6bc1f1a87e5a38ce8f547",
+    "manifest": "manifests/smallfishbd-v0.1.1.json",
+    "manifest_validation": "passed",
+    "artifact_validation": "passed",
+    "file_count": 1702,
+    "image_count": 1697,
+    "release_url": "https://github.com/708san/CV_data_artifacts/releases/tag/smallfishbd-v0.1.1",
+    "download_url": "https://github.com/708san/CV_data_artifacts/releases/download/smallfishbd-v0.1.1/smallfishbd-v0.1.1.zip",
+    "published_at": "2026-11-09T08:21:11Z"
+  },
+  "rights": {
+    "license": "CC BY 4.0",
+    "attribution_required": true,
+    "modification_notice_required": true,
+    "attribution": "Md Hasanul Ferdaus; Rizvee Hassan Prito; Masud Ahmed; Syeda Raisha Abedin Ohona; Khandaker Golam Morshed; Israt Jahan Jarin; Sawkat Ali; Mohammad Rifat Ahmmad Rashid; Nishat Tasnim Niloy; Mohammad Manzurul Islam; Maheen Islam (2024), “SmallFishBD,” Mendeley Data v2, DOI: 10.17632/8jvxtvz52x.2, CC BY 4.0.",
+    "third_party_rights_note": "The inspected images show fish on plain backgrounds and no people. Dataset-level license does not automatically cover unrelated third-party rights in other content.",
+    "publication_status": "published",
+    "release_asset": {
+      "tag": "smallfishbd-v0.1.1",
+      "status": "published",
+      "url": "https://github.com/708san/CV_data_artifacts/releases/tag/smallfishbd-v0.1.1",
+      "download_url": "https://github.com/708san/CV_data_artifacts/releases/download/smallfishbd-v0.1.1/smallfishbd-v0.1.1.zip",
+      "size_bytes": 29799609,
+      "sha256": "367b332bc0da479e9a708449f45cf7aa10eb190267a6bc1f1a87e5a38ce8f547",
+      "published_at": "2026-11-09T08:21:11Z"
+    },
+    "review_limitations": [
+      "Contact-sheet thumbnails do not replace full-resolution, image-by-image review or individual rights assignments.",
+      "Public Mendeley CC BY 4.0 and contributor/photo acquisition description support redistribution with attribution; no separate signed rights-transfer documents were reviewed.",
+      "Dataset has capture-background/class bias; not suitable for food safety, pricing, abundance, or ecological status claims."
+    ]
+  }
+}

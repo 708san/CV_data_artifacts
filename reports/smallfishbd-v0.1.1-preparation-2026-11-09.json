@@ -46,7 +46,15 @@
       "zip_crc_test": "passed"
     },
     "temporary_path": "/private/tmp/smallfishbd-prep-run-20261109/smallfishbd-v0.1.1.zip",
-    "release_asset_created": false
+    "release_asset_created": true,
+    "release_asset": {
+      "tag": "smallfishbd-v0.1.1",
+      "url": "https://github.com/708san/CV_data_artifacts/releases/tag/smallfishbd-v0.1.1",
+      "download_url": "https://github.com/708san/CV_data_artifacts/releases/download/smallfishbd-v0.1.1/smallfishbd-v0.1.1.zip",
+      "published_at": "2026-11-09T08:21:11Z",
+      "size_bytes": 29799609,
+      "sha256": "367b332bc0da479e9a708449f45cf7aa10eb190267a6bc1f1a87e5a38ce8f547"
+    }
   },
   "rights_review": {
     "license": "CC BY 4.0",
