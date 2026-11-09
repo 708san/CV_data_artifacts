@@ -1,5 +1,27 @@
 {
   "schema_version": "1.0.0",
   "repository": "708san/CV_data_artifacts",
-  "datasets": []
+  "datasets": [
+    {
+      "dataset_id": "pistachio_image_dataset",
+      "artifact_version": "0.1.0",
+      "artifact_url": "https://github.com/708san/CV_data_artifacts/releases/download/pistachio_image_dataset-v0.1.0/pistachio_image_dataset-v0.1.0.zip",
+      "artifact_sha256": "32bc15c4788052207e3dd52d4450cc15fec9efade3df169d59bb94556d715f24",
+      "source_url": "https://data.mendeley.com/datasets/h7pf57cgg9/1",
+      "source_version": "1",
+      "source_sha256": "140760707018b7f53d91a86a1d7be96d92b1a0d26a75690ab9280ed1170df895",
+      "license": "CC BY 4.0",
+      "rights_status": "approved_for_redistribution",
+      "attribution": "Murat Koklu, Pistachio Image Dataset, Mendeley Data v1, DOI: 10.17632/h7pf57cgg9.1, CC BY 4.0. Also cite Ozkan, Koklu & Saracoglu (2021), DOI: 10.23751/pn.v23i2.9686, and Singh et al. (2022), DOI: 10.3390/electronics11070981, as requested by the source.",
+      "modifications": [
+        "Placed images in images/<split>/<class>/ and added labels.csv, metadata.jsonl, and manifest.json.",
+        "Created deterministic class-stratified train/validation/test splits with seed 42 (1503/322/323).",
+        "Did not change image pixels.",
+        "Excluded 10 non-image source files, including feature tables and citation documents."
+      ],
+      "transform_version": "classification_v1.0.0",
+      "manifest_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/manifests/pistachio_image_dataset-v0.1.0.json",
+      "audit_report_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/reports/pistachio_image_dataset-v1-full-audit.json"
+    }
+  ]
 }

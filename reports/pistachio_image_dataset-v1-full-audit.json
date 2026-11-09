@@ -28,7 +28,7 @@
   "manual_sample_count": 4,
   "manual_sample_findings": "Four representative images show isolated pistachio samples on a black background; no people or brand marks were visible in the reviewed samples. This is not a full manual review.",
   "license_claim": "Mendeley Data v1 displays CC BY 4.0. The 2021 related research article has a separate CC BY-NC 4.0 statement; the article and dataset licenses are recorded separately.",
-  "dataset_creation_claim": "Related research article describes pistachio samples collected for the study and images acquired through the authors’ computer vision system. Independent rights-holder confirmation is pending.",
+  "dataset_creation_claim": "The related 2022 research article states that the authors collected the pistachio samples for the study and created the images using their specially designed computer-vision system in a fixed lighting setup. Dataset contributor Murat Koklu is among the article authors/data curators.",
   "requested_citations": [
     "Ozkan, Koklu & Saracoglu (2021), DOI 10.23751/pn.v23i2.9686",
     "Singh et al. (2022), DOI 10.3390/electronics11070981"
@@ -49,5 +49,20 @@
     "image_pixels_changed": false,
     "release_created": false
   },
-  "publication_status": "hold_pending_image_rights_confirmation"
+  "publication_status": "approved_for_redistribution",
+  "rights_review": {
+    "date": "2026-11-09",
+    "status": "approved_for_redistribution_with_CC_BY_attribution_and_two_requested_citations",
+    "basis": [
+      "Mendeley Data v1 explicitly displays CC BY 4.0 for the fixed dataset version.",
+      "The 2022 paper states that its authors collected the samples and created the images with their own computer-vision system.",
+      "Murat Koklu is the Mendeley contributor and is listed among the study authors/data curators.",
+      "The related article's license is recorded separately; article PDFs and figures are not distributed."
+    ],
+    "attribution": "Murat Koklu, Pistachio Image Dataset, Mendeley Data v1, DOI 10.17632/h7pf57cgg9.1, CC BY 4.0; cite the two requested papers.",
+    "limitations": [
+      "No independent rights-transfer document was reviewed; this decision relies on the contributor's explicit dataset license and authors' image-creation statement.",
+      "Only four representative images received manual visual review; this is not a full manual image review."
+    ]
+  }
 }
