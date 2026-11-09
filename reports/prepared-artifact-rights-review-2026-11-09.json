@@ -44,10 +44,12 @@
         "zip_crc": "passed"
       },
       "limitations": [
-        "source grant is the basis; visual sample is not an independent legal audit",
-        "related paper has separate CC BY-NC 4.0 terms and is not bundled"
+        "Related 2022 article states study authors collected samples and created the images using their computer-vision system; Mendeley contributor Murat Koklu is among the authors/data curators.",
+        "No independent rights-transfer document was reviewed; decision relies on explicit CC BY 4.0 dataset license and author image-creation statement.",
+        "Four-image sample review is not a full manual visual review.",
+        "Related paper's separate license applies to the paper, which is not included."
       ],
-      "release_asset": "not_created"
+      "release_asset": "pending_release_creation"
     },
     {
       "dataset_id": "recyclable_waste",
