@@ -19,7 +19,17 @@
         "contact-sheet review assessed content/pairing, not individual rights",
         "Guava dimension-inconsistent 55 pairs excluded"
       ],
-      "release_asset": "not_created"
+      "release_asset": {
+        "status": "published",
+        "tag": "fruitseg30-v0.1.0",
+        "release_url": "https://github.com/708san/CV_data_artifacts/releases/tag/fruitseg30-v0.1.0",
+        "asset_name": "fruitseg30-v0.1.0.zip",
+        "download_url": "https://github.com/708san/CV_data_artifacts/releases/download/fruitseg30-v0.1.0/fruitseg30-v0.1.0.zip",
+        "size": 68242354,
+        "sha256": "129384a6e9599b0b9eb756ec93abda25a90bdd70a514fd04f905a2ff2e8c5ba5",
+        "published_at": "2026-11-09T06:31:22Z",
+        "github_asset_state": "uploaded"
+      }
     },
     {
       "dataset_id": "pistachio_image_dataset",
@@ -58,5 +68,5 @@
       "release_asset": "not_created"
     }
   ],
-  "status_note": "License review does not make these datasets available to the library. Each needs a fixed GitHub Release asset and corresponding API configuration."
+  "status_note": "FruitSeg30 is available through the fixed Release asset and the CV_data main API. Pistachio and Recyclable Waste still need Release assets and library entries."
 }
