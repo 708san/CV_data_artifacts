@@ -1,0 +1,62 @@
+{
+  "report_version": "1.0.0",
+  "date": "2026-11-09",
+  "purpose": "Rights and integrity reassessment for prepared artifacts; no binaries are stored in Git.",
+  "entries": [
+    {
+      "dataset_id": "fruitseg30",
+      "version": "0.1.0",
+      "source": "Mendeley Data v3; CC BY 4.0; contributor and paper descriptions reviewed",
+      "rights_decision": "approved_for_redistribution_with_CC_BY_attribution_and_change_notice",
+      "artifact": {
+        "size": 68242354,
+        "sha256": "129384a6e9599b0b9eb756ec93abda25a90bdd70a514fd04f905a2ff2e8c5ba5",
+        "file_count": 3833,
+        "all_manifest_entries_match": true,
+        "zip_crc": "passed"
+      },
+      "limitations": [
+        "contact-sheet review assessed content/pairing, not individual rights",
+        "Guava dimension-inconsistent 55 pairs excluded"
+      ],
+      "release_asset": "not_created"
+    },
+    {
+      "dataset_id": "pistachio_image_dataset",
+      "version": "0.1.0",
+      "source": "Mendeley Data v1; CC BY 4.0; contributor and camera-capture description reviewed",
+      "rights_decision": "approved_for_redistribution_with_CC_BY_attribution_and_two_requested_citations",
+      "artifact": {
+        "size": 25875554,
+        "sha256": "32bc15c4788052207e3dd52d4450cc15fec9efade3df169d59bb94556d715f24",
+        "file_count": 2153,
+        "all_manifest_entries_match": true,
+        "zip_crc": "passed"
+      },
+      "limitations": [
+        "source grant is the basis; visual sample is not an independent legal audit",
+        "related paper has separate CC BY-NC 4.0 terms and is not bundled"
+      ],
+      "release_asset": "not_created"
+    },
+    {
+      "dataset_id": "recyclable_waste",
+      "version": "0.1.0",
+      "source": "Mendeley Data v1; CC BY 4.0; author states public images were self-collected",
+      "rights_decision": "approved_for_redistribution_with_CC_BY_attribution_and_change_notice",
+      "artifact": {
+        "size": 93666718,
+        "sha256": "39c52710ddaeb4e662dbbf3ba7cd95725a8b11cf2b22434d04bc52626b721299",
+        "file_count": 982,
+        "all_manifest_entries_match": true,
+        "zip_crc": "passed"
+      },
+      "limitations": [
+        "branding/package text and one printed portrait on packaging observed",
+        "thumbnail review was not trademark clearance or forensic privacy review"
+      ],
+      "release_asset": "not_created"
+    }
+  ],
+  "status_note": "License review does not make these datasets available to the library. Each needs a fixed GitHub Release asset and corresponding API configuration."
+}

@@ -20,3 +20,9 @@
 公式ページのCC BY 4.0表示とデータ論文の撮影説明を確認した。公式記録内に別の競合ライセンス表示は見当たらなかった。全画像の第三者権利や撮影参加者の有無を独立に目視確認したわけではないため、これを権利の無制限な保証とは扱わない。
 
 このデータは果物領域の画像分割演習向けで、鮮度・品質・食品安全の判定には使わない。Mendeley v3とCC BY 4.0の帰属表示をartifactと教材に残す。
+
+## 2026-11-09 redistribution review
+
+The pinned Mendeley v3 record identifies the contributors, displays CC BY 4.0, and describes the images as a collection made across multiple locations. The associated paper also attributes collection to its authors. The license permits redistribution with attribution and notice of changes; this artifact is cleared for redistribution within that license scope. All 1,914 prepared image/mask pairs were previously reviewed in contact sheets for pair correspondence and class content. That visual review was not a legal rights audit or a pixel-boundary assessment, and this record does not claim rights beyond the contributors' CC BY grant. The artifact preserves the required attribution and records exclusion of all 55 dimension-inconsistent Guava pairs.
+
+The v0.1.0 ZIP was rechecked on 2026-11-09: 3,833 files, every manifest size and SHA-256 matched, and ZIP CRC passed. ZIP SHA-256: `129384a6e9599b0b9eb756ec93abda25a90bdd70a514fd04f905a2ff2e8c5ba5`. No Release asset has been created.
