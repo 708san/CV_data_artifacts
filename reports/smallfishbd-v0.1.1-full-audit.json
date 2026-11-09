@@ -86,14 +86,17 @@
       }
     ],
     "visual_sample_review": {
-      "samples": 10,
-      "one_per_class": true,
-      "people_visible": false,
-      "observations": [
-        "single fish specimen against a mostly solid blue/cyan background",
-        "camera angle and fish orientation vary",
-        "background consistency may become a shortcut feature"
-      ]
+      "images_reviewed": 1700,
+      "method": "all source images appeared in human-reviewed contact sheets, thumbnails approximately 112x112 pixels",
+      "people_or_visible_faces_observed": false,
+      "readable_text_or_logos_observed": false,
+      "visible_watermarks_observed": false,
+      "metadata_segments": {
+        "exif": 0,
+        "xmp": 0,
+        "iptc": 0,
+        "comments": 0
+      }
     },
     "usable_images_after_exact_deduplication": 1697,
     "class_counts_after_deduplication": {
@@ -250,12 +253,16 @@
     "release_asset": {
       "tag": "smallfishbd-v0.1.1",
       "status": "published",
-      "size": 29799609,
-      "sha256": "367b332bc0da479e9a708449f45cf7aa10eb190267a6bc1f1a87e5a38ce8f547"
+      "url": "https://github.com/708san/CV_data_artifacts/releases/tag/smallfishbd-v0.1.1",
+      "download_url": "https://github.com/708san/CV_data_artifacts/releases/download/smallfishbd-v0.1.1/smallfishbd-v0.1.1.zip",
+      "size_bytes": 29799609,
+      "sha256": "367b332bc0da479e9a708449f45cf7aa10eb190267a6bc1f1a87e5a38ce8f547",
+      "published_at": "2026-11-09T08:21:11Z"
     },
     "review_limitations": [
-      "Ten representative images (one per class) were manually reviewed; this is not a full image-by-image rights review.",
-      "Mendeley lists CC BY 4.0 and the data description says smartphone photographs were captured at wholesale fish markets in Dhaka. Dataset-level license does not clear unrelated third-party rights in all images."
+      "Contact-sheet thumbnails do not replace full-resolution, image-by-image review or individual rights assignments.",
+      "Public Mendeley CC BY 4.0 and contributor/photo acquisition description support redistribution with attribution; no separate signed rights-transfer documents were reviewed.",
+      "Dataset has capture-background/class bias; not suitable for food safety, pricing, abundance, or ecological status claims."
     ]
   }
 }
