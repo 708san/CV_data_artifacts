@@ -1,0 +1,3207 @@
+{
+  "manifest_version": "1.0.0",
+  "dataset_id": "food_waste_bangladesh",
+  "artifact_version": "0.1.1",
+  "files": [
+    {
+      "path": "food_waste_bangladesh/manifest.json",
+      "sha256": "fd541cc7ba324ba5c314fd66ddff20c94997f3a1ce05db17d3b06feea95d9a70",
+      "size": 1060
+    },
+    {
+      "path": "food_waste_bangladesh/labels.csv",
+      "sha256": "f86b03a076e99bd8bf45396f25d01603a62cea270165e1db9ba416c484846d52",
+      "size": 74203
+    },
+    {
+      "path": "food_waste_bangladesh/metadata.jsonl",
+      "sha256": "74a1acc82a766bccd94d05515e08047266d36b913b9df3d5955fc396b84fce45",
+      "size": 118476
+    },
+    {
+      "path": "food_waste_bangladesh/README.md",
+      "sha256": "daffd9bb27a2495aee576110287419e0decbcee2bb633934c9601629467af71f",
+      "size": 100
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5557.JPG",
+      "sha256": "29c668d68332338bc7cdad9b2086a4cc5299f420ef78639ddc1f92daaac9aab0",
+      "size": 44844
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5456.JPG",
+      "sha256": "bab92232a88fe460f9578546c492a57b9dc724913774339384f3331f82e82f22",
+      "size": 42424
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5520.JPG",
+      "sha256": "f55534d1d33d8e1ac511ee517788ea933128d78638fdbda8d51666301e71275d",
+      "size": 51759
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5446.JPG",
+      "sha256": "910eb724a35aca325f33ffc6e6882d86bac981ce70eb2c517a342371a1a73f9a",
+      "size": 35627
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5591.JPG",
+      "sha256": "1acab2cc825315e46e0a4051f5d07afdd0091a03b8e1fc6a4e942e6a6c69e1ca",
+      "size": 38903
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5584.JPG",
+      "sha256": "baca43c3566c22768b40ea3565fe6f0a2fff00536fa4c4e77c6c883c560492e9",
+      "size": 49898
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5461.JPG",
+      "sha256": "0e4bbf0996ac401893fb1a5f52231fff0edd5d20e5118a0baa0e397970860c13",
+      "size": 29667
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5477.JPG",
+      "sha256": "f7341206401c1d2168b64eeea5206ae3df55b5944490f56c41114d4362a6ebff",
+      "size": 45127
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5505.JPG",
+      "sha256": "b7e4b25304e4f7d96424be397806a719d1d79293d34f980360d4bd249ab8f71c",
+      "size": 37082
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5486.JPG",
+      "sha256": "48f146408c221fe99a00869cff8ab87ce569f7011f2dffc2864f6adf837f2577",
+      "size": 46321
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5543.JPG",
+      "sha256": "fb1c9cf5e199be182eb70fe56145ded0bfc6339623f0717fe4d2d4c16cbb1496",
+      "size": 38725
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5545.JPG",
+      "sha256": "e710b93c345e443e9048f7320b526e995fe5b9510690a92f8f1ca12fdd422ffc",
+      "size": 35011
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5585.JPG",
+      "sha256": "ac959e0d2d97be409d0e54d4f0c241fe0a25a755fc1a93bf821b79586985a246",
+      "size": 47117
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5469.JPG",
+      "sha256": "4a6b94140cc1b4e5a7079a1c1991fd42f453c47810eab3c78c4d31b178ac7a7d",
+      "size": 42355
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5572.JPG",
+      "sha256": "d7071d4580f088dea7692bea0361bfc22b0e60d9e2ef4d7d5d030e889f62aea4",
+      "size": 39092
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5554.JPG",
+      "sha256": "e75ea90eab2c83de33af433a7dc8d07f4423723cf15039ec31c80675f53ddbb1",
+      "size": 55496
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5580.JPG",
+      "sha256": "56eee6efa782b7cfbe60e0511b2a38ac48a4aa3852e1ef825eadc888639cdf25",
+      "size": 52787
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5588.JPG",
+      "sha256": "28aa3c7d88184f6978c4abfaffa11e4ef48db6fa0e98c44093f5977f7e8c99ee",
+      "size": 51851
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5550.JPG",
+      "sha256": "3167945687395905f2c7551ad81f043fa8a7236fafcfdd8fa161a7ed550344bd",
+      "size": 45522
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5555.JPG",
+      "sha256": "f299befbaa5deadd43ea5c77adc6fd4a17a97f9aebdc0393f2e016530bb15d67",
+      "size": 41779
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5548.JPG",
+      "sha256": "93882aaa19b5058256c1db87dd63fd7b6146e4dc82b144448ee5fbac841a8867",
+      "size": 46808
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5611.JPG",
+      "sha256": "1470792a7e09bd3a5cdefd1cc9fba07f445e97990aa96e79ee2ddf62d71fb910",
+      "size": 44151
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5603.JPG",
+      "sha256": "71eb25d238b7443b27bac6f10d1e0b61214387f578230c1debdc6bdc377419c3",
+      "size": 44479
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5581.JPG",
+      "sha256": "ba9f84dbf42f119535934aa2c8876e56d4e925cba8e523eb0dab4c46b0ff6410",
+      "size": 46001
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5487.JPG",
+      "sha256": "bfba2e1d1aad7c808acbbbc62f9fa1b6da3383386ac93c74e62a96f4652a023a",
+      "size": 45512
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5454.JPG",
+      "sha256": "59486220b175e0305a432f840c9640e5220ed4b650762650b9bd257716ea808b",
+      "size": 40521
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5502.JPG",
+      "sha256": "4d4920e2b7a374a1d020a767bc14b1b3b0d177f08bb280b770f9c2fd1cb53b1c",
+      "size": 28633
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5589.JPG",
+      "sha256": "9b186bbd13a5960586febe46bf048f2ae6e5e128848c29fa8d4d532dd302eb27",
+      "size": 47327
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5483.JPG",
+      "sha256": "00f80fef9d8782b6b93881de903b821f17d0b308ba5bfba56f886905585e06e2",
+      "size": 43700
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5541.JPG",
+      "sha256": "47e8d7c51759b7d6671526de2edabcd0a8170b8ccd0de35a176583d20abc33ee",
+      "size": 50119
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5575.JPG",
+      "sha256": "50bc6f4fe3009108753e02e349c733f4581204e8bfdb712aa0a2f3df9f4f9d51",
+      "size": 49274
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5519.JPG",
+      "sha256": "eb846d26c55112d4a59bf95668bf0145d0bcc8d912d0ba1cfed95936b5375149",
+      "size": 34436
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5504.JPG",
+      "sha256": "5d54b7803b87b45cf262a507c07f3ab473c00e378d564ddc807e43bddbbf724d",
+      "size": 31594
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5614.JPG",
+      "sha256": "cf1c7f27e5ec96a296cb81418f14fcaf07141d0944907e58860b0aa4b779a737",
+      "size": 49617
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5544.JPG",
+      "sha256": "ce189ff7e50a27381f6f6dff314073ffa81b1a3a5f7454f1b357f24d8b441506",
+      "size": 38537
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5596.JPG",
+      "sha256": "69bc1692368a33ecc17f8333658918eeb6da98e4be66564412291184472a518d",
+      "size": 47339
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5458.JPG",
+      "sha256": "0b8c3b4f1b40b6e3f9f078ad14dda54d6fcd9b50f01eff6f0431715f36eecfb0",
+      "size": 34536
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5501.JPG",
+      "sha256": "6beddae5096a740f4df19019dcc09fcdf54e27c6d9b40494031e663b3b7fe903",
+      "size": 36418
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5473.JPG",
+      "sha256": "5ba363020f03fd1c694444c106c3749b565bcd64d9176ceaf14175fa905227d0",
+      "size": 56601
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5468.JPG",
+      "sha256": "f7ce2ccfedbdd7643414d0cec7cda4a7766250d7ab744261dd90010c1dd02065",
+      "size": 40314
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5583.JPG",
+      "sha256": "a48dac8d9152f4af0dead2af217cf64d2df0a51b7e63653e95b0f40518b1eb84",
+      "size": 43453
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5586.JPG",
+      "sha256": "08b367cb6c3ef3b75b36732e9efd773ed7ca7dbf3c49b81e37f6384092424ec7",
+      "size": 49468
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5551.JPG",
+      "sha256": "abf7818d519de262abd75f83fba7674c294bb6bca49674ab472cb39804909ccc",
+      "size": 43343
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5453.JPG",
+      "sha256": "cb6547f9507513760e14d0cd13b5cee2379409ef4f202b6007d7ab2ab59a97cd",
+      "size": 28231
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5492.JPG",
+      "sha256": "6bbcb2f2d6b31ae96f11ad6a734e90b862c27586fdfec8c88b2c2f01c2e83a3d",
+      "size": 37632
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5592.JPG",
+      "sha256": "82272049ecc50fdf8be9c57ef5cd1199c7b1247a97d1edbbc36ba94cd0d5e49c",
+      "size": 42300
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5447.JPG",
+      "sha256": "5f9ea4bf72bec4d6b11640b8473b348c362fa78f01e023cc0071b61d819b8ae2",
+      "size": 42348
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5462.JPG",
+      "sha256": "ff5dc5ba44688ead570cec8a2e3d89b2008bc565bb746d5f41511f89e2a80a57",
+      "size": 28123
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5503.JPG",
+      "sha256": "90233aebb7de242610e7d23da9eba654d3fc6f76420505536feccc357d6a997c",
+      "size": 41549
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5549.JPG",
+      "sha256": "e6cb2e242943f0bf4dfc695b92870563423d2452fc35bc52870ccc5c71f650ab",
+      "size": 40544
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5472.JPG",
+      "sha256": "2a100176de0c21916e55103c42ca2ca414573d9f520c97f36195532460cd1503",
+      "size": 54958
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5597.JPG",
+      "sha256": "532844bcb47a25944668d4b6d0c84c53e918881e05f2f64b7bc324af09ab94a7",
+      "size": 41603
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5474.JPG",
+      "sha256": "3faf953e376b4c9f1f3f8327834e039a7e3005fc1540b14c580f489fb9de8a03",
+      "size": 51162
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5450.JPG",
+      "sha256": "2678ee76ffe90a8c27e179735d3b1fd7978a0bf1be2be26e11acf5af45f66c03",
+      "size": 41940
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5451.JPG",
+      "sha256": "a0ac0aaf14d3396761198fd3edbe520baa374e8a12f2aaed9f65cc99612f3600",
+      "size": 47056
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5573.JPG",
+      "sha256": "9958ae0225e833f36faadd3f08d0a4fcf1e6d3636d8802bf60d79649df6d90ad",
+      "size": 46995
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5546.JPG",
+      "sha256": "bcd2f57f9d821c8e7d89bf867962acb6eb528d67869dab47c7e7815f0ef70063",
+      "size": 41824
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5608.JPG",
+      "sha256": "a11a1cc74de06042174c7a056a1fb8bbe83678930aefb72fcdb6cab44c5258f4",
+      "size": 39788
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5455.JPG",
+      "sha256": "3023e995b1c594c2c19698f4aa38722a3cb1de9bef48d1b625fcfa220e01479a",
+      "size": 43470
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5609.JPG",
+      "sha256": "b44bcfb28e2a84341cae4113f1790bc8e152d0a4a590a6cf517718cbce34010c",
+      "size": 40878
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5471.JPG",
+      "sha256": "dca3da196dd07bd2ce6e9eb720e543fc06027f8d76c425be26f96fda67a3fdaa",
+      "size": 43834
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5593.JPG",
+      "sha256": "c4cd70e72a78272f5c1244fe3fe34fe9225dfcbfae3d7e9bc3224cefb49c6719",
+      "size": 39851
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Buffet Food waste/IMG_5542.JPG",
+      "sha256": "fe006f3653783d992ae934c6fcdd7993310806f0a2e8788ce0eba28d647d8ca8",
+      "size": 40619
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Buffet Food waste/IMG_5470.JPG",
+      "sha256": "4da0e92e82dd450fae697d01dc92064e495ed9d557d325e65c2b16cbd88e5754",
+      "size": 40454
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Buffet Food waste/IMG_5445.JPG",
+      "sha256": "0b2b6392f5d2b9c009221f578cbac56e0742e2185199a1be88e2d45dfb83ca49",
+      "size": 35982
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Buffet Food waste/IMG_5612.JPG",
+      "sha256": "dd1b710240e8e418dfec182216e2d38c745e8d66eff762b5862617109bc2c7a2",
+      "size": 38228
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Buffet Food waste/IMG_5556.JPG",
+      "sha256": "cc1e91422fc3639bd76f17d2c4ab0d2835d1512916da363a08d609ad976c663a",
+      "size": 39694
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Buffet Food waste/IMG_5610.JPG",
+      "sha256": "3d500fbf1213d503be3d08d1ae810c8c18271bbb86cb651c5bb564113489eb5c",
+      "size": 42493
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Buffet Food waste/IMG_5552.JPG",
+      "sha256": "7768bad201b553c8493e0f28682ca498dce79e8e1de37322da49c4d4ac6dc5c3",
+      "size": 32858
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Buffet Food waste/IMG_5615.JPG",
+      "sha256": "fa327830f57740c1b2889c824a76fdd15d08b4530940e6d1b13afdaca1d196df",
+      "size": 45271
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Buffet Food waste/IMG_5476.JPG",
+      "sha256": "3efb1c49dc659a4ccb739b4e27f5debe04078d5f0121bef356b288b9a18ed7e1",
+      "size": 30275
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Buffet Food waste/IMG_5595.JPG",
+      "sha256": "85a6ceb5eb1ad21cea6c014728f9bc671029c6fa2460aa89f7bca8ab9351a1e8",
+      "size": 41817
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Buffet Food waste/IMG_5582.JPG",
+      "sha256": "33fbe0729445669ed977f237f81469317738bad823c2283ab2d68bc37bfc2852",
+      "size": 46072
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Buffet Food waste/IMG_5482.JPG",
+      "sha256": "422d9d61edf476825101c274c9c958f819f76e3aaef6c9ece1853d1a575967bc",
+      "size": 35747
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Buffet Food waste/IMG_5478.JPG",
+      "sha256": "60e198f1604493645d99bc753d77d2ca6f0ceab1736362023421761dc4bf35a5",
+      "size": 44569
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Buffet Food waste/IMG_5606.JPG",
+      "sha256": "705ac31a0fc7a64ae7fe2aa68ad5813fd106679410444287e2c3df16c8eef550",
+      "size": 42643
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Buffet Food waste/IMG_5613.JPG",
+      "sha256": "6fb45903326c4fb4d865bcc5ed3f3e335bfa98d39588c0076c796d25df8fd40b",
+      "size": 49156
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Buffet Food waste/IMG_5449.JPG",
+      "sha256": "ee2399d29ec75647214ae5d2f4ad277b53d2835575b9e8a26ff6bc52f753ef55",
+      "size": 43836
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Buffet Food waste/IMG_5553.JPG",
+      "sha256": "99281b272f190aa53a0d049127cd6052c491efdd050e5a849dbde891e65d6c08",
+      "size": 43117
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Buffet Food waste/IMG_5594.JPG",
+      "sha256": "5adfc68a56d86d66182dc3f476e0ef6358b9dd7ac6475e81f47e06ae1f037578",
+      "size": 53263
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Buffet Food waste/IMG_5457.JPG",
+      "sha256": "00bd5fde2a3fc6a28849bec6dd4c2ff84955b45bf294ace3cac313a0e24fd934",
+      "size": 42622
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Buffet Food waste/IMG_5587.JPG",
+      "sha256": "ba68916e8f9b9f5547f901f61bcb1649e677a14991fdfd19d2ba2c35a6014d21",
+      "size": 46490
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Buffet Food waste/IMG_5459.JPG",
+      "sha256": "626e4954df62e5b0e8f54b78f1d867df99d3679f8472c49ffb151e07a5c6f1d4",
+      "size": 29894
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Buffet Food waste/IMG_5467.JPG",
+      "sha256": "dffd7101f5c5051e954b0153505f5b65c617eb0e24cabfb2fc41f7aefdf8bba6",
+      "size": 41553
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Buffet Food waste/IMG_5481.JPG",
+      "sha256": "4c046e358d123ce52e3ca64d9fa1b1fbe94569ead299b9324c6af08b8106f0f5",
+      "size": 36013
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Buffet Food waste/IMG_5485.JPG",
+      "sha256": "bd0131d04500f4dfcb8b866ab68c2466a6927dcc72f5f2096369dc35e37e657d",
+      "size": 38384
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Buffet Food waste/IMG_5500.jpg",
+      "sha256": "925fda3a9d896e4507d3b0b24f7544a9966faf212cd7435e6bb51d0091b239d3",
+      "size": 49989
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Buffet Food waste/IMG_5448.JPG",
+      "sha256": "2937b1454bdabd3e5a8d8ad342cb0dd99126960edcd5110551c5e7af9ea2927c",
+      "size": 43836
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Buffet Food waste/IMG_5460.JPG",
+      "sha256": "7c5fa4c8ff306b64b5e117e00a8880d2ccc4201ec2d5678482e6943071db5a4b",
+      "size": 47991
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Buffet Food waste/IMG_5607.JPG",
+      "sha256": "08805204b7437dab52d079ead1a1dc5e0903e82efee7764ca46c224b0a92da9d",
+      "size": 52020
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/IMG_6167.JPG",
+      "sha256": "64243157e7896890d4b4a857d2608d9c6dee37eecf989d8340b8939edcfdb989",
+      "size": 59412
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241219_094625.jpg",
+      "sha256": "2dabce3f0590fc10fddd5aaacb18b483385b934c6e8cc1dd5924d9b60af38da8",
+      "size": 35328
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241206_190605.jpg",
+      "sha256": "633590806c23c3085ba01ad21c433a4bc182d36f122f92e8c14d6c3cf4625ad0",
+      "size": 48685
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/IMG_5918.JPG",
+      "sha256": "9cf5c7f9afeafad2e0bde25fcee266f5f6f218bbfc16ca3bb5c83d4d8c423ca3",
+      "size": 41265
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241219_092736.jpg",
+      "sha256": "8c94ead67ac734ba7075c0c74054d241671f09d7c59ee8ed64de1fbdb2ba257e",
+      "size": 26875
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241219_143120.jpg",
+      "sha256": "a2ce5f8d4ee94f40912937b3e2ce53832e1e9b290a74e0a478179f61953a2064",
+      "size": 53927
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/IMG_6141.JPG",
+      "sha256": "1b462b38408d5ccd30e1e5635e9034e3411cb1d0a595ec04c6c14580727b24b3",
+      "size": 39366
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/IMG_5119.JPG",
+      "sha256": "3085c31d3f4cb16fa2f72024602c8fb289faf9b8b16573baf851451cd3dc81c4",
+      "size": 87997
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241215_094509.jpg",
+      "sha256": "3c9be4f04904653949bab3c7943f18003841585bbbbb11d22ee58f0f6fde4f32",
+      "size": 65251
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241202_160747.jpg",
+      "sha256": "1b02f1b0569194e922c1e8e5bc6e4790760ca6b723d05d2fd0ccf41c760951bd",
+      "size": 42665
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241215_093907.jpg",
+      "sha256": "acf9d1177b4ddbfbd27f89e21af1651583f797824a56c18d14a4c81b51cb15fc",
+      "size": 57785
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/IMG_6097.JPG",
+      "sha256": "81580631faa3b26b93c51344ab1de495c76c31f2ff69e8b186a67e458bb1e217",
+      "size": 54509
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241219_092631.jpg",
+      "sha256": "9ce38c522993fdd72e6f1f2882c33e7a8ac6cc816a8baea01b4906cab678c3b0",
+      "size": 48709
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/IMG_6180.JPG",
+      "sha256": "5decf6cc1ab50f44e306ede830c95d7bd59b08fdede56b9ac7789f6adacc9dc9",
+      "size": 73665
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241219_092724.jpg",
+      "sha256": "755a18e136f85bb1df937a2a248b4f15cdddb72472925595727a292904dfd75f",
+      "size": 56326
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/IMG_5923.JPG",
+      "sha256": "ba813c35b2584bb2ced88edb788b97eb07a7ddedb74e6f9de29ca1013d48d61d",
+      "size": 54076
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/IMG_6096.JPG",
+      "sha256": "67fcf856751b8f291f76a829e929e9e6b57923b2d3a6c553ea51dec9371a7faf",
+      "size": 47937
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/IMG_5903.JPG",
+      "sha256": "15c55bd2029fec6e913ad133b448b7d11d8acfa823317f068f42b68473331cca",
+      "size": 71338
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/IMG_5907.JPG",
+      "sha256": "6b1b67d6523ba1f1c12e0bf92d8a41786dac2c20a3b832dbd3c10653a3eb9c45",
+      "size": 52561
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241219_120026.jpg",
+      "sha256": "a238caf2326b79b7f14e7f9068dd31497830b929dab513b3016fbfa4c2d54a65",
+      "size": 61905
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241219_134452.jpg",
+      "sha256": "ff3743fceced686bff8cdc85c897e6152b132ec38965362e4145a5c4e423ea45",
+      "size": 58553
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241219_092515.jpg",
+      "sha256": "1d6159caafe193cd2eac971b89b0d846fe2e52e57394dbb1b619a96538ad5d21",
+      "size": 66459
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241215_095012.jpg",
+      "sha256": "5697dfe053b26b54c6b9b7acd8b846499849e16c0e269fbf1ad483676c7d4941",
+      "size": 50351
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241219_092530.jpg",
+      "sha256": "49fbf27194ffd5db1aeeb8bde10b6dae90d8fa0765c51b2666816aaa1f99cddb",
+      "size": 48739
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/IMG_6192.JPG",
+      "sha256": "42440c4013a175e67f8f1231555744104553cfb3e470590878a1bfac682bbbdd",
+      "size": 55889
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/IMG_5895.JPG",
+      "sha256": "f1165ad9b7f46795b9ee0829908f7ddc8ad96c4293157a63e0b495b3caf7135e",
+      "size": 40580
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241224_094853.jpg",
+      "sha256": "7db85e4733ec239225338b35e2b7a10d543831e8a4534d1eda3e9cce8f374d78",
+      "size": 48851
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241219_110846.jpg",
+      "sha256": "c1b358e80b62dd9e1953e014f8ae50c5ca00646f3ddf2093b77aee9a080899a1",
+      "size": 50602
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241219_114555.jpg",
+      "sha256": "9c6c6132d37173fea1b0082ac86c4c274de49b789efa2f74e288609baf94c208",
+      "size": 59213
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241218_214907.jpg",
+      "sha256": "c59187047124d51559eca8caef2f561be959f2400ed1cd291df81ca739371243",
+      "size": 85316
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/IMG_5916.JPG",
+      "sha256": "58c4270bfa7bfab37f9ae2636907f880169029b0c0346d81d42bddb077b5a5d3",
+      "size": 39267
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241224_100158.jpg",
+      "sha256": "a0c174d29cee2f24380b412e0bb89e3dbf1f584d11b322c9b3d9c61db5a84537",
+      "size": 50797
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241219_134809.jpg",
+      "sha256": "b62c04c175b1fa644f2beec4b828e542b80dc2e64c087e64cbdcbfd72b498542",
+      "size": 66363
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/IMG_6190.JPG",
+      "sha256": "77798f9a86b182093a8909f37312f5c81fad533ea002f363ad1371d5574ec108",
+      "size": 60365
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241224_103226.jpg",
+      "sha256": "5f6f5613d246b5af374810f76fe31448836ec6013077616e7860ae16b2587eb1",
+      "size": 64786
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241219_092609.jpg",
+      "sha256": "e4c1ef7f5f0238c52d8750c3253306eb8636999b04971636b1e4cab776aed3c5",
+      "size": 47335
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241223_150811.jpg",
+      "sha256": "1b75bd068b65e94e05bf794dffe89f8807074acdc93114f535fb26c4e884273d",
+      "size": 64571
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/IMG_6102.JPG",
+      "sha256": "ebee72cb03ca7cce14934f993a3262ac5c4e6a4a5142757943093565e7b6af9c",
+      "size": 47631
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/IMG_4806.JPG",
+      "sha256": "e2da3b1749a9c90a71622747eaa2df06064710fd2dc055f0e870f62be5a8b0d1",
+      "size": 52843
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241219_095038.jpg",
+      "sha256": "3cba3451d800fbacb70f719379dcdafbc3ea57e60745678aeb8b7a17d13f13ed",
+      "size": 56060
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/IMG_20241229_111239.jpg",
+      "sha256": "249e0da4431ffdc5130ebf50136f8e77175d0a64cf61df584f9e5b412b8d356a",
+      "size": 42337
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241202_160724.jpg",
+      "sha256": "0e57cc14e5f1e0827b76ba31361769123997ab6737e1fad3bc979a52690540c3",
+      "size": 61651
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/IMG_6140.JPG",
+      "sha256": "bff20744a83fc0549255d4b6b9f154ce1ebaca5cf2c8509cf8e38ad0fa8681f2",
+      "size": 49205
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/IMG_6191.JPG",
+      "sha256": "341cd4d4c83e62ef58277a0352648bae1af429c776ec2fb999b1ec2efee5fe08",
+      "size": 60057
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/IMG_5905.JPG",
+      "sha256": "c29ff64831622fba64eaa8c3bccb82bed02cc8d5912c6b614cc9c26f71c21c71",
+      "size": 48602
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241202_160328.jpg",
+      "sha256": "8c9115e13ad7c8cc4028030e127ff3a87a9837520bf8d6244019c7cb098b59a4",
+      "size": 39596
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241219_120729.jpg",
+      "sha256": "f2276e5ba771561a8c1e97ba21d01048cc783f854bfb3690da385d2777914ed7",
+      "size": 62780
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241202_160732.jpg",
+      "sha256": "dfdb53de459cbbd1c768a213ba10b87b9c741422cc4ba12213aae93f182366d3",
+      "size": 45676
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/IMG_5908.JPG",
+      "sha256": "ab3248ae22d001b47aed3274cdfe7f782a49bd4af88a84fea6854c14e953a04d",
+      "size": 47023
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241219_092554.jpg",
+      "sha256": "440997055e11040049c1e20851e55c4bbb6463c153dd9e4c70b092f7ad4db215",
+      "size": 56016
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/IMG_6103.JPG",
+      "sha256": "aa821f7632ad5fa160ea3e02a9f4fb1f2176b9619c80b721a239d8ad7607e153",
+      "size": 57846
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241224_100627.jpg",
+      "sha256": "0a05b7f11ffdac4856ddf0d59832efd38a8eb0245872f0493ae42c54f14e95eb",
+      "size": 48870
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241219_095312.jpg",
+      "sha256": "cd1e2e455586dab4ccebf5f36cb27fc3dfc6db1a303330afda1ee3a6e3ade1c4",
+      "size": 57716
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241224_102902.jpg",
+      "sha256": "1448f700a91271d015646bb18b3b516ecaf7a8ccdff586482829aaaf040d42a2",
+      "size": 50878
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/IMG_6100.JPG",
+      "sha256": "2b513db949a5d820b7997f8197273eff3c6c9e59e879845ccd901c4c421b0fb5",
+      "size": 29955
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241219_111744.jpg",
+      "sha256": "5c51c3b57a9a5149522a228cbaa14c7bf04b27edeb369511286fd8fa6543eb2b",
+      "size": 67754
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/IMG_6193.JPG",
+      "sha256": "bf7963672544b2353eaad67592c1c5c22f157e4841ca1ee2b8465a3bb5b84b7e",
+      "size": 64864
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/IMG_5894.JPG",
+      "sha256": "1cd5ebf80db64f123c48b1224a0653c2e2521caae1ad7171d0619c460ae09f15",
+      "size": 37323
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/IMG_6064.JPG",
+      "sha256": "6178c342e693cf2527afb5b27a59cc2b182111bd514fbdc7a7d25a98d84d9423",
+      "size": 60943
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/IMG_5002.JPG",
+      "sha256": "1d8f0d2f1924bf34ee3e5ab40c2285d7467944af101d8f4535bdd6f48e4f49d9",
+      "size": 59827
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241223_150503.jpg",
+      "sha256": "e166d816312f2fa487554bd17c668a49dbf2751f15ba45542acc2bb481776985",
+      "size": 63958
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241223_150459.jpg",
+      "sha256": "64510f997bbc3643122ea91b5edcbd84cf67d0bc4d4fc2ac140a92cb7a189638",
+      "size": 68446
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241219_094930.jpg",
+      "sha256": "f9019590b16be2d42d64f6da121a8ffc90387c634674d2ff31e494fa0d3680b9",
+      "size": 60304
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/IMG_6172.JPG",
+      "sha256": "2ea91460f7df922f56e481609c07ddef65a286ae0a5343a5a4c5e7a531cd45fb",
+      "size": 52933
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/IMG_6143.JPG",
+      "sha256": "0300a83f49e4c0e9fddafc48ffbf4827b90e6365c3df0a169957f232425b722f",
+      "size": 56741
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/IMG_5010.JPG",
+      "sha256": "df1c8aef382f9e8ce52821fc865ecfd89606e27229370ec1e09f87652b0ae09c",
+      "size": 59351
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241219_114816.jpg",
+      "sha256": "a5da94665ea9a732df03ce308736c849a247ea18e1282cc206cba398ded8a336",
+      "size": 61868
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241219_134527.jpg",
+      "sha256": "19d87301f13bca40b935d437fc17fc879e969d3362ef25b63364b48b8ed7cdcc",
+      "size": 70233
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241202_161152.jpg",
+      "sha256": "98b4ebbfdfae6a231385efdaf3b2700ad259f90599b2f118dc7533b742fc9066",
+      "size": 47456
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241219_120618.jpg",
+      "sha256": "2e94a3c35c0a4104ba789fb0b3c13246690943d7c21ec11c7c1679221936e9e9",
+      "size": 64146
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241219_095658.jpg",
+      "sha256": "2d1a45183951661dcb344df820c6ef6d5c23f5b6000914cfb0aef830ddcc7168",
+      "size": 48006
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/IMG_6081.JPG",
+      "sha256": "06bf55ccaee1dc501c876efe953a1c09e502136ebcd15fa14e495682bb8a2820",
+      "size": 60451
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241219_094326.jpg",
+      "sha256": "281e1c6711370c5aff6a3a0618c3d9843c42c10366eae052401b3211395d5d1a",
+      "size": 61103
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/IMG_6109.JPG",
+      "sha256": "f17dbc64cf0ca571ea58ccffffc4d82a217ea54b5864b909159a6dd1c13a05a7",
+      "size": 55696
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241223_150808.jpg",
+      "sha256": "886541be37768a4ec62830a2955cea70a626e50512f0b0bee96b89233c240a96",
+      "size": 51476
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/IMG_5906.JPG",
+      "sha256": "7b0b20ce86e75463f6094a67b2d8254d6164e9c3180798f262aed711c698c668",
+      "size": 59182
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/IMG_5911.JPG",
+      "sha256": "e65f93e5051ed3fd6ae9b8194ba9d46b9ff197f8da34a9f32de6c4ee595c7060",
+      "size": 58704
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241219_095736.jpg",
+      "sha256": "e66d43931315108125b361dd59230d29992bad6bd5a2896676bb6e0970f78823",
+      "size": 56603
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/IMG_5920.JPG",
+      "sha256": "94ad76583a6b2ac1d4c70c371ec35b352c7d201b1c4224e4688c11e72f29eec3",
+      "size": 40481
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241224_095418.jpg",
+      "sha256": "a084a721fb38cb3f0b0ffe61f870a90432b2b7df5f5984a6efb06721bdbafb5d",
+      "size": 39506
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/IMG_6142.JPG",
+      "sha256": "c229a4460afe618f591b6c9df46552a32752d171a20d87ab5c6e357036fe78f3",
+      "size": 47283
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241219_094736.jpg",
+      "sha256": "246acbaf861f6e29fdb70f34aff21a8382c4cc708019e48714405b7ea13b6db2",
+      "size": 57562
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241205_094843.jpg",
+      "sha256": "ed37737752682a000cdf33ab5bef6576cb174f95a72c186262ab1533cddda519",
+      "size": 66604
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/IMG_6065.JPG",
+      "sha256": "767d51bb91d8e0723bc67c7e81adf0d4a81001bedfffa38811cf055b5d03325a",
+      "size": 61009
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/IMG_5909.JPG",
+      "sha256": "40d7d2dc8aaa1a7c886a5ca60389e9afeb33df60d1c8f3409735cfd14894d3a8",
+      "size": 64089
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241219_120705.jpg",
+      "sha256": "74514bf6c0a21aa59d163937fe8d9e0795338233e7545497bed026cbe366fd4c",
+      "size": 57148
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/IMG_4804.JPG",
+      "sha256": "b982b378bf933855a4843035ad298e398d947ea45a779d60318be0829bc6e9a8",
+      "size": 53967
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241223_150130.jpg",
+      "sha256": "db730c38f277b661ba9f8540e287bb2d6a7ed7bc3f9ff22a9848833039aaa081",
+      "size": 69787
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/IMG_5009.JPG",
+      "sha256": "03c024d8074cf712e7474f70ce17b2c696e4fdf9359ba682d807b9d4fc478f49",
+      "size": 66404
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241219_094954.jpg",
+      "sha256": "c1186a8141ca87db03d7bc96efa149c90b8e7e5b97ea8ce2b76ddcf84aacf120",
+      "size": 47790
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241224_103355.jpg",
+      "sha256": "ef49c71975b59aa2cb4694cf53e0cfba10b0bb59d1a28aed49ef8cad0c69e9f4",
+      "size": 52826
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241219_134127.jpg",
+      "sha256": "c81e0fe55f17b9146a3d162ba9b2e8bba82dc34c2e1786bc35ae87d953cbe4c3",
+      "size": 54603
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/IMG_6138.JPG",
+      "sha256": "6d72179064b29044e663ee98cfb8f36300553fac1dd10e727d8fb64673dc33a4",
+      "size": 62663
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/IMG_6099.JPG",
+      "sha256": "8af5e3b2f61f947b2ad0f901fa5a82bfd4a63e7f8f1075fb18ebc6cbf9ed345c",
+      "size": 32836
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/IMG_6095.JPG",
+      "sha256": "9f99917c0eaad5e3d742606476ba1efc3d2e081fc381bf134dae9c1f86975c13",
+      "size": 40849
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/IMG_4805.JPG",
+      "sha256": "b8edd4f8134ad412f9957e1846a4b773095268d97091ed29f01b8c394e65cb7d",
+      "size": 53617
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/IMG_5899.JPG",
+      "sha256": "cdeaad060c4da6419b3bbb07448f002aaa709766ecfc7f4451448252ea711fb4",
+      "size": 55270
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241224_103816.jpg",
+      "sha256": "15a57c3ab60f07babe1ae249631c06acda7aa942902c8ff9278867c7d8075af3",
+      "size": 41860
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/IMG_5913.JPG",
+      "sha256": "676f89421ae8d764836aaa5410c3cdb1424d83265f4cb70cdf26a35ae1b9cfa4",
+      "size": 60638
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241215_092952.jpg",
+      "sha256": "16fef87e977bcb219001e324d1bb01a62040618b316eeb332d7431a7acdc7ce6",
+      "size": 45430
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241224_102628.jpg",
+      "sha256": "f5cc973cc26baa3228a5345cc44ffac9da9b843b17019a320b4e8bff0c1939b2",
+      "size": 72906
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Food waste (General)/20241223_145755.jpg",
+      "sha256": "f34b72a3faf49f27fedb044b28ae8b7be9e6e90593ce48dc35f86e01ac587427",
+      "size": 54088
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Food waste (General)/IMG_6196.JPG",
+      "sha256": "3e22873e06f194f268e89c156151a4287afb1d089eb771f7902803d097f1c542",
+      "size": 57230
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Food waste (General)/20241219_093234.jpg",
+      "sha256": "bb5fe74f48ae5c6fb5277095875ad5d8070c056d0b9f10d5e592baab2f9f9dd8",
+      "size": 55966
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Food waste (General)/20241219_093922.jpg",
+      "sha256": "e22d2546811f1cf478b7af508e9283f01f81f3bbccefe09edca31f44452a73ff",
+      "size": 56958
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Food waste (General)/20241218_214819.jpg",
+      "sha256": "fcc303f6066b98c082b525a471237f6c62ed1111bf2529c7208222457dca6cb4",
+      "size": 74837
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Food waste (General)/IMG_5912.JPG",
+      "sha256": "9863758863722b13c74f26546c5c4b16a6ce9943de175528b4c16784008d0baf",
+      "size": 56259
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Food waste (General)/IMG_5917.JPG",
+      "sha256": "305420111b3095075d668a9ace584e450ba40a071f59cac6b3fdc335fef9ffc0",
+      "size": 50988
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Food waste (General)/20241203_133720.jpg",
+      "sha256": "b28e86eb733168e924f19ae10e5300cb257737ec6f7f49a59287131fbcf4043d",
+      "size": 55116
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Food waste (General)/20241224_095056.jpg",
+      "sha256": "08ff299fddd30359286519c7eb5de77fdd7969e53284c8ac32cb8a434ef0b675",
+      "size": 67430
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Food waste (General)/20241203_131159.jpg",
+      "sha256": "06466d15f85bad7dcbfeeb011cbbf13406a0a2739ff98750684ec37a4d287193",
+      "size": 53998
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Food waste (General)/20241205_094212.jpg",
+      "sha256": "3c54e2cb176f26b9dbdbd594bfb933fdb74abb975e08917d3acaadf8c3012d4d",
+      "size": 54194
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Food waste (General)/20241219_103228.jpg",
+      "sha256": "12cfee675f40a8ddaa74f7c1dd33aa27bed41cc6623290a118c9f904390ec016",
+      "size": 66278
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Food waste (General)/20241218_214949.jpg",
+      "sha256": "aacd3f85f0fd56f989aadfbfd58b08d02b88d8b9f35bd2aab5bdf35e4894be00",
+      "size": 78190
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Food waste (General)/IMG_6195.JPG",
+      "sha256": "3f3452b15bb50558ca952091298bc8d4a89cf4af390afd109168b2d327bcf1c8",
+      "size": 33790
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Food waste (General)/20241219_093000.jpg",
+      "sha256": "718501a68e2760357ce016b284eaf3cfdb05a77724ce59da2fe265db2b7db7dc",
+      "size": 54731
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Food waste (General)/20241219_145343.jpg",
+      "sha256": "1bb60c7db84204cfa66d99d609305be0e7d6f82a3cbb7e2b8fcd2d07817d37a6",
+      "size": 56013
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Food waste (General)/20241224_095437.jpg",
+      "sha256": "8c0eac1b95046e47f17620fed49096154aa7b968aeffee4c679c74f9f7f5356c",
+      "size": 62789
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Food waste (General)/20241219_103713.jpg",
+      "sha256": "90865fe9b1b370486d1a2412baf4629c5c9598df3ae2901f00cb14d41ca2479d",
+      "size": 55776
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Food waste (General)/IMG_5902.JPG",
+      "sha256": "f351859d8a3bb358af3a3c5587efd39d9c696293aba8aa1158093689a125483d",
+      "size": 55619
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Food waste (General)/20241215_094133.jpg",
+      "sha256": "3bf39096f17614fcc38c5eb643b8fb770b1a5a4d4e52f01211ff5491debcd649",
+      "size": 56422
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Food waste (General)/20241219_145323.jpg",
+      "sha256": "7d1666120a86e5c5e15ca6946f2aaf21da110379dd7550c3631b60b0536e4c96",
+      "size": 37126
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Food waste (General)/IMG_5910.JPG",
+      "sha256": "a64c758d83b549296a17a72dbf596997503f15bb3a9d3df2d500e40a621eee01",
+      "size": 44506
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Food waste (General)/20241219_145414.jpg",
+      "sha256": "d17a7695f73b483415f59529c93d95cded8c8c4afb6dd349fe97e74b2ef2b803",
+      "size": 58382
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Food waste (General)/20241215_095404.jpg",
+      "sha256": "8b2b70aafc6d5966da6e11fad0aeecbaed2d63f9c767cf4c707f035b07d89d90",
+      "size": 50429
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Food waste (General)/20241206_190615.jpg",
+      "sha256": "f7c27f189904458740c3a1037edbfa65a26e16a0217f7b2c2e75489dbaf7b359",
+      "size": 53828
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Food waste (General)/20241215_095119.jpg",
+      "sha256": "3e6c2e886068f19bfe39793392b582fb1e8caf940fe18f0d9470ca13521bfd40",
+      "size": 62500
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Food waste (General)/IMG_5898.JPG",
+      "sha256": "0d3285fbd3de9d42ecfcb0ce543520666fb1c1eeb94b73df72361ce4818da80a",
+      "size": 45833
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Food waste (General)/20241219_092718.jpg",
+      "sha256": "1286f5cdac899920f32d6aefd5452fc574907a8ff2366bc0cee4fd30441cee4c",
+      "size": 64637
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Food waste (General)/20241219_092539.jpg",
+      "sha256": "408aaa0314973afc8b8f27f46b74decc6f9a5a93c2ced5d029a1c069672c6e86",
+      "size": 26251
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Food waste (General)/20241215_093151.jpg",
+      "sha256": "d270430d98adeeddbbb57a2bff4294f24dec3158b36965cdb2095ac9b863f105",
+      "size": 61660
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Food waste (General)/20241219_095606.jpg",
+      "sha256": "8c8e1bd8d0bde46a09309b24aaa3c1104f6388ca47c4a789172fca5e3b70fb7a",
+      "size": 70147
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Food waste (General)/IMG_5904.JPG",
+      "sha256": "5b3f96b27a308113aca802b2877fcafd14d7005e21c8be11e284529095b1f4c5",
+      "size": 60880
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Food waste (General)/IMG_5915.JPG",
+      "sha256": "72d4f946eae6dcdd81097d708f3daeaf5f8b730c238e5a54e2ed9f7cd287e6ac",
+      "size": 37266
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Food waste (General)/IMG_5898(1).JPG",
+      "sha256": "a15c62df9bdc5d8945fd0a6414ae8173e22a2c98bfd5b3efe9b9ba013bdd111f",
+      "size": 40928
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Food waste (General)/IMG_5914.JPG",
+      "sha256": "d4fb5ba0480ccd594e89b78e57dc4a16d6e9362bb43ada8acba6fec476dc8de2",
+      "size": 37949
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Food waste (General)/IMG_6130.JPG",
+      "sha256": "e403902d67bf0f27431372551f3c496586dc17589cdfb00baf28fcb126aeba89",
+      "size": 52708
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Food waste (General)/20241202_161145.jpg",
+      "sha256": "b502df2a5d6e65e1c5bde865b1e1f0beeaa80ac87af1489187b0180542d313cd",
+      "size": 56689
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Food waste (General)/IMG_6101.JPG",
+      "sha256": "10b89eca22d9424c22567b3a2ac0c2b30d8d5d899ae4513bc83d12759864bd1f",
+      "size": 60014
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Food waste (General)/IMG_5921.JPG",
+      "sha256": "1442de9b2f7d461f164cdcec742193fb2b7bd96dba20a361b02bfb9f982c1c3e",
+      "size": 49344
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Food waste (General)/20241218_215030.jpg",
+      "sha256": "edac4838982c6ee5d9daa0d787d01a058a6700745125d0c51b3e2e98267a6ccf",
+      "size": 91563
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Food waste (General)/IMG_5896.JPG",
+      "sha256": "c0cd8ecb02bb0cb5a7b0b2a9b5820819a554a1a6614ea87e4fa99bc19f5ee434",
+      "size": 55283
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Food waste (General)/IMG_6041.jpg",
+      "sha256": "9e1f50e5a383e7ea7306e713580d51160b01f35e316aef89051ee567643bb4ea",
+      "size": 44641
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Food waste (General)/20241219_093516.jpg",
+      "sha256": "5998ceeee7c9afff3459885ce5b56ff8bedfe12f01b0629b28fc8edefe569e87",
+      "size": 51331
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Food waste (General)/20241224_095014.jpg",
+      "sha256": "167509c15d7c7d23d5f3e0ca83eb0815fa4501f225071ca04562995cd504e7f0",
+      "size": 52824
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Food waste (General)/20241205_094728.jpg",
+      "sha256": "83433c72da59130e464b1fd98b800b548d40f586b0ca1d2a71733ff908831c07",
+      "size": 55337
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Restaurant food waste/20241202_180042.jpg",
+      "sha256": "f76b7a3b90dfddfa8960a1a534720000307d7785e7d49a756a1bd69886e01ce0",
+      "size": 57744
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Restaurant food waste/IMG_4815.JPG",
+      "sha256": "7a45343da507ebb166b5ba4b272685884b36959e2ec614082f5f700d0e972684",
+      "size": 43623
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Restaurant food waste/IMG_4784.JPG",
+      "sha256": "2fe20402a08d7a4cd496b4cac2d44cf49f533407e3641c43b1e1b59860ee5996",
+      "size": 63895
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Restaurant food waste/20241216_163021.jpg",
+      "sha256": "65a156a6a26802211c33c19050c5d90aed1898dc9c4063c589aa1caff2ff60e7",
+      "size": 66054
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Restaurant food waste/IMG_4835.JPG",
+      "sha256": "292cefdc45db183ef4f9a4db037d5435887021bea2bf06e044ef0abbf04bd84b",
+      "size": 49866
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Restaurant food waste/20241208_183919.jpg",
+      "sha256": "3037b4fc5a2932547f67361d67e4268f69b90e63942fa0aa2c024eacfce6dcc9",
+      "size": 46810
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Restaurant food waste/20241202_145507.jpg",
+      "sha256": "20aea76d3c4dfeca86fc8fa781076ca9bb61156fe483cb5f92d51fea85e7822e",
+      "size": 63136
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Restaurant food waste/20241202_140643.jpg",
+      "sha256": "1cd7a43e5b7254881b2dd2d10f799d9fc3d5df1a33a3f423477b1330514adae2",
+      "size": 54818
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Restaurant food waste/IMG_4782.JPG",
+      "sha256": "fe7bfa82b3f6659094c542e090c0188e60f312818a0bd1d35f325875dc8343f9",
+      "size": 48134
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Restaurant food waste/20241202_145337.jpg",
+      "sha256": "b592b0bf94157b379c8b39c513d54fbe5798b43d36e302f70b3b7a0e79b0cba3",
+      "size": 81253
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Restaurant food waste/IMG_5876.JPG",
+      "sha256": "4a90152c264cec146b354c3e6af886c9f37d6532bc2990e8c87e42dbf12e6c23",
+      "size": 40637
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Restaurant food waste/PXL_20241202_144637428.MV.jpg",
+      "sha256": "6f57405d64ec62af2e713d0b2beea8df55136814c52913bf6fad57ff9be056bc",
+      "size": 57145
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Restaurant food waste/20241218_165509.jpg",
+      "sha256": "c42b2cd19c915e0c44c6ac90d328abc33b2838a6879f000e11023d59a99b9b3f",
+      "size": 41595
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Restaurant food waste/20241218_165559.jpg",
+      "sha256": "58179906a398906f283e4b5394897c4e2ae912b9624d4df9e6eb193fef643294",
+      "size": 38531
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Restaurant food waste/20241202_141519.jpg",
+      "sha256": "7641bf9b71040c6336fe4cce058f5b6f1011eed224dc9f4eac05474688d841e9",
+      "size": 43980
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Restaurant food waste/IMG_4794.JPG",
+      "sha256": "35ae23ccbde37a03e06334efed4bf2dd5d856f006a0da0085e12e45f96d351c7",
+      "size": 55016
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Restaurant food waste/20241216_163113.jpg",
+      "sha256": "d1a476095bc185f6a030f66c34fe8bbfd4a8b9f93d4d9fc7edcb0bb2d80d0cde",
+      "size": 51371
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Restaurant food waste/20241202_145450.jpg",
+      "sha256": "3917e37aa126332f4cf99d44ca2ed0accf9b1c4fdc1f69a8ffae5b6683bba762",
+      "size": 73394
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Restaurant food waste/IMG_4799.JPG",
+      "sha256": "7a2bfe4a15e270e3442ae9609a9459a9ba1f06d4dd61701848b58fe706b47162",
+      "size": 72972
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Restaurant food waste/20241216_163104.jpg",
+      "sha256": "ace72543cc5a5e33e62feb59af5386a2786ea4ade7eee22211acaefb52f48851",
+      "size": 53452
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Restaurant food waste/20241223_182702.jpg",
+      "sha256": "568c56d595b70b7d65127f49a0d7ae68d89dc396431d1efb97c194822e94e85b",
+      "size": 46350
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Restaurant food waste/20241202_144810.jpg",
+      "sha256": "a47c54bbfff8a1823426be7f6dc3c7d864e8cd4d79bf0628c7f5be882ea4b5f1",
+      "size": 70481
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Restaurant food waste/IMG_4820.JPG",
+      "sha256": "29e17d0a6bbe63ae62cfc777b7c8f2e3aad14ee8f553f93c180393875402f0c9",
+      "size": 54723
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Restaurant food waste/IMG_4790.JPG",
+      "sha256": "8c7a351aadf2466300385e88845567dc912c01bc6d00e08d7770823688dcc34a",
+      "size": 56127
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Restaurant food waste/IMG_4803.JPG",
+      "sha256": "edb98b404bdd73107753052ce61063f7fe425e5c1fd789d59b07c9c01e366cf2",
+      "size": 54570
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Restaurant food waste/20241202_201148.jpg",
+      "sha256": "560ca3a2e486e5fac3aec52411c9bf9d01fb73b5a156875aeb34b73c04e24396",
+      "size": 50233
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Restaurant food waste/20241202_145503.jpg",
+      "sha256": "19778cee01752fc6ee9f62d62a8de632eac2e624bad50281b44d1945cb6a629c",
+      "size": 67410
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Restaurant food waste/IMG_5770.JPG",
+      "sha256": "7c823fad35f712450fadc94c443229f7317e4b81fe1717d7aec1faa7822502c3",
+      "size": 79717
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Restaurant food waste/20241202_145444.jpg",
+      "sha256": "27c4c51a0020bd42181742f33eeff1f1dc1349a24bb925387eb25dcc1bb7cdb5",
+      "size": 68518
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Restaurant food waste/20241202_145400.jpg",
+      "sha256": "bf898e928c23507465b002fcec4abf224d3dde511a86ac41dbe5e063075be814",
+      "size": 69007
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Restaurant food waste/20241202_140425.jpg",
+      "sha256": "2b7af7b5bf18a2655c4ab4d906ac54735d2ade8aea1b9c5b31419b70abd620d2",
+      "size": 34787
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Restaurant food waste/IMG_20241121_131410.jpg",
+      "sha256": "4cadac4600d6f52b21038564168b0eee9b025fc71dd9880fd2223effa2068377",
+      "size": 39821
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Restaurant food waste/20241218_170455.jpg",
+      "sha256": "57ef5750725961b5284e6556884e228a89655bd0634a7b0d7cd3b19865228942",
+      "size": 40739
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Restaurant food waste/IMG_4774.JPG",
+      "sha256": "97b2e1ac612cdad987f0755b1da26e49799c42073d63d086e9fc2e0f37721d2f",
+      "size": 45791
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Restaurant food waste/20241202_145543.jpg",
+      "sha256": "8855f7c5e7da58743cf9a0109362523dbbf58e0616f5872cee6476abaec73827",
+      "size": 66743
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Restaurant food waste/IMG_4811.JPG",
+      "sha256": "295ed27f8f413c3ad0d11b1e8b55c9bbfa1441941a61f3d9abe561775a0858c0",
+      "size": 69020
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Restaurant food waste/IMG_20241212_195226.jpg",
+      "sha256": "d6afc0b35c0ba6a64274fc3f7e3c6d327a85620a2aeb99fe068bdac35bd41a13",
+      "size": 47207
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Restaurant food waste/IMG_4802.JPG",
+      "sha256": "9c8522772f4338155bc2958817accb7d63ac2aa22de2400b5c1d534d7d93365a",
+      "size": 31217
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Restaurant food waste/IMG_4834.JPG",
+      "sha256": "2aa34162af6f427f35fe9d61a9524164f981f44d7ad6844fb7f427ae67f21baa",
+      "size": 50605
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Restaurant food waste/IMG_4809.JPG",
+      "sha256": "ffd1b815328437eee028145c5e27765fed9820e1bcc6c6483e56f93558b8fba1",
+      "size": 43919
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Restaurant food waste/20241223_183214.jpg",
+      "sha256": "79d881867ed5c4a47fe62606e2d20ae57a6dd8a051fe088ac86bb70054402901",
+      "size": 56138
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Restaurant food waste/20241202_145559.jpg",
+      "sha256": "8cc3e6c27253cf8a19fd86b7ff997e6442ecf013babd04f1299d40ef67472e92",
+      "size": 62627
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Restaurant food waste/20241202_172930.jpg",
+      "sha256": "639f9d72eaddef5fb93ba0bf776d9a715cfc34d3dc9365f65ed58b6c166bd721",
+      "size": 62144
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Restaurant food waste/20241202_141133.jpg",
+      "sha256": "c003efa6d317c364f8e84c9186fedc46de7fdbc733af3b5a07195edc525e349f",
+      "size": 64706
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Restaurant food waste/IMG_5880.JPG",
+      "sha256": "b3d62e8994a75ed6ede3c5eb50f308bf541923096e29a4e8c187924197ac9ceb",
+      "size": 37701
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Restaurant food waste/20241202_172906.jpg",
+      "sha256": "ee540daaeb6d97b6e1fae603bf8e54fdb66214a8fa218f48ad7e200a3493cdc8",
+      "size": 57193
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Restaurant food waste/IMG_20241212_195035.jpg",
+      "sha256": "26e5fba1d3e512ca04f03284d1ccd6b6e47172fb584e87dbd148e44aa77b2b3b",
+      "size": 55278
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Restaurant food waste/aa5378ad-3cd5-457e-9072-c6ae6fac5fe2.jpg",
+      "sha256": "a9b10a19755ebba0dfad102f0696fce4b3aa6fb463b27f05fa9f01008867f033",
+      "size": 42732
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Restaurant food waste/20241202_200839.jpg",
+      "sha256": "1025be86ff84c6ab50554125c16a948db9c392f95abb8b2d7d0472991e40df32",
+      "size": 50861
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Restaurant food waste/IMG_5863.JPG",
+      "sha256": "014baf16dc7c4ac430c9cacc81552e5f3f9fe74e8d571bbab364c7e4d4e10aa0",
+      "size": 40666
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Restaurant food waste/20241202_180855.jpg",
+      "sha256": "3b69103adb7dd6158b76a392eeffdcc09b569820d4d02ea7555ed5782ac8462a",
+      "size": 59894
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Restaurant food waste/20241223_183935.jpg",
+      "sha256": "5efd4eec9112238b29170f86d365c89209c7e29a1741129d0b2a93ce12400fbd",
+      "size": 51565
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Restaurant food waste/IMG_4800.JPG",
+      "sha256": "5a29c9621100caf416ed7e51cd9aa736e5ee38311f7ca9ad2a653245e18e444c",
+      "size": 32409
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Restaurant food waste/20241202_153140.jpg",
+      "sha256": "800b42a2814efa098a3ba2874462e2752bf18edcdfe7878bf61055192522edf6",
+      "size": 57754
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Restaurant food waste/IMG_4771.JPG",
+      "sha256": "6b94173977aac947fe99e89c9192bed4a03167df33a914ffe49fd451562aaf9c",
+      "size": 41111
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Restaurant food waste/20241218_165455.jpg",
+      "sha256": "db4cb434b7ecbd0b6e644e10352ae0a82cb96a50a01613b6b028d2859b31e4fb",
+      "size": 41825
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Restaurant food waste/IMG_4787.JPG",
+      "sha256": "b28d81b5979265bda1933b8bb1adb3903170496a1c9627e3c623f07de3a490b5",
+      "size": 65620
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Restaurant food waste/20241202_145350.jpg",
+      "sha256": "7cff986235cdeae8c08d35504fe2393a33d26b3fdf86323b67abc375776f8a3f",
+      "size": 77020
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Restaurant food waste/20241202_144751.jpg",
+      "sha256": "4e40341e35cc29cd0c7b31018087bf63221ea56133dcffb719e8720b5916eca1",
+      "size": 66912
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Restaurant food waste/20241202_140408.jpg",
+      "sha256": "f267ae9d0c65d5234c1f4d26824202df1f41add803fe8ad41c3882328d6ea0ce",
+      "size": 47454
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Restaurant food waste/20241218_170742.jpg",
+      "sha256": "ee54b4eea5f1f0cce5ec917cef34bcbd592ed079303b8c09f16ebd446a7c7fbb",
+      "size": 37355
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Restaurant food waste/20241202_144756.jpg",
+      "sha256": "b01e43cf74c5faf989116c564f6d7aa6554c595da31c8b39e66c8d23ddbf0b54",
+      "size": 68873
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Restaurant food waste/IMG_5881.JPG",
+      "sha256": "25844a22ee82b142075f75c5068e2c771ecbbfb636d8948223e7b290234a69d0",
+      "size": 36534
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Restaurant food waste/20241202_140655.jpg",
+      "sha256": "9acbab9b6b6fe7d242c7c4a9f3fd29dd0c3188af00f596d5ca85913d66cda721",
+      "size": 37895
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Restaurant food waste/20241218_170838.jpg",
+      "sha256": "99dbcacc4940ac4d809206c6446d74bfd7fcb73ca32aff8f98f09c9e8aeadf9e",
+      "size": 35435
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Restaurant food waste/20241216_162919.jpg",
+      "sha256": "6496f7ec6bdccf33f875f632a5dd42419f1474846b4f9879ae6ec9cc5045a67d",
+      "size": 53145
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Restaurant food waste/IMG_4785.JPG",
+      "sha256": "4d3df8bb30acffb55f82a18f8831c1821dc55a7e20ba6fece8788212201a3d19",
+      "size": 61086
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Restaurant food waste/20241202_172938.jpg",
+      "sha256": "ac93f909679e418427307dedcb22f18018826bfd1e1ad7d8a747119ce6a89b06",
+      "size": 63807
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Restaurant food waste/20241202_145453.jpg",
+      "sha256": "404361438f1f2ff3bebd1ca309d7d5d851db32992bbbcbbdc043cef5a3aa0e75",
+      "size": 67487
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Restaurant food waste/Messenger_creation_A2C01481-C718-4469-B8A9-7431895D6634.jpeg",
+      "sha256": "269e4244690997a956a6a1b2c7d596d525ad5e7347147c7479bbb02df145e066",
+      "size": 45428
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Restaurant food waste/IMG_5879.JPG",
+      "sha256": "9ab6b3829edc99c44dd4891f40d068b0c0db34501c7cbeffcca82a5890d38596",
+      "size": 35541
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Restaurant food waste/IMG_4795.JPG",
+      "sha256": "fbf20e035227c678e06e6464aff1adbb86d37ca4f1775eb021216d41b42a39be",
+      "size": 50072
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Vegetables waste/IMG_6145.JPG",
+      "sha256": "dcbec843a35a080fd072ca2ed217fc0d3583309cf043e067059fa0400f719e0b",
+      "size": 61473
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Vegetables waste/IMG_6144.JPG",
+      "sha256": "68e990c282fd7c4a7f49d8c4efe4f13f60fc6f4d52e323051779a808ba4f5222",
+      "size": 70076
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Vegetables waste/IMG_6110.JPG",
+      "sha256": "37bff69339f31a2bc78ec31708bd08cc75e885a2fce4646262feccf4f426cea7",
+      "size": 67450
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Vegetables waste/IMG_5893.JPG",
+      "sha256": "e961539e499b5bdf0ec9e28ed23a08fc6d6b787ed2b294f57e2bfa16d9aa6aef",
+      "size": 69933
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Vegetables waste/IMG_6091.JPG",
+      "sha256": "9519d07f4f9ae57b2e8fc699ab2c621298d020ef09bec127efce0590c13cc3b1",
+      "size": 78660
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Vegetables waste/IMG_6146.JPG",
+      "sha256": "93e399500bee017a2162e004f2e0a339a18966c38f27cfc9166bd2b64fab9b51",
+      "size": 72144
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Vegetables waste/IMG_6066.JPG",
+      "sha256": "11fd9c321b281beb9d836447b1f8b7dfca6ef2af78c48b257bd1cf9b65bd7aaf",
+      "size": 45010
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Vegetables waste/IMG_6111.JPG",
+      "sha256": "37a09f4cccaa6e9b1c9ba1d9b71064cb16f5003991ff65b96f80b22a764fb2cf",
+      "size": 78700
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Vegetables waste/IMG_5888.JPG",
+      "sha256": "5e2e970047fa345085f7841f120d9365412c34116bd18e3cc9e64dac326972f2",
+      "size": 71139
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Vegetables waste/IMG_6068.JPG",
+      "sha256": "fe34f2edc7ed8b0f3415f207e09ea6d207ca501932a76230bf92c2e73144e41a",
+      "size": 71332
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Vegetables waste/IMG_6112.JPG",
+      "sha256": "9d1894cccb3556d31d1411f5672c45046c6c19741bf206476460777f238266ed",
+      "size": 76187
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Vegetables waste/IMG_5892.JPG",
+      "sha256": "d1bf560f07e62d76751d5bb6ac28ef78fb246a188e73103fba67dbb6ae682fae",
+      "size": 71367
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Vegetables waste/IMG_6067.JPG",
+      "sha256": "0bc0cab5fead36e55c4c3a7e4b33efc85024faade41c157f3f9a9df52fc7cc7b",
+      "size": 72435
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Vegetables waste/IMG_6089.JPG",
+      "sha256": "82330f5a8f438f347d285fabb5524393b325631db323fe762e5206469144dc7c",
+      "size": 95857
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Vegetables waste/IMG_6069.JPG",
+      "sha256": "c7acf3f079128f6b55bd0102852e847fd5499943269683e7eb827ef06c3fb523",
+      "size": 43875
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Vegetables waste/IMG_6090.JPG",
+      "sha256": "714e6e34b49438d9a943a986bbd905c6cb11682a3618c69bc0571a6d79744ef2",
+      "size": 58010
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5216.JPG",
+      "sha256": "ff0796fb466c86ad2568d41c0d666bf0643c9e8e9a7db8799bdf11a28210b994",
+      "size": 63386
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_20241227_150648.jpg",
+      "sha256": "80c521653dbfbcd5d0a9ea2ce96d8de9f5fad05f3c728c3039003c6b6fff96e9",
+      "size": 40652
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5278.JPG",
+      "sha256": "da55259355d5ead7a3ca2608b17411631ebf0733f90d42db5f9ca4349ba38d61",
+      "size": 36756
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5130.JPG",
+      "sha256": "de080a101df598754c9ddef996a34cf254184ff710cdbe96b555ff69a4d19f71",
+      "size": 31952
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5265.JPG",
+      "sha256": "b441d19808f9b0e44d37adc83436535af400f353930f183b7e13b6835b9c9e58",
+      "size": 41744
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5080.JPG",
+      "sha256": "a682c628d43cf847fbf1982fd38c6afd8acbeadbcac690e44abde0a837ec4237",
+      "size": 53477
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5185.JPG",
+      "sha256": "54d52124c8c1cc345c3659f5483f2397436cf74fe24f24cd8cc928e05a8f6309",
+      "size": 39384
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5200.JPG",
+      "sha256": "574ac73b6ae64879d393ce8a00c84c229100a58ab3b0689ed729cbd71d2616c4",
+      "size": 37675
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5081.JPG",
+      "sha256": "6fbfff372b5f49522c1bd96df62f17d006a8fa24ce64ece0f7707b96b9bac5a9",
+      "size": 41201
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5955.JPG",
+      "sha256": "04cd87ebc53c152cc1cebd2c2c74134e48e5e8eadf3e91e70e315a987ce246e8",
+      "size": 41212
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5191.JPG",
+      "sha256": "be7c8a1d2723c4c51e3d530b6d469def5b2541acc12706eac26899d97e2d035b",
+      "size": 42192
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5028.JPG",
+      "sha256": "f2e11696176b5e451a373caea80a8f841e00f4397083c36fa063e4e163f0fb69",
+      "size": 42211
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5984.JPG",
+      "sha256": "81b3a59c826df91ca95941a977325665b52f4018f0a94f19e909029dc89cb460",
+      "size": 42691
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5213.JPG",
+      "sha256": "09c195c65dbe1a48a9b17a0d34c431ea4d38a826b1be67ab17103e58a72c83dc",
+      "size": 73116
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5958.JPG",
+      "sha256": "8a1f35a210fb748fed1d4bb7f83e2517b6a2a9959782dba6c6ae21336a315173",
+      "size": 44232
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5989.JPG",
+      "sha256": "ce9db772fb3d331e0f0bc5d97543093fbacbba1d3a8b943dcec2c9b2358c8728",
+      "size": 43388
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5292.JPG",
+      "sha256": "159075e70d58bef296d9031e4e2a20bf8ec1f500f24ddd315ab9f2dbbbc3ee6d",
+      "size": 37184
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_20241227_180717.jpg",
+      "sha256": "c9bb4600bebd73370c78bfc1960bdba03e730b10c17c104283a48763bd60ab11",
+      "size": 42803
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_6029.JPG",
+      "sha256": "6870dc513ea3f3c865e62e16294d067b946dc0cd40c03cd93ea1935694c2e316",
+      "size": 92102
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5968.JPG",
+      "sha256": "e360c915b402f955155e5d50d34b9f60b2f3badf777b6b5cd0c5aab5eeadc899",
+      "size": 43626
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5089.JPG",
+      "sha256": "bda5666ac86363df0ed103a8047348b495e30486a0c541c4afa8e8c8e42d5231",
+      "size": 32419
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5201.JPG",
+      "sha256": "01f1c351f71777bccb0694ddbf3f8ee010158e57c789a365d4d7fbdd4eed86c3",
+      "size": 38118
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_20241227_155111.jpg",
+      "sha256": "ab49e109a49f616bd015c178a6e1ed98856c919e7f5f5c5824a5854650829d18",
+      "size": 53992
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5067.JPG",
+      "sha256": "e4ac839fb945b25057e0c024480c6aaa5953de08fddae4de96aed5e1e7575214",
+      "size": 38312
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5187.JPG",
+      "sha256": "c0f21b495b7e1dee5059710309aab446b31b8ff88d92bf23778eb01f8d8eea25",
+      "size": 40008
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5046.JPG",
+      "sha256": "4f24b1a06ccfabb335212b5500d1a3ea48bb488f50786aad4a52e214f70c226a",
+      "size": 38472
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5286.JPG",
+      "sha256": "0fd25297d08d7a93814ca03d139b1d9a8ec277838edd05538292c054126e920e",
+      "size": 48563
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5144.JPG",
+      "sha256": "7779501c545999573ac8a4a17b1076138cf711bac406c848dd06fe956a557a6b",
+      "size": 37910
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5084.JPG",
+      "sha256": "00bde6aaa7aa33c5edf6a1baaf4fb739412f58148075d89c8eeb144d6f6cb644",
+      "size": 27496
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_20241227_154839.jpg",
+      "sha256": "eee648a1bc13d31e87f48a16e17f5ee08de2a1725d119bfea4c59abb1720bc82",
+      "size": 45625
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_6010.JPG",
+      "sha256": "eda04496659a68ba04fd2c61c4020265d78c51ba4c29134aa32a89380bb19237",
+      "size": 33116
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5205.JPG",
+      "sha256": "50b4699982df28bf52a6e291304d701d71b8d86ee930cebb632f19308cacf6db",
+      "size": 67736
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5256.JPG",
+      "sha256": "a72955e4f26ccd4650355394f517b6ffe9a0175937c49da44152e81bc691f633",
+      "size": 42107
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5132.JPG",
+      "sha256": "91666bd58b8e8c7d3b09bc33fac56686a7354eee1897471d3b11a52ef0b64b10",
+      "size": 43470
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5951.JPG",
+      "sha256": "3582fe7a483bd5e20c04e6605169027c6471ad097db0ba4ffced802935ebbba0",
+      "size": 55373
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_20241227_150644.jpg",
+      "sha256": "024edde9df60dea6c3258a2819f770cf02702b5da0453c2efedc59392e19d9e0",
+      "size": 49318
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5987.JPG",
+      "sha256": "504112af0df8dcb07b854608bcbffec51b8a6db1cb0ee6a571ed31c797f1e757",
+      "size": 38539
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5043.JPG",
+      "sha256": "40b8200a8dc68e7f066d8ff29aa186796125c5fc41ebdd3ebfc47a2d12c3323b",
+      "size": 38163
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5236.JPG",
+      "sha256": "23b5b9ca8db4c37ca3316a1b7a7e9629ae8cfc625540d3da0dfd3093126ed5ca",
+      "size": 29882
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5227.JPG",
+      "sha256": "e4a46ad9aca8df0631045da63d52d89bdf84327abfee401e9f240cf4223d8722",
+      "size": 43960
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5988.JPG",
+      "sha256": "38ad2527cea193c0bbb82e636b480b63da53a2754d8b1badc07dac6319cd552a",
+      "size": 52546
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5945.JPG",
+      "sha256": "dae5212f25021d9e5ac1c8e96df78b780b997dd34d71311e2e14629abe1c1916",
+      "size": 35206
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5128.JPG",
+      "sha256": "511a380bfc51b61a9efcfb1f05f361e42d7418a64f2dc1f924f3e82d78f0ce92",
+      "size": 43389
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5073.JPG",
+      "sha256": "53144ee04a30beb99b175d41bf0462fb6151e68165ca0b07fecbf3f8cb90e4e5",
+      "size": 45712
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_20241227_155124.jpg",
+      "sha256": "7472bac0cd207017051488cdffb4098d5a623017b06cd5db7df889e4ed59532e",
+      "size": 46487
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5210.JPG",
+      "sha256": "d2c221eb92e435360c08abdcca51be222b272db4b94e2bd2efc7ad27b41b6d09",
+      "size": 63577
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5055.JPG",
+      "sha256": "b3f6dde56cbd0b16e9bce6d2a6f1e170cbf6ea3c6fbd3b1c78068ba1ebea597c",
+      "size": 45235
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5147.JPG",
+      "sha256": "eb16a11c6eba1133e072335888a6aa6a0988597646ee4a0f0915b7cda91f00ef",
+      "size": 40913
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5973.JPG",
+      "sha256": "22a17d0e48448e56d48cfcd664da1bc279d82f32d0811246e8df6d5d46be974e",
+      "size": 37479
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5218.JPG",
+      "sha256": "e4774e0048ca1ae3fbd36ba8570ed6097f62322f1fcf76a3a30684a26c816153",
+      "size": 35366
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5195.JPG",
+      "sha256": "3bb4cc2889941756917a752dcb959a7b2d6ac5be86205345b92acee4c1414209",
+      "size": 40172
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_6011.JPG",
+      "sha256": "f0485699b045ec82b33637a14f0b5bdd1e262a96eb9596f8962b31fef88f7d35",
+      "size": 31798
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5190.JPG",
+      "sha256": "8cbfc60c7fa0e1b1a56b419f2c8b589e3fd6cb2363b57ce6385f99baa1b3ebe7",
+      "size": 40112
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_6006.JPG",
+      "sha256": "3d6d300ac51cc1db16f4f4f5d723d75d306232fc36f989f8dd0be3bad7d87270",
+      "size": 37589
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5939.JPG",
+      "sha256": "e5726c9176f32f68379e2f062be187dd6d2335d9f81e10bd038d6f7013efa812",
+      "size": 40055
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5090.JPG",
+      "sha256": "c598afddc04416b028eb743a4c32447e77ee140e047200484d73fb293d1dbde4",
+      "size": 36223
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5214.JPG",
+      "sha256": "a67262c75f3ed74b463f21b1b6cce0fff03fffbb6f5e648269685aed177924c2",
+      "size": 80500
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5233.JPG",
+      "sha256": "26a428314236faa435f5bd3b796145a3c7d75ad4e8b4225262cd61150fcf4154",
+      "size": 44752
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5198.JPG",
+      "sha256": "eb973e899b3526e9a58d16f532742947cd9539fa8160dafc865395dbfa567015",
+      "size": 40579
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5255.JPG",
+      "sha256": "77cbf8e276e2a9069114e22fa6032e7d02e2b40bd05ce65b01154715ca83cc71",
+      "size": 49099
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5229.JPG",
+      "sha256": "cf8d937f8ff2ed1958d0a68bed7d18eae691534754fd2cf54e598380b27a20b1",
+      "size": 47677
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5289.JPG",
+      "sha256": "2fbb706bc7a1a95a1b3dd6eb1892040c9ad2c54323ad99b1fdd9cd5e095e1200",
+      "size": 48646
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5206.JPG",
+      "sha256": "39e195f4be967dc773f79bf73c0e3f2f8dabab422527afb7232870f1f6d45b83",
+      "size": 72973
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5030.JPG",
+      "sha256": "3a93f3d6ceb4fbfe6a03ec59c9c5327c9abcba0261c21239f25bad4c1a4ec625",
+      "size": 43790
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5075.JPG",
+      "sha256": "7d57fbc62e3492441c5035e61c26788da535900a02cb077216c951a63c2ea780",
+      "size": 51143
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5125.JPG",
+      "sha256": "a4da456589f6a7ff7ea572e54c07aa56c6f9d1910071a02ed8c89fb08c8c141b",
+      "size": 43852
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5273.JPG",
+      "sha256": "b1f504a89bbeaa8bda01735a6a1c55eab227e871cfaed56df6dda9e0c7d531af",
+      "size": 42329
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5948.JPG",
+      "sha256": "ddd0e8a95bbc5f64569c5e049442079311b63da01d9ba9b16e6672204a4a2830",
+      "size": 38272
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5946.JPG",
+      "sha256": "a42abf3b740d5e618ca11e952847dc2b43af22fac82da73ef5b99c3496b5eb1b",
+      "size": 39884
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5995.JPG",
+      "sha256": "afbdb1ff7f7790016a312b63aeb8478d7fd80f3fd1e0e027eb10421252933250",
+      "size": 42938
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5041.JPG",
+      "sha256": "5e0eb18c957dc716dd012178d92a2d07244e0e7f2c4e67c903d524d189aa78de",
+      "size": 31510
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5290.JPG",
+      "sha256": "420c2314d7a79646b88fa1d4282e611edbc268ba35a1d1a3d716f8a4b7c88129",
+      "size": 54729
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5199.JPG",
+      "sha256": "212bf88ebcd50aa91079675efe2c57e02d54caa5e9898a21fa128e190d77b7b1",
+      "size": 33172
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5082.JPG",
+      "sha256": "eefc0ea5da2a5b8191326a17eca8302c9dc4886ce20bdfe85a8ec357c018bdfd",
+      "size": 41905
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5947.JPG",
+      "sha256": "4aa2effe4dd8554cbc2fe7726ce08d5b31146d377062cfa946b50be007deccbf",
+      "size": 80608
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5979.JPG",
+      "sha256": "30d6524c46c24e1da859f152b0f55453551ae8bfcdcd4996d8b6fe021c83f9a1",
+      "size": 39139
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5039.JPG",
+      "sha256": "63a35bced87fcac2cf3894c545274ad3a7ca6ac2a92743c5d0f8f9045cff100e",
+      "size": 32003
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5183.JPG",
+      "sha256": "d4fb4ea0a9f2adae8f2e640762ab0323b1e0227a6146d2cecc9cae03cec3c4fb",
+      "size": 34962
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5184.JPG",
+      "sha256": "172c59aa20b7f278986e884ff0591665e43bf7f27128e488ab86a46f23c7447c",
+      "size": 47965
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5056.JPG",
+      "sha256": "bad1d60aa18d0315225c18bcea27fc8f4ef0cf102f11f6fe4e7c3dfdd76c83e9",
+      "size": 35817
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5940.JPG",
+      "sha256": "84ecc29eafa5b953bda7ead462711dedc98fae46523fa5262c0ba548db04134f",
+      "size": 40219
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5133.JPG",
+      "sha256": "b1aca4c85b43c894a8a9ba9d08826e2498d7d6f9392db2c7d35d033ba556f619",
+      "size": 51004
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5294.JPG",
+      "sha256": "ef3c512e5c9a7ede8759d5f0fa00e67b8b396c7ba88085caf40ef6bdcfc3660b",
+      "size": 48383
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5993.JPG",
+      "sha256": "a584910d675ecc8b3d040d0607b3c4f71bc47c6d3b7824a5e4540ad2e053c588",
+      "size": 47060
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5942.JPG",
+      "sha256": "cb18889ab415e86a8a89bf6cf1d59b78955ff64dabfc62baa81b7a701dee03bb",
+      "size": 47290
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5268.JPG",
+      "sha256": "62ace84c86efeba1809459c07b62db10bfcde4f4d9df3274c1356313c038bc38",
+      "size": 53469
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5275.JPG",
+      "sha256": "2d567dbce3a28ddac10d28557d431a182f71df8dc73d1b0d42f92b18de1c55d6",
+      "size": 53106
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5241.JPG",
+      "sha256": "7767d94d960dfc8708155254fe7a7572f331ea4fef28c15a7ba57f6b6b2a24d8",
+      "size": 45658
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5978.JPG",
+      "sha256": "c436378ceac51ec141f451804c3b769dafcb0253932673e8ddda63ea5eede8ae",
+      "size": 42194
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_6034.JPG",
+      "sha256": "0e4fefab619085f3dd800df188246c3b43de661657edc0d54b0032defa0095cc",
+      "size": 85655
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5071.JPG",
+      "sha256": "e9074137a1bfccb53d0f2b1abf011318e362a6ac3efa16084081b113931a4e00",
+      "size": 49064
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5083.JPG",
+      "sha256": "68fc312bd1b160e73489e2fd4b6187c6088f6cae65b671218f30699ffaf1d9db",
+      "size": 30137
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5252.JPG",
+      "sha256": "de4f78c2436533533579bea57dc85b7a004b0b26403a9758d6f2c2af92076d55",
+      "size": 36048
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5123.JPG",
+      "sha256": "c564d94c9c3d5caaba32783053e628227128f78842cac7aaaa3daa4aaf355107",
+      "size": 45286
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5967.JPG",
+      "sha256": "3eed272fa68b97f27f81b78aadfadb0244b16476b3b9331936f666094d598312",
+      "size": 39966
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5069.JPG",
+      "sha256": "f1353a226e3c7cd4ab2cbcd41de1707956c564c5c997096c52f5bb38eaa593f8",
+      "size": 40209
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5954.JPG",
+      "sha256": "68ff2e1f0d418ad6525fc4ad1e5f97a681cc27d97f0861d7f2e45c200e871da0",
+      "size": 41239
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5971.JPG",
+      "sha256": "9caa34df35e65a893e8f05aee0346c04c6f4d73fe5ccd12f2699d33741b21be7",
+      "size": 36637
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5186.JPG",
+      "sha256": "0a9ac356c01464fc7828ca0ef58889e8c9051980f8fa01c438e7b1b7bffed4d9",
+      "size": 42323
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_6016.JPG",
+      "sha256": "2ab462431b126897ee96b8917474ad71c0a475ad9dbee99a64b934133d80b367",
+      "size": 40407
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5235.JPG",
+      "sha256": "7108ae6f603d96d1e755135cc4412de2d2a228d01081aa2100a9de9914e56b1f",
+      "size": 37535
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5291.JPG",
+      "sha256": "91529392475db6be338f9c24016f8be806b555eb27bd1c3f5ca0dd32d8cc9b42",
+      "size": 53919
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5254.JPG",
+      "sha256": "64411da409f719d3973533205c24f9dac21fdcbdf340b43caf71399583406d01",
+      "size": 47321
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5078.JPG",
+      "sha256": "db30d5e0fee5ed42ce3924f3e342d4d42153e8e5b1b4ed7d8d741e83b8da1fac",
+      "size": 47544
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5263.JPG",
+      "sha256": "281f88c45d581c299e20a7c4a0b4b07449d62dd055af35000bc5efc259f1a043",
+      "size": 36059
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5952.JPG",
+      "sha256": "7adb362f53af94d9c9dcca87f7ec28f3af1e6b9cb5580b0464c5f2e89c4a31f6",
+      "size": 38089
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5122.JPG",
+      "sha256": "a4af766376dbe7c2e08f6f58efe592e64ad7357b24d302ed0f9d2c2ed74a5e1d",
+      "size": 43022
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5116.JPG",
+      "sha256": "ade66e0adbf557fe6c3b90963b1b8330e1221e1d1834dd3e5ce8ee347f8e3d20",
+      "size": 44564
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5974.JPG",
+      "sha256": "a8d778bc6b30ccf9505bec0c653c732bc4e7daa07c95d50a37044cff14b62525",
+      "size": 27339
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5242.JPG",
+      "sha256": "a37c8da64f123f0c440276984c9e8e2ae74b13c3adbe97e86a716d760a327516",
+      "size": 35352
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_6038.JPG",
+      "sha256": "328a9315679f53b8ed8417bbb845e954c38d6deb40db2348f04305bdedc7daf0",
+      "size": 51660
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5193.JPG",
+      "sha256": "32d4d67dd5c6ccc6822724b3c71d550a6c24a7ac18f1415143888bd3706906c1",
+      "size": 49003
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5208.JPG",
+      "sha256": "8a604d3699a270f382e897227c67cfc1bf76235f3d43cb7b68e0c00aa77bb537",
+      "size": 100218
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5269.JPG",
+      "sha256": "89ab76c46b4a6dfb426b25c799af9a5bf0c0ca5ac70e655fc2f14c462e82ecf9",
+      "size": 32578
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_6014.JPG",
+      "sha256": "b0bb04755c83e727a616ef691077910dde6a427b0f23be6fff8bfe0a20d4d274",
+      "size": 44117
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5976.JPG",
+      "sha256": "86b45e1d4d0d539302d0932c2d25db1d7c81115d5803f0f0c2db9d325997d074",
+      "size": 44030
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5057.JPG",
+      "sha256": "80314342f8c85eaa4a955c63e9ae54cbd4282573b72ae1e5a55161f17acbf177",
+      "size": 39474
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5038.JPG",
+      "sha256": "a174e8da581c29d5bb23cd9b534a50e2649ffc674cf95ecc8e2e31e3ff001d5d",
+      "size": 45091
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5230.JPG",
+      "sha256": "4d3f54b833c852830c9f53445826c69eef8040c36ef775ae1e1552714dc48b06",
+      "size": 42911
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5196.JPG",
+      "sha256": "b1f0defe82abc1875b8c7cf14af4b53fa001fae288231ec2d8ce315804dfcd17",
+      "size": 36337
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5051.JPG",
+      "sha256": "4da9fd7b52b5d54deef373e6090055fdd81fd6d0a49cc767373f19cf8edb6573",
+      "size": 40560
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_6037.JPG",
+      "sha256": "a925b98c7c7d76c077e94f7e63960dcb2b34f6fd2c4db7d2e545992714b28d8c",
+      "size": 41150
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5251.JPG",
+      "sha256": "26e121d87d5eb951e35d62efd8759d4ba752be5b238e5737f7e60d0d93314b3b",
+      "size": 42167
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5065.JPG",
+      "sha256": "adf9b9fe6fd3f474748472339d4d62b70901ebd7300169bb26dc53f7cd48b401",
+      "size": 40524
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5047.JPG",
+      "sha256": "553c7bc8487ee359fa2eb0e4b920787bc6e186d6ce1f3e66c3872a9def8fc5a7",
+      "size": 36725
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5994.JPG",
+      "sha256": "277583f513eafaa86a4eda0358e9c90d7bc7ad663544fcdce5e0b129e808b94d",
+      "size": 26832
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5131.JPG",
+      "sha256": "ba99ae3f8729a383c4ae94b62ef655302a7b8faba10bf1cce65724fd402277d1",
+      "size": 47327
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_6039.JPG",
+      "sha256": "eb517cf0fbf4e88022abbd2dcc5bcc67b132b68f356c2d43d2bc2147aed24885",
+      "size": 45731
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5127.JPG",
+      "sha256": "0ec249955867909081e9d5725271104b47736c256ec603609908909268d9d377",
+      "size": 36123
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5238.JPG",
+      "sha256": "1b528aacbc72585faad542e2691cede9de41779a98ea7d895162f4032680a529",
+      "size": 43380
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5997.JPG",
+      "sha256": "21c23da83f1e7cab33c87eb8e4b702d0ad94171c294108fb132288da0f027b77",
+      "size": 44950
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5950.JPG",
+      "sha256": "55b24639efab43b311e612e27aa40fb11fac03e14a5c667dd36bf1d244942e3e",
+      "size": 39302
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_6002.JPG",
+      "sha256": "a43435f788b3027d2f4041eda287f4078d5d345e5f4df3ebedf4d0958ae4adbf",
+      "size": 47246
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5225.JPG",
+      "sha256": "6c1c884cd730ee3e18a5bba6f4f34d29cc5f6bb98464ceb3564c76477f8e7c6e",
+      "size": 48233
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5975.JPG",
+      "sha256": "0bf7d331e73281797f87eccc8333ac75a32e5af2b191ede56338d1f562b6e039",
+      "size": 42739
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5996.JPG",
+      "sha256": "570077c9282ab0876639fe143c9407da545134880e81207619e6d751fe3b7097",
+      "size": 43822
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5985.JPG",
+      "sha256": "25df65e34491d9d4acc24559c36561dd5231b377ee26ba91a5bb99679ec9c4cd",
+      "size": 43574
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5037.JPG",
+      "sha256": "1bae41f76b913401aa49086bf4c67fff0522073b2f427485a9b55a216044e793",
+      "size": 42736
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5143.JPG",
+      "sha256": "4c38d8c0b2a392eb04b0b5644dbaf1c1d1dd230c66ba22a905b1c3bfbdc8e1ee",
+      "size": 50573
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5221.JPG",
+      "sha256": "7e6e79d827f0f3448ba82a45f4ca942a61e26ae2546eae8270e3e1df772b8b7b",
+      "size": 43045
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5239.JPG",
+      "sha256": "7db5302da1038f030b1eb68e6955bc357983d48af2a0648cdd0aa1dcbccf9680",
+      "size": 44241
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5961.JPG",
+      "sha256": "7673a6acea70da04ed59aab967b9c17db450c502e949caef02eb3a152f47a21e",
+      "size": 33554
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_6020.JPG",
+      "sha256": "b30f07e6171751c76cf3bdb6f52f507b14f73d047edf3da8c48b1bcd8d50fe84",
+      "size": 53527
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5136.JPG",
+      "sha256": "ddc24440f4141286039dd164c1fa1ca551fe327f14b8f66462494dade88d6a7d",
+      "size": 42918
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_20241227_154828.jpg",
+      "sha256": "72f12d57d0f78d3ef159e2833d5ba6bf7770a6eab028f2407f8dac4a2c3b5103",
+      "size": 54734
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5068.JPG",
+      "sha256": "b73cbf9e5d6dcc85254dcb1d2770a68b7fcd0610fc465c80633b6c85695c83f9",
+      "size": 28823
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5052.JPG",
+      "sha256": "a6c5371ba68e59bb863f86309cc46ef49fe2c70da1e7d5950f65f157917ed9e4",
+      "size": 38309
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5288.JPG",
+      "sha256": "115d2dd5afb08da089330dc82d895dfde437110e579c2e5799dae28c0fd8d538",
+      "size": 53408
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_20241227_154827.jpg",
+      "sha256": "a70953dd83d2af363fe1ec21eea73a4d2d9dec6b30201ce81f814b8d3bcdef98",
+      "size": 54003
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5999.JPG",
+      "sha256": "bbfe442d1881250622a44755b3200e9ac07b6eeb98a31afa703d07f2ded5b821",
+      "size": 41909
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5188.JPG",
+      "sha256": "6bbd90170e87bad533854b6197dec36083823d6e4cd627558a8a3c4e38495fb8",
+      "size": 48507
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5283.JPG",
+      "sha256": "787a48d5eb9996a80ab1bb9aef91da2bfb671b7b950029a3145baa2ca3c9cc45",
+      "size": 37863
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5983.JPG",
+      "sha256": "fdbef0c1834ace5e2387b7378afcaf8e2221e5b12e9d817ca59f9b71859842a5",
+      "size": 44406
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_6023.JPG",
+      "sha256": "82285e4ebfbd71f7baec475a3066ada9bf02d4fefed6a185f45fcd1f1325fb62",
+      "size": 43924
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5202.JPG",
+      "sha256": "1dc79ad592d8d86a34f798e2e0bce5b81050d584ca548e38756cc5d7230d9af0",
+      "size": 40581
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5211.JPG",
+      "sha256": "35a3d5d068ab048bfb49b42e2fb01f0e5ba48c5a9f30028659e3ce4475ac74e5",
+      "size": 66060
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5232.JPG",
+      "sha256": "b462fd0d3d29f42ef2bc4606e0c5819db497d889728e1e868fcf8cf92b85361b",
+      "size": 32685
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5250.JPG",
+      "sha256": "2360f42ca028ccfb8a7a03e9cedf52f9bc8823864510bc89efca13407e82c126",
+      "size": 49849
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5247.JPG",
+      "sha256": "38133058ad27a8b466becd6ffc888d098d153aedcad2adc9f181420a8bda254c",
+      "size": 34578
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5977.JPG",
+      "sha256": "d392f9bc6a1d96ed28a15592b79be8a306b368bc774b88f06e8d808047d4dc46",
+      "size": 49259
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5124.JPG",
+      "sha256": "d7d8abb59c2e1a6706796bae0d6fb57e3e46c9fdbae573fd380de8d8ab385b51",
+      "size": 39565
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5253.JPG",
+      "sha256": "a531048b8b75ff9cc7ac035104fba732fb6bde18d36a630157c6520808e5f9ea",
+      "size": 51249
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_6001.JPG",
+      "sha256": "b447ec12ccd73940a63e4a9d4bb704d11e0450c108de92c17001064382d8349c",
+      "size": 43818
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5077.JPG",
+      "sha256": "54c4e8204cf9af925214412a1ce6cb21a10ac9c6ab8a29ab369318bf61e3d965",
+      "size": 45590
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_20241227_155143.jpg",
+      "sha256": "3b891abbd08b9d140a873d121a7347b653ce4fd3b6f20c53b46894db0cfc6d01",
+      "size": 35522
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5219.JPG",
+      "sha256": "2bffee092c6e26015985f238067754af298749ff1d0ee498062fcccb1172f9ca",
+      "size": 48290
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5114.JPG",
+      "sha256": "08e5a0b163c1eb849412dcc4e8533caae9c85f7bc83882a8a6c9fdf11f83ac5c",
+      "size": 42220
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_6019.JPG",
+      "sha256": "00ed3eece2d2915aba5bee1f1ce1bfdcb392ea965dd248c41e2ab0619e005186",
+      "size": 47482
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5203.JPG",
+      "sha256": "9d30cef33bfbb5bde3824b491d13793b1deb8b1606883a51ab2dc036941557a7",
+      "size": 32450
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5141.JPG",
+      "sha256": "7923935b478e045bd8b487114ac3349597ab6bd3c23fc73bf02c3ac78dad55a1",
+      "size": 53388
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_6022.JPG",
+      "sha256": "8aee37cf429b739c01779fc3bacf32cdc152517441193f54fc1231e897d3232b",
+      "size": 47827
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5079.JPG",
+      "sha256": "f876f721ca3f04f0686769a3b983699e10a5b40c70d7147ac513a7d97b9e3640",
+      "size": 59503
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_6005.JPG",
+      "sha256": "fe5fa3ca8de0d97eea32035f71a24063892058a073ee6710fd7a8ac771a5190a",
+      "size": 43883
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5025.JPG",
+      "sha256": "126b41bb38ca8a67484ad1906d323eae4a809b55358fffc2782f3fc0e80f32cc",
+      "size": 27599
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5120.JPG",
+      "sha256": "35eb9342f3b71ff2df50b5f5216fa14762b28edcfd475c0f4bab661053061e3e",
+      "size": 42823
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5207.JPG",
+      "sha256": "def933ff8581ade6c98d267d0be3dd588b9c08b782a9e890e601f77b5dcfe97b",
+      "size": 88619
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5234.JPG",
+      "sha256": "012c2f7ff40bafbfada48e7cee6322865cec5b2eb63b483e92a7f06e0965677f",
+      "size": 41043
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5244.JPG",
+      "sha256": "85743ff7d1f301218e2ee90577d24430280f424d25f0631a8f43ff868058d7a6",
+      "size": 44449
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5086.JPG",
+      "sha256": "948fafcc35952abd3715aa856ab6924714439ae4532954c03aa3c2c2ce01eb56",
+      "size": 29339
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5121.JPG",
+      "sha256": "692d98530fbaad67f5022a58bb3e3ae8cd5395d21fe220ea5d02adfa24657496",
+      "size": 41860
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5280.JPG",
+      "sha256": "65369b2c9b5a487cdeed1f80ca7bcde639b78bbd0c91c511286e37100fea7ae0",
+      "size": 47616
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5045.JPG",
+      "sha256": "1611cbf92e29556a239fa25b3bf6a19d03b93c6d59e3d280c356af8c4e5033b3",
+      "size": 43532
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5962.JPG",
+      "sha256": "3b3a020bd5b19c1e988169b6928580ebc5452a62b6b2cc2cfa1858eaeb33f5c0",
+      "size": 42472
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_20241227_180821.jpg",
+      "sha256": "8bcff2eaad7d83d5ffa3b7b67b8d521b1d02f9238a8585dd5d38783b70c53064",
+      "size": 36062
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_6024.JPG",
+      "sha256": "3e297bd63beb75b9c9c6c124d719b4e62d58af862942eba2c9d50683ca489b14",
+      "size": 35621
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_20241227_155141.jpg",
+      "sha256": "06dacc71fb482c02819b0955de62a0f81a24c4031aff00990d1c725e0b04e3ca",
+      "size": 33264
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5266.JPG",
+      "sha256": "b12235653ac6f1366e4f25b691d8be9e20d92e7097414ba4e472de1f732a4266",
+      "size": 46684
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5980.JPG",
+      "sha256": "e8097e7b81a313e0d369bd3c626f25a9f1d6cab89fd545dae51a415b4f3ea1db",
+      "size": 54503
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5279.JPG",
+      "sha256": "c81b9c7f85482cdd005d7fd64b26a6c496559ebaceb0fff2ca5572e7f3131f34",
+      "size": 34568
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_6012.JPG",
+      "sha256": "803565f2e874043cdd9f573e27fffa2c937537b3d5a4090af34bc31d4fa5511c",
+      "size": 36269
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_6018.JPG",
+      "sha256": "96063d2cbc5f0cdf6cb38edaffac302e65fd3a35f5a550b132734608fe7b5997",
+      "size": 52465
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5139.JPG",
+      "sha256": "0eec0e5435db17896db1a97a84e7ec176e41d24c627f439c3f4a3e618503d191",
+      "size": 53241
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_6021.JPG",
+      "sha256": "9da33c1799b8a9b60553cba4a88d62f7a82e596a1b2cc54a0c7dc42e025353bf",
+      "size": 38276
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5257.JPG",
+      "sha256": "1d3a4a680ed2c74e88175c4d1e9417e5888714511227b79ad002e35d47c6fc5a",
+      "size": 27429
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5137.JPG",
+      "sha256": "4c75b6ab16b22894a68687a4e12c037ef373e2610ffc3077c7d9184634c88678",
+      "size": 46656
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5197.JPG",
+      "sha256": "66e543b155252af6d83b86275871e58a63a30c57df197d1244dfadbd77b9d4ef",
+      "size": 36147
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5953.JPG",
+      "sha256": "2c0fb513f2ebbfdffa5d40403c0317b775431161f486b6d3abfc6d4b7136d88c",
+      "size": 48815
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5295.JPG",
+      "sha256": "f177902d425c77ca640e9f9cf7b56cc70576f20b159438921f39e49c6c2b8a4e",
+      "size": 51082
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5087.JPG",
+      "sha256": "4dba1d4e885b249b3dbb9faf090b699e6fbfd4367f652d72b3529cec6a1b5dc4",
+      "size": 27690
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5277.JPG",
+      "sha256": "caf0c0bf4b13490131162480dc4c3f1954008668510c984e24e5079698100392",
+      "size": 48938
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5959.JPG",
+      "sha256": "d60ec4f0dc41206e082e12c2fdbdbb759904228f715c77770d86f95c907ace66",
+      "size": 37726
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5138.JPG",
+      "sha256": "88284c292d830e3245dc26994a1f00c914b31203199daee3ee2f8e16fc046b75",
+      "size": 49423
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5272.JPG",
+      "sha256": "22b200573bf7d8fbc20fd6e8d9a4885cb3cdc165134edfe6f8e4339331ff6b16",
+      "size": 41707
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5049.JPG",
+      "sha256": "ab44323348d58a7b1d2936de08c24f21d70e0d6138ade29f854225020d3ab3a3",
+      "size": 33997
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5060.JPG",
+      "sha256": "39bfe0412ea4d7bbfb66a820de30b548bb6268d15389d082e3521aec67df6a68",
+      "size": 77166
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5296.JPG",
+      "sha256": "8356dfbf35ee56a9278037891768ab025869f029f4ae09b3398940a92fcd4704",
+      "size": 49916
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5189.JPG",
+      "sha256": "57c7a31ac86930b8a739e301835507d366356ce53f3b0c8b13e6e498bb5e8a40",
+      "size": 42653
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5956.JPG",
+      "sha256": "11003cf70cc3039db290ac7362a9a31db2a0d7616d5aa813cb3ce32dbcaecf00",
+      "size": 47598
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5033.JPG",
+      "sha256": "f02f627a439dffe51d63c9271770481ac23a05a16dbeb7691476c09e7e65d0d2",
+      "size": 37945
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5035.JPG",
+      "sha256": "6e891121b9b68995ca0f8b3ee52158e51ec647e0a029f7aed407c4cf41c4eda9",
+      "size": 37128
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5972.JPG",
+      "sha256": "cfbc28f8b4e7684f587f0b76c14c5eed28e223d042100c3bd911b106d25fca54",
+      "size": 55636
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5076.JPG",
+      "sha256": "c0ea8ad76c71d80c6d570430a78bffef671149b5b42b71cf8c6b56e402a40c2e",
+      "size": 47579
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5276.JPG",
+      "sha256": "83bda004f99ed28f6ad2d7985589edf5e17420d19ce93930b486560c6d47127f",
+      "size": 48837
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5066.JPG",
+      "sha256": "8336a12f7d1d5e58c09075ca71e3cbde571f74e1f5b9da17beab7ae19a16b5cb",
+      "size": 36865
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_20241227_155116.jpg",
+      "sha256": "c2b0ee153fe944b5fbc956abdb04dc3489625af34d064ebaa4f9346ec56bb4d0",
+      "size": 51425
+    },
+    {
+      "path": "food_waste_bangladesh/images/train/Wedding Food waste/IMG_5264.JPG",
+      "sha256": "d9b1ccd16572261432801cdcbe3b246e083b699d7fd90abb124ee9c93141dba9",
+      "size": 40486
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Wedding Food waste/IMG_5243.JPG",
+      "sha256": "01480b6dfdf795560be5e4ba6794393d1854952156f6484edccca44fa4948272",
+      "size": 40192
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Wedding Food waste/IMG_5209.JPG",
+      "sha256": "a0c18df10c4443897e9c2867d857784e54ff5ea42db071799976ff474d26f435",
+      "size": 95204
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Wedding Food waste/IMG_20241227_154837.jpg",
+      "sha256": "58b429a956c80ee111ce6954608f222c763f9027f943241e049cecd29f060e2a",
+      "size": 43307
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Wedding Food waste/IMG_5969.JPG",
+      "sha256": "67c54e3a245d09d8b3394ae04192f6a0ac6306cd4979a190e107a6cbe2672fb5",
+      "size": 44689
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Wedding Food waste/IMG_5224.JPG",
+      "sha256": "b5be8ce086249fb0e8299c8eba7b8e92a650084506a1ba8f8dba45f89dcddcc9",
+      "size": 63173
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Wedding Food waste/IMG_5145.JPG",
+      "sha256": "e5f5a25b7880f0fc736700452367c7cb5136d65a23d3a5fec4c71d65a9aaaa84",
+      "size": 36554
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Wedding Food waste/IMG_6036.JPG",
+      "sha256": "842b5a1220795d5cb208a295b6918de605b5da61963860f3bfe8cdfd0f12ed96",
+      "size": 38030
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Wedding Food waste/IMG_5944.JPG",
+      "sha256": "2867e4627fd450888dae0fbda87ebb9f45af1dc913b8511d2c6b032909ede6e1",
+      "size": 41460
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Wedding Food waste/IMG_6017.JPG",
+      "sha256": "26ed2a6cd385a8d6e92b9a59a6dd81134da347450d2077cdf9a4a9f0385ea262",
+      "size": 45111
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Wedding Food waste/IMG_5260.JPG",
+      "sha256": "cb470c5864e996505668077e8a85cf3053e87f0ab0bccf3470ab8098e2da0fad",
+      "size": 42481
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Wedding Food waste/IMG_6003.JPG",
+      "sha256": "9efd2b9fe04b70c9e57d0b0fb6a2eb969edee940d35f93b9bfde510d826d30ee",
+      "size": 45253
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Wedding Food waste/IMG_20241227_150642.jpg",
+      "sha256": "145e460df149803fe6803b1f8917bce854337edbdcea5afec1394495d0d4f4cc",
+      "size": 46564
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Wedding Food waste/IMG_5223.JPG",
+      "sha256": "bbc8e21d63cc748d0a0195939333d1c161380637a2c0d5eaababc7ef75f1738d",
+      "size": 58412
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Wedding Food waste/IMG_5059.JPG",
+      "sha256": "778b4453e30bcbeb3157138fe1715873e8e97a29adfecb46ce50382c1666434d",
+      "size": 33060
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Wedding Food waste/IMG_5126.JPG",
+      "sha256": "ee2a43350c88a6f484c2afc156821955ceccaf6e8ccb3a3884c4a4192a0f0b44",
+      "size": 44759
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Wedding Food waste/IMG_5941.JPG",
+      "sha256": "37c1cfa598d8ce44764fd6bfd340d3250c137b19928af435e871917c8c72b0f2",
+      "size": 48145
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Wedding Food waste/IMG_5267.JPG",
+      "sha256": "8ee42db954819523cfe1484651decabee0206b39bc6eb9f07af4093e6b390079",
+      "size": 33142
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Wedding Food waste/IMG_5040.JPG",
+      "sha256": "4b5b13776fc8fe18ea4cf628dbd37840e0eb70ae46b329802c79925ae04dacad",
+      "size": 27702
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Wedding Food waste/IMG_5142.JPG",
+      "sha256": "d2d48342903ecf8a752d68fe6a17b8199cdde6af4582be0e00fde7a2a0b35d0c",
+      "size": 40815
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Wedding Food waste/IMG_6035.JPG",
+      "sha256": "db2f27a52a3e9c2c62815f534594f0228dbed76bd6ba375a7ce654a2b5711066",
+      "size": 68764
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Wedding Food waste/IMG_5064.JPG",
+      "sha256": "28468d2c517e5ab88a3528a214a639b51a1cf8a8ee84f8dad1c61fb4fb04df28",
+      "size": 42829
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Wedding Food waste/IMG_5215.JPG",
+      "sha256": "ec6679ca4b8b7a04337d9f53084a7a244c6bd15c532878a3bf72c84d275f493e",
+      "size": 58993
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Wedding Food waste/IMG_6013.JPG",
+      "sha256": "f454b99e2fe9dd4be36724cacfaaf89488a83c2bbcde46820348690b6b142667",
+      "size": 62589
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Wedding Food waste/IMG_5058.JPG",
+      "sha256": "ea823ff6cf8185a515d4fdf79d243350628dc71797db41e5ac66e5eeef573136",
+      "size": 35231
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Wedding Food waste/IMG_5293.JPG",
+      "sha256": "607d97ea896946230b6758ea4c2c68000699d31665b29f3d95113348c16fc0a9",
+      "size": 54369
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Wedding Food waste/IMG_5226.JPG",
+      "sha256": "00b6cc4f99e029201b03e9c51547d6f41cc262f6168d430fae07b81b5e825336",
+      "size": 27280
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Wedding Food waste/IMG_6025.JPG",
+      "sha256": "c67c17939a3960c21b1e26fc18e3be17d96a7ef4818f8b4b54e1f5d58b5d3814",
+      "size": 37878
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Wedding Food waste/IMG_5222.JPG",
+      "sha256": "469bf9d1d2848f6299fad1de612ec503276de69063b7db60fea4bb7a0c6aa52f",
+      "size": 45092
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Wedding Food waste/IMG_5246.JPG",
+      "sha256": "337b9350d15e5e2694b585f5e07f46cb2c67a6a4d041f036c8b76c078dd609c2",
+      "size": 37644
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Wedding Food waste/IMG_5270.JPG",
+      "sha256": "e17cb1c2b0668c2f4d7393fa721c94a4853d20d91e23c581eb9074b14803ba70",
+      "size": 28118
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Wedding Food waste/IMG_5212.JPG",
+      "sha256": "4c2e92d7b7a85df02487ff18eba1fe2639f9ade82dc176e8c0377dc52227fb64",
+      "size": 51154
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Wedding Food waste/IMG_5134.JPG",
+      "sha256": "4ccbe20aa47b11f946161467d5e71bbc5c49d40752b43b36d7b155dd2d38b1e4",
+      "size": 36694
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Wedding Food waste/IMG_5061.JPG",
+      "sha256": "e9dfe042f8edc04e39323371d2e74b4570f3f3c2343386193ff6116c71aa30bd",
+      "size": 39175
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Wedding Food waste/IMG_5220.JPG",
+      "sha256": "97b0f3248b612147de3b78c53769c638788052d68f7fa4f54bf5f63c19f87147",
+      "size": 45833
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Wedding Food waste/IMG_5991.JPG",
+      "sha256": "91a2ab99064cfbd7dd64ceebccff80791b29305d00ebde893591520b24acab7f",
+      "size": 42533
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Wedding Food waste/IMG_5044.JPG",
+      "sha256": "78fb4ae45b4f66aaacc4feab3b964d74c067d0ba98cce9e502bded166a9f447e",
+      "size": 40200
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Wedding Food waste/IMG_6033.JPG",
+      "sha256": "08d7a048a12137695a9ed0c7369c04e642b465afca727b17b73a3d934486a6f9",
+      "size": 78880
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Wedding Food waste/IMG_5088.JPG",
+      "sha256": "94df0a353759d0d6f89bf6e447c3590b7f02c77210d3c07b23720263a001e166",
+      "size": 44442
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Wedding Food waste/IMG_5271.JPG",
+      "sha256": "2c7b5239fb95eb82ad19edc364d7d8f4dc65dc8209fd2d7f1934c99cfd676ff2",
+      "size": 47646
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Wedding Food waste/IMG_5048.JPG",
+      "sha256": "96e2eeaf2acf66c236895d583312da7ff8fd8630a0957eb7bf6508500536808c",
+      "size": 45297
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Wedding Food waste/IMG_5237.JPG",
+      "sha256": "6e4a09bf763b576233a446b99f1cab4955a32b388c797f72b8a0da24452fb2de",
+      "size": 47201
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Wedding Food waste/IMG_5204.JPG",
+      "sha256": "31fdecc859d2a03ed17dedd5ff9610adda898d4de7664890b8160bc377f4cf69",
+      "size": 64626
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Wedding Food waste/IMG_5074.JPG",
+      "sha256": "663526a34d288044685171a69ea7f70266622ce1a2fb7209fd263fe743169675",
+      "size": 49956
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Wedding Food waste/IMG_5146.JPG",
+      "sha256": "09155db046c49a5c843a28c960d495b94d978a5b1d664c86fd0c33155bb0a1ac",
+      "size": 34522
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Wedding Food waste/IMG_5259.JPG",
+      "sha256": "45b5c6ef45251ffa3884c7f8d342f62378ac0448617c8d29ee2df9222e721a54",
+      "size": 43968
+    },
+    {
+      "path": "food_waste_bangladesh/images/val/Wedding Food waste/IMG_5231.JPG",
+      "sha256": "10ef61372437a1e2414cf4f5f632737f09ea6ed6882710fe49c1ced1f6bfbeb5",
+      "size": 34075
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Wedding Food waste/IMG_5274.JPG",
+      "sha256": "1e368675e419f67ed7a605a0c4c654c63c6a1de50cc78098057e4ca0c564d95f",
+      "size": 48373
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Wedding Food waste/IMG_5135.JPG",
+      "sha256": "91e5427f3260d6c844a8b347d1992043d3ea382c65c9be791b73c7d211be9716",
+      "size": 39782
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Wedding Food waste/IMG_5287.JPG",
+      "sha256": "13611a27dcb9c4824075530fd61e17b33ecdbe1218bc6f401beb5d2057e1b65a",
+      "size": 48775
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Wedding Food waste/IMG_6008.JPG",
+      "sha256": "6499571bb50eab44ec2e7a3475222fd068ef60260dd7496393f450ade3ac8844",
+      "size": 44992
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Wedding Food waste/IMG_5248.JPG",
+      "sha256": "7625717d34bfa4ef0f95b9f7920744d49f224be7f20ec16dff2c403b7617dc6f",
+      "size": 54755
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Wedding Food waste/IMG_6026.JPG",
+      "sha256": "d5e8f178432e21d70f1310dbea084de5f081cd1f901faabf26b23c9aa6d7c520",
+      "size": 50182
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Wedding Food waste/IMG_5258.JPG",
+      "sha256": "46782c91dccca7c5be81ad71e04ebafd67209072eff90287f4e49160d7831422",
+      "size": 30089
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Wedding Food waste/IMG_5070.JPG",
+      "sha256": "1366a431db8e445da0df20eea3b88806f64490c8aad26b26a1358ccfff8f3a48",
+      "size": 84061
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Wedding Food waste/IMG_5118.JPG",
+      "sha256": "d5b740ea14cf3f737332d8d3b0db725365a9de43e56ee93ad401c8ee70b972fe",
+      "size": 44846
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Wedding Food waste/IMG_5217.JPG",
+      "sha256": "4f59088b3e9518a13fd190376d26162312740898f7637e524621c98e190741ea",
+      "size": 50346
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Wedding Food waste/IMG_5949.JPG",
+      "sha256": "9d085bb0abf80fd084ea83acdc1f7b0bdbc4f18893435286bb6312fc98addf32",
+      "size": 40801
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Wedding Food waste/IMG_5986.JPG",
+      "sha256": "15c27d3d6c2e8c76dea36b88885f17c56d6c3928cdcd3d1da8512b83bf4bbcac",
+      "size": 83719
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Wedding Food waste/IMG_5249.JPG",
+      "sha256": "0c5bc051a703109e1e0a25a110d3a67873358ed46ad3a411e21a5a6f5521a9c6",
+      "size": 47602
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Wedding Food waste/IMG_5192.JPG",
+      "sha256": "5b2738f353a5d0fa6d12af053bb97af9ff717c2a64a94d15749100a4cb0c7ac0",
+      "size": 35689
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Wedding Food waste/IMG_5943.JPG",
+      "sha256": "4ccf7a837693bc68d941553bdd2be5094faac163a411ea0761c53e0670ebbc6d",
+      "size": 37367
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Wedding Food waste/IMG_5072.JPG",
+      "sha256": "167c97175625e767712d00ceb7e2bd7da519ddede0f5c8bf31b262874080bf3d",
+      "size": 45164
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Wedding Food waste/IMG_6007.JPG",
+      "sha256": "9a3dddda88507549b35ee2159f9bb3373c1c9d616c3308b2efa6a695dd397324",
+      "size": 29409
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Wedding Food waste/IMG_5957.JPG",
+      "sha256": "a8c4c50d31781eefee7c05b7eb1f89776c00a470fdcd4dbca13fb116a9dd1da3",
+      "size": 40122
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Wedding Food waste/IMG_5053.JPG",
+      "sha256": "70905a2fa503e960cbb0530dd45930954e9988e9ffc1ed2b335a98f3581b51d7",
+      "size": 39233
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Wedding Food waste/IMG_5960.JPG",
+      "sha256": "5ccc09eefa89988880f9dc19526413ba1f0613703ca52824d9f631f9511d52b6",
+      "size": 30398
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Wedding Food waste/IMG_5966.JPG",
+      "sha256": "fc1124aa789b648d924a248363d8b118d37309ab2edab326c02f97a85280fbaf",
+      "size": 44873
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Wedding Food waste/IMG_5119.JPG",
+      "sha256": "67e24eda347c6d7d7f2270495891d0c6849f2a2846e2d6184c70c60d8e42cc2d",
+      "size": 45728
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Wedding Food waste/IMG_5261.JPG",
+      "sha256": "8d35cbfa51c5bfb287e5b590ae49aebb3c328653420809b71cfdeec870fa5d39",
+      "size": 44723
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Wedding Food waste/IMG_5970.JPG",
+      "sha256": "513ac1e6270c0deaebaadeb236fa93f1a7446593c1d331ded5fa6db53a177951",
+      "size": 42895
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Wedding Food waste/IMG_5281.JPG",
+      "sha256": "5804a2cb0b77f46beaed408ba32391ec8becf95025a3392140ca2b71ba861731",
+      "size": 43425
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Wedding Food waste/IMG_5062.JPG",
+      "sha256": "120242a483a6477c977a8d0bfe2fad0fdb888f3d1b73e19a6017900e847fff84",
+      "size": 48978
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Wedding Food waste/IMG_5245.JPG",
+      "sha256": "6ba42364a0501dcfd0a78e21e6ee0c78821d7bcf144bdc09d15db50cf50d3d6a",
+      "size": 42615
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Wedding Food waste/IMG_5998.JPG",
+      "sha256": "4a00fbc1450ab4667cfe38fa4d35cbe5029cc6e6c13c56b45e21bc54c17f556c",
+      "size": 53476
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Wedding Food waste/IMG_5228.JPG",
+      "sha256": "3b7bed81794b20d1d17199a5e7c38edd1aebc2cdbbe8254497ef475ea613d78d",
+      "size": 35608
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Wedding Food waste/IMG_6009.JPG",
+      "sha256": "3c22706661c4d89652fc2b5592841bd8d0fdefd899430c3de0ed59669616f11a",
+      "size": 54212
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Wedding Food waste/IMG_5085.JPG",
+      "sha256": "388c0f72c0e25eb99283eeae270b7a84fec3146c5450cf5f24011014f1284f25",
+      "size": 48496
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Wedding Food waste/IMG_6027.JPG",
+      "sha256": "420a194e9d69894340bb30df3a8f4464af8bea3824f9f59657abaa7205606200",
+      "size": 38348
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Wedding Food waste/IMG_5042.JPG",
+      "sha256": "e06d8b2c9365f83ff38f721ed0c8b61c69e2cc1991b91829f6b31108cdef8f8f",
+      "size": 34173
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Wedding Food waste/IMG_5240.JPG",
+      "sha256": "2659488b07cc41c907073968d1aa7acd820ce58c4989b583550c8a59bd9c6240",
+      "size": 47063
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Wedding Food waste/IMG_5050.JPG",
+      "sha256": "b2dba63f6a1c950fa3a7d96e5e012c626150f09e02fc9acc02392d5e86b5af67",
+      "size": 45450
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Wedding Food waste/IMG_5026.JPG",
+      "sha256": "cd456b4e2c4042f71c7db9a2094eca280187cdf9fbc5fb7ee4340c42281b39a8",
+      "size": 36608
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Wedding Food waste/IMG_5027.JPG",
+      "sha256": "9648c1585d0f261e34ba9cadc94c0e308dc061acb4a49076870dbc4dd4ce0816",
+      "size": 42438
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Wedding Food waste/IMG_6004.JPG",
+      "sha256": "43e51a874cc90d0d7fa91ba6a4013ca4d4de3c640f5fa06dee31d831404205de",
+      "size": 44878
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Wedding Food waste/IMG_6028.JPG",
+      "sha256": "a1966d7db65fdfce30e7e3e0c0285f68ae2da1a02fba63ee230292e88ba8277a",
+      "size": 44963
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Wedding Food waste/IMG_5117.JPG",
+      "sha256": "7299c83704c34154e546ca15a90bd0b26f350d164cb7e6bb0251fe63b749f17a",
+      "size": 51599
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Wedding Food waste/IMG_5992.JPG",
+      "sha256": "3514dadc3e99ea0ee11b94f34e2c3da8b1f7ca5ff9e72bd96ea6b080be24ae92",
+      "size": 47943
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Wedding Food waste/IMG_5194.JPG",
+      "sha256": "db53a4acddfff759c4411dceb3f12c48a42024d77c21803445545def810a881b",
+      "size": 45874
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Wedding Food waste/IMG_6030.JPG",
+      "sha256": "9736477b9dc9c55fd332c2f4651bfced7f0572e185cfae31e7fed32d388b0e04",
+      "size": 77744
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Wedding Food waste/IMG_6031.JPG",
+      "sha256": "9afd4d20cc10058ef2e8f070fcf9249a1a21018a071769fb0fc578471e51bbc7",
+      "size": 79385
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Wedding Food waste/IMG_5034.JPG",
+      "sha256": "5c2cff043233cd5b930875255113a5e42eabc580261d39a1910512cb8835b1a8",
+      "size": 47467
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Wedding Food waste/IMG_5282.JPG",
+      "sha256": "c9e3d201d4bc6bd59dad0be72b10f52ed3f07f5a7942df5c1853a5b048f41c08",
+      "size": 37453
+    },
+    {
+      "path": "food_waste_bangladesh/images/test/Wedding Food waste/IMG_5054.JPG",
+      "sha256": "cb88ca4ccce2ca60e144b90680e8f3f25cf12f4b2a1ef8e8d190126cd3a405a4",
+      "size": 40182
+    },
+    {
+      "path": "food_waste_bangladesh/LICENSE.md",
+      "sha256": "7d4a91f987c94a6d61724528088eac0d843e8ba201d0d798c583684dbd14e7af",
+      "size": 884
+    }
+  ],
+  "image_count": 633,
+  "label_format": "classification_csv_and_jsonl",
+  "transform_version": "classification_v1.0.0",
+  "license": "CC BY 4.0",
+  "attribution": "Mohammad Manzurul Islam; Saifur Rahman; Fatema Tahsin; Zarif Syndeed Sikder (2025), “An image dataset for food waste in Bangladesh,” Mendeley Data v1, DOI 10.17632/w68f9w6jmm.1, CC BY 4.0. Changes: excluded 11 images showing partial people and one image with a QR-code-like mark; normalized class-name whitespace and file extension; created stratified train/validation/test splits; image pixels unchanged.",
+  "source": {
+    "url": "https://data.mendeley.com/datasets/w68f9w6jmm/1",
+    "version": "1",
+    "sha256": "10e7a106a1f4570f404f93f8fa5c523c53f837f5e3f70981c8a06c02b7080e14"
+  }
+}

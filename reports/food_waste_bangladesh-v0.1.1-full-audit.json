@@ -1,0 +1,200 @@
+{
+  "candidate_id": "DS-021",
+  "dataset_id": "food_waste_bangladesh",
+  "audit_date": "2026-11-10",
+  "source": {
+    "landing_page": "https://data.mendeley.com/datasets/w68f9w6jmm/1",
+    "version": "1",
+    "doi": "10.17632/w68f9w6jmm.1",
+    "authors": [
+      "Mohammad Manzurul Islam",
+      "Saifur Rahman",
+      "Fatema Tahsin",
+      "Zarif Syndeed Sikder"
+    ],
+    "license_claim": "CC BY 4.0",
+    "file_id": "d3e82a1b-66c2-4987-8432-efa5c1201441",
+    "filename": "Root.zip",
+    "size": 31426593,
+    "sha256": "10e7a106a1f4570f404f93f8fa5c523c53f837f5e3f70981c8a06c02b7080e14",
+    "fixed_download_url": "https://data.mendeley.com/public-files/datasets/w68f9w6jmm/files/d3e82a1b-66c2-4987-8432-efa5c1201441/file_downloaded"
+  },
+  "archive": {
+    "sha256_verified_before_extraction": true,
+    "zip_entries": 651,
+    "regular_files": 645,
+    "uncompressed_bytes": 31386480,
+    "crc_test": "passed",
+    "unsafe_paths": 0,
+    "symlinks": 0
+  },
+  "content": {
+    "image_count": 645,
+    "folder_labels": {
+      "Buffet Food waste": "Buffet Food waste",
+      "Food waste (General)": "Food waste (General)",
+      "Restaurant food waste": "Restaurant  food  waste",
+      "Vegetables waste": "Vegetables  waste",
+      "Wedding Food waste": "Wedding  Food waste"
+    },
+    "source_class_counts": {
+      "Buffet Food waste": {
+        "source_images": 91,
+        "unique_images": 91,
+        "excluded_exact_duplicates": 0,
+        "splits": {
+          "train": 64,
+          "val": 14,
+          "test": 13
+        }
+      },
+      "Food waste (General)": {
+        "source_images": 146,
+        "unique_images": 146,
+        "excluded_exact_duplicates": 0,
+        "splits": {
+          "train": 102,
+          "val": 22,
+          "test": 22
+        }
+      },
+      "Restaurant food waste": {
+        "source_images": 72,
+        "unique_images": 72,
+        "excluded_exact_duplicates": 0,
+        "splits": {
+          "train": 50,
+          "val": 11,
+          "test": 11
+        }
+      },
+      "Vegetables waste": {
+        "source_images": 16,
+        "unique_images": 16,
+        "excluded_exact_duplicates": 0,
+        "splits": {
+          "train": 11,
+          "val": 2,
+          "test": 3
+        }
+      },
+      "Wedding Food waste": {
+        "source_images": 320,
+        "unique_images": 320,
+        "excluded_exact_duplicates": 0,
+        "splits": {
+          "train": 224,
+          "val": 48,
+          "test": 48
+        }
+      }
+    },
+    "decoded_images": 645,
+    "decode_errors": 0,
+    "format_counts": {
+      "JPEG": 645
+    },
+    "dimensions": {
+      "640x480": 644,
+      "678x768": 1
+    },
+    "exact_duplicate_groups": 0,
+    "source_extensions": {
+      "jpg": 643,
+      "jpg_": 1,
+      "jpeg": 1
+    },
+    "metadata_scan": {
+      "exif_app1_files": 0,
+      "gps_tags": 0,
+      "xmp_files": 0
+    },
+    "visual_sample_review": {
+      "source_images_in_contact_sheets": 645,
+      "contact_sheets": 26,
+      "selected_full_resolution_review": true,
+      "excluded_images_showing_partial_people": 11,
+      "excluded_image_with_qr_code_like_mark": 1,
+      "remaining_branding": "Incidental logos/product packaging remain visible on some plates and containers; no endorsement is implied."
+    },
+    "artifact_image_count": 633,
+    "removed_images": [
+      "Wedding Food waste/IMG_5063.JPG",
+      "Wedding Food waste/IMG_5129.JPG",
+      "Wedding Food waste/IMG_5963.JPG",
+      "Wedding Food waste/IMG_5964.JPG",
+      "Wedding Food waste/IMG_5965.JPG",
+      "Wedding Food waste/IMG_5981.JPG",
+      "Wedding Food waste/IMG_5982.JPG",
+      "Wedding Food waste/IMG_6032.JPG",
+      "Wedding Food waste/IMG_20241227_154343.jpg",
+      "Wedding Food waste/IMG_20241227_154345.jpg",
+      "Wedding Food waste/IMG_20241227_154350.jpg",
+      "Buffet Food waste/IMG_5484.JPG"
+    ],
+    "artifact_class_counts": {
+      "Buffet Food waste": 90,
+      "Food waste (General)": 146,
+      "Restaurant food waste": 72,
+      "Vegetables waste": 16,
+      "Wedding Food waste": 309
+    }
+  },
+  "pedagogy": {
+    "status": "suitable_for_limited_classification_exercise",
+    "task": "classify the collection context of food waste photos and inspect class imbalance and capture-setting shortcuts",
+    "not_a_measurement": "folder counts do not measure food discarded or prevalence at the listed venues",
+    "class_imbalance": "Wedding Food waste has 309 images while Vegetables waste has 16.",
+    "split_leakage_risk": "Many filenames are sequential or timestamped; random split may place neighboring captures from one event across splits. Use for exploratory classroom classification, not a generalization benchmark.",
+    "limitations": [
+      "The folder labels describe collection context, not quantity or prevalence. Eleven images showing partial people and one QR-code-like image were excluded. Incidental branding remains visible; do not imply endorsement."
+    ]
+  },
+  "transform": {
+    "source_transform": "classification_source_v1.0.0",
+    "common_transform": "classification_v1.0.0",
+    "seed": 42,
+    "ratios": {
+      "train": 0.7,
+      "val": 0.15,
+      "test": 0.15
+    },
+    "output_image_count": 633,
+    "pixel_changes": false,
+    "changes": [
+      "normalized whitespace in class names",
+      "renamed one .jpg_ extension to .jpg",
+      "created deterministic stratified train/val/test split",
+      "excluded 11 images identified as showing partial people",
+      "excluded Buffet Food waste/IMG_5484.JPG with QR-code-like mark"
+    ]
+  },
+  "artifact": {
+    "version": "0.1.1",
+    "filename": "food_waste_bangladesh-v0.1.1.zip",
+    "size": 30760217,
+    "sha256": "bcbd7fe1f2b8d37a1b86952d59987b1067cdc55c0099199eee0217a4f805c57d",
+    "manifest": "manifests/food_waste_bangladesh-v0.1.1.json",
+    "manifest_validation": "passed",
+    "artifact_validation": "passed",
+    "file_count": 638,
+    "image_count": 633,
+    "release": {
+      "tag": "food-waste-bangladesh-v0.1.1",
+      "status": "published",
+      "url": "https://github.com/708san/CV_data_artifacts/releases/tag/food-waste-bangladesh-v0.1.1",
+      "download_url": "https://github.com/708san/CV_data_artifacts/releases/download/food-waste-bangladesh-v0.1.1/food_waste_bangladesh-v0.1.1.zip",
+      "published_at": "2026-11-09T21:50:26Z",
+      "size": 30760217,
+      "sha256": "bcbd7fe1f2b8d37a1b86952d59987b1067cdc55c0099199eee0217a4f805c57d"
+    }
+  },
+  "rights": {
+    "license": "CC BY 4.0",
+    "attribution_required": true,
+    "modification_notice_required": true,
+    "attribution": "Mohammad Manzurul Islam; Saifur Rahman; Fatema Tahsin; Zarif Syndeed Sikder (2025), “An image dataset for food waste in Bangladesh,” Mendeley Data v1, DOI: 10.17632/w68f9w6jmm.1, CC BY 4.0.",
+    "third_party_rights_note": "The fixed Mendeley v1 page displays CC BY 4.0. The dataset description says contributors captured photos at food venues; incidental product and venue marks remain on some packaging/tableware, with no endorsement implied. Eleven images showing partial people and one QR-like image were removed.",
+    "publication_status": "published"
+  }
+}
