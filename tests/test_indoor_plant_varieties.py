@@ -7,11 +7,17 @@ import unittest
 import zipfile
 from pathlib import Path
 
-from PIL import Image
+try:
+    from PIL import Image
+    from transforms.indoor_plant_varieties_v1 import CLASS_MAP, PreparationError, prepare
+except ImportError:
+    Image = None
+    CLASS_MAP = {}
+    PreparationError = None
+    prepare = None
 
-from transforms.indoor_plant_varieties_v1 import CLASS_MAP, PreparationError, prepare
 
-
+@unittest.skipIf(Image is None, "Pillow is optional; image-transform tests need it")
 class IndoorPlantPreparationTests(unittest.TestCase):
     def make_source_zip(self, path, *, unsafe=False):
         with zipfile.ZipFile(path, "w", compression=zipfile.ZIP_STORED) as archive:
