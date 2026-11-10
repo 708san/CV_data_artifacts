@@ -1,0 +1,86 @@
+{
+  "dataset_id": "road_traversing_knowledge",
+  "source_version": "Mendeley Data v1",
+  "source_doi": "10.17632/hssswvmjwf.1",
+  "source_file": "RTK.zip",
+  "source_file_id": "2c72e75d-1f50-457a-86f0-a5e3a4174df9",
+  "source_size_bytes": 101609702,
+  "source_sha256": "78803e8df89eae6130139ee9c48de947edd08015fe56826c30fdacb2599841db",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "source_file_inventory": {
+    "zip_entries": 1408,
+    "image_pngs": 701,
+    "mask_pngs": 701,
+    "text_files": 3,
+    "unsafe_paths": 0,
+    "symlinks": 0,
+    "zip_crc_errors": 0
+  },
+  "decoded_png_count": 1402,
+  "dimensions": [
+    352,
+    288
+  ],
+  "source_split": {
+    "train": 561,
+    "val": 140,
+    "overlap": 0
+  },
+  "mask_encoding": "8-bit grayscale integer class IDs",
+  "mask_ids_observed": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    9,
+    10,
+    11,
+    12
+  ],
+  "mask_id_without_pixels": [
+    8
+  ],
+  "image_sha256_exact_duplicates": {
+    "files": 701,
+    "duplicate_files_beyond_first": 0
+  },
+  "mask_sha256_exact_duplicates": {
+    "files": 701,
+    "duplicate_files_beyond_first": 0
+  },
+  "visual_review": {
+    "image_samples": 12,
+    "sample_ids": [
+      0,
+      35,
+      70,
+      110,
+      160,
+      220,
+      280,
+      340,
+      400,
+      470,
+      550,
+      650
+    ],
+    "result": "All reviewed samples depict rural roads and road environments; some include distant vehicles, homes, or traffic signs. No readable license plates or clearly identifiable faces were apparent at the reviewed resolution.",
+    "scope_note": "Representative visual review only; not a manual review of every image or a complete third-party rights/privacy audit."
+  },
+  "rights_note": "The Mendeley snapshot explicitly says further permission may be needed for third-party content identified in the dataset. The dataset description states images were captured in rural areas of Santa Catarina, Brazil. Keep this limitation with redistribution.",
+  "educational_fit": "Can support a student project comparing pixel-level road surface, markings, puddles, potholes, and cracks in a fixed dataset. It is geographically specific and does not represent Japanese roads.",
+  "artifact_transform": {
+    "image_and_mask_pixels_changed": false,
+    "split_changed": false,
+    "directory_structure_normalized": true,
+    "labels_csv_added": true,
+    "metadata_jsonl_added": true,
+    "classes_json_added": true
+  },
+  "status": "passed_with_scope_limits"
+}

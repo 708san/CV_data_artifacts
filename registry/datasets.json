@@ -1,5 +1,26 @@
 {
   "schema_version": "1.0.0",
   "repository": "708san/CV_data_artifacts",
-  "datasets": []
+  "datasets": [
+    {
+      "dataset_id": "road_traversing_knowledge",
+      "artifact_version": "0.1.0",
+      "artifact_url": "https://github.com/708san/CV_data_artifacts/releases/download/road-traversing-knowledge-v0.1.0/road-traversing-knowledge-v0.1.0.zip",
+      "artifact_sha256": "e427708f7c31c85502e6ff06b0f94fb9e5b379e11bb6983d531fc242d189a63a",
+      "source_url": "https://doi.org/10.17632/hssswvmjwf.1",
+      "source_version": "1",
+      "source_sha256": "78803e8df89eae6130139ee9c48de947edd08015fe56826c30fdacb2599841db",
+      "license": "CC BY 4.0",
+      "rights_status": "approved_for_redistribution",
+      "attribution": "Thiago Rateke, Aldo von Wangenheim, and Rafael Toledo (2023), Road Traversing Knowledge, Mendeley Data v1, DOI: 10.17632/hssswvmjwf.1, CC BY 4.0.",
+      "modifications": [
+        "Kept the 352x288 RGB image PNGs and class-ID mask PNGs byte for byte.",
+        "Normalized directories and added CSV/JSONL pair indexes and class metadata.",
+        "Preserved the official 561-image train and 140-image validation split."
+      ],
+      "transform_version": "source_png_preserved; directory_layout_v1; official_train_validation_split",
+      "manifest_url": "https://github.com/708san/CV_data_artifacts/blob/main/manifests/road_traversing_knowledge-v0.1.0.json",
+      "audit_report_url": "https://github.com/708san/CV_data_artifacts/blob/main/reports/road_traversing_knowledge-v1-full-audit.json"
+    }
+  ]
 }

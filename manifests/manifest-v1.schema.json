@@ -27,6 +27,11 @@
     },
     "image_count": {"type": "integer", "minimum": 0},
     "label_format": {"type": "string", "minLength": 1},
+    "split_counts": {"type": "object", "additionalProperties": {"type": "integer", "minimum": 0}},
+    "mask_encoding": {"type": "string", "enum": ["class_id_grayscale", "grayscale_0_255"]},
+    "mask_background_id": {"type": "integer", "minimum": 0},
+    "classes": {"type": "array", "items": {"type": "string"}},
+    "class_names_ja": {"type": "array", "items": {"type": "string"}},
     "transform_version": {"type": "string", "minLength": 1},
     "license": {"type": "string", "minLength": 1},
     "attribution": {"type": "string", "minLength": 1},
@@ -37,7 +42,9 @@
       "properties": {
         "url": {"type": "string", "pattern": "^https://"},
         "version": {"type": "string", "minLength": 1},
-        "sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"}
+          "sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"},
+          "file_id": {"type": "string", "minLength": 1},
+          "size": {"type": "integer", "minimum": 0}
       }
     },
     "annotation_conversion": {
