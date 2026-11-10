@@ -1,0 +1,68 @@
+{
+  "dataset_id": "lefood_set",
+  "source_url": "https://data.mendeley.com/datasets/cchsk79jkt/1",
+  "source_version": "1",
+  "doi": "10.17632/cchsk79jkt.1",
+  "license_claim": "CC BY 4.0",
+  "source_file_count": 1049,
+  "source_image_count": 1048,
+  "source_total_bytes": 52621013,
+  "source_file_set_sha256": "096b72129bd62ef742d5062db575f6c713eae2d6ea6937131de62b1a2b18a594",
+  "source_sha256_check": "all 1,049 source files matched official per-file SHA-256 and byte sizes",
+  "full_decode": {
+    "jpeg_count": 1048,
+    "decode_errors": 0,
+    "dimensions": "variable; every JPEG decoded",
+    "duplicate_sha_groups": 0,
+    "gps_metadata_images": 0,
+    "exif_metadata_images": 0,
+    "orientation_metadata_images": 0
+  },
+  "table_pair_audit": {
+    "data_rows": 678,
+    "complete_image_pairs": 524,
+    "records_without_both_images": 154,
+    "complete_pair_food_categories": 34,
+    "weight_after_greater_than_before_pairs": 10,
+    "anomalous_rows_preserved_with_flag": true
+  },
+  "visual_review": {
+    "contact_sheets": "all 524 image pairs reviewed",
+    "content": "food, plates, placemat",
+    "people_or_faces_observed": 0,
+    "personal_identifiers_observed": 0
+  },
+  "transformation": {
+    "pixel_changes": "none",
+    "removed_rows": 154,
+    "renamed_files": true,
+    "derived_columns": [
+      "consumed_weight_g",
+      "leftover_ratio",
+      "weight_order_anomaly",
+      "split"
+    ],
+    "split": "deterministic category-stratified pair-level split, seed 42",
+    "split_counts": {
+      "train": 366,
+      "validation": 79,
+      "test": 79
+    }
+  },
+  "artifact": {
+    "version": "0.1.0",
+    "image_pairs": 524,
+    "images": 1048,
+    "categories": 34,
+    "zip_size": 53035809,
+    "zip_sha256": "ca1846273d0636ea59f387a586c6f004cfc02d58a639ad5a3c7c844b66cb863a",
+    "zip_validated": true,
+    "release_asset_created": false
+  },
+  "limitations": [
+    "154 workbook rows have missing before/after images and are excluded.",
+    "Ten complete pairs have after weight greater than before weight; these are flagged and retained.",
+    "Images reflect Indonesian food and controlled hospital-meal research, not Japanese school meals.",
+    "Do not use for clinical or individual nutrition decisions."
+  ]
+}
