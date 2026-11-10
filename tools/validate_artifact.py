@@ -80,7 +80,10 @@ def validate(manifest_path: Path, extracted_root: Path) -> dict[str, Any]:
             raise ArtifactValidationError("labels.csv does not match image_count or contains duplicate paths")
         if set(image_names) != expected_image_names:
             raise ArtifactValidationError("labels.csv does not match image files")
-    elif label_format == "paired_image_mask_csv_and_jsonl":
+    elif label_format in {
+        "paired_image_mask_csv_and_jsonl",
+        "paired_multiclass_image_mask_csv_and_jsonl",
+    }:
         labels = dataset_root / "labels.csv"
         with labels.open(encoding="utf-8", newline="") as stream:
             rows = list(csv.DictReader(stream))
@@ -92,6 +95,15 @@ def validate(manifest_path: Path, extracted_root: Path) -> dict[str, Any]:
             raise ArtifactValidationError("segmentation labels do not match image/mask files")
         if not all(f"{dataset_id}/{name}" in expected for name in mask_names):
             raise ArtifactValidationError("segmentation mask file is missing from manifest")
+        if label_format == "paired_multiclass_image_mask_csv_and_jsonl":
+            classes_file = dataset_root / "classes.json"
+            classes_data = json.loads(classes_file.read_text(encoding="utf-8"))
+            classes = classes_data.get("classes") if isinstance(classes_data, dict) else None
+            if (not isinstance(classes, list) or not classes
+                    or not all(isinstance(item, dict) for item in classes)
+                    or [item.get("id") for item in classes] != list(range(len(classes)))
+                    or any(not isinstance(item.get("name"), str) for item in classes)):
+                raise ArtifactValidationError("multiclass segmentation class IDs must be contiguous from zero")
     elif label_format == "yolo_normalized_jsonl":
         annotations = dataset_root / "annotations.jsonl"
         records = [json.loads(line) for line in annotations.read_text(encoding="utf-8").splitlines() if line.strip()]
