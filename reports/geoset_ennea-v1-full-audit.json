@@ -1,0 +1,56 @@
+{
+  "report_version": "1.0.0",
+  "dataset_id": "geosetennea",
+  "source_version": "Mendeley Data v1",
+  "source_url": "https://data.mendeley.com/datasets/fg97mhsdbr/1",
+  "doi": "10.17632/fg97mhsdbr.1",
+  "source_license_display": "CC BY 4.0",
+  "rights_review": "pending for incidental third-party marks/product packaging; artifact and registry publication on hold",
+  "class_count": 9,
+  "image_count": 966,
+  "annotation_count": 8253,
+  "classes": {
+    "Compass": 921,
+    "Divider": 948,
+    "Eraser": 916,
+    "Pencil": 965,
+    "Protractor_180deg": 942,
+    "Scale_15cm": 946,
+    "Set_Square_45deg": 930,
+    "Set_Square_60deg": 773,
+    "Sharpener": 912
+  },
+  "downloaded_source_files": 1932,
+  "source_api_sha256_checks": "all 966 images and 966 labels passed",
+  "image_decode": "all 966 decoded as 640x640 JPEG",
+  "annotation_comparison": "all 8253 class IDs and normalized coordinates match provider Metadata.csv",
+  "gps_exif_xmp": "none detected; JPEG files contain JFIF APP0 only",
+  "source_split": {
+    "train": 676,
+    "valid": 193,
+    "test": 97
+  },
+  "source_groups": 199,
+  "groups_crossing_source_splits": 81,
+  "prepared_split": {
+    "train": 676,
+    "valid": 193,
+    "test": 97
+  },
+  "groups_crossing_prepared_splits": 0,
+  "visual_review": "All 966 images were reviewed in contact sheets. Tools and boxes are generally visible/aligned; product packaging and brand marks occur in some images. No legal review of individual third-party marks is asserted.",
+  "educational_task": "prototype detection to find/count shared geometry tools before/after class and organize return/restock checks; applicability to local schools unvalidated",
+  "limitations": [
+    "Images were captured in stationery shops and libraries in Dhaka, Bangladesh, not local classrooms.",
+    "Packaging, background and product marks can influence predictions.",
+    "Not an authoritative inventory, measurement, grading, product quality, or safety tool."
+  ],
+  "artifact": {
+    "version": "0.1.0",
+    "zip_bytes": 55650689,
+    "zip_sha256": "84d8b42f88eb5c6582657b33014689d7d8342a261302486c517558609ec9033b",
+    "file_count": 1938,
+    "common_validator": "passed",
+    "release_status": "not released; rights review pending"
+  }
+}
