@@ -1,0 +1,18 @@
+{
+  "manifest_type": "source_file_inventory",
+  "manifest_version": "1.0.0",
+  "dataset_id": "rdd2020_japan",
+  "source_url": "https://data.mendeley.com/datasets/5ty2wb6gvg/2",
+  "source_version": "Mendeley Data v2",
+  "file_count": 1,
+  "files": [
+    {
+      "path": "RDD2020_v2.zip",
+      "file_id": "dataset:5ty2wb6gvg:version:2:download-all",
+      "filename": "RDD2020_v2.zip",
+      "size": 1848075315,
+      "sha256": "678fb0cd72baa214accf54d44611fffbc348055b0d65fbc0e9744b02d5fa084a",
+      "download_url": "https://data.mendeley.com/public-api/zip/5ty2wb6gvg/download/2"
+    }
+  ]
+}
