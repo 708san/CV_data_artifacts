@@ -1,0 +1,130 @@
+{
+  "candidate_id": "DS-152",
+  "dataset_id": "indoor_plant_varieties",
+  "audit_date": "2026-11-10",
+  "source": {
+    "url": "https://data.mendeley.com/datasets/ct79299k27/1",
+    "version": "1",
+    "doi": "10.17632/ct79299k27.1",
+    "file_id": "be73f0a3-d478-4df1-b9d5-513e5879a8ef",
+    "filename": "Orginal Data.zip",
+    "size": 765167460,
+    "sha256": "c6e3839666e344ca4bb72fa9b09f36605fe8f972c088f0bba72c5dbe06bde2df",
+    "landing_page": "https://data.mendeley.com/datasets/ct79299k27/1",
+    "authors": [
+      "Sajib Bin Mamun",
+      "Md Asraful Sharker Nirob",
+      "Dr. Md Taimur Ahad",
+      "Mashreka Akter",
+      "Pranta Saha",
+      "Md Assaduzzaman"
+    ],
+    "license_claim": "CC BY 4.0",
+    "fixed_download_url": "https://data.mendeley.com/public-files/datasets/ct79299k27/files/be73f0a3-d478-4df1-b9d5-513e5879a8ef/file_downloaded"
+  },
+  "archive": {
+    "sha256_verified_before_extraction": true,
+    "regular_files": 1172,
+    "uncompressed_bytes": 775463956,
+    "crc_test": "passed",
+    "unsafe_paths": 0,
+    "symlinks": 0
+  },
+  "content": {
+    "source_images": 1172,
+    "decoded_images": 1172,
+    "decode_errors": 0,
+    "format": "JPEG",
+    "dimensions": "3000x3000",
+    "source_class_counts": {
+      "Aglaonema": 187,
+      "Cryptanthus": 150,
+      "Devil_s Ivy": 172,
+      "Heartleaf philodendron": 158,
+      "N-Joy Pothos": 172,
+      "Rhaphidophora": 166,
+      "Zz plant": 167
+    },
+    "exact_duplicate_groups": 10,
+    "duplicate_files_excluded": 10,
+    "output_images": 1162,
+    "output_classes": {
+      "aglaonema": 187,
+      "cryptanthus": 150,
+      "devils_ivy": 172,
+      "heartleaf_philodendron": 158,
+      "n_joy_pothos": 162,
+      "rhaphidophora": 166,
+      "zz_plant": 167
+    },
+    "output_splits": {
+      "train": 813,
+      "val": 175,
+      "test": 174
+    },
+    "visual_review": {
+      "images_in_contact_sheets": 1172,
+      "contact_sheets": 14,
+      "review_scope": "All contact-sheet thumbnails were visually inspected by class. No obvious out-of-class images, people, readable personal information, labels, or prominent third-party marks were observed. This is a contact-sheet review, not a full-resolution rights review of every image.",
+      "full_resolution_sample_review": false
+    },
+    "metadata_scan": {
+      "exif_files": 1172,
+      "gps_tag_files": 1159,
+      "output_exif_app1_segments": 0,
+      "output_photoshop_iptc_app13_segments": 0
+    },
+    "output_dimensions": "512x512",
+    "output_decode_errors": 0
+  },
+  "pedagogy": {
+    "status": "suitable_for_introductory_classification",
+    "task": "Classify seven indoor-plant image categories and compare common confusions and class counts.",
+    "use_case": "Explore whether an image-based guide can help a student distinguish common indoor plants.",
+    "limitations": [
+      "Photos were collected at one agricultural corporation and nearby nurseries in Bangladesh, according to the publisher.",
+      "The official page says agronomists confirmed class labels; the artifact does not independently validate botanical identity.",
+      "Sequential photos and similar views may remain related across train/validation/test. The time-ordered split reduces adjacent-shot mixing but is not a test of performance on different homes, cameras, or specimens.",
+      "Do not use to infer plant toxicity, disease, health, or care requirements."
+    ]
+  },
+  "transform": {
+    "source_transform": "source_v1",
+    "common_transform": "classification_v1.0.0",
+    "output_image_count": 1162,
+    "pixel_changes": true,
+    "changes": [
+      "Excluded 10 files in exact-duplicate groups.",
+      "Resized JPEG images from 3000x3000 to 512x512 and re-encoded at quality 0.86.",
+      "Removed EXIF and Photoshop/IPTC metadata; 1,159 source images contained GPS tags.",
+      "Created chronological per-class train/validation/test splits with approximate 70/15/15 proportions.",
+      "Did not include augmented data."
+    ]
+  },
+  "artifact": {
+    "version": "0.1.0",
+    "filename": "indoor_plant_varieties-v0.1.0.zip",
+    "size": 124438327,
+    "sha256": "4f3a83c5eab2e82da95bab64b6de703e31912d03142131285f9fdc3eef73d6e9",
+    "manifest": "manifests/indoor_plant_varieties-v0.1.0.json",
+    "manifest_validation": "passed",
+    "artifact_validation": "passed with cvlesson pinned-format and safe-extraction validator",
+    "file_count": 1168,
+    "image_count": 1162,
+    "release": {
+      "tag": "indoor-plants-v0.1.0",
+      "status": "prepared_pending_upload",
+      "url": "https://github.com/708san/CV_data_artifacts/releases/tag/indoor-plants-v0.1.0",
+      "download_url": "https://github.com/708san/CV_data_artifacts/releases/download/indoor-plants-v0.1.0/indoor_plant_varieties-v0.1.0.zip",
+      "size": 124438327,
+      "sha256": "4f3a83c5eab2e82da95bab64b6de703e31912d03142131285f9fdc3eef73d6e9"
+    }
+  },
+  "rights": {
+    "license": "CC BY 4.0",
+    "attribution_required": true,
+    "modification_notice_required": true,
+    "rights_review": "Official Mendeley v1 landing page displays CC BY 4.0. No embedded documents were included. Contact-sheet visual review found no obvious people or visible personal information. This does not establish separate rights for every photographed object or botanical identity.",
+    "publication_status": "prepared_pending_release_asset"
+  }
+}
