@@ -184,7 +184,7 @@
     "Representative visual review does not equal a full manual review."
   ],
   "output_decode_failures": 0,
-  "publication_status": "prepared_pending_release_asset",
+  "publication_status": "release_asset_published_registry_pr_open",
   "rights_review": "Mendeley Data v1 lists CC BY 4.0. Source description says images were collected at fruit shops and real fields; labels assigned with help from an agricultural institute domain expert.",
   "source_archive_bytes": 2794170228,
   "source_archive_sha256": "f89d67d4c4b24810bcd8406db877db6b1ac9834cea0b0cb56d65acebe59e66ff",
@@ -199,5 +199,6 @@
   "visual_review": "64 deterministic representative source images reviewed across all 16 classes; no visible people, logos, or unrelated content identified.",
   "redistribution_review": "Mendeley v1 displays CC BY 4.0. Official description attributes original image collection to the authors. Redistribution credit and change notice are included in the artifact. A 64-image stratified visual sample showed no visible people, logos, or unrelated content; full manual review was not performed.",
   "artifact_zip_sha256": "1ca92043fbb0ebbf86ddac5fec2c264e39151ab0d9def1b618002772d9b182eb",
-  "artifact_zip_size": 150919158
+  "artifact_zip_size": 150919158,
+  "release_url": "https://github.com/708san/CV_data_artifacts/releases/tag/fresh-rotten-fruits-v0.1.0"
 }
