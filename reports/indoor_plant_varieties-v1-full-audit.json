@@ -1,0 +1,193 @@
+{
+  "dataset_id": "indoor_plant_varieties",
+  "source_version": "1",
+  "source_url": "https://data.mendeley.com/datasets/ct79299k27/1",
+  "source_archive": {
+    "filename": "Orginal Data.zip",
+    "file_id": "be73f0a3-d478-4df1-b9d5-513e5879a8ef",
+    "size": 765167460,
+    "sha256": "c6e3839666e344ca4bb72fa9b09f36605fe8f972c088f0bba72c5dbe06bde2df"
+  },
+  "source_file_count": 1172,
+  "source_image_count": 1172,
+  "source_dimensions": {
+    "3000x3000": 1168,
+    "720x720": 4
+  },
+  "source_gps_metadata_images": 1159,
+  "source_class_counts": {
+    "Aglaonema": 187,
+    "Cryptanthus": 150,
+    "Devil's Ivy": 172,
+    "Heartleaf philodendron": 158,
+    "N-Joy Pothos": 172,
+    "Rhaphidophora": 166,
+    "Zz plant": 167
+  },
+  "image_count": 1162,
+  "classes": {
+    "Aglaonema": {
+      "source_images": 187,
+      "unique_images": 187,
+      "excluded_exact_duplicates": 0,
+      "splits": {
+        "train": 131,
+        "val": 28,
+        "test": 28
+      }
+    },
+    "Cryptanthus": {
+      "source_images": 150,
+      "unique_images": 150,
+      "excluded_exact_duplicates": 0,
+      "splits": {
+        "train": 105,
+        "val": 22,
+        "test": 23
+      }
+    },
+    "Devil's Ivy": {
+      "source_images": 172,
+      "unique_images": 172,
+      "excluded_exact_duplicates": 0,
+      "splits": {
+        "train": 120,
+        "val": 26,
+        "test": 26
+      }
+    },
+    "Heartleaf philodendron": {
+      "source_images": 158,
+      "unique_images": 158,
+      "excluded_exact_duplicates": 0,
+      "splits": {
+        "train": 111,
+        "val": 24,
+        "test": 23
+      }
+    },
+    "N-Joy Pothos": {
+      "source_images": 172,
+      "unique_images": 162,
+      "excluded_exact_duplicates": 10,
+      "splits": {
+        "train": 113,
+        "val": 24,
+        "test": 25
+      }
+    },
+    "Rhaphidophora": {
+      "source_images": 166,
+      "unique_images": 166,
+      "excluded_exact_duplicates": 0,
+      "splits": {
+        "train": 116,
+        "val": 25,
+        "test": 25
+      }
+    },
+    "Zz plant": {
+      "source_images": 167,
+      "unique_images": 167,
+      "excluded_exact_duplicates": 0,
+      "splits": {
+        "train": 117,
+        "val": 25,
+        "test": 25
+      }
+    }
+  },
+  "excluded_exact_duplicates": [
+    {
+      "path": "Orginal Data/N-Joy Pothos/IMG_20231027_103148.jpg",
+      "duplicate_of": "Orginal Data/N-Joy Pothos/IMG_20231027_103148(1).jpg",
+      "sha256": "38298d35cba27088b1f3bd461125504271bd7f476960454635861c9c7788dc7d"
+    },
+    {
+      "path": "Orginal Data/N-Joy Pothos/IMG_20231027_103153.jpg",
+      "duplicate_of": "Orginal Data/N-Joy Pothos/IMG_20231027_103153(1).jpg",
+      "sha256": "3c8e5a8a1c35e988bcd098375982f8406ca38fd15f1a8f75bf832304d7a4eaa7"
+    },
+    {
+      "path": "Orginal Data/N-Joy Pothos/IMG_20231027_103158.jpg",
+      "duplicate_of": "Orginal Data/N-Joy Pothos/IMG_20231027_103158(1).jpg",
+      "sha256": "33c5059109604089c97bf773b88b64406ff76c1c295676bf9f17aab30f67780b"
+    },
+    {
+      "path": "Orginal Data/N-Joy Pothos/IMG_20231027_103202.jpg",
+      "duplicate_of": "Orginal Data/N-Joy Pothos/IMG_20231027_103202(1).jpg",
+      "sha256": "8f73a677fe42808e6aecba0a834e64eba18c81b9c7cbb2de12f145733e3e86ee"
+    },
+    {
+      "path": "Orginal Data/N-Joy Pothos/IMG_20231027_103209.jpg",
+      "duplicate_of": "Orginal Data/N-Joy Pothos/IMG_20231027_103209(1).jpg",
+      "sha256": "a0dd1c87a88f5a50b6dd4e27d784e750d411ec531b0410ef8c2d1ebcd185e11b"
+    },
+    {
+      "path": "Orginal Data/N-Joy Pothos/IMG_20231027_103209_1.jpg",
+      "duplicate_of": "Orginal Data/N-Joy Pothos/IMG_20231027_103209_1(1).jpg",
+      "sha256": "6b7f82a645e61505b3b900c194171d2c97e3a0c77c3674ba489d530e3ffa6f64"
+    },
+    {
+      "path": "Orginal Data/N-Joy Pothos/IMG_20231027_103214.jpg",
+      "duplicate_of": "Orginal Data/N-Joy Pothos/IMG_20231027_103214(1).jpg",
+      "sha256": "312cf82e1cafc4d8f6db665c1f4a263495f9447cbfa55a4d1c6f035d96eb5754"
+    },
+    {
+      "path": "Orginal Data/N-Joy Pothos/IMG_20231027_103215.jpg",
+      "duplicate_of": "Orginal Data/N-Joy Pothos/IMG_20231027_103215(1).jpg",
+      "sha256": "bbb136ebddcc41c2d8742dcce542305ad4a88d7431abb52bd142435bd111bb26"
+    },
+    {
+      "path": "Orginal Data/N-Joy Pothos/IMG_20231027_103220.jpg",
+      "duplicate_of": "Orginal Data/N-Joy Pothos/IMG_20231027_103220(1).jpg",
+      "sha256": "814657f4a2ecc99ad3f9f31c44b4ae0e3fbe31d60fed99380ca96edd6a6b51c3"
+    },
+    {
+      "path": "Orginal Data/N-Joy Pothos/IMG_20231027_103233.jpg",
+      "duplicate_of": "Orginal Data/N-Joy Pothos/IMG_20231027_103233(1).jpg",
+      "sha256": "ff7bc9a4c9c6195e8fd8404abffa32c186a81e40ecd27b075e963105d976079f"
+    }
+  ],
+  "transform": {
+    "version": "indoor_plant_varieties_v1.0.0",
+    "max_side": 512,
+    "resize": "Pillow LANCZOS",
+    "jpeg_quality": 86,
+    "exif_removed": true,
+    "split_seed": 42,
+    "split_ratios": {
+      "train": 0.7,
+      "val": 0.15,
+      "test": 0.15
+    }
+  },
+  "output_split_counts": {
+    "train": 813,
+    "val": 174,
+    "test": 175
+  },
+  "output_image_bytes": 74466644,
+  "source_file_inventory": "manifests/source-file-inventories/indoor_plant_varieties-v1.json",
+  "artifact_manifest": "manifests/indoor_plant_varieties-v0.1.0.json",
+  "visual_review": {
+    "images": 56,
+    "per_class": 8,
+    "method": "seed 42 sample, contact sheet",
+    "result": "All viewed images show potted plants consistent with their class folders; this does not represent an exhaustive visual review."
+  },
+  "rights_review": {
+    "license": "CC BY 4.0",
+    "status": "approved_for_redistribution",
+    "basis": "The fixed Mendeley Data v1 page displays CC BY 4.0; its description says images were collected at BADC and nearby nurseries; the article credits collection to the authors.",
+    "privacy_action": "Removed EXIF metadata from all prepared images. No claim of exhaustive background/person screening."
+  },
+  "source_gps_metadata_images_after_duplicate_exclusion": 1149,
+  "artifact_archive": {
+    "filename": "indoor_plant_varieties-v0.1.0.zip",
+    "size": 74718535,
+    "sha256": "af7941725442416cbaa9b819b3a934ba699d6aac7ebaf7c503f5ba87b0d21fd0",
+    "tag": "indoor-plant-varieties-v0.1.0",
+    "image_count": 1162
+  }
+}

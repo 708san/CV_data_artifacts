@@ -1,5 +1,27 @@
 {
   "schema_version": "1.0.0",
   "repository": "708san/CV_data_artifacts",
-  "datasets": []
+  "datasets": [
+    {
+      "dataset_id": "indoor_plant_varieties",
+      "artifact_version": "0.1.0",
+      "artifact_url": "https://github.com/708san/CV_data_artifacts/releases/download/indoor-plant-varieties-v0.1.0/indoor_plant_varieties-v0.1.0.zip",
+      "artifact_sha256": "af7941725442416cbaa9b819b3a934ba699d6aac7ebaf7c503f5ba87b0d21fd0",
+      "source_url": "https://data.mendeley.com/datasets/ct79299k27/1",
+      "source_version": "1",
+      "source_sha256": "c6e3839666e344ca4bb72fa9b09f36605fe8f972c088f0bba72c5dbe06bde2df",
+      "license": "CC BY 4.0",
+      "rights_status": "approved_for_redistribution",
+      "attribution": "Mamun, Sajib Bin; Nirob, Md Asraful Sharker; Ahad, Md Taimur; Akter, Mashreka; Saha, Pranta; Assaduzzaman, Md (2024), Indoor Plant Varieties for Computer Vision Applications: A Diverse Image Dataset, Mendeley Data v1, https://doi.org/10.17632/ct79299k27.1.",
+      "modifications": [
+        "Removed 10 exact duplicate images within N-Joy Pothos.",
+        "Resized images to a maximum side of 512 pixels with LANCZOS.",
+        "Re-encoded as JPEG quality 86 and removed EXIF/GPS metadata.",
+        "Added deterministic stratified 70/15/15 train/validation/test splits with seed 42."
+      ],
+      "transform_version": "indoor_plant_varieties_v1.0.0",
+      "manifest_url": "https://github.com/708san/CV_data_artifacts/blob/indoor-plant-varieties-v0.1.0/manifests/indoor_plant_varieties-v0.1.0.json",
+      "audit_report_url": "https://github.com/708san/CV_data_artifacts/blob/indoor-plant-varieties-v0.1.0/reports/indoor_plant_varieties-v1-full-audit.json"
+    }
+  ]
 }
