@@ -185,8 +185,8 @@
   "source_gps_metadata_images_after_duplicate_exclusion": 1149,
   "artifact_archive": {
     "filename": "indoor_plant_varieties-v0.1.0.zip",
-    "size": 74718535,
-    "sha256": "af7941725442416cbaa9b819b3a934ba699d6aac7ebaf7c503f5ba87b0d21fd0",
+    "size": 74718549,
+    "sha256": "0194a3631ecaf0293cc0271d938ffe6933b61ce58e58e648f8ca346bd1dbe714",
     "tag": "indoor-plant-varieties-v0.1.0",
     "image_count": 1162
   }

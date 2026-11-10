@@ -238,7 +238,10 @@ def prepare(
         writer.writeheader()
         writer.writerows(output_rows)
     (destination / "metadata.jsonl").write_text(
-        "".join(json.dumps(row, ensure_ascii=False, sort_keys=True) + "\n" for row in output_rows), encoding="utf-8"
+        "".join(json.dumps({
+            "file_name": row["image"], "label": row["label"], "label_id": row["label_id"],
+            "split": row["split"], "sample_id": row["sample_id"],
+        }, ensure_ascii=False, sort_keys=True) + "\n" for row in output_rows), encoding="utf-8"
     )
     (destination / "README.md").write_text(readme, encoding="utf-8")
     (destination / "LICENSE.md").write_text(license_text, encoding="utf-8")

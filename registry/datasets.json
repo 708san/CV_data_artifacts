@@ -6,7 +6,7 @@
       "dataset_id": "indoor_plant_varieties",
       "artifact_version": "0.1.0",
       "artifact_url": "https://github.com/708san/CV_data_artifacts/releases/download/indoor-plant-varieties-v0.1.0/indoor_plant_varieties-v0.1.0.zip",
-      "artifact_sha256": "af7941725442416cbaa9b819b3a934ba699d6aac7ebaf7c503f5ba87b0d21fd0",
+      "artifact_sha256": "0194a3631ecaf0293cc0271d938ffe6933b61ce58e58e648f8ca346bd1dbe714",
       "source_url": "https://data.mendeley.com/datasets/ct79299k27/1",
       "source_version": "1",
       "source_sha256": "c6e3839666e344ca4bb72fa9b09f36605fe8f972c088f0bba72c5dbe06bde2df",
