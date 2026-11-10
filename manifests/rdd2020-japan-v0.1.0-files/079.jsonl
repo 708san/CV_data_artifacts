@@ -1,0 +1,5 @@
+{"path":"README.md","sha256":"d80de86869f3261fbddf1921db572e1dd3758c7090f3d08eee6195dff37eb58d","size_bytes":2787}
+{"path":"LICENSE.md","sha256":"43ea841fc40fea7fa44702a51916a79e3062cdbe41747c24c04e06ae29d7f6cc","size_bytes":715}
+{"path":"classes.json","sha256":"0da08d07bfa7b85f0f93a819f8a303d866319c907b0d6f7944a08dd367fb9c47","size_bytes":38}
+{"path":"annotations.jsonl","sha256":"bbb68ac5da1a9f8d03a1b2a1f40056dcf15c80b86e0814383daeaac6952ada92","size_bytes":3124043}
+{"path":"metadata.jsonl","sha256":"a48b8d66d270ce435a0fe893210171faa13a9706439897fe54ad61f3324b4aae","size_bytes":1008814}
