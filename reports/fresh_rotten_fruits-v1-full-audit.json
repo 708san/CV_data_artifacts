@@ -1,0 +1,203 @@
+{
+  "artifact_file_set_sha256": "164c11c0bb0d2f774d29327c651861f27107e917ac4ea437e52398087a61bd1f",
+  "artifact_image_count": 3193,
+  "class_count": 16,
+  "class_counts": {
+    "fresh_apple": {
+      "excluded_exact_duplicates": 0,
+      "source_images": 200,
+      "test": 30,
+      "train": 140,
+      "unique_images": 200,
+      "val": 30
+    },
+    "fresh_banana": {
+      "excluded_exact_duplicates": 0,
+      "source_images": 200,
+      "test": 30,
+      "train": 140,
+      "unique_images": 200,
+      "val": 30
+    },
+    "fresh_grape": {
+      "excluded_exact_duplicates": 0,
+      "source_images": 200,
+      "test": 30,
+      "train": 140,
+      "unique_images": 200,
+      "val": 30
+    },
+    "fresh_guava": {
+      "excluded_exact_duplicates": 0,
+      "source_images": 200,
+      "test": 30,
+      "train": 140,
+      "unique_images": 200,
+      "val": 30
+    },
+    "fresh_jujube": {
+      "excluded_exact_duplicates": 0,
+      "source_images": 200,
+      "test": 30,
+      "train": 140,
+      "unique_images": 200,
+      "val": 30
+    },
+    "fresh_orange": {
+      "excluded_exact_duplicates": 7,
+      "source_images": 200,
+      "test": 29,
+      "train": 135,
+      "unique_images": 193,
+      "val": 29
+    },
+    "fresh_pomegranate": {
+      "excluded_exact_duplicates": 0,
+      "source_images": 200,
+      "test": 30,
+      "train": 140,
+      "unique_images": 200,
+      "val": 30
+    },
+    "fresh_strawberry": {
+      "excluded_exact_duplicates": 0,
+      "source_images": 200,
+      "test": 30,
+      "train": 140,
+      "unique_images": 200,
+      "val": 30
+    },
+    "rotten_apple": {
+      "excluded_exact_duplicates": 0,
+      "source_images": 200,
+      "test": 30,
+      "train": 140,
+      "unique_images": 200,
+      "val": 30
+    },
+    "rotten_banana": {
+      "excluded_exact_duplicates": 0,
+      "source_images": 200,
+      "test": 30,
+      "train": 140,
+      "unique_images": 200,
+      "val": 30
+    },
+    "rotten_grape": {
+      "excluded_exact_duplicates": 0,
+      "source_images": 200,
+      "test": 30,
+      "train": 140,
+      "unique_images": 200,
+      "val": 30
+    },
+    "rotten_guava": {
+      "excluded_exact_duplicates": 0,
+      "source_images": 200,
+      "test": 30,
+      "train": 140,
+      "unique_images": 200,
+      "val": 30
+    },
+    "rotten_jujube": {
+      "excluded_exact_duplicates": 0,
+      "source_images": 200,
+      "test": 30,
+      "train": 140,
+      "unique_images": 200,
+      "val": 30
+    },
+    "rotten_orange": {
+      "excluded_exact_duplicates": 0,
+      "source_images": 200,
+      "test": 30,
+      "train": 140,
+      "unique_images": 200,
+      "val": 30
+    },
+    "rotten_pomegranate": {
+      "excluded_exact_duplicates": 0,
+      "source_images": 200,
+      "test": 30,
+      "train": 140,
+      "unique_images": 200,
+      "val": 30
+    },
+    "rotten_strawberry": {
+      "excluded_exact_duplicates": 0,
+      "source_images": 200,
+      "test": 30,
+      "train": 140,
+      "unique_images": 200,
+      "val": 30
+    }
+  },
+  "dataset_id": "fresh_rotten_fruits",
+  "exact_duplicates_excluded": [
+    {
+      "class": "FreshOrange",
+      "duplicate_of": "FreshOrange (167).jpg",
+      "path": "FreshOrange (62).jpg",
+      "sha256": "06b36854bce67acfb3b7b4cb098fc5176ce9193fdb99dbc98ecd54d0b687f8b9"
+    },
+    {
+      "class": "FreshOrange",
+      "duplicate_of": "FreshOrange (168).jpg",
+      "path": "FreshOrange (63).jpg",
+      "sha256": "27d2a953f6ade1100b94519348d4f845ceeaed2eee5c44a7478a19e119712add"
+    },
+    {
+      "class": "FreshOrange",
+      "duplicate_of": "FreshOrange (27).jpg",
+      "path": "FreshOrange (77).jpg",
+      "sha256": "2311566fd04fc9a6962fb0e7381241690637071b0c3dde2eaeb1e12ddc0f838e"
+    },
+    {
+      "class": "FreshOrange",
+      "duplicate_of": "FreshOrange (65).jpg",
+      "path": "FreshOrange (78).jpg",
+      "sha256": "5cfefbb3e4bcbde44b56d5234c08251ca8b96cb3661ed8c86557224b2b0780d3"
+    },
+    {
+      "class": "FreshOrange",
+      "duplicate_of": "FreshOrange (66).jpg",
+      "path": "FreshOrange (79).jpg",
+      "sha256": "e5f34ce96d79fd60c81bb7bcb4e49c34842ee7ee984833400523dc7610bec1c3"
+    },
+    {
+      "class": "FreshOrange",
+      "duplicate_of": "FreshOrange (74).jpg",
+      "path": "FreshOrange (87).jpg",
+      "sha256": "6393fcba5db8693403a26c2b9f30ccdc63646e402bf7b33d5330aa8990951822"
+    },
+    {
+      "class": "FreshOrange",
+      "duplicate_of": "FreshOrange (75).jpg",
+      "path": "FreshOrange (88).jpg",
+      "sha256": "0a5a90723e33b4fb170a372be2c87b6620bd7e45f156af1aee41afb45c92bd1f"
+    }
+  ],
+  "image_decode_failures": 0,
+  "license": "CC BY 4.0",
+  "limitations": [
+    "No individual model output should be presented as a food-safety or edibility decision.",
+    "Representative visual review does not equal a full manual review."
+  ],
+  "output_decode_failures": 0,
+  "publication_status": "prepared_pending_release_asset",
+  "rights_review": "Mendeley Data v1 lists CC BY 4.0. Source description says images were collected at fruit shops and real fields; labels assigned with help from an agricultural institute domain expert.",
+  "source_archive_bytes": 2794170228,
+  "source_archive_sha256": "f89d67d4c4b24810bcd8406db877db6b1ac9834cea0b0cb56d65acebe59e66ff",
+  "source_images": 3200,
+  "source_url": "https://data.mendeley.com/datasets/bdd69gyhv8/1",
+  "source_version": "1",
+  "split_counts": {
+    "test": 479,
+    "train": 2235,
+    "val": 479
+  },
+  "visual_review": "64 deterministic representative source images reviewed across all 16 classes; no visible people, logos, or unrelated content identified.",
+  "redistribution_review": "Mendeley v1 displays CC BY 4.0. Official description attributes original image collection to the authors. Redistribution credit and change notice are included in the artifact. A 64-image stratified visual sample showed no visible people, logos, or unrelated content; full manual review was not performed.",
+  "artifact_zip_sha256": "1ca92043fbb0ebbf86ddac5fec2c264e39151ab0d9def1b618002772d9b182eb",
+  "artifact_zip_size": 150919158
+}

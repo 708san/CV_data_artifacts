@@ -42,3 +42,5 @@ reports/        実体監査の要約
 `recyclable_waste` v0.1.0は、Mendeley Data v1の989画像を全件SHA-256照合・デコードし、完全一致重複を除いた977画像で共通形式artifactを準備しました。元画像にGPS情報が含まれていたため、派生画像はEXIF等を除去しています。全画像の人手によるプライバシー・権利確認が残っているため、`registry/datasets.json`とReleaseには登録していません。詳細は監査reportとライセンス記録を参照してください。
 
 `pistachio_image_dataset` v0.1.0 has a validated local artifact manifest and audit report. The Mendeley dataset page displays CC BY 4.0, while the related article carries a separate CC BY-NC notice. Image-rights confirmation remains pending, so this artifact is not registered as approved and has no public Release.
+
+`fresh_rotten_fruits` v0.1.0 has a prepared 3,193-image artifact and full manifest. The source is listed as CC BY 4.0 and the authors describe collecting the original images. Its release asset is not yet registered; it is not available through the library until that fixed asset is published and registered.
