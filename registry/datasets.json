@@ -187,6 +187,27 @@
       "transform_version": "detection_yolo_v1.1.0",
       "manifest_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/manifests/pust_cafeteria_food-v0.1.0.json",
       "audit_report_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/reports/pust_cafeteria_food-v0.1.0-audit.json"
+    },
+    {
+      "dataset_id": "chakmalipi",
+      "artifact_version": "0.1.0",
+      "artifact_url": "https://github.com/708san/CV_data_artifacts/releases/download/chakmalipi-v0.1.0/chakmalipi-v0.1.0.zip",
+      "artifact_sha256": "d9ef73e59c084492939b1d7b23d3ffde0fa865f76f132a29c5cba7c12cb19759",
+      "source_url": "https://data.mendeley.com/datasets/rzjphbvz9f/6",
+      "source_version": "6",
+      "source_sha256": "187b7294c7d4720981022d14d4ae3edccae642c7471a195a27a580a55d6fee52",
+      "license": "CC BY 4.0",
+      "rights_status": "approved_for_redistribution",
+      "attribution": "Ferdeous, Jannatul; Kayum, Md. Abdul; Islam, Ahmed; Nihal, Md Roman; Shihavuddin, ASM; Hasan, Muhammad (2026), ChakmaLipī Dataset, Mendeley Data v6, https://doi.org/10.17632/rzjphbvz9f.6.",
+      "modifications": [
+        "Removed 1,450 exact duplicate images; duplicates occurred only within the ten digit classes.",
+        "Preserved original 40x40 RGB PNG pixel data.",
+        "Added deterministic per-class train/val/test splits (seed 42; 70/15/15).",
+        "Added Japanese class names, manifest, labels.csv, and metadata.jsonl."
+      ],
+      "transform_version": "chakmalipi_v1.0.0",
+      "manifest_url": "https://github.com/708san/CV_data_artifacts/blob/chakmalipi-v0.1.0/manifests/chakmalipi-v0.1.0.json",
+      "audit_report_url": "https://github.com/708san/CV_data_artifacts/blob/chakmalipi-v0.1.0/reports/chakmalipi-v0.1.0-audit.json"
     }
   ]
 }
