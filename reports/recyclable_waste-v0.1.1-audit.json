@@ -1,0 +1,82 @@
+{
+  "dataset_id": "recyclable_waste",
+  "source_version": "Mendeley Data v1",
+  "source_url": "https://data.mendeley.com/datasets/h5pxbsdz4m/1",
+  "source_license": "CC BY 4.0 displayed on official page; public subset described as author-collected images only",
+  "base_artifact": {
+    "version": "0.1.0",
+    "sha256": "39c52710ddaeb4e662dbbf3ba7cd95725a8b11cf2b22434d04bc52626b721299",
+    "images": 977
+  },
+  "revision": {
+    "version": "0.1.1",
+    "image_count": 976,
+    "split_counts": {
+      "train": 682,
+      "val": 146,
+      "test": 148
+    },
+    "class_counts": {
+      "cardboard": {
+        "unique_images": 533,
+        "excluded_duplicates": 4,
+        "train": 373,
+        "val": 80,
+        "test": 80
+      },
+      "glass": {
+        "unique_images": 49,
+        "excluded_duplicates": 0,
+        "train": 34,
+        "val": 7,
+        "test": 8
+      },
+      "metal": {
+        "unique_images": 90,
+        "excluded_duplicates": 5,
+        "train": 63,
+        "val": 14,
+        "test": 13
+      },
+      "paper": {
+        "unique_images": 95,
+        "excluded_duplicates": 2,
+        "train": 66,
+        "val": 14,
+        "test": 15
+      },
+      "plastic": {
+        "unique_images": 209,
+        "excluded_duplicates": 1,
+        "train": 146,
+        "val": 31,
+        "test": 32
+      }
+    },
+    "excluded_source_path": "paper/UHW_Paper  (72).jpg",
+    "excluded_source_sha256": "4c9f3fbe83bd01a5a4e03ded0598699df5278f0262f2e72754e7e4a71e6522e0",
+    "excluded_prepared_path": "recyclable_waste/images/train/paper/4c9f3fbe83bd01a5.jpg",
+    "excluded_prepared_sha256": "bf55ba00dc8a0865c2934e0f57f96801d3b0c9ccb3aa4911dad69b40314d68c9",
+    "reason": "The image shows a printed political campaign poster with a person's portrait on discarded paper; it is unrelated to classifying recyclable material and was removed after all-image visual review.",
+    "retained_image_bytes_changed": false
+  },
+  "visual_review": {
+    "reviewed_images": 977,
+    "method": "All v0.1.0 images were shown on 10 contact sheets at thumbnail scale. The one image with a person's portrait and political messaging was opened at full resolution and excluded.",
+    "remaining_scope": "Brand/product packaging marks remain incidental; no identifiable photographed bystander was observed among the retained images. The review is not a trademark legal opinion."
+  },
+  "rights_review": {
+    "status": "approved_for_redistribution_with_attribution_and_change_notice",
+    "license": "CC BY 4.0",
+    "third_party_scope": "source page says public subset excludes third-party dataset images and contains author-collected images; one image with incidental political portrait was removed; remaining product marks are incidental and non-endorsed"
+  },
+  "education_review": {
+    "status": "suitable_for_high_school_recycling_classification_activity",
+    "use_case": "compare image model predictions with the five material categories and discuss class imbalance",
+    "limitations": [
+      "class imbalance",
+      "photographs come from Portugal and do not represent Japanese municipal sorting rules",
+      "predictions must not make actual sorting decisions"
+    ]
+  }
+}

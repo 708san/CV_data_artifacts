@@ -105,6 +105,27 @@
       "transform_version": "geoset_ennea_v1.0.0 + detection_yolo_v1.1.0",
       "manifest_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/manifests/geoset_ennea-v0.1.0.json",
       "audit_report_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/reports/geoset_ennea-v1-audit.json"
+    },
+    {
+      "dataset_id": "recyclable_waste",
+      "artifact_version": "0.1.1",
+      "artifact_url": "https://github.com/708san/CV_data_artifacts/releases/download/recyclable-waste-v0.1.1/recyclable_waste-v0.1.1.zip",
+      "artifact_sha256": "c209fac02eb88867bdc709b33e46f1d1ccd9ac63859ead5add112b8a4d8ac2f5",
+      "source_url": "https://data.mendeley.com/datasets/h5pxbsdz4m/1",
+      "source_version": "Mendeley Data v1; selected public image files",
+      "source_sha256": "154381f20cb1775f24e39801a3516cc0607d8330502924b9da6c7f2cbcfd8339",
+      "license": "CC BY 4.0",
+      "rights_status": "approved_for_redistribution",
+      "attribution": "João Alves (2026), Recyclable Waste Image Dataset, Mendeley Data v1, DOI: 10.17632/h5pxbsdz4m.1, CC BY 4.0.",
+      "modifications": [
+        "Excluded 12 exact duplicate source images.",
+        "Applied EXIF orientation, resized and re-encoded to JPEG at up to 512 pixels on the longest side, and removed embedded metadata.",
+        "Added deterministic train, validation, and test assignments.",
+        "Reviewed all 977 v0.1.0 images on contact sheets and excluded one paper image showing a political campaign poster and a person's portrait; retained image bytes are otherwise unchanged in v0.1.1."
+      ],
+      "transform_version": "recyclable_waste_v1.1.0",
+      "manifest_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/manifests/recyclable_waste-v0.1.1.json",
+      "audit_report_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/reports/recyclable_waste-v0.1.1-audit.json"
     }
   ]
 }
