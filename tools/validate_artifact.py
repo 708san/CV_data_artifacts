@@ -80,6 +80,30 @@ def validate(manifest_path: Path, extracted_root: Path) -> dict[str, Any]:
             raise ArtifactValidationError("labels.csv does not match image_count or contains duplicate paths")
         if set(image_names) != expected_image_names:
             raise ArtifactValidationError("labels.csv does not match image files")
+    elif label_format == "structured_ocr_csv_and_jsonl":
+        labels = dataset_root / "labels.csv"
+        with labels.open(encoding="utf-8", newline="") as stream:
+            rows = list(csv.DictReader(stream))
+        image_names = [row.get("image") for row in rows]
+        sample_ids = [row.get("sample_id") for row in rows]
+        if (len(rows) != manifest.get("image_count") or len(set(image_names)) != len(image_names)
+                or len(set(sample_ids)) != len(sample_ids) or set(image_names) != expected_image_names):
+            raise ArtifactValidationError("OCR labels do not match image files or contain duplicate IDs")
+        expected_metadata = []
+        for row in rows:
+            try:
+                record = json.loads(row["record_json"])
+            except (KeyError, json.JSONDecodeError) as exc:
+                raise ArtifactValidationError("OCR structured record is not valid JSON") from exc
+            if not isinstance(record, dict) or row.get("split") != "eval":
+                raise ArtifactValidationError("OCR record must be an object in the eval split")
+            expected_metadata.append({
+                "file_name": row["image"], "record": record,
+                "split": row["split"], "sample_id": row["sample_id"],
+            })
+        metadata = [json.loads(line) for line in (dataset_root / "metadata.jsonl").read_text(encoding="utf-8").splitlines() if line.strip()]
+        if metadata != expected_metadata:
+            raise ArtifactValidationError("OCR metadata.jsonl does not match labels.csv")
     elif label_format in {
         "paired_image_mask_csv_and_jsonl",
         "paired_multiclass_image_mask_csv_and_jsonl",

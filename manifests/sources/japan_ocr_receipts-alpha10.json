@@ -1,0 +1,194 @@
+{
+  "manifest_type": "source_file_inventory",
+  "manifest_version": "1.0.0",
+  "dataset_id": "japan_ocr_receipts",
+  "provider": "Hugging Face dataset K10124/japan-ocr-mini-benchmark",
+  "source_url": "https://huggingface.co/datasets/K10124/japan-ocr-mini-benchmark/tree/c82efda5b823494424e6bc6e9ae7577396ded908/alpha10",
+  "source_version": "c82efda5b823494424e6bc6e9ae7577396ded908",
+  "license_claim": "CC BY 4.0 (Alpha10 approved payload only)",
+  "file_count": 20,
+  "archive_count": 0,
+  "image_count": 10,
+  "files": [
+    {
+      "path": "alpha10/images/CASE-000062_GEN-CASE-000062-02_clean.png",
+      "role": "source_image",
+      "file_id": "0ff93e313dc456bde46b74d93e3414e6",
+      "filename": "CASE-000062_GEN-CASE-000062-02_clean.png",
+      "size": 167116,
+      "sha256": "7bbb9b395fb08524443562850c15b562dcc72db70f6d4384d8bf552668f342a2",
+      "download_url": "https://huggingface.co/datasets/K10124/japan-ocr-mini-benchmark/resolve/c82efda5b823494424e6bc6e9ae7577396ded908/alpha10/images/CASE-000062_GEN-CASE-000062-02_clean.png"
+    },
+    {
+      "path": "alpha10/source_json/CASE-000062_GEN-CASE-000062-02_public_source.json",
+      "role": "source_ground_truth_json",
+      "file_id": "e9a23fa4a16ff67741a7a928058f9182",
+      "filename": "CASE-000062_GEN-CASE-000062-02_public_source.json",
+      "size": 4180,
+      "sha256": "0b7b8b823c72c045e269ddcd382116408ed8edb7acf2dce8043f2b97fb5a425a",
+      "download_url": "https://huggingface.co/datasets/K10124/japan-ocr-mini-benchmark/resolve/c82efda5b823494424e6bc6e9ae7577396ded908/alpha10/source_json/CASE-000062_GEN-CASE-000062-02_public_source.json"
+    },
+    {
+      "path": "alpha10/images/CASE-000051_GEN-CASE-000051-02_clean.png",
+      "role": "source_image",
+      "file_id": "561f41b02e9d255a611c6d56f3a7e6a7",
+      "filename": "CASE-000051_GEN-CASE-000051-02_clean.png",
+      "size": 150599,
+      "sha256": "a6ab4cacef5add2670075f707830d505e221288e8915e5c8719492e4f30704ee",
+      "download_url": "https://huggingface.co/datasets/K10124/japan-ocr-mini-benchmark/resolve/c82efda5b823494424e6bc6e9ae7577396ded908/alpha10/images/CASE-000051_GEN-CASE-000051-02_clean.png"
+    },
+    {
+      "path": "alpha10/source_json/CASE-000051_GEN-CASE-000051-02_public_source.json",
+      "role": "source_ground_truth_json",
+      "file_id": "d14059eec3a89f5bc1c6192497c2e29e",
+      "filename": "CASE-000051_GEN-CASE-000051-02_public_source.json",
+      "size": 4387,
+      "sha256": "04b1728c67212a8347caf6de6f03947d049e22bbf83cca843b746cf738abefa2",
+      "download_url": "https://huggingface.co/datasets/K10124/japan-ocr-mini-benchmark/resolve/c82efda5b823494424e6bc6e9ae7577396ded908/alpha10/source_json/CASE-000051_GEN-CASE-000051-02_public_source.json"
+    },
+    {
+      "path": "alpha10/images/CASE-000049_GEN-CASE-000049-02_clean.png",
+      "role": "source_image",
+      "file_id": "b7c61015415243f9ac09e997a1d27d9d",
+      "filename": "CASE-000049_GEN-CASE-000049-02_clean.png",
+      "size": 68233,
+      "sha256": "13ccc677d849bbdb38537b1d1e7c24d75245dc673a54eb6cbf96e6cb3985c4a4",
+      "download_url": "https://huggingface.co/datasets/K10124/japan-ocr-mini-benchmark/resolve/c82efda5b823494424e6bc6e9ae7577396ded908/alpha10/images/CASE-000049_GEN-CASE-000049-02_clean.png"
+    },
+    {
+      "path": "alpha10/source_json/CASE-000049_GEN-CASE-000049-02_public_source.json",
+      "role": "source_ground_truth_json",
+      "file_id": "985e7bb99fcd1de596f8cec8f2d35159",
+      "filename": "CASE-000049_GEN-CASE-000049-02_public_source.json",
+      "size": 4297,
+      "sha256": "f402d748c036c9657e8bc3d269c5738318d4bce96e65287df22a5ee382388807",
+      "download_url": "https://huggingface.co/datasets/K10124/japan-ocr-mini-benchmark/resolve/c82efda5b823494424e6bc6e9ae7577396ded908/alpha10/source_json/CASE-000049_GEN-CASE-000049-02_public_source.json"
+    },
+    {
+      "path": "alpha10/images/CASE-000033_GEN-CASE-000033-02_clean.png",
+      "role": "source_image",
+      "file_id": "4e1df02620e547b34182138eb2a528c3",
+      "filename": "CASE-000033_GEN-CASE-000033-02_clean.png",
+      "size": 17998,
+      "sha256": "d202dcc32e4bbf64d7bb10ab32e9b0758bd478f6aa38d24c5f846fa2d44a7b5e",
+      "download_url": "https://huggingface.co/datasets/K10124/japan-ocr-mini-benchmark/resolve/c82efda5b823494424e6bc6e9ae7577396ded908/alpha10/images/CASE-000033_GEN-CASE-000033-02_clean.png"
+    },
+    {
+      "path": "alpha10/source_json/CASE-000033_GEN-CASE-000033-02_public_source.json",
+      "role": "source_ground_truth_json",
+      "file_id": "9462d8110657a5275c3d3afb3a4cbb6d",
+      "filename": "CASE-000033_GEN-CASE-000033-02_public_source.json",
+      "size": 3485,
+      "sha256": "034cdd5cc7577fd7da24c67d7f259027cc948c6e141874301f16f958037f4fc2",
+      "download_url": "https://huggingface.co/datasets/K10124/japan-ocr-mini-benchmark/resolve/c82efda5b823494424e6bc6e9ae7577396ded908/alpha10/source_json/CASE-000033_GEN-CASE-000033-02_public_source.json"
+    },
+    {
+      "path": "alpha10/images/CASE-000032_GEN-CASE-000032-02_clean.png",
+      "role": "source_image",
+      "file_id": "710cf72711bfd8b9d846cc16ceda59cb",
+      "filename": "CASE-000032_GEN-CASE-000032-02_clean.png",
+      "size": 52712,
+      "sha256": "ac518eed1b41184f753bc13382fc4cffbce75a8cb0f07a153a8831d8fdf86acd",
+      "download_url": "https://huggingface.co/datasets/K10124/japan-ocr-mini-benchmark/resolve/c82efda5b823494424e6bc6e9ae7577396ded908/alpha10/images/CASE-000032_GEN-CASE-000032-02_clean.png"
+    },
+    {
+      "path": "alpha10/source_json/CASE-000032_GEN-CASE-000032-02_public_source.json",
+      "role": "source_ground_truth_json",
+      "file_id": "7a1fa6c76f21858cd8f0407abc60fb07",
+      "filename": "CASE-000032_GEN-CASE-000032-02_public_source.json",
+      "size": 3622,
+      "sha256": "fbc960a6b1722be67758a8b5c1918d47c5234226f76cf3dde8c4ce1b22506cfd",
+      "download_url": "https://huggingface.co/datasets/K10124/japan-ocr-mini-benchmark/resolve/c82efda5b823494424e6bc6e9ae7577396ded908/alpha10/source_json/CASE-000032_GEN-CASE-000032-02_public_source.json"
+    },
+    {
+      "path": "alpha10/images/CASE-000015_GEN-CASE-000015-02_clean.png",
+      "role": "source_image",
+      "file_id": "689dd9790511938c08c289468c823574",
+      "filename": "CASE-000015_GEN-CASE-000015-02_clean.png",
+      "size": 31500,
+      "sha256": "85f3c05674322d9e4fbc3747363fb59fefb2e497c505368cfc2766a26608462c",
+      "download_url": "https://huggingface.co/datasets/K10124/japan-ocr-mini-benchmark/resolve/c82efda5b823494424e6bc6e9ae7577396ded908/alpha10/images/CASE-000015_GEN-CASE-000015-02_clean.png"
+    },
+    {
+      "path": "alpha10/source_json/CASE-000015_GEN-CASE-000015-02_public_source.json",
+      "role": "source_ground_truth_json",
+      "file_id": "cded7f457ebc25faf3be3eaa44a49956",
+      "filename": "CASE-000015_GEN-CASE-000015-02_public_source.json",
+      "size": 3917,
+      "sha256": "e38469f3957a8a1cb9cf588b8fce923f3dc83bf672c613faff9affafb8951154",
+      "download_url": "https://huggingface.co/datasets/K10124/japan-ocr-mini-benchmark/resolve/c82efda5b823494424e6bc6e9ae7577396ded908/alpha10/source_json/CASE-000015_GEN-CASE-000015-02_public_source.json"
+    },
+    {
+      "path": "alpha10/images/CASE-000014_GEN-CASE-000014-02_clean.png",
+      "role": "source_image",
+      "file_id": "fc3366cf291195ef2cf77b336c0c5027",
+      "filename": "CASE-000014_GEN-CASE-000014-02_clean.png",
+      "size": 44639,
+      "sha256": "ef94246ddb8f1983ba3776e4860be5b324781bdd3dbe40aafc32f9976c4813cd",
+      "download_url": "https://huggingface.co/datasets/K10124/japan-ocr-mini-benchmark/resolve/c82efda5b823494424e6bc6e9ae7577396ded908/alpha10/images/CASE-000014_GEN-CASE-000014-02_clean.png"
+    },
+    {
+      "path": "alpha10/source_json/CASE-000014_GEN-CASE-000014-02_public_source.json",
+      "role": "source_ground_truth_json",
+      "file_id": "d8e8238a889920b7a1375602f01c0a4b",
+      "filename": "CASE-000014_GEN-CASE-000014-02_public_source.json",
+      "size": 3526,
+      "sha256": "d4c619da07da7f512929a7577a11fc4d852fcb9a3e23df5c3fd36bba3d9ad54a",
+      "download_url": "https://huggingface.co/datasets/K10124/japan-ocr-mini-benchmark/resolve/c82efda5b823494424e6bc6e9ae7577396ded908/alpha10/source_json/CASE-000014_GEN-CASE-000014-02_public_source.json"
+    },
+    {
+      "path": "alpha10/images/CASE-000010_GEN-CASE-000010-02_clean.png",
+      "role": "source_image",
+      "file_id": "432efccbd55b98f416c5fe6d56c32a91",
+      "filename": "CASE-000010_GEN-CASE-000010-02_clean.png",
+      "size": 66070,
+      "sha256": "54f59880cc82c258f4dca1d23bb935b7949e1fa5e1f25020f7a30dc5f1b3f92f",
+      "download_url": "https://huggingface.co/datasets/K10124/japan-ocr-mini-benchmark/resolve/c82efda5b823494424e6bc6e9ae7577396ded908/alpha10/images/CASE-000010_GEN-CASE-000010-02_clean.png"
+    },
+    {
+      "path": "alpha10/source_json/CASE-000010_GEN-CASE-000010-02_public_source.json",
+      "role": "source_ground_truth_json",
+      "file_id": "5fb0257aa3f6ed3734409c68b73cd634",
+      "filename": "CASE-000010_GEN-CASE-000010-02_public_source.json",
+      "size": 4325,
+      "sha256": "3d5a53b3d81c78f1025c0c0008d6b219b87673c5ffbdd32b9365bdcf26b7e05f",
+      "download_url": "https://huggingface.co/datasets/K10124/japan-ocr-mini-benchmark/resolve/c82efda5b823494424e6bc6e9ae7577396ded908/alpha10/source_json/CASE-000010_GEN-CASE-000010-02_public_source.json"
+    },
+    {
+      "path": "alpha10/images/CASE-000045_GEN-CASE-000045-02_clean.png",
+      "role": "source_image",
+      "file_id": "b17aec8caec66bf0199838df294c34e0",
+      "filename": "CASE-000045_GEN-CASE-000045-02_clean.png",
+      "size": 152711,
+      "sha256": "e2837eb5c7d337d7a1bd1618e0a456217017ce6c1f48e08237ed8dc21d30cdc6",
+      "download_url": "https://huggingface.co/datasets/K10124/japan-ocr-mini-benchmark/resolve/c82efda5b823494424e6bc6e9ae7577396ded908/alpha10/images/CASE-000045_GEN-CASE-000045-02_clean.png"
+    },
+    {
+      "path": "alpha10/source_json/CASE-000045_GEN-CASE-000045-02_public_source.json",
+      "role": "source_ground_truth_json",
+      "file_id": "be1987695970d7d8e28116fdd66bb71c",
+      "filename": "CASE-000045_GEN-CASE-000045-02_public_source.json",
+      "size": 4626,
+      "sha256": "890efbbc7c92e09e3fe0554c5b9bf167c67141b1e4633dc38a9fddd92565e030",
+      "download_url": "https://huggingface.co/datasets/K10124/japan-ocr-mini-benchmark/resolve/c82efda5b823494424e6bc6e9ae7577396ded908/alpha10/source_json/CASE-000045_GEN-CASE-000045-02_public_source.json"
+    },
+    {
+      "path": "alpha10/images/CASE-000029_GEN-CASE-000029-02_clean.png",
+      "role": "source_image",
+      "file_id": "b70a9f8978cee4a39f712493e5343340",
+      "filename": "CASE-000029_GEN-CASE-000029-02_clean.png",
+      "size": 153861,
+      "sha256": "46623582193ce9ffa23b7df8b6a16c328f7c030cbd332a0e12bba8a8674e8f26",
+      "download_url": "https://huggingface.co/datasets/K10124/japan-ocr-mini-benchmark/resolve/c82efda5b823494424e6bc6e9ae7577396ded908/alpha10/images/CASE-000029_GEN-CASE-000029-02_clean.png"
+    },
+    {
+      "path": "alpha10/source_json/CASE-000029_GEN-CASE-000029-02_public_source.json",
+      "role": "source_ground_truth_json",
+      "file_id": "b7236968d79455c8ad413da81eb85970",
+      "filename": "CASE-000029_GEN-CASE-000029-02_public_source.json",
+      "size": 9725,
+      "sha256": "c9a3dcd27120520ed2f44526da76af4ddb838074543cf9c61950ddf0dc7a0227",
+      "download_url": "https://huggingface.co/datasets/K10124/japan-ocr-mini-benchmark/resolve/c82efda5b823494424e6bc6e9ae7577396ded908/alpha10/source_json/CASE-000029_GEN-CASE-000029-02_public_source.json"
+    }
+  ]
+}
