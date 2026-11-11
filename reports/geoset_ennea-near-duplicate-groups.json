@@ -1,0 +1,827 @@
+{
+  "dataset_id": "geoset_ennea",
+  "source_version": "Mendeley Data v1 selected original-camera images",
+  "method": "resize to 9x8 with macOS sips, convert to grayscale 24-bit BMP, compute horizontal difference hash; connect images with Hamming distance <=4; group connected components",
+  "threshold_hamming_distance": 4,
+  "image_count": 136,
+  "group_count": 80,
+  "note": "Conservative split grouping only. Similar scenes can be grouped even when images are not exact duplicates. Paths refer to official Mendeley source inventory; each is pinned by SHA-256.",
+  "members": [
+    {
+      "group_id": "scene_000",
+      "path": "images/test/IMG_1251_jpg.rf.dd1982665877f336fb02d6a6fcd0a300.jpg",
+      "sha256": "162978bcbfcbf7027ee5013b2bcbc9b97432b53ec96299a726ce0c9296e44264",
+      "dhash_9x8": "9bb7e74636583363"
+    },
+    {
+      "group_id": "scene_001",
+      "path": "images/test/IMG_1257_jpg.rf.02b541b1a488f9444488afda39c61cad.jpg",
+      "sha256": "1d8b72b9a23ab5e3ab63ca12e9d6c3d487bfa0a26631ba4309c6f559d5619eb6",
+      "dhash_9x8": "63c9c2687a1ad831"
+    },
+    {
+      "group_id": "scene_002",
+      "path": "images/test/IMG_20250604_144214_jpg.rf.f00529fb1bfc59f9399373f7884fdebd.jpg",
+      "sha256": "6094a5827e59d4e22ebcaf6aa5c88b6dda0e1f1e0cfbe3d81aebcbfe9e077b85",
+      "dhash_9x8": "8fbf9f6763232f1d"
+    },
+    {
+      "group_id": "scene_002",
+      "path": "images/train/IMG_20250604_144207_jpg.rf.ae9ae5e2bca0fb739ef2bc499fbd7030.jpg",
+      "sha256": "dafb8b0291876a6ccc58f80894b9dd4c59b5cc6401489ce6f9ddfe70f5b4f895",
+      "dhash_9x8": "0f1f5f2763232f1d"
+    },
+    {
+      "group_id": "scene_002",
+      "path": "images/train/IMG_20250604_144208_jpg.rf.09484cd2c3d20e0f787a35a811d29b1e.jpg",
+      "sha256": "962b75e8e254dbac0fb77cb44c749f68f40ec1def470c7b9aedc1af4c5896e34",
+      "dhash_9x8": "8f1f5f2763233f1d"
+    },
+    {
+      "group_id": "scene_002",
+      "path": "images/train/IMG_20250604_144210_jpg.rf.0399957bb6c21bbde43365d7348fdd98.jpg",
+      "sha256": "b77b04954d4480266da03f6c20905b696c586c8fd812d8321910072b3c4d8849",
+      "dhash_9x8": "8fbf5f6743233f1d"
+    },
+    {
+      "group_id": "scene_002",
+      "path": "images/train/IMG_20250604_144211_jpg.rf.4c75bedbcb85f167b9cd54944e31c179.jpg",
+      "sha256": "89b1e974e09ff6e06fba6a54443a6dd1589d17719f13919a578da20ed2a2f888",
+      "dhash_9x8": "8fbf9f6753233f1d"
+    },
+    {
+      "group_id": "scene_002",
+      "path": "images/train/IMG_20250604_144212_jpg.rf.67e6ade153c8a4f5d307dd32a1c13a42.jpg",
+      "sha256": "93fb313bf5b3ca33798c526d153ea34c5047dbff84ba8a3fa25321120e59677e",
+      "dhash_9x8": "8f9f1f6743232f1d"
+    },
+    {
+      "group_id": "scene_002",
+      "path": "images/train/IMG_20250604_144215_jpg.rf.11113420edc26622a3948a6c3dba2f85.jpg",
+      "sha256": "7e60499de4ad60af98cdbeb6612b62812ca7632ac6c05633c601cad62e0e9d80",
+      "dhash_9x8": "8fbf1f6763236f1d"
+    },
+    {
+      "group_id": "scene_002",
+      "path": "images/train/IMG_20250604_144216_jpg.rf.02fa12f119c705c4470948d95538d3c8.jpg",
+      "sha256": "05794cee0b9ae44182f63a8fc5be487cfcd62511af63b581e668c71e3182bc36",
+      "dhash_9x8": "8fbf9f6743236f3d"
+    },
+    {
+      "group_id": "scene_002",
+      "path": "images/valid/IMG_20250604_144209_jpg.rf.1102417482190b52bcc75d00a1d1d959.jpg",
+      "sha256": "fdffb2839fd6bb8af70926a5298a9a62d5037b5e33efbd6b498096dc91915be0",
+      "dhash_9x8": "8f9f1f6763232f1d"
+    },
+    {
+      "group_id": "scene_003",
+      "path": "images/test/IMG_20250604_144238__01_jpg.rf.1a1688a50be4e9ba721821a719551c4f.jpg",
+      "sha256": "a03ca10f075d8037614dc8c4872637cd6f5c820d64558c67cbe32b1aa67fb8de",
+      "dhash_9x8": "e1a9099d95849c9c"
+    },
+    {
+      "group_id": "scene_003",
+      "path": "images/test/IMG_20250604_144240_jpg.rf.7ce8ab766a281e7009abb2d5b6885fcc.jpg",
+      "sha256": "57ec9d08b5c79f3f35b1cf6f6e7de1c6a6ffb7cc8096df353b8bbf4545dc516f",
+      "dhash_9x8": "e1e90b9f95849c9c"
+    },
+    {
+      "group_id": "scene_003",
+      "path": "images/train/IMG_20250604_144236_jpg.rf.c28d2680dc04d2565034519eb0410e2f.jpg",
+      "sha256": "7b79aadb37d07c040d95fb60b1e5b460727a2d4126c392396bf3efc01b154280",
+      "dhash_9x8": "e1a90f9d95849c9c"
+    },
+    {
+      "group_id": "scene_003",
+      "path": "images/train/IMG_20250604_144238_jpg.rf.a9f7d1721987a8ef079d6ce70c2bf4a8.jpg",
+      "sha256": "f3e689cf91c9a33cf39351f48efc884bd7ce0e1d735fef534f65f0cfb074973c",
+      "dhash_9x8": "e1a90b9d95849c9c"
+    },
+    {
+      "group_id": "scene_003",
+      "path": "images/train/IMG_20250604_144239_jpg.rf.cb7d7f66966c1fb2175ec5e68fbcdc89.jpg",
+      "sha256": "7077e6c98a076494b13569ad4cb902b5e11ae6b7777b8c10636f065196e38041",
+      "dhash_9x8": "e1a9099f95849c9c"
+    },
+    {
+      "group_id": "scene_003",
+      "path": "images/valid/IMG_20250604_144235_jpg.rf.f26c7e3af29fe4d9251ca6e823354770.jpg",
+      "sha256": "7370b37aab124e70b5950293aa6a6f7c28fbb4aefbf4e55133b3a52312c8a0e9",
+      "dhash_9x8": "e1890f95958c9c9c"
+    },
+    {
+      "group_id": "scene_003",
+      "path": "images/valid/IMG_20250604_144237_jpg.rf.7c34c09653666992e137601c473fbf0c.jpg",
+      "sha256": "c05811863a8ccf2d0e5c29d2f6461bee70d23e88410cb49ee468d3731ac2c661",
+      "dhash_9x8": "e1a90b9d958c9c9c"
+    },
+    {
+      "group_id": "scene_004",
+      "path": "images/test/IMG_20250604_144308__01_jpg.rf.3bdc49d132bda936be1392f0194b1efc.jpg",
+      "sha256": "734e817491829226aac3063d9b04560cf8980176c7460c1d59d9af70674f7d6b",
+      "dhash_9x8": "c7931d27b79edee7"
+    },
+    {
+      "group_id": "scene_004",
+      "path": "images/test/IMG_20250604_144308_jpg.rf.19e9fee726a3d966ff470fc2544a6437.jpg",
+      "sha256": "d61caa2c1753f530fd75e36f9cedec826aafd8bad361da286fcd404638804ba3",
+      "dhash_9x8": "c7931d27b79edee7"
+    },
+    {
+      "group_id": "scene_004",
+      "path": "images/train/IMG_20250604_144310_jpg.rf.de0ac657fc50b4372525c1f999d5a58e.jpg",
+      "sha256": "1461ea3b94d37fa36a46c643c7315c2ecb800c2718004be18f51bba19e8c0b36",
+      "dhash_9x8": "c7931d2fb79edec7"
+    },
+    {
+      "group_id": "scene_004",
+      "path": "images/train/IMG_20250604_144311_jpg.rf.61f06bd28a30d346dc3cc32869a4b286.jpg",
+      "sha256": "5e4c3ba1dbd9a248d8f32226fdcc2f44f517ff074d376d5eee81411e10a08623",
+      "dhash_9x8": "c7931d2fb79edee7"
+    },
+    {
+      "group_id": "scene_004",
+      "path": "images/valid/IMG_20250604_144309_jpg.rf.8d4c173336a36468877b125af68c4866.jpg",
+      "sha256": "ec215164a464795e00a08705b7370ea8ff116cfa9bff40993b3bde9bbca47132",
+      "dhash_9x8": "c7931d2fb79edee7"
+    },
+    {
+      "group_id": "scene_005",
+      "path": "images/test/IMG_20250604_145108_jpg.rf.fd9c8784137c4029c4b3f8fbd6d76048.jpg",
+      "sha256": "cb6a3dfefe5d3e7d2753110c126f8bda4bb930fe766e0a8f58a50f6f7cf53549",
+      "dhash_9x8": "4244c14180808800"
+    },
+    {
+      "group_id": "scene_005",
+      "path": "images/train/IMG_20250604_145107_jpg.rf.3ebe146134f59b70af4b84b2392652ea.jpg",
+      "sha256": "453aa9cd38c8b65a556c2ed41431bdb75a5bbb3bf22f217a20fee85e5341fa40",
+      "dhash_9x8": "4644c0c180808000"
+    },
+    {
+      "group_id": "scene_006",
+      "path": "images/test/IMG_20250604_145112_jpg.rf.c193aba8990c1f6e95cbb3be4808fe83.jpg",
+      "sha256": "518937a60fa14d290acac303455bb17a2e3fae7b46da89bd8da4251deb9a81d1",
+      "dhash_9x8": "124040404040d80a"
+    },
+    {
+      "group_id": "scene_007",
+      "path": "images/test/IMG_20250604_145144_jpg.rf.8fb6f6d394e36292163611bb204044b3.jpg",
+      "sha256": "324a1258f411326885f09974be815355567d5e70535c393b897767d42fd08c3f",
+      "dhash_9x8": "3e6fe7e77f6dc9e5"
+    },
+    {
+      "group_id": "scene_007",
+      "path": "images/valid/IMG_20250604_145145_jpg.rf.41a690e818d1a578a1b5ee899d88a01f.jpg",
+      "sha256": "16beeec2e775730c63a5dfbb2d028ddbbb0a3afef31865bc33e7a68edee25346",
+      "dhash_9x8": "3f6fe7e7776dc9e5"
+    },
+    {
+      "group_id": "scene_008",
+      "path": "images/test/IMG_20250605_124630_jpg.rf.b06c3dc07c50707f53df07addcc73afa.jpg",
+      "sha256": "2dbef95c311071a4eb1b3f7df4601f261dfb4c415f6bdb4e1be8bd29e6a97e38",
+      "dhash_9x8": "97179797179a9393"
+    },
+    {
+      "group_id": "scene_009",
+      "path": "images/train/IMG_1233_jpg.rf.a78e5ce0cd538af50bc4639f3ca01038.jpg",
+      "sha256": "7f988a55b53dc699eabdea8ba769ddb948144df57d1fb7e67afd5339a7da9917",
+      "dhash_9x8": "0617575a51460e00"
+    },
+    {
+      "group_id": "scene_010",
+      "path": "images/train/IMG_1234_jpg.rf.3e023bb6a896d30e4267bd5ad3cedd49.jpg",
+      "sha256": "9e1cbd443744739e9dbfec89189d071054dd6456909d08c81cc6bea63ee287d5",
+      "dhash_9x8": "0c0d058905010629"
+    },
+    {
+      "group_id": "scene_010",
+      "path": "images/train/IMG_1235_jpg.rf.438324fb7ea55b9ca0ca7bac5f095ce6.jpg",
+      "sha256": "25ea1d0b0eed4576184e090c927b902510abd39478e812f2350f0adc657bf820",
+      "dhash_9x8": "0c0d058905010628"
+    },
+    {
+      "group_id": "scene_011",
+      "path": "images/train/IMG_1236_jpg.rf.b4ce760c556053bf074c82d259178a93.jpg",
+      "sha256": "a64a0e68f8472b886f00a46a9ace19733b4ffe66092ac55d406c1281f7405779",
+      "dhash_9x8": "0c4f671301a31d1a"
+    },
+    {
+      "group_id": "scene_012",
+      "path": "images/train/IMG_1237_jpg.rf.2ff86a1d2e50f2e8aafde09c0c50dc3b.jpg",
+      "sha256": "d9236a08e27cbb116965c5884a80c7b53c056ebd56ae50c13ca8514f440b5d69",
+      "dhash_9x8": "4c1e475341831d1a"
+    },
+    {
+      "group_id": "scene_012",
+      "path": "images/train/IMG_1238_jpg.rf.6cb60407f7aeaf86006b0a31083443b3.jpg",
+      "sha256": "17097c17e52ca81dbf9bb1690dd3f2717f88f7de891247a2ec08e831afb55bd8",
+      "dhash_9x8": "4e5f475341831d1a"
+    },
+    {
+      "group_id": "scene_013",
+      "path": "images/train/IMG_1239_jpg.rf.07b476c5282d8dc21b125b505ab6c45b.jpg",
+      "sha256": "1c7cdec15bdc832b72b2ae6620715e01d954b887c7d7766c087bef4a7c9cb22d",
+      "dhash_9x8": "0e0cb30323230708"
+    },
+    {
+      "group_id": "scene_013",
+      "path": "images/train/IMG_1240_jpg.rf.5a17a572aed1e94bf9c6ba4e36e03d5c.jpg",
+      "sha256": "25db8c9f863c276da0e388b990a96f7100fbb09b71c1587fef61a98bdf63ea20",
+      "dhash_9x8": "0d0cb30323230328"
+    },
+    {
+      "group_id": "scene_014",
+      "path": "images/train/IMG_1242_jpg.rf.3ff44c39d7e2d2d07368f2375062ee59.jpg",
+      "sha256": "bc17431df3e785bdecc6d1386ccc4c9cfbd83ccf02d1eb0969f1e25688bc3e3b",
+      "dhash_9x8": "0f0da6830323072a"
+    },
+    {
+      "group_id": "scene_014",
+      "path": "images/valid/IMG_1241_jpg.rf.01f3538a21fae591f6b68c50379fa770.jpg",
+      "sha256": "5790bd087819f28e57f24f7613845c0a76741875dc1e7a2192b2c6e5a90b4a2e",
+      "dhash_9x8": "0f0d26830323070a"
+    },
+    {
+      "group_id": "scene_015",
+      "path": "images/train/IMG_1244_jpg.rf.2bc09ad7f9b7353f96a99f441778cac9.jpg",
+      "sha256": "4bc5b6139e42682386acf2938164d6c77bc5b511f59b399919fb930a7e0474bb",
+      "dhash_9x8": "b7b7fbfbf3ffffff"
+    },
+    {
+      "group_id": "scene_015",
+      "path": "images/train/IMG_1245_jpg.rf.679b79754a406c4bd4f04edaea95661a.jpg",
+      "sha256": "9b62bf67c5479d5b0dc19336307e4573b2d1feec119c5c7f2af0e3e56f17a96b",
+      "dhash_9x8": "b3bffbfbf3fbffff"
+    },
+    {
+      "group_id": "scene_016",
+      "path": "images/train/IMG_1246_jpg.rf.8df100c7632fe4e953bc22ead85279f3.jpg",
+      "sha256": "831fe88d237638c7add28e3344d1f9ebdd6c5d7095d208fbd2c22d9a8cf88ff8",
+      "dhash_9x8": "b3d3f9fbfb7fffff"
+    },
+    {
+      "group_id": "scene_017",
+      "path": "images/train/IMG_1247_jpg.rf.d8a94912a4e73989596bfa5d001d7caa.jpg",
+      "sha256": "8543186583c3d31f9fcce2e019daa548c8a8473983aa78d62add8695bc5f0c02",
+      "dhash_9x8": "b36b4b4b47471f1f"
+    },
+    {
+      "group_id": "scene_018",
+      "path": "images/train/IMG_1248_jpg.rf.cb01665574ac04823f143318bca04617.jpg",
+      "sha256": "f8b602930af756494d34670a6e68275fcb762a261439f453764ca6b0a4c87a3d",
+      "dhash_9x8": "872f4b4b474f1f1f"
+    },
+    {
+      "group_id": "scene_018",
+      "path": "images/train/IMG_1249_jpg.rf.91754c063f377de1c2540cae8617dce3.jpg",
+      "sha256": "f1276f1245371afcfe39e619fd945df8357ab1ad9b667ca455fe6d865d6321f5",
+      "dhash_9x8": "d73f4f4b474f1f1f"
+    },
+    {
+      "group_id": "scene_018",
+      "path": "images/valid/IMG_1250_jpg.rf.6a9013e8661e0d664cbbba0599a16dd1.jpg",
+      "sha256": "4d8aa59ba016dd6644522a280ba97c4e579318f7e542876bb3f321e444b3c0ed",
+      "dhash_9x8": "d73f4f4b474f1f1f"
+    },
+    {
+      "group_id": "scene_019",
+      "path": "images/train/IMG_1252_jpg.rf.ba696b43e6a64520e8ad453ab021ba52.jpg",
+      "sha256": "41a359e6229ea8b399c3a835e60817ad0e5b544a4ed0751e37c27f06caa729a5",
+      "dhash_9x8": "bfb7e6463a183131"
+    },
+    {
+      "group_id": "scene_020",
+      "path": "images/train/IMG_1255_jpg.rf.717f1d05cd6192573b253ff380e15f26.jpg",
+      "sha256": "c0751acb5f44e07911de63bb358d47bfb6c5076467e034ffd502a0d7aeb08354",
+      "dhash_9x8": "bbbfb7e626183839"
+    },
+    {
+      "group_id": "scene_021",
+      "path": "images/train/IMG_1256_jpg.rf.953a1f92405573ea63a0925f2488ffbf.jpg",
+      "sha256": "00510da6e0f1aae1faed7f0b57fa29c8d1c81cfa586c0e5a30c4bbcd24349630",
+      "dhash_9x8": "71cd42687a1ad11f"
+    },
+    {
+      "group_id": "scene_022",
+      "path": "images/train/IMG_1259_jpg.rf.72163f9eeae998534c1b556641883b3e.jpg",
+      "sha256": "16bc0b317b37a55e388db763b71e84965b9c11757e5fbcde9a47154bad7767ca",
+      "dhash_9x8": "f3cdc8c4229b9879"
+    },
+    {
+      "group_id": "scene_023",
+      "path": "images/train/IMG_1260_jpg.rf.69b9a924b688242aeb29ad6023b17a93.jpg",
+      "sha256": "174cffe11580f7f2147358cee68eb99b2c797184ae3efc0aa78598219b46193c",
+      "dhash_9x8": "f1cdc884029a9971"
+    },
+    {
+      "group_id": "scene_024",
+      "path": "images/train/IMG_1261_jpg.rf.ab1b1f2852ad0f9d3a6faa836f41408b.jpg",
+      "sha256": "4946e684168fe9820b559d71dc7115ebf12593b74b941681dee6408a179c99f5",
+      "dhash_9x8": "62c9c944029b9963"
+    },
+    {
+      "group_id": "scene_025",
+      "path": "images/train/IMG_1262_jpg.rf.9e279b3f41b6e562add518f9aca9a879.jpg",
+      "sha256": "18789139ff98832eb3c24f480ed5ac7d6833255979d262ce328a7374f470e974",
+      "dhash_9x8": "f0cdc8c4a29a999d"
+    },
+    {
+      "group_id": "scene_026",
+      "path": "images/train/IMG_20250604_144202_jpg.rf.a89e669c2dba74849145fc1c72ad7c3e.jpg",
+      "sha256": "3f462f0fe1b70b76f3bfceadf0de972d0563e4d6f9eafa162f76956fa7cc0493",
+      "dhash_9x8": "07071f2723a3bf99"
+    },
+    {
+      "group_id": "scene_027",
+      "path": "images/train/IMG_20250604_144205_jpg.rf.4ca23a82f46e1cd647dc7a5fcce939c6.jpg",
+      "sha256": "dcca7a443ceb723a32580a7672e7a2f802e433b81c435c64accb6fbcabfb8b68",
+      "dhash_9x8": "7bc999a975596d7b"
+    },
+    {
+      "group_id": "scene_028",
+      "path": "images/train/IMG_20250604_144226_jpg.rf.5e10c619df4fe6b0f1788341322aa3b8.jpg",
+      "sha256": "572ebb5f19c486b701f2b2b0897eb2896d2f67af22d6a3375b7dcfa995d82133",
+      "dhash_9x8": "2a624ec69c0d097b"
+    },
+    {
+      "group_id": "scene_028",
+      "path": "images/train/IMG_20250604_144227_jpg.rf.67738241ec8f4b84bccaa5a8b3af5ae2.jpg",
+      "sha256": "710bb3a15195875bdd4bdf890597e335e63a82d34a73e09c2e198374bd1de427",
+      "dhash_9x8": "2a624ec6940d0939"
+    },
+    {
+      "group_id": "scene_028",
+      "path": "images/train/IMG_20250604_144228_jpg.rf.be124c86cb8b849f2cb23c7c78e28b33.jpg",
+      "sha256": "af7c6d7c34847728b11d48d2ea9a07b8d9871285a6c01aa40b3817b5c0956390",
+      "dhash_9x8": "6a624ec6940d096b"
+    },
+    {
+      "group_id": "scene_028",
+      "path": "images/train/IMG_20250604_144229_jpg.rf.dd729223497aadc9463208b63aef2bc7.jpg",
+      "sha256": "2c0434c48a0b6de1f00991c017a4f2a31bf1571b73c2824b9fec5d4fc1c81f78",
+      "dhash_9x8": "6a624ac6940d0929"
+    },
+    {
+      "group_id": "scene_028",
+      "path": "images/valid/IMG_20250604_144224_jpg.rf.45089b6d187863cd307aa4e4cffbd19a.jpg",
+      "sha256": "8d26152e8d81030029c6d97d54c47849d0429c38912ec0cdc7bb2f9fde34af7f",
+      "dhash_9x8": "2a624e869c0d0973"
+    },
+    {
+      "group_id": "scene_028",
+      "path": "images/valid/IMG_20250604_144225_jpg.rf.190f80f97f548a864ad721ecf846f99c.jpg",
+      "sha256": "1df85fc872b45f150e53205bd9089bb554d8f027dfd5b7bd5d14bb3a10be15f6",
+      "dhash_9x8": "2a624e869c0d0973"
+    },
+    {
+      "group_id": "scene_028",
+      "path": "images/valid/IMG_20250604_144227__01_jpg.rf.04a7f83ffa32045a112bfac638394bbd.jpg",
+      "sha256": "935d3cc86a7324f487aa073858224c23e32f4b42f665726c2c8632f3a7276bd6",
+      "dhash_9x8": "2a624ec6940d0929"
+    },
+    {
+      "group_id": "scene_029",
+      "path": "images/train/IMG_20250604_144245_jpg.rf.2348094a79ec4d58e6a20738b035b291.jpg",
+      "sha256": "2c093a1c4dc2c06a72e76d42e189c3c6733db986ea9f45b056b172cf96f71232",
+      "dhash_9x8": "983b09930bc66753"
+    },
+    {
+      "group_id": "scene_029",
+      "path": "images/train/IMG_20250604_144246_jpg.rf.35b76e9fd2a25ee1160c11126d412ae1.jpg",
+      "sha256": "ef958d7646b67d55722ffbe32b89561b68c9219192e1e0e535d8715fe5e6e684",
+      "dhash_9x8": "983b09930bc66753"
+    },
+    {
+      "group_id": "scene_029",
+      "path": "images/train/IMG_20250604_144247_jpg.rf.c3160a60d4bbea8d906f6bf7005b1485.jpg",
+      "sha256": "f0f728eb90adcf9885ca583ec08820f82d29ba3b7ef09d95c79c3465f0b95207",
+      "dhash_9x8": "981b09930bc66753"
+    },
+    {
+      "group_id": "scene_029",
+      "path": "images/train/IMG_20250604_144249__01_jpg.rf.9cfb269f3af38c1d12ba3d1db6832b74.jpg",
+      "sha256": "5014fdcdf616b5a50debf4bf036f5c7ce52f7182ed1a7d9ee1a221409da5b778",
+      "dhash_9x8": "981b199313c66753"
+    },
+    {
+      "group_id": "scene_029",
+      "path": "images/train/IMG_20250604_144249_jpg.rf.303076963bee85289f999e5e9fa784a2.jpg",
+      "sha256": "07c433fe6b65fc741599a4d434d1e1f3fc90c366101164bb458e96f6edbbb4a6",
+      "dhash_9x8": "981b199313c66753"
+    },
+    {
+      "group_id": "scene_029",
+      "path": "images/train/IMG_20250604_144250_jpg.rf.0ccf303c463a6467371fa97664f98208.jpg",
+      "sha256": "8b39f7407914d2d5c8b7af31ed14e66a4dba39c245e8c937e6113586f7dab159",
+      "dhash_9x8": "981b199313c66753"
+    },
+    {
+      "group_id": "scene_029",
+      "path": "images/train/IMG_20250604_144251_jpg.rf.bb19e9aed7719dc54a4d09616d88db25.jpg",
+      "sha256": "144fd7b94f1d1d90d68831a082e847e841ea1b99b3c64f619237c1ed7ce347af",
+      "dhash_9x8": "981b199313c66753"
+    },
+    {
+      "group_id": "scene_029",
+      "path": "images/train/IMG_20250604_144252_jpg.rf.0bb2cf41f9d78540df8de5d91b8f7ae5.jpg",
+      "sha256": "a0616a819b2367934692364f26fe8bea0d8f39888f5e9d89da41c68a2d1dd6cd",
+      "dhash_9x8": "981b199213c66753"
+    },
+    {
+      "group_id": "scene_029",
+      "path": "images/train/IMG_20250604_144253_jpg.rf.b8b48f65807f166385b2815db41e4147.jpg",
+      "sha256": "bc35f6d86352c3bab86839e70d47a235490b072d02faa0f3cf5c814dd4e34282",
+      "dhash_9x8": "911a199613c66753"
+    },
+    {
+      "group_id": "scene_029",
+      "path": "images/valid/IMG_20250604_144248_jpg.rf.c40e470248d77c48cbaf3a9ff97fb3ba.jpg",
+      "sha256": "45fecc5b390ec6eb38fa3a0b0e4d9533784a0c2bbdd0d39e0ee9641c669230d1",
+      "dhash_9x8": "981b199313c66753"
+    },
+    {
+      "group_id": "scene_030",
+      "path": "images/train/IMG_20250604_144314_jpg.rf.cdf85375a85396b8cf85b762c8c52c71.jpg",
+      "sha256": "7fed85db935045434041ba564710905e408e8d4080c7d9120772f2d1c84ab3d3",
+      "dhash_9x8": "3e3c6ed69686363e"
+    },
+    {
+      "group_id": "scene_030",
+      "path": "images/train/IMG_20250604_144315_jpg.rf.dfacda2702bdf8a289c314792e08ee13.jpg",
+      "sha256": "701a5ba43d35d090ab6e4106de42f5fcbaf3a7732788621e77dee74c76a7e0c4",
+      "dhash_9x8": "3c3c6ec6d686363e"
+    },
+    {
+      "group_id": "scene_030",
+      "path": "images/train/IMG_20250604_144316_jpg.rf.a430a86a8812d74ef62469eef106aee9.jpg",
+      "sha256": "eae44062c04216283f7974816f909f85f4ff7ea4efeee1d02cd72da9037df0b8",
+      "dhash_9x8": "3e3d6ed69686263e"
+    },
+    {
+      "group_id": "scene_030",
+      "path": "images/train/IMG_20250604_144317_jpg.rf.a81734e2712b75e4ff003cba09a183f1.jpg",
+      "sha256": "1567589739f7b3137e4bdc729459cb9e02a5deb1e62adef97553950911f07229",
+      "dhash_9x8": "363c6ec69686263e"
+    },
+    {
+      "group_id": "scene_030",
+      "path": "images/valid/IMG_20250604_144318_jpg.rf.36e2fc0e7cb5ff22ef00a08aba81ce8f.jpg",
+      "sha256": "e96a88b2bd9ead3533cdb8d680fc95f68579689a964d773a6ad87683ed2b335a",
+      "dhash_9x8": "363c6ed69686262e"
+    },
+    {
+      "group_id": "scene_031",
+      "path": "images/train/IMG_20250604_144320_jpg.rf.0806441dcb83666b83af61a3bc975508.jpg",
+      "sha256": "4c9c84acf59ed439fc5a6ed3943a07a37dcddd5d784dc1c8abf3fee55beb8be6",
+      "dhash_9x8": "0b3d6ec686266464"
+    },
+    {
+      "group_id": "scene_032",
+      "path": "images/train/IMG_20250604_145104_jpg.rf.2cf662d9be3082cdad252bd4b5cc618c.jpg",
+      "sha256": "552f6c201bbad6638c9dadb4ec03190aa04f3d39d5eb8a2b3e08948403506023",
+      "dhash_9x8": "6a42409001211101"
+    },
+    {
+      "group_id": "scene_032",
+      "path": "images/valid/IMG_20250604_145102_jpg.rf.adfe76935ff684271c2e52c4646aecc2.jpg",
+      "sha256": "70b9239f312bee3dba9cbfe367a2a741c3b04f435177b96f37d9de611513e3b8",
+      "dhash_9x8": "6b42409001311101"
+    },
+    {
+      "group_id": "scene_033",
+      "path": "images/train/IMG_20250604_145110_jpg.rf.e4da4b7c1e26d3dd7208676895ebcae6.jpg",
+      "sha256": "1399b47ae4ebf46d1a0d1fdf60d813a260e79cf603dce3567478fe14a8a83143",
+      "dhash_9x8": "520048404040d888"
+    },
+    {
+      "group_id": "scene_034",
+      "path": "images/train/IMG_20250604_145113_jpg.rf.fcd7c6b1d62a8748460a810786331df6.jpg",
+      "sha256": "c471279db9ac8212247548ae68fe9cc7c23be6ba9ad3baa62200ba761102e49a",
+      "dhash_9x8": "000440404040d800"
+    },
+    {
+      "group_id": "scene_035",
+      "path": "images/train/IMG_20250604_145114_jpg.rf.2b48ede6427c3a01903292ae77a70cad.jpg",
+      "sha256": "89e97af2509674889df6f2aa7c98c660821853e588db6301e78cb737a8f77b94",
+      "dhash_9x8": "c6fe889e9e969672"
+    },
+    {
+      "group_id": "scene_036",
+      "path": "images/train/IMG_20250604_145115_jpg.rf.82097f08aa582f07e88ad19d572b6343.jpg",
+      "sha256": "e4da258f294c1525a2db994435c0a0190b32906dbed109ad8416939352572076",
+      "dhash_9x8": "4040404040409802"
+    },
+    {
+      "group_id": "scene_037",
+      "path": "images/train/IMG_20250604_145116_jpg.rf.41c7fd8cbb71e7a47bc54fc1dee8734b.jpg",
+      "sha256": "22d4e6e0260b39bee3b28b8f13bf8558290b1ab1fda1491228b8ed6eaad161c9",
+      "dhash_9x8": "8ede989e9e96869b"
+    },
+    {
+      "group_id": "scene_038",
+      "path": "images/train/IMG_20250604_145118_jpg.rf.caa4354376197d39758591e25c2ca737.jpg",
+      "sha256": "5a8c72bf8a59fb695b3eeb56d4c502fd79725bb71ca19c1082599094b8f5ae0b",
+      "dhash_9x8": "69c18b1244681193"
+    },
+    {
+      "group_id": "scene_038",
+      "path": "images/train/IMG_20250604_145119_jpg.rf.3e4d88d3186ed4169bdf8a4c68dbe40a.jpg",
+      "sha256": "32b53c839202bfd8bd27ec0ae30f15cead6555ebf6505158ea678a535953da21",
+      "dhash_9x8": "69c18b1644481113"
+    },
+    {
+      "group_id": "scene_038",
+      "path": "images/valid/IMG_20250604_145120_jpg.rf.4bc1b8a1c5f91490ca838cae428223f2.jpg",
+      "sha256": "4ea2803552518d73bfb654c4a343b4527808f56cbd3cc68f551383f968b12e26",
+      "dhash_9x8": "69c18b1644681113"
+    },
+    {
+      "group_id": "scene_039",
+      "path": "images/train/IMG_20250604_145124_jpg.rf.3ac124bc30d3703d81a924114ca52fb3.jpg",
+      "sha256": "ecbabfa3e04781f0af12ee0d627c1687966e2db04f40e0d510f25eeb5c1b5662",
+      "dhash_9x8": "d39b6d7fbbd67627"
+    },
+    {
+      "group_id": "scene_039",
+      "path": "images/valid/IMG_20250604_145125_jpg.rf.bd1fa69f6a0ab1a0a25a6ab8a881cbd5.jpg",
+      "sha256": "8a50f6b052d844152ac3998d877a7eadce44c79a8ffd3763edffc239f7fdab3a",
+      "dhash_9x8": "d39b7d7fbfd67627"
+    },
+    {
+      "group_id": "scene_040",
+      "path": "images/train/IMG_20250604_145139_jpg.rf.3f48ab7bc3c94d10f7c5fb1f6f320635.jpg",
+      "sha256": "8c3d42364c80df03dc77b0911a642d36b85b093ff6d8355f8fb101bffffd8c33",
+      "dhash_9x8": "edfcfcfefef6cf9e"
+    },
+    {
+      "group_id": "scene_040",
+      "path": "images/train/IMG_20250604_145140_jpg.rf.b756cd8ba6568ee20a5070337a1b21f8.jpg",
+      "sha256": "ca63ec002c8809e189428b7c0ecc3fb7f0785d1272750767735fb2cf8112a704",
+      "dhash_9x8": "fdfcfcfefef6cf9f"
+    },
+    {
+      "group_id": "scene_040",
+      "path": "images/train/IMG_20250604_145141_jpg.rf.c946d30b7e727c072333850378a058a7.jpg",
+      "sha256": "9558e2897a57bee7b43fbf21c1898f34c92fbd17efe1af652c419664cf9363d3",
+      "dhash_9x8": "fdfcfcfefef6cf9e"
+    },
+    {
+      "group_id": "scene_041",
+      "path": "images/train/IMG_20250604_145146_jpg.rf.f5400e1f97b41cbe07b09cd5d3c87e54.jpg",
+      "sha256": "0c8b44f0e3c563efbdd481cac27ef7c8a17500f6a59a6cf025a2167c330ed18d",
+      "dhash_9x8": "1e7fe7e7777dc9ed"
+    },
+    {
+      "group_id": "scene_042",
+      "path": "images/train/IMG_20250604_145200_jpg.rf.608ea0478400991517e8e467cd2149ea.jpg",
+      "sha256": "d82daf0e8bd1d202176ff9f3c34250b4ce4084a2e1650b38a96169fe086509e4",
+      "dhash_9x8": "87612001030bc310"
+    },
+    {
+      "group_id": "scene_042",
+      "path": "images/train/IMG_20250604_145201_jpg.rf.ad85bc83533c27848bb06f658f813c02.jpg",
+      "sha256": "db81551dff854893e0fc7a7f73f63aec2350299ec2482a912875e0e7641dfa3d",
+      "dhash_9x8": "87612003030bc310"
+    },
+    {
+      "group_id": "scene_042",
+      "path": "images/train/IMG_20250604_145202_jpg.rf.866993c951c44bb6b010de7edcb5874d.jpg",
+      "sha256": "ba10c2256a5e3fc72824001a1cd247911642737a8869f82c303946c637152fd6",
+      "dhash_9x8": "87612003030bc310"
+    },
+    {
+      "group_id": "scene_043",
+      "path": "images/train/IMG_20250604_145532_jpg.rf.0f331e10a4a04fb0cdf423cf75f327ba.jpg",
+      "sha256": "249b8475e01f9c94731125d2ab243f6c3d4becda60010c62b84fed99d469cf4c",
+      "dhash_9x8": "f87d677d7c3e7a7b"
+    },
+    {
+      "group_id": "scene_044",
+      "path": "images/train/IMG_20250605_115932_jpg.rf.34d73bd24b967bce5c32b018633873bb.jpg",
+      "sha256": "d49e1a511faf4fe600f2197d133865c2f02f73a17d3ddbd6920d2158261b9b2b",
+      "dhash_9x8": "c1b0e4f2fafae0ec"
+    },
+    {
+      "group_id": "scene_045",
+      "path": "images/train/IMG_20250605_115933_jpg.rf.a9176c929cefdb2f6c2c0452487efa67.jpg",
+      "sha256": "46ff5f11b5f33421806a9970ff224b7d1558202475d6b137f7666b4fc477ddf7",
+      "dhash_9x8": "217970d050202001"
+    },
+    {
+      "group_id": "scene_046",
+      "path": "images/train/IMG_20250605_115935_jpg.rf.e0e576aa7966ea9e52139f46efca48d1.jpg",
+      "sha256": "c9bc758a455cf47dc297855be273903dfcf634fc818f87a301f6b68b89812ede",
+      "dhash_9x8": "e1f870b0c0482000"
+    },
+    {
+      "group_id": "scene_047",
+      "path": "images/train/IMG_20250605_115937_jpg.rf.d24e014efae0b46343f9417658e85446.jpg",
+      "sha256": "196da67f5023a17a771e7b2c7739a02795d8789b762ad20fc8dc50bd1c27abb6",
+      "dhash_9x8": "88f0b4f0f0f0f0fc"
+    },
+    {
+      "group_id": "scene_048",
+      "path": "images/train/IMG_20250605_115941_jpg.rf.f3327ceaf4a8a2fbfa8b6fa9bee20d04.jpg",
+      "sha256": "be49c6f077ac59c2cd5f81bf1aadb9f6e157baca7b767349d4c3f7eec95617a1",
+      "dhash_9x8": "607961d0c0682000"
+    },
+    {
+      "group_id": "scene_049",
+      "path": "images/train/IMG_20250605_120022_jpg.rf.640ee5b6f72a79d745202df63cea7cde.jpg",
+      "sha256": "3395460b5c086eec7d78e7519ff5190fc948020537357749eaf95b6ec4b36a64",
+      "dhash_9x8": "c1f0f3eaeae8e6f6"
+    },
+    {
+      "group_id": "scene_050",
+      "path": "images/train/IMG_20250605_120023_jpg.rf.f0dd0744072ec69fd48346364e7a1776.jpg",
+      "sha256": "465039649b59c2c875e23c0a363c7aa4c9eff0225d8b2b7386e220d4e7fa8ca0",
+      "dhash_9x8": "70f230d4d8200912"
+    },
+    {
+      "group_id": "scene_051",
+      "path": "images/train/IMG_20250605_120025_jpg.rf.8c83289bcd2730f6a8b011dfeeb326ef.jpg",
+      "sha256": "7fb1be8dacd48260051067c4a2c1251d11ca5db40c07b890d2f03198d06886f1",
+      "dhash_9x8": "70f830b49420080a"
+    },
+    {
+      "group_id": "scene_052",
+      "path": "images/train/IMG_20250605_121936_jpg.rf.8f7ed982cca35131e6105e728ae0adc2.jpg",
+      "sha256": "340dc68150b1de935cd67a4fb9f14dc36c237a34858d8da979a202ce3dbfed95",
+      "dhash_9x8": "9f9b968f8e87c3bf"
+    },
+    {
+      "group_id": "scene_053",
+      "path": "images/train/IMG_20250605_122029_jpg.rf.08b8bcaaea99e516698a051789f13e90.jpg",
+      "sha256": "dbcfb22158fecf23a49b694a730ad67752036392d3decf63889d4e93fd9b088a",
+      "dhash_9x8": "fee6f8f595aacd3d"
+    },
+    {
+      "group_id": "scene_054",
+      "path": "images/train/IMG_20250605_122107_jpg.rf.28168fdfa9a65aa4a80c408809193751.jpg",
+      "sha256": "5923240d67bd309e4f2ed6c9ce7f3eafdf01ee15a49aa329440ab0d3b4fedb0e",
+      "dhash_9x8": "effaf5f59dff6b3d"
+    },
+    {
+      "group_id": "scene_055",
+      "path": "images/train/IMG_20250605_122730_jpg.rf.ab781843dbfe5f6494753d8d2964e922.jpg",
+      "sha256": "aef0427f6345624c93c4f38e4a9ddfe221d223bed64066fae96a17cb20dffc3d",
+      "dhash_9x8": "1b59614959796170"
+    },
+    {
+      "group_id": "scene_056",
+      "path": "images/train/IMG_20250605_122734_jpg.rf.917eea143db3f316b6959a306ae5869e.jpg",
+      "sha256": "f37ead1b4fcecf6dcbc9a45b81789a4adb9f6149f44676978f3cf808bc693a5e",
+      "dhash_9x8": "4e0c3008424a02ee"
+    },
+    {
+      "group_id": "scene_056",
+      "path": "images/valid/IMG_20250605_122732_jpg.rf.fbe6afa3876d17d4c41200ae70ad6e1d.jpg",
+      "sha256": "d8fad2cacd6826201493a175153fa451424c0ee5a6a10ba86483f429d218dd41",
+      "dhash_9x8": "4e0c0008424a02ee"
+    },
+    {
+      "group_id": "scene_057",
+      "path": "images/train/IMG_20250605_122755_jpg.rf.80456df93f7b0874fe8122adae291778.jpg",
+      "sha256": "8d19cfa3f4e3e3f0d19c82068b8a0db23fcd3b2871af39bc10af3a2666c0767d",
+      "dhash_9x8": "135a604c5c78684f"
+    },
+    {
+      "group_id": "scene_058",
+      "path": "images/train/IMG_20250605_122758_jpg.rf.1aa913cd906d90d488296ec74c550462.jpg",
+      "sha256": "6588f0a06690da816ca4b0525403479679bcc1c7c694dd701d5ae49109a662d6",
+      "dhash_9x8": "4e2c280c4042520e"
+    },
+    {
+      "group_id": "scene_059",
+      "path": "images/train/IMG_20250605_123003_jpg.rf.b8df0d819695ad9347327c3703fc7d71.jpg",
+      "sha256": "e882472bdec45815ecd671992cf5613ebf26c605a4b606e18a8fe1419e262d25",
+      "dhash_9x8": "5e4a459617f9e0e0"
+    },
+    {
+      "group_id": "scene_060",
+      "path": "images/train/IMG_20250605_123005_jpg.rf.d172f839c88cb4a2b6f24688a7fff4a5.jpg",
+      "sha256": "afc0a675e22893f9485eb5f4e19d3c0629c5decbb3e767801d881af71077034b",
+      "dhash_9x8": "7e48441696f8e0e0"
+    },
+    {
+      "group_id": "scene_061",
+      "path": "images/train/IMG_20250605_123038_jpg.rf.24972ef23d9f0c74d9f9bbc426ebe612.jpg",
+      "sha256": "661b52ef8079a38dfc57a1baae6bc4d76838d245acff22332f85c14b7f548bf4",
+      "dhash_9x8": "f870e897963fc3b1"
+    },
+    {
+      "group_id": "scene_062",
+      "path": "images/train/IMG_20250605_124614_jpg.rf.74e362a61fbec92645b7598b67b079c5.jpg",
+      "sha256": "a87b9561a77b53edb6312829a76928d50659f7e7ea85aa0b5efff6b6245ec97c",
+      "dhash_9x8": "d7561797171e9993"
+    },
+    {
+      "group_id": "scene_063",
+      "path": "images/train/IMG_20250605_124616_jpg.rf.02f601af051ce48ae750b5628302bfcf.jpg",
+      "sha256": "c57cf588c35d7be213a3b1b4e970cd2b50186cc1c9beddb731d788dc3825af2b",
+      "dhash_9x8": "c4ece8dadaf4ea7a"
+    },
+    {
+      "group_id": "scene_064",
+      "path": "images/train/IMG_20250605_124628_jpg.rf.a2f970f1152dee86c6f5f4051320fef6.jpg",
+      "sha256": "c55a1ef160bb0612d2e83476c8a48fece17346837b9164b26055b785c2a474d0",
+      "dhash_9x8": "e4c8c8d6d6f46afa"
+    },
+    {
+      "group_id": "scene_065",
+      "path": "images/valid/IMG_1243_jpg.rf.263f79a7a22755197936d02b6d087226.jpg",
+      "sha256": "e5f8d5c6686f8cfbffcbcdacac87cc3d245404eaca882af97316d9510b045c4d",
+      "dhash_9x8": "cfcf67637367cfce"
+    },
+    {
+      "group_id": "scene_066",
+      "path": "images/valid/IMG_1253_jpg.rf.f1356a836d5ff17327e10f50ccab0c4d.jpg",
+      "sha256": "bb00296d52a3cb98320ae1b0896388f03849bd469fc7e8698c25e9525c423655",
+      "dhash_9x8": "f2b7b6c62618393b"
+    },
+    {
+      "group_id": "scene_066",
+      "path": "images/valid/IMG_1254_jpg.rf.6fb3484419421bb81f8d884fa0ddbe2d.jpg",
+      "sha256": "8319088dda5c3f691c43815825477b343cb5e7da175f898039e3ae36a40cbede",
+      "dhash_9x8": "f3b7b6c62618393b"
+    },
+    {
+      "group_id": "scene_067",
+      "path": "images/valid/IMG_1258_jpg.rf.5802fd11a7a3cd91f4ac78593b0a9aa2.jpg",
+      "sha256": "e0df3dc37e6052b61f748f6a162b54cdb9d537df1af90a4df539a52a5c73f403",
+      "dhash_9x8": "71ccc269781a9279"
+    },
+    {
+      "group_id": "scene_068",
+      "path": "images/valid/IMG_20250604_145149_jpg.rf.5be5fb34d5a68bbed3f875f937e8782e.jpg",
+      "sha256": "b095162f9eb45654c5436e3764edf2e026533703e41ac4df997bc0afeb5df99d",
+      "dhash_9x8": "023e6273d3ce5b0a"
+    },
+    {
+      "group_id": "scene_069",
+      "path": "images/valid/IMG_20250604_145157_jpg.rf.cf81dccd2cb918e0780a56ffb5ac81f4.jpg",
+      "sha256": "a0560559d4b9ec031bd3b110549ac92cf64fba5052f95b36e1e7331bfa3791fe",
+      "dhash_9x8": "0d01566a2b072d87"
+    },
+    {
+      "group_id": "scene_070",
+      "path": "images/valid/IMG_20250605_120004_jpg.rf.5ae156d8cacdc0d008198159ef7ebde5.jpg",
+      "sha256": "263cceeb647efb51e609606e99d6a6f9638c8f1aacf395e3537c80b3169924d3",
+      "dhash_9x8": "90d9905070280800"
+    },
+    {
+      "group_id": "scene_071",
+      "path": "images/valid/IMG_20250605_120006_jpg.rf.efbbf829404afccc1fbb3a17e1f7a4dc.jpg",
+      "sha256": "792b1b57f93a6bd69e5f6b724dbcb8a28491798e1ee753397c136b6eaf58e7fd",
+      "dhash_9x8": "81d1f1d050200900"
+    },
+    {
+      "group_id": "scene_072",
+      "path": "images/valid/IMG_20250605_120018_jpg.rf.09a33153356d190e821622e21788a931.jpg",
+      "sha256": "dfc0d1b075e5945c3b0f47a9ef5939a5b238ba390d253e10a958ff3ab9feba94",
+      "dhash_9x8": "a039305048200912"
+    },
+    {
+      "group_id": "scene_073",
+      "path": "images/valid/IMG_20250605_121938_jpg.rf.cf27e231adc197578d9065ccd5073b22.jpg",
+      "sha256": "2eb2b0ae3334eacf6c3455152c29c9231865f2754efe73d27967aceb513c4efc",
+      "dhash_9x8": "f0dc9c9c1e16551a"
+    },
+    {
+      "group_id": "scene_074",
+      "path": "images/valid/IMG_20250605_121940_jpg.rf.37a2887db21bfea0e586d8b088e5a419.jpg",
+      "sha256": "158896ee70b8c7f7b9e94830261454e6cb136420a7cf24b3266441f5d785d35f",
+      "dhash_9x8": "8bcd93250e8fc79f"
+    },
+    {
+      "group_id": "scene_075",
+      "path": "images/valid/IMG_20250605_122031_jpg.rf.5434b016a008154f8ff6981f67d4ed7b.jpg",
+      "sha256": "519b7da3a45a11c8bbc6bad69c7035db94760608cfce5a8b290ef899db5d471b",
+      "dhash_9x8": "434c2a56702988d0"
+    },
+    {
+      "group_id": "scene_076",
+      "path": "images/valid/IMG_20250605_122047_jpg.rf.f3e0aba91b87880397feb73f4d6bc946.jpg",
+      "sha256": "84a3a4fada85242c13550a789d0f5e92d73e1b9dcb3df7569a555f65e26ff180",
+      "dhash_9x8": "ece6fbf5c5bb6d3d"
+    },
+    {
+      "group_id": "scene_077",
+      "path": "images/valid/IMG_20250605_122757_jpg.rf.84d00ed939ebada4e52a75ededc4cc4e.jpg",
+      "sha256": "eab6a0af67762e351789870f6637af5140c3fcd4849fc0019102a83a3a25bd00",
+      "dhash_9x8": "8e0c280c80d2924e"
+    },
+    {
+      "group_id": "scene_078",
+      "path": "images/valid/IMG_20250605_123036_jpg.rf.5ecee8e6023bcd11cf7a906184ab8ad9.jpg",
+      "sha256": "137341425be108d1da975a9a681555cc39fbe6163fbd19bec9130ff6f0af16ef",
+      "dhash_9x8": "f8f1e986963fe3b1"
+    },
+    {
+      "group_id": "scene_079",
+      "path": "images/valid/IMG_20250605_124611_jpg.rf.633bb4b6a742b9b341ad144d474bf2d8.jpg",
+      "sha256": "5751e56bab30eada7b88ffe7f97aaaebc2cc72000c1b52882c3cbf30e06b38f7",
+      "dhash_9x8": "ec99d8d6d6f4eafa"
+    }
+  ]
+}

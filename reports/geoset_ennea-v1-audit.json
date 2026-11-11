@@ -1,0 +1,131 @@
+{
+  "dataset_id": "geoset_ennea",
+  "source_version": "Mendeley Data v1",
+  "source_url": "https://data.mendeley.com/datasets/fg97mhsdbr/1",
+  "source_inventory": "manifests/sources/geoset_ennea-v1.json",
+  "source_subset_sha256": "9b9374f6029832caf545f6fcc09ae3cd32412122903aff366dfd7a8f2285542c",
+  "source_subset_files": 274,
+  "source_subset_size_bytes": 8710065,
+  "source_full_inventory_files": 2898,
+  "source_full_inventory_size_bytes": 1262298567,
+  "source_images_official_split": 966,
+  "selected_unique_original_photo_groups": 136,
+  "generated_augmented_images_excluded": 776,
+  "generated_unmatched_images_excluded": 35,
+  "generated_screenshot_images_excluded": 14,
+  "generated_duplicate_representations_excluded": 5,
+  "excluded_screenshot_source_groups": 14,
+  "scene_group_map": "reports/geoset_ennea-near-duplicate-groups.json",
+  "scene_group_map_sha256": "b41aedd052cfced4fa95ee1f1d645fbd8321ad8f07fad23b130aaf220c2d007b",
+  "scene_group_count": 80,
+  "scene_group_split_counts": {
+    "train": 56,
+    "val": 12,
+    "test": 12
+  },
+  "split_policy": "seed 42; shuffle scene groups formed by 9x8 grayscale dHash with Hamming distance <=4; 70/15/15; no near-duplicate component crosses splits",
+  "split_counts": {
+    "train": 84,
+    "test": 30,
+    "val": 22
+  },
+  "annotations_by_split_and_class": {
+    "test": {
+      "Sharpener": 30,
+      "Eraser": 29,
+      "Pencil": 31,
+      "Compass": 29,
+      "Divider": 30,
+      "Set_Square_45deg": 29,
+      "Protractor_180deg": 30,
+      "Scale_15cm": 31,
+      "Set_Square_60deg": 24
+    },
+    "train": {
+      "Divider": 84,
+      "Scale_15cm": 83,
+      "Set_Square_45deg": 86,
+      "Compass": 83,
+      "Pencil": 84,
+      "Sharpener": 82,
+      "Protractor_180deg": 84,
+      "Eraser": 83,
+      "Set_Square_60deg": 62
+    },
+    "val": {
+      "Sharpener": 22,
+      "Eraser": 22,
+      "Divider": 22,
+      "Protractor_180deg": 21,
+      "Set_Square_45deg": 22,
+      "Scale_15cm": 23,
+      "Compass": 21,
+      "Pencil": 21,
+      "Set_Square_60deg": 20
+    }
+  },
+  "class_names": [
+    "Compass",
+    "Divider",
+    "Eraser",
+    "Pencil",
+    "Protractor_180deg",
+    "Scale_15cm",
+    "Set_Square_45deg",
+    "Set_Square_60deg",
+    "Sharpener"
+  ],
+  "annotation_rows": 1188,
+  "annotations_by_class": {
+    "Scale_15cm": 137,
+    "Sharpener": 134,
+    "Pencil": 136,
+    "Protractor_180deg": 135,
+    "Compass": 133,
+    "Divider": 136,
+    "Eraser": 134,
+    "Set_Square_45deg": 137,
+    "Set_Square_60deg": 106
+  },
+  "metadata_annotation_match": "all selected YOLO rows match fixed Metadata.csv class IDs and normalized boxes",
+  "pixel_transform": "none; selected fixed-version generated original photos are copied unchanged",
+  "annotation_transform": "normalized YOLO bounding boxes preserved",
+  "visual_review": {
+    "sample_images": 27,
+    "sampled_classes": 9,
+    "sampled_splits": [
+      "train",
+      "valid",
+      "test"
+    ],
+    "findings": "geometric stationery objects match labels; camera-photo sample shows no people; visible product names/logos occur on stationery; screenshot captures were excluded after a visible image-search overlay was found in the source candidate"
+  },
+  "rights_review": {
+    "license": "CC BY 4.0 displayed on official Mendeley Data v1 page",
+    "image_origin": "dataset page states authors photographed geometric tools with smartphones in Dhaka stationery shops and libraries",
+    "attribution_required": true,
+    "modification_notice_required": true,
+    "third_party_content": "some sampled stationery displays product branding; included incidentally as part of author-captured scenes and not an endorsement; third-party trademarks remain subject to their owners' rights"
+  },
+  "all_selected_images_decoded": true,
+  "image_decode_method": "macOS sips; 640x640 for all selected images",
+  "education_review": {
+    "status": "suitable_for_limited_high_school_object_detection_activity",
+    "suggested_project": "study-desk geometry-tool inventory or finding misplaced drawing tools",
+    "limitations": [
+      "photos were collected in Dhaka and are not a representative sample of Japanese stationery or classroom scenes",
+      "some augmented variants in the publisher-provided splits cross source-photo groups; all augmented variants are excluded here",
+      "small source-photo subset; scores should not be treated as reliable real-world performance",
+      "visible product brands are incidental and do not indicate endorsement"
+    ]
+  },
+  "release": {
+    "status": "published",
+    "url": "https://github.com/708san/CV_data_artifacts/releases/tag/geoset-ennea-v0.1.0",
+    "asset": "geoset_ennea-v0.1.0.zip",
+    "asset_size_bytes": 7531941,
+    "asset_sha256": "6185c0f8e631ec36913b6c229d4fbd51463d2a4fea1084f3c3e8021244ecd6e3",
+    "downloaded_release_asset_reverified": true,
+    "manifest_file_count": 278
+  }
+}
