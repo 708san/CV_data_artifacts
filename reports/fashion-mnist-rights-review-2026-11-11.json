@@ -1,0 +1,80 @@
+{
+  "dataset_id": "fashion_mnist",
+  "checked_at": "2026-11-11",
+  "source": {
+    "name": "Fashion-MNIST",
+    "authors": [
+      "Han Xiao",
+      "Kashif Rasul",
+      "Roland Vollgraf"
+    ],
+    "url": "https://github.com/zalandoresearch/fashion-mnist/tree/b2617bb6d3ffa2e429640350f613e3291e10b141",
+    "fixed_commit": "b2617bb6d3ffa2e429640350f613e3291e10b141",
+    "license": "MIT",
+    "license_evidence": "The source README describes Fashion-MNIST and its 70,000 product images, then lists MIT in its License section; the repository LICENSE at this fixed commit contains the MIT copyright and permission notice.",
+    "license_url": "https://github.com/zalandoresearch/fashion-mnist/blob/b2617bb6d3ffa2e429640350f613e3291e10b141/LICENSE",
+    "attribution_required": "Copyright © 2017 Zalando SE; include the complete MIT notice."
+  },
+  "content": {
+    "image_count": 70000,
+    "classes": 10,
+    "image_shape": [
+      28,
+      28
+    ],
+    "channels": 1,
+    "splits": {
+      "train": 60000,
+      "test": 10000
+    },
+    "classes_en": [
+      "T-shirt/top",
+      "Trouser",
+      "Pullover",
+      "Dress",
+      "Coat",
+      "Sandal",
+      "Shirt",
+      "Sneaker",
+      "Bag",
+      "Ankle boot"
+    ],
+    "intended_source_use": "Benchmark dataset for machine-learning image classification."
+  },
+  "source_files": {
+    "train-images-idx3-ubyte.gz": {
+      "size": 26421880,
+      "sha256": "3aede38d61863908ad78613f6a32ed271626dd12800ba2636569512369268a84"
+    },
+    "train-labels-idx1-ubyte.gz": {
+      "size": 29515,
+      "sha256": "a04f17134ac03560a47e3764e11b92fc97de4d1bfaf8ba1a3aa29af54cc90845"
+    },
+    "t10k-images-idx3-ubyte.gz": {
+      "size": 4422102,
+      "sha256": "346e55b948d973a97e58d2351dde16a484bd415d4595297633bb08f03db6a073"
+    },
+    "t10k-labels-idx1-ubyte.gz": {
+      "size": 5148,
+      "sha256": "67da17c76eaffca5446c3361aaab5c3cd6d1c2608764d35dfb1850b086bf8dd5"
+    }
+  },
+  "student_use": {
+    "decision": "candidate",
+    "project": "衣類の大まかなカテゴリ別整理や古着カタログづくりを題材に、画像分類がどこまで使えるか試す。",
+    "limits": [
+      "28x28の白黒商品画像なので、実際の衣類を撮影した画像へそのまま適用できるとは限らない。",
+      "実物の仕分け、品質・状態、サイズ、ブランド、再利用可否は判定しない。",
+      "実運用に使うには対象環境で撮影した画像による別途検証が必要。"
+    ]
+  },
+  "review_status": {
+    "license": "source repository declares MIT; attribution notice will be preserved",
+    "fixed_file_integrity": "SHA-256 and byte counts recorded in reports/fashion-mnist-github-b2617bb6.json; verify again on download before packaging",
+    "visual_content": "pending final sample/contact-sheet review",
+    "packaging": "not prepared",
+    "release": "not published",
+    "library_registration": "not enabled"
+  },
+  "publication_gate": "Do not publish or enable in the student catalog until the fixed source files are downloaded and reverified, sample images and labels are visually checked, and a redistributed archive manifest is generated."
+}
