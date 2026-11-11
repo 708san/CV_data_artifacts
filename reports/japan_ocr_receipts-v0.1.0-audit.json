@@ -1,0 +1,46 @@
+{
+  "dataset_id": "japan_ocr_receipts",
+  "source_version": "c82efda5b823494424e6bc6e9ae7577396ded908",
+  "source_url": "https://huggingface.co/datasets/K10124/japan-ocr-mini-benchmark/tree/c82efda5b823494424e6bc6e9ae7577396ded908/alpha10",
+  "rights_and_task_review": {
+    "license": "CC BY 4.0",
+    "license_evidence": "Pinned Alpha10 source payload README, LICENSE_NOTICE.md and ALPHA10_LICENSE_FINAL_CONFIRMATION.md; confirmation is scoped only to Alpha10.",
+    "content_origin": "10 synthetic Japanese receipt images and matching public structured source records. Source card says no real receipts, transactions, people, brands or reference images.",
+    "student_task": "Prototype a receipt reader for organizing school-festival expenses: use OCR to read item names and prices, then compare totals with structured examples.",
+    "task_limits": [
+      "This is not a full-text OCR transcription benchmark; only structured item and total examples are provided.",
+      "Only 10 synthetic clean samples; results do not generalize to all receipts.",
+      "Never use OCR alone for actual bookkeeping or financial decisions.",
+      "Do not upload real receipts with personal information to a public notebook."
+    ],
+    "initial_review_completed_before_source_download": true
+  },
+  "source_files": {
+    "count": 20,
+    "images": 10,
+    "fixed_revision": "c82efda5b823494424e6bc6e9ae7577396ded908",
+    "source_inventory_sha256": "57102d17d35d4a6c8dbc67a59004189b0593b39e1db86c74b623f8959b45ccd3",
+    "source_files_sha256_match": true,
+    "excluded_case": "CASE-000048"
+  },
+  "image_audit": {
+    "count": 10,
+    "decoded_and_visually_opened": 10,
+    "dimensions": "varied portrait images; all PNG",
+    "exact_duplicate_sha256": 0,
+    "image_pixels_changed": false,
+    "structured_labels": "10 rows match source JSON-derived item/amount/total records; split=eval"
+  },
+  "prepared_artifact": {
+    "version": "0.1.0",
+    "bytes": 860275,
+    "sha256": "0c9739f12f11ea22c44afa5f2a5a151bf389badb9bc6ce4534dc956b9a8b8f4d",
+    "images": 10,
+    "files": 15,
+    "image_pixels_changed": false,
+    "release_status": "prepared_not_published",
+    "license": "CC BY 4.0",
+    "manifest_path": "manifests/japan_ocr_receipts-v0.1.0.json",
+    "source_manifest_path": "manifests/sources/japan_ocr_receipts-alpha10.json"
+  }
+}
