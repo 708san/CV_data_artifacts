@@ -126,6 +126,26 @@
       "transform_version": "recyclable_waste_v1.1.0",
       "manifest_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/manifests/recyclable_waste-v0.1.1.json",
       "audit_report_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/reports/recyclable_waste-v0.1.1-audit.json"
+    },
+    {
+      "dataset_id": "bangladeshi_ewaste",
+      "artifact_version": "0.1.0",
+      "artifact_url": "https://github.com/708san/CV_data_artifacts/releases/download/bangladeshi-ewaste-v0.1.0/bangladeshi_ewaste-v0.1.0.zip",
+      "artifact_sha256": "70f1bc03d605922370611a7b326d1647fd2bddf030e2acb95c60f55edb6eb6f3",
+      "source_url": "https://data.mendeley.com/datasets/77383kmdnw/1",
+      "source_version": "Mendeley Data v1",
+      "source_sha256": "f73b30286225c208e98b34f81eb5ffef7baf79e883039d2087e8db53f6ee284e",
+      "license": "CC BY 4.0",
+      "rights_status": "approved_for_redistribution",
+      "attribution": "Tanzila Afrin; Azizul Abedin Azmi (2025), Custom Bangladeshi E-Waste Image Dataset for Object Detection and Recognition, Mendeley Data v1, DOI: 10.17632/77383kmdnw.1, CC BY 4.0.",
+      "modifications": [
+        "Retained source images and original train/valid/test split; no image-pixel changes.",
+        "Preserved 752 bbox annotations and converted 1,407 polygons to axis-aligned enclosing rectangles.",
+        "Added Japanese classroom README, CC BY attribution, modification notice, and use limitations."
+      ],
+      "transform_version": "detection_yolo_v1.1.0",
+      "manifest_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/manifests/bangladeshi_ewaste-v0.1.0.json",
+      "audit_report_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/reports/bangladeshi_ewaste-v0.1.0-audit.json"
     }
   ]
 }
