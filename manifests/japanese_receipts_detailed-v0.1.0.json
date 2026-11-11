@@ -1,0 +1,1048 @@
+{
+  "manifest_version": "1.0.0",
+  "dataset_id": "japanese_receipts_detailed",
+  "artifact_version": "0.1.0",
+  "files": [
+    {
+      "path": "japanese_receipts_detailed/LICENSE.md",
+      "size": 1220,
+      "sha256": "d90ffa4df9e6620730342459a387a1d8bbf63cb1acf7faade64440e19135847e"
+    },
+    {
+      "path": "japanese_receipts_detailed/README.md",
+      "size": 2089,
+      "sha256": "656d2b9de666658920576e75d36492be165c4999e2afa42d7bb2565d21762a27"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_convenience_0004.jpg",
+      "size": 827453,
+      "sha256": "54d34b800901c3cf856a514b7b4bf72591a5e2394acfaf8051a40aab6f8b5cd3"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_convenience_0033.jpg",
+      "size": 669255,
+      "sha256": "687b6be43af95bfea350fca27e878152a3cc30a98e45e8db1fde1459ca38201d"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_convenience_0035.jpg",
+      "size": 1727566,
+      "sha256": "7e86a7582de3b5362867253bb0db01f642403b0c822ee662ef2bf137922d03fa"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_convenience_0036.jpg",
+      "size": 1705511,
+      "sha256": "e53f3c665c65480ff0fb79ac251405a3d2b78366931c83f56744924150ac7f37"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_convenience_0040.jpg",
+      "size": 460543,
+      "sha256": "b0d9950808de2611c7f66c6aff1dbec3be89d284bd193811a91ccee51dc0b146"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_convenience_0041.jpg",
+      "size": 1410568,
+      "sha256": "f46893802586095977895afd73f0cb1db4ca3b3ec3cb952cad843719b5bc9871"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_convenience_0042.jpg",
+      "size": 1320141,
+      "sha256": "785ddc96cef5cb47a82ca545e85c53af2a9fea3f37dbe110bbb7b152c319579e"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_convenience_0063.jpg",
+      "size": 938842,
+      "sha256": "821cb015e5ed03a2bffdee22ab0a88d0799af25e7b4b5121919cdd1b8d760f7f"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_convenience_0072.jpg",
+      "size": 966345,
+      "sha256": "7f403c1b552a4b2256713391ceca31b7e11f0873c7b82e657ae2bcb0f3ab08dc"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_convenience_0096.jpg",
+      "size": 493124,
+      "sha256": "ef61dbcb53c731649ae24cfba0865fb5ff795736aa73bf446a8c90f565f83f8e"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_convenience_0117.jpg",
+      "size": 1165037,
+      "sha256": "0298f3f50c056012cc25771825708b159be785c51a52430a5562d888b9017aa4"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_convenience_0118.jpg",
+      "size": 1133609,
+      "sha256": "392e1e52f5076ef5565dafc3b61e293e23f8c8d016ed2b40c1585f739c8808b1"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_convenience_0123.jpg",
+      "size": 1316825,
+      "sha256": "70ebe1169c0fa0042575bccf2562a1da5a704bc2ed9ae398b4606420f1b5bd95"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_convenience_0126.jpg",
+      "size": 1379377,
+      "sha256": "9fd79fe4ac32971e19916b233eb35263bb26385be8a7461444886041cfa81a5c"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_convenience_0150.jpg",
+      "size": 1317752,
+      "sha256": "f9575403433e81797baa7269f6577e7f42fb7586208e7a848f1b189133f85391"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_convenience_0151.jpg",
+      "size": 1303214,
+      "sha256": "a9402eba99e37572c642613160848f0ba604d730b64391d033056625d9031b7b"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_convenience_0157.jpg",
+      "size": 2583291,
+      "sha256": "95cc15a6396b30e15721d858761bbca07331a24583460b5b5f63ab127437d466"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_drugstore_0021.jpg",
+      "size": 853250,
+      "sha256": "f39858231792e5807a93a5c28dd51a1a4c2f292631696326c836c35bccffc920"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_drugstore_0023.jpg",
+      "size": 918200,
+      "sha256": "07d7f77113c6aabf577606df520b428939d27927ce866b032b134d3514b4819c"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_drugstore_0024.jpg",
+      "size": 917773,
+      "sha256": "9075febdd0e29e7af89bcfd6923dc1dc00fa8f3270604b53e85aa550b416621f"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_drugstore_0028.jpg",
+      "size": 595639,
+      "sha256": "52c4785ac7824ae5f2f2c57ba9c1bee6df05808a8113e052e10238a52480bf17"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_drugstore_0038.jpg",
+      "size": 1905989,
+      "sha256": "c14a99baab1b4a8d94c5822e335306c1662fd4178871dafae4280bf872c802b3"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_drugstore_0045.jpg",
+      "size": 511272,
+      "sha256": "998b21f55cb831d67b2f66fe738fc8b57afae0d1662c723a5a9f2c8a281be70d"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_drugstore_0058.jpg",
+      "size": 1283000,
+      "sha256": "f55146ff6f9f458ef802b5fcbb5bd71da2179396e6512151e2927441ba83f3d9"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_drugstore_0069.jpg",
+      "size": 994459,
+      "sha256": "f2ad7387153ff7ff25c07f952f28b1039edc84dc1771a15695018f9952e0f0d2"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_drugstore_0078.jpg",
+      "size": 1550293,
+      "sha256": "352cb2f2fd08cf5242a5f501a300334297b5b9d8758a5c62f3358c3b45fdcb90"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_drugstore_0103.jpg",
+      "size": 2322111,
+      "sha256": "8eff805cd9edc363381a9dffbcf5a9da619547d9451464f487a80130e559e23a"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_drugstore_0107.jpg",
+      "size": 1286184,
+      "sha256": "a3aa8a2e674ac9bed773cf4e938b07d57f4655975c0e3df390134763c62c7c37"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_drugstore_0128.jpg",
+      "size": 568841,
+      "sha256": "54d9f0ac1390b843dd162d496dfb393c52d0f821e705b212555ebc2c0d06e755"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_drugstore_0129.jpg",
+      "size": 913492,
+      "sha256": "9222c3533073092e40a48f8994c39b2fad156ebde462ce208cf0514337a5c62e"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_restaurant_0012.jpg",
+      "size": 1437026,
+      "sha256": "f5e2c064f6f9c4d3ea7181967563c9e6aee59b4a62628e0d234d9938e63c3105"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_restaurant_0037.jpg",
+      "size": 1683257,
+      "sha256": "97191e09f6761da17140c88d5a1a89716528aa7c1e7dd3d4afee0dcb2e6ded5c"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_restaurant_0042.jpg",
+      "size": 1123809,
+      "sha256": "c99911adaf0011458a0f0ce59f1235ab6db669d0c6643b8c6960eb0b93c9974c"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_restaurant_0043.jpg",
+      "size": 1800923,
+      "sha256": "1ed380179f514578db2eecb34f57645f478c0d537507383f99e49a28d740ce7f"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_restaurant_0045.jpg",
+      "size": 1279958,
+      "sha256": "3ba90b2f9ceae36748582faf8388d272168dac0d5661f4fd73e0d55d50b681c5"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_restaurant_0052.jpg",
+      "size": 1197353,
+      "sha256": "994ede25930cc07a3156ef295493b8af7f4c6215e0c576be1bae061ff9b7543d"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_restaurant_0054.jpg",
+      "size": 954609,
+      "sha256": "984a6f6ac717b54d7b09b5b2bd1b8d5ee56e6adfccacd42f91e322791aa4b1e1"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_restaurant_0080.jpg",
+      "size": 1042401,
+      "sha256": "7ca6cd7aa5c7bfdc043be15c67c90377cede616b6bd5736f4aec1433a18d6a2a"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_restaurant_0095.jpg",
+      "size": 2198071,
+      "sha256": "8249a4896e625e727537a794a4925aff314ff30cffc9a045dd8deb6f310e1005"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_restaurant_0105.jpg",
+      "size": 2081179,
+      "sha256": "0614d4f82b7f74cb8f2111c54ad69a831998691d74a0cec7d9d4b8e412d4e2d8"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_restaurant_0110.jpg",
+      "size": 1151142,
+      "sha256": "16ee21454c40f601b29e80584233ada5ce9ebcccd15af754654b5c83d831ccc5"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_restaurant_0113.jpg",
+      "size": 2100189,
+      "sha256": "bc721a5db195a83be2fb1d1080ed6f93701f3a854e28d6580c0bc6688f98059d"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_restaurant_0125.jpg",
+      "size": 1603199,
+      "sha256": "16a35c828811d8ef4a841265cebe4e39fef8c5d6b105cab2f443c22b05809ae4"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_restaurant_0126.jpg",
+      "size": 2089963,
+      "sha256": "74a57752c49aa40bf7b8ff07fe9582f7e94783a5752fb623dcdaf444202ff016"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_restaurant_0141.jpg",
+      "size": 1876815,
+      "sha256": "d4fc4c24b2803b0c7ba919c739767be751177336fd588357375b2ad2ac003544"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_restaurant_0149.jpg",
+      "size": 1383934,
+      "sha256": "a19a46157cff2d8f18ed89a4aecf5b0ec73a1aa3cfa83d325505b509fbd67f9e"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_restaurant_0152.jpg",
+      "size": 854892,
+      "sha256": "1a73a74264deed4782f57ce58926e90ae3664effb539147a9baef7ab6d4e354a"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_restaurant_0157.jpg",
+      "size": 2063163,
+      "sha256": "34c7f43b33260c6a2c5520a6057a3dd4890b90f48073811b85963e9afb7c1b0e"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_retail_0015.jpg",
+      "size": 232326,
+      "sha256": "c8edef4107a780cd53781922fe98c5c28f4cf89f6ec8b328468c0de7b33759ac"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_retail_0033.jpg",
+      "size": 1178333,
+      "sha256": "ccdf7a11377eaf1adc7616404739338a0c1f830c01eba46acb44963b19f893a5"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_retail_0034.jpg",
+      "size": 935133,
+      "sha256": "23821a60f063936d4eb1a4d674a0e3d53154079a37569e82b5047cc3b56dc027"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_retail_0039.jpg",
+      "size": 1439491,
+      "sha256": "022063740993c1ee1da458ab6cd1914101f084f2b4e9f2d6ae618b3d918e1fb7"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_retail_0040.jpg",
+      "size": 1045054,
+      "sha256": "1838552c22628ff01e9f26c6be680461d1b97f46677121d38f437cd299b6207c"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_retail_0048.jpg",
+      "size": 990727,
+      "sha256": "3aa69492f1f2fc84e40fcdb534f31acffc55ba387bacbe601bb4d087ebd34831"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_retail_0076.jpg",
+      "size": 935526,
+      "sha256": "e5484f27e8420ddc18f8fd61c65f0e4d8ef167f3b08a35fc87b8b4fe59c40821"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_retail_0079.jpg",
+      "size": 1123668,
+      "sha256": "61789a7709683e845037df581dadaeba4ea9406bd5ef30b75d47a97df7314304"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_retail_0092.jpg",
+      "size": 556227,
+      "sha256": "1eeefccd24df5f8d45441082164dfe836ea202af25d6b612fbaabaaa7e466b51"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_retail_0093.jpg",
+      "size": 1701646,
+      "sha256": "4c07e6112dbf5b55373540b8fe57fc2ef97a0671b9846fe14d85186ada6e7dfc"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_retail_0095.jpg",
+      "size": 1342445,
+      "sha256": "1a643e9abaca0d8498d9a977b7ca391e3a7b8f69b64c7c44234ed2dd3cc9f54e"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_retail_0116.jpg",
+      "size": 907624,
+      "sha256": "c6778eec94807e39d47090799706d8d09e4205ac280042c0d84d5d4562bb3fbc"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_retail_0137.jpg",
+      "size": 1696850,
+      "sha256": "b7dd2421a2bc3b65d196df8fb78fad13aa141c04591ac2310e40c63a7cf6a360"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_retail_0141.jpg",
+      "size": 1343121,
+      "sha256": "b38b02a11c1eb390a2977a45d840a37e83b676d030ce017f55206d89cdf3d8ce"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_retail_0146.jpg",
+      "size": 2533915,
+      "sha256": "73d41ccb681f912cc9ae1a3f696d9eb56a143dcffa06f7a18dba74302dfe8090"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_retail_0156.jpg",
+      "size": 2388923,
+      "sha256": "582bef7706ed9e0d1b2ec7d6f826b4fba70d16435dc5fc4a213661f7cb9f61a0"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_services_other_0023.jpg",
+      "size": 975115,
+      "sha256": "5e6fb3f60e92493ab06528f0b57d818602bfebe34e38c4719548a4d75d77ffbb"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_services_other_0025.jpg",
+      "size": 623018,
+      "sha256": "61b5a25924f440982997b4baaab3d078903d96bd09fbd6039a62ba013cb8d5c5"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_services_other_0026.jpg",
+      "size": 625198,
+      "sha256": "7a6d8ef638c68d1a59876a788bd43cd378bfe5a49d3d1e3679123bf8434738d4"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_services_other_0038.jpg",
+      "size": 1933528,
+      "sha256": "af854dc57f70449367b2a1dadf3ced1da1fd887110e1ce0ef920c504d579a77e"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_services_other_0042.jpg",
+      "size": 974151,
+      "sha256": "6499e996e921a8d15993b6ecee515f10ee2b092277001bd2840ddebef39dec22"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_supermarket_0013.jpg",
+      "size": 227976,
+      "sha256": "038abc816aa6666653413dcb6a74c053cc32a9e4d06bde0567f0cf5bf5746cf0"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_supermarket_0014.jpg",
+      "size": 1396711,
+      "sha256": "b719b42878eaeaac53a88e809a02a0da2854b0774eee70b10164252a5bdab732"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_supermarket_0020.jpg",
+      "size": 2614895,
+      "sha256": "d3ecb983fc52d10959cb039e4c9beda54817254ddef49b8f11efc8a9f90d7f90"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_supermarket_0035.jpg",
+      "size": 849569,
+      "sha256": "c67fa6a6fbc71c7e4e226133805b161563a0ffa52b61796c90f9e608237b2dbf"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_supermarket_0038.jpg",
+      "size": 863090,
+      "sha256": "31a48da01265167927c9b779cb52266f855e84fbe3a43c0300210d368f27e6d4"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_supermarket_0045.jpg",
+      "size": 1311142,
+      "sha256": "0056728115e8185633a834d1ff83ec61008645f5872da0e0b2c32352d370438f"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_supermarket_0064.jpg",
+      "size": 987955,
+      "sha256": "38db191e61811dd9a98711b259bfc320e6eacc918188a32de255d4c5c84ea4fc"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_supermarket_0081.jpg",
+      "size": 1211192,
+      "sha256": "0cc9e64cc66f39c8df410d03c92b97e2c6e5c6e3fc049cea94770f7dd7a5d008"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_supermarket_0087.jpg",
+      "size": 1805751,
+      "sha256": "43443dc79d030020359f5230fe2b7049006bfdb95875765be6a609463d42a1c6"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_supermarket_0090.jpg",
+      "size": 1542459,
+      "sha256": "2cfcc06fcfe78cdb2c4f0d31a34240e21b368c95944bdd13f0fe642723df11f6"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_supermarket_0106.jpg",
+      "size": 1082371,
+      "sha256": "e038b856dc109466c5fb9d14f9f67073b4f750bef30bccc897bc5209ffaebe65"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_supermarket_0108.jpg",
+      "size": 1936250,
+      "sha256": "39592387b3853a323212eacd18b502306a547ac0ea84a7dd491a054207c788e0"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_supermarket_0120.jpg",
+      "size": 1805564,
+      "sha256": "83ea9f56ecf06470ced3d56acdd3dceb5e54abb158ea5255dc1068d251aa27ff"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_supermarket_0130.jpg",
+      "size": 1175509,
+      "sha256": "608bd44b0afd79e3da97780f116b2b861a94f02ef9fae16c97fecaadedbc1af8"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_supermarket_0144.jpg",
+      "size": 891790,
+      "sha256": "fe71b139508ab8e7a54077c81c92efb634faee832920d1a51dbee15759c72738"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_supermarket_0151.jpg",
+      "size": 1993868,
+      "sha256": "2b8655bbc6b9b72904c085be30b3d4ef8a46ce08df14597b50d90eaf7e64b279"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_supermarket_0156.jpg",
+      "size": 1565418,
+      "sha256": "8438b3860bf85b0382395dc78481380f20f9a78c33f14cd46e005f6fad063555"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_supermarket_0161.jpg",
+      "size": 2026234,
+      "sha256": "8f119e76ecadd8a05cd46cd233053edc6b5315d17a10d432dc465084f3b4e47c"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_supermarket_0165.jpg",
+      "size": 1615684,
+      "sha256": "cca1fdda49b579c10ad5260bbb3978a23e57bb366646a6cc08a719af32cfa2ba"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_supermarket_0180.jpg",
+      "size": 1437381,
+      "sha256": "3e24bedeae8643f4be3a54a86de37137cae2dc5f25a282043890816d187e33e3"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_supermarket_0182.jpg",
+      "size": 1540652,
+      "sha256": "a8b8a386ba1517e69cd67fefdc680aa557f6d2cd333a60826637f81c5e46e9c9"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_transport_0029.jpg",
+      "size": 1231957,
+      "sha256": "e6c2ab6aa2f212bdc503d11521fa67e58b1b411e00f4adfd9b4d13cebf91801d"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_transport_0044.jpg",
+      "size": 890689,
+      "sha256": "0e0861ebe9bcc06430f9249768d092808a864dc0d2a00364bbcdf996d2d1057b"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_transport_0054.jpg",
+      "size": 860939,
+      "sha256": "37c496b06087968f36928b8b07c7efa3c0792f2a785d012190381c7ead6dac98"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_transport_0058.jpg",
+      "size": 1024937,
+      "sha256": "6b87fe89fe09840c2386e6889d1c4861af0c8906c210ad5e7cbc5a3916749ef1"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_transport_0059.jpg",
+      "size": 684760,
+      "sha256": "36c6da8a6f6713d93e0b6c235f922ab785ce8a0d41521b98be7c93b93393c8de"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_transport_0061.jpg",
+      "size": 1289075,
+      "sha256": "d72859cf5fd99a9e8be3b606ea03d410e3b07792077b4a5900b65332dc96edb7"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_transport_0073.jpg",
+      "size": 1318987,
+      "sha256": "47443fdd2050d5809cd1c63a3dea5a6f94a2b9a5ca217fb876e6b2efdd3c7e5a"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_transport_0075.jpg",
+      "size": 1203736,
+      "sha256": "00e4fffb2f3d1093674c2a0417f05a6736f271d516ee4206fd481b4556d79912"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_transport_0080.jpg",
+      "size": 1643709,
+      "sha256": "cacd8c1646a8d5dd0021cc77ff58f5fb1f7d74a129c516d7f26f294d9d4ac57f"
+    },
+    {
+      "path": "japanese_receipts_detailed/images/eval/receipt_transport_0095.jpg",
+      "size": 1189317,
+      "sha256": "824bef583aa93417ca391268a93f21fc91cef7af4e72a2f9a81b4f5711ab54ac"
+    },
+    {
+      "path": "japanese_receipts_detailed/labels.csv",
+      "size": 480885,
+      "sha256": "c354a2601238de4fb848cb75f36dbede63ae6aeed4fd29891966ed9aba1651ec"
+    },
+    {
+      "path": "japanese_receipts_detailed/manifest.json",
+      "size": 931,
+      "sha256": "7e56686bc30fa494a49f15d49c9293aa0d7e3dbfcacde2dbb2a5e24d7f808c3c"
+    },
+    {
+      "path": "japanese_receipts_detailed/metadata.jsonl",
+      "size": 444556,
+      "sha256": "1830d516bda0b195bf240f9ac05a90735b28e2010fefeb10c69d3593b72c5af0"
+    }
+  ],
+  "image_count": 100,
+  "split_counts": {
+    "eval": 100
+  },
+  "label_format": "structured_ocr_csv_and_jsonl",
+  "transform_version": "japanese_receipts_detailed_v1",
+  "license": "CC BY-NC 4.0",
+  "attribution": "IngCrowd Inc., Japanese Receipt Image Dataset (Detailed Annotations), fixed revision e679e42ba2a408038d4151ced36eb6f32589422c, CC BY-NC 4.0.",
+  "source": {
+    "url": "https://huggingface.co/datasets/IngCrowd/japanese-receipts-detailed/tree/e679e42ba2a408038d4151ced36eb6f32589422c",
+    "version": "e679e42ba2a408038d4151ced36eb6f32589422c",
+    "sha256": "90cd9777c4eb14ca06be7832ede10885f89f6e392748a3a9b1d295e2c12b4a1f",
+    "image_count": 100,
+    "images": [
+      {
+        "path": "images/receipt_convenience_0004.jpg",
+        "size": 827453,
+        "sha256": "54d34b800901c3cf856a514b7b4bf72591a5e2394acfaf8051a40aab6f8b5cd3"
+      },
+      {
+        "path": "images/receipt_convenience_0033.jpg",
+        "size": 669255,
+        "sha256": "687b6be43af95bfea350fca27e878152a3cc30a98e45e8db1fde1459ca38201d"
+      },
+      {
+        "path": "images/receipt_convenience_0035.jpg",
+        "size": 1727566,
+        "sha256": "7e86a7582de3b5362867253bb0db01f642403b0c822ee662ef2bf137922d03fa"
+      },
+      {
+        "path": "images/receipt_convenience_0036.jpg",
+        "size": 1705511,
+        "sha256": "e53f3c665c65480ff0fb79ac251405a3d2b78366931c83f56744924150ac7f37"
+      },
+      {
+        "path": "images/receipt_convenience_0040.jpg",
+        "size": 460543,
+        "sha256": "b0d9950808de2611c7f66c6aff1dbec3be89d284bd193811a91ccee51dc0b146"
+      },
+      {
+        "path": "images/receipt_convenience_0041.jpg",
+        "size": 1410568,
+        "sha256": "f46893802586095977895afd73f0cb1db4ca3b3ec3cb952cad843719b5bc9871"
+      },
+      {
+        "path": "images/receipt_convenience_0042.jpg",
+        "size": 1320141,
+        "sha256": "785ddc96cef5cb47a82ca545e85c53af2a9fea3f37dbe110bbb7b152c319579e"
+      },
+      {
+        "path": "images/receipt_convenience_0063.jpg",
+        "size": 938842,
+        "sha256": "821cb015e5ed03a2bffdee22ab0a88d0799af25e7b4b5121919cdd1b8d760f7f"
+      },
+      {
+        "path": "images/receipt_convenience_0072.jpg",
+        "size": 966345,
+        "sha256": "7f403c1b552a4b2256713391ceca31b7e11f0873c7b82e657ae2bcb0f3ab08dc"
+      },
+      {
+        "path": "images/receipt_convenience_0096.jpg",
+        "size": 493124,
+        "sha256": "ef61dbcb53c731649ae24cfba0865fb5ff795736aa73bf446a8c90f565f83f8e"
+      },
+      {
+        "path": "images/receipt_convenience_0117.jpg",
+        "size": 1165037,
+        "sha256": "0298f3f50c056012cc25771825708b159be785c51a52430a5562d888b9017aa4"
+      },
+      {
+        "path": "images/receipt_convenience_0118.jpg",
+        "size": 1133609,
+        "sha256": "392e1e52f5076ef5565dafc3b61e293e23f8c8d016ed2b40c1585f739c8808b1"
+      },
+      {
+        "path": "images/receipt_convenience_0123.jpg",
+        "size": 1316825,
+        "sha256": "70ebe1169c0fa0042575bccf2562a1da5a704bc2ed9ae398b4606420f1b5bd95"
+      },
+      {
+        "path": "images/receipt_convenience_0126.jpg",
+        "size": 1379377,
+        "sha256": "9fd79fe4ac32971e19916b233eb35263bb26385be8a7461444886041cfa81a5c"
+      },
+      {
+        "path": "images/receipt_convenience_0150.jpg",
+        "size": 1317752,
+        "sha256": "f9575403433e81797baa7269f6577e7f42fb7586208e7a848f1b189133f85391"
+      },
+      {
+        "path": "images/receipt_convenience_0151.jpg",
+        "size": 1303214,
+        "sha256": "a9402eba99e37572c642613160848f0ba604d730b64391d033056625d9031b7b"
+      },
+      {
+        "path": "images/receipt_convenience_0157.jpg",
+        "size": 2583291,
+        "sha256": "95cc15a6396b30e15721d858761bbca07331a24583460b5b5f63ab127437d466"
+      },
+      {
+        "path": "images/receipt_supermarket_0013.jpg",
+        "size": 227976,
+        "sha256": "038abc816aa6666653413dcb6a74c053cc32a9e4d06bde0567f0cf5bf5746cf0"
+      },
+      {
+        "path": "images/receipt_supermarket_0014.jpg",
+        "size": 1396711,
+        "sha256": "b719b42878eaeaac53a88e809a02a0da2854b0774eee70b10164252a5bdab732"
+      },
+      {
+        "path": "images/receipt_supermarket_0020.jpg",
+        "size": 2614895,
+        "sha256": "d3ecb983fc52d10959cb039e4c9beda54817254ddef49b8f11efc8a9f90d7f90"
+      },
+      {
+        "path": "images/receipt_supermarket_0035.jpg",
+        "size": 849569,
+        "sha256": "c67fa6a6fbc71c7e4e226133805b161563a0ffa52b61796c90f9e608237b2dbf"
+      },
+      {
+        "path": "images/receipt_supermarket_0038.jpg",
+        "size": 863090,
+        "sha256": "31a48da01265167927c9b779cb52266f855e84fbe3a43c0300210d368f27e6d4"
+      },
+      {
+        "path": "images/receipt_supermarket_0045.jpg",
+        "size": 1311142,
+        "sha256": "0056728115e8185633a834d1ff83ec61008645f5872da0e0b2c32352d370438f"
+      },
+      {
+        "path": "images/receipt_supermarket_0064.jpg",
+        "size": 987955,
+        "sha256": "38db191e61811dd9a98711b259bfc320e6eacc918188a32de255d4c5c84ea4fc"
+      },
+      {
+        "path": "images/receipt_supermarket_0081.jpg",
+        "size": 1211192,
+        "sha256": "0cc9e64cc66f39c8df410d03c92b97e2c6e5c6e3fc049cea94770f7dd7a5d008"
+      },
+      {
+        "path": "images/receipt_supermarket_0087.jpg",
+        "size": 1805751,
+        "sha256": "43443dc79d030020359f5230fe2b7049006bfdb95875765be6a609463d42a1c6"
+      },
+      {
+        "path": "images/receipt_supermarket_0090.jpg",
+        "size": 1542459,
+        "sha256": "2cfcc06fcfe78cdb2c4f0d31a34240e21b368c95944bdd13f0fe642723df11f6"
+      },
+      {
+        "path": "images/receipt_supermarket_0106.jpg",
+        "size": 1082371,
+        "sha256": "e038b856dc109466c5fb9d14f9f67073b4f750bef30bccc897bc5209ffaebe65"
+      },
+      {
+        "path": "images/receipt_supermarket_0108.jpg",
+        "size": 1936250,
+        "sha256": "39592387b3853a323212eacd18b502306a547ac0ea84a7dd491a054207c788e0"
+      },
+      {
+        "path": "images/receipt_supermarket_0120.jpg",
+        "size": 1805564,
+        "sha256": "83ea9f56ecf06470ced3d56acdd3dceb5e54abb158ea5255dc1068d251aa27ff"
+      },
+      {
+        "path": "images/receipt_supermarket_0130.jpg",
+        "size": 1175509,
+        "sha256": "608bd44b0afd79e3da97780f116b2b861a94f02ef9fae16c97fecaadedbc1af8"
+      },
+      {
+        "path": "images/receipt_supermarket_0144.jpg",
+        "size": 891790,
+        "sha256": "fe71b139508ab8e7a54077c81c92efb634faee832920d1a51dbee15759c72738"
+      },
+      {
+        "path": "images/receipt_supermarket_0151.jpg",
+        "size": 1993868,
+        "sha256": "2b8655bbc6b9b72904c085be30b3d4ef8a46ce08df14597b50d90eaf7e64b279"
+      },
+      {
+        "path": "images/receipt_supermarket_0156.jpg",
+        "size": 1565418,
+        "sha256": "8438b3860bf85b0382395dc78481380f20f9a78c33f14cd46e005f6fad063555"
+      },
+      {
+        "path": "images/receipt_supermarket_0161.jpg",
+        "size": 2026234,
+        "sha256": "8f119e76ecadd8a05cd46cd233053edc6b5315d17a10d432dc465084f3b4e47c"
+      },
+      {
+        "path": "images/receipt_supermarket_0165.jpg",
+        "size": 1615684,
+        "sha256": "cca1fdda49b579c10ad5260bbb3978a23e57bb366646a6cc08a719af32cfa2ba"
+      },
+      {
+        "path": "images/receipt_supermarket_0180.jpg",
+        "size": 1437381,
+        "sha256": "3e24bedeae8643f4be3a54a86de37137cae2dc5f25a282043890816d187e33e3"
+      },
+      {
+        "path": "images/receipt_supermarket_0182.jpg",
+        "size": 1540652,
+        "sha256": "a8b8a386ba1517e69cd67fefdc680aa557f6d2cd333a60826637f81c5e46e9c9"
+      },
+      {
+        "path": "images/receipt_drugstore_0021.jpg",
+        "size": 853250,
+        "sha256": "f39858231792e5807a93a5c28dd51a1a4c2f292631696326c836c35bccffc920"
+      },
+      {
+        "path": "images/receipt_drugstore_0023.jpg",
+        "size": 918200,
+        "sha256": "07d7f77113c6aabf577606df520b428939d27927ce866b032b134d3514b4819c"
+      },
+      {
+        "path": "images/receipt_drugstore_0024.jpg",
+        "size": 917773,
+        "sha256": "9075febdd0e29e7af89bcfd6923dc1dc00fa8f3270604b53e85aa550b416621f"
+      },
+      {
+        "path": "images/receipt_drugstore_0028.jpg",
+        "size": 595639,
+        "sha256": "52c4785ac7824ae5f2f2c57ba9c1bee6df05808a8113e052e10238a52480bf17"
+      },
+      {
+        "path": "images/receipt_drugstore_0038.jpg",
+        "size": 1905989,
+        "sha256": "c14a99baab1b4a8d94c5822e335306c1662fd4178871dafae4280bf872c802b3"
+      },
+      {
+        "path": "images/receipt_drugstore_0045.jpg",
+        "size": 511272,
+        "sha256": "998b21f55cb831d67b2f66fe738fc8b57afae0d1662c723a5a9f2c8a281be70d"
+      },
+      {
+        "path": "images/receipt_drugstore_0058.jpg",
+        "size": 1283000,
+        "sha256": "f55146ff6f9f458ef802b5fcbb5bd71da2179396e6512151e2927441ba83f3d9"
+      },
+      {
+        "path": "images/receipt_drugstore_0069.jpg",
+        "size": 994459,
+        "sha256": "f2ad7387153ff7ff25c07f952f28b1039edc84dc1771a15695018f9952e0f0d2"
+      },
+      {
+        "path": "images/receipt_drugstore_0078.jpg",
+        "size": 1550293,
+        "sha256": "352cb2f2fd08cf5242a5f501a300334297b5b9d8758a5c62f3358c3b45fdcb90"
+      },
+      {
+        "path": "images/receipt_drugstore_0103.jpg",
+        "size": 2322111,
+        "sha256": "8eff805cd9edc363381a9dffbcf5a9da619547d9451464f487a80130e559e23a"
+      },
+      {
+        "path": "images/receipt_drugstore_0107.jpg",
+        "size": 1286184,
+        "sha256": "a3aa8a2e674ac9bed773cf4e938b07d57f4655975c0e3df390134763c62c7c37"
+      },
+      {
+        "path": "images/receipt_drugstore_0128.jpg",
+        "size": 568841,
+        "sha256": "54d9f0ac1390b843dd162d496dfb393c52d0f821e705b212555ebc2c0d06e755"
+      },
+      {
+        "path": "images/receipt_drugstore_0129.jpg",
+        "size": 913492,
+        "sha256": "9222c3533073092e40a48f8994c39b2fad156ebde462ce208cf0514337a5c62e"
+      },
+      {
+        "path": "images/receipt_restaurant_0012.jpg",
+        "size": 1437026,
+        "sha256": "f5e2c064f6f9c4d3ea7181967563c9e6aee59b4a62628e0d234d9938e63c3105"
+      },
+      {
+        "path": "images/receipt_restaurant_0037.jpg",
+        "size": 1683257,
+        "sha256": "97191e09f6761da17140c88d5a1a89716528aa7c1e7dd3d4afee0dcb2e6ded5c"
+      },
+      {
+        "path": "images/receipt_restaurant_0042.jpg",
+        "size": 1123809,
+        "sha256": "c99911adaf0011458a0f0ce59f1235ab6db669d0c6643b8c6960eb0b93c9974c"
+      },
+      {
+        "path": "images/receipt_restaurant_0043.jpg",
+        "size": 1800923,
+        "sha256": "1ed380179f514578db2eecb34f57645f478c0d537507383f99e49a28d740ce7f"
+      },
+      {
+        "path": "images/receipt_restaurant_0045.jpg",
+        "size": 1279958,
+        "sha256": "3ba90b2f9ceae36748582faf8388d272168dac0d5661f4fd73e0d55d50b681c5"
+      },
+      {
+        "path": "images/receipt_restaurant_0052.jpg",
+        "size": 1197353,
+        "sha256": "994ede25930cc07a3156ef295493b8af7f4c6215e0c576be1bae061ff9b7543d"
+      },
+      {
+        "path": "images/receipt_restaurant_0054.jpg",
+        "size": 954609,
+        "sha256": "984a6f6ac717b54d7b09b5b2bd1b8d5ee56e6adfccacd42f91e322791aa4b1e1"
+      },
+      {
+        "path": "images/receipt_restaurant_0080.jpg",
+        "size": 1042401,
+        "sha256": "7ca6cd7aa5c7bfdc043be15c67c90377cede616b6bd5736f4aec1433a18d6a2a"
+      },
+      {
+        "path": "images/receipt_restaurant_0095.jpg",
+        "size": 2198071,
+        "sha256": "8249a4896e625e727537a794a4925aff314ff30cffc9a045dd8deb6f310e1005"
+      },
+      {
+        "path": "images/receipt_restaurant_0105.jpg",
+        "size": 2081179,
+        "sha256": "0614d4f82b7f74cb8f2111c54ad69a831998691d74a0cec7d9d4b8e412d4e2d8"
+      },
+      {
+        "path": "images/receipt_restaurant_0110.jpg",
+        "size": 1151142,
+        "sha256": "16ee21454c40f601b29e80584233ada5ce9ebcccd15af754654b5c83d831ccc5"
+      },
+      {
+        "path": "images/receipt_restaurant_0113.jpg",
+        "size": 2100189,
+        "sha256": "bc721a5db195a83be2fb1d1080ed6f93701f3a854e28d6580c0bc6688f98059d"
+      },
+      {
+        "path": "images/receipt_restaurant_0125.jpg",
+        "size": 1603199,
+        "sha256": "16a35c828811d8ef4a841265cebe4e39fef8c5d6b105cab2f443c22b05809ae4"
+      },
+      {
+        "path": "images/receipt_restaurant_0126.jpg",
+        "size": 2089963,
+        "sha256": "74a57752c49aa40bf7b8ff07fe9582f7e94783a5752fb623dcdaf444202ff016"
+      },
+      {
+        "path": "images/receipt_restaurant_0141.jpg",
+        "size": 1876815,
+        "sha256": "d4fc4c24b2803b0c7ba919c739767be751177336fd588357375b2ad2ac003544"
+      },
+      {
+        "path": "images/receipt_restaurant_0149.jpg",
+        "size": 1383934,
+        "sha256": "a19a46157cff2d8f18ed89a4aecf5b0ec73a1aa3cfa83d325505b509fbd67f9e"
+      },
+      {
+        "path": "images/receipt_restaurant_0152.jpg",
+        "size": 854892,
+        "sha256": "1a73a74264deed4782f57ce58926e90ae3664effb539147a9baef7ab6d4e354a"
+      },
+      {
+        "path": "images/receipt_restaurant_0157.jpg",
+        "size": 2063163,
+        "sha256": "34c7f43b33260c6a2c5520a6057a3dd4890b90f48073811b85963e9afb7c1b0e"
+      },
+      {
+        "path": "images/receipt_retail_0015.jpg",
+        "size": 232326,
+        "sha256": "c8edef4107a780cd53781922fe98c5c28f4cf89f6ec8b328468c0de7b33759ac"
+      },
+      {
+        "path": "images/receipt_retail_0033.jpg",
+        "size": 1178333,
+        "sha256": "ccdf7a11377eaf1adc7616404739338a0c1f830c01eba46acb44963b19f893a5"
+      },
+      {
+        "path": "images/receipt_retail_0034.jpg",
+        "size": 935133,
+        "sha256": "23821a60f063936d4eb1a4d674a0e3d53154079a37569e82b5047cc3b56dc027"
+      },
+      {
+        "path": "images/receipt_retail_0039.jpg",
+        "size": 1439491,
+        "sha256": "022063740993c1ee1da458ab6cd1914101f084f2b4e9f2d6ae618b3d918e1fb7"
+      },
+      {
+        "path": "images/receipt_retail_0040.jpg",
+        "size": 1045054,
+        "sha256": "1838552c22628ff01e9f26c6be680461d1b97f46677121d38f437cd299b6207c"
+      },
+      {
+        "path": "images/receipt_retail_0048.jpg",
+        "size": 990727,
+        "sha256": "3aa69492f1f2fc84e40fcdb534f31acffc55ba387bacbe601bb4d087ebd34831"
+      },
+      {
+        "path": "images/receipt_retail_0076.jpg",
+        "size": 935526,
+        "sha256": "e5484f27e8420ddc18f8fd61c65f0e4d8ef167f3b08a35fc87b8b4fe59c40821"
+      },
+      {
+        "path": "images/receipt_retail_0079.jpg",
+        "size": 1123668,
+        "sha256": "61789a7709683e845037df581dadaeba4ea9406bd5ef30b75d47a97df7314304"
+      },
+      {
+        "path": "images/receipt_retail_0092.jpg",
+        "size": 556227,
+        "sha256": "1eeefccd24df5f8d45441082164dfe836ea202af25d6b612fbaabaaa7e466b51"
+      },
+      {
+        "path": "images/receipt_retail_0093.jpg",
+        "size": 1701646,
+        "sha256": "4c07e6112dbf5b55373540b8fe57fc2ef97a0671b9846fe14d85186ada6e7dfc"
+      },
+      {
+        "path": "images/receipt_retail_0095.jpg",
+        "size": 1342445,
+        "sha256": "1a643e9abaca0d8498d9a977b7ca391e3a7b8f69b64c7c44234ed2dd3cc9f54e"
+      },
+      {
+        "path": "images/receipt_retail_0116.jpg",
+        "size": 907624,
+        "sha256": "c6778eec94807e39d47090799706d8d09e4205ac280042c0d84d5d4562bb3fbc"
+      },
+      {
+        "path": "images/receipt_retail_0137.jpg",
+        "size": 1696850,
+        "sha256": "b7dd2421a2bc3b65d196df8fb78fad13aa141c04591ac2310e40c63a7cf6a360"
+      },
+      {
+        "path": "images/receipt_retail_0141.jpg",
+        "size": 1343121,
+        "sha256": "b38b02a11c1eb390a2977a45d840a37e83b676d030ce017f55206d89cdf3d8ce"
+      },
+      {
+        "path": "images/receipt_retail_0146.jpg",
+        "size": 2533915,
+        "sha256": "73d41ccb681f912cc9ae1a3f696d9eb56a143dcffa06f7a18dba74302dfe8090"
+      },
+      {
+        "path": "images/receipt_retail_0156.jpg",
+        "size": 2388923,
+        "sha256": "582bef7706ed9e0d1b2ec7d6f826b4fba70d16435dc5fc4a213661f7cb9f61a0"
+      },
+      {
+        "path": "images/receipt_transport_0029.jpg",
+        "size": 1231957,
+        "sha256": "e6c2ab6aa2f212bdc503d11521fa67e58b1b411e00f4adfd9b4d13cebf91801d"
+      },
+      {
+        "path": "images/receipt_transport_0044.jpg",
+        "size": 890689,
+        "sha256": "0e0861ebe9bcc06430f9249768d092808a864dc0d2a00364bbcdf996d2d1057b"
+      },
+      {
+        "path": "images/receipt_transport_0054.jpg",
+        "size": 860939,
+        "sha256": "37c496b06087968f36928b8b07c7efa3c0792f2a785d012190381c7ead6dac98"
+      },
+      {
+        "path": "images/receipt_transport_0058.jpg",
+        "size": 1024937,
+        "sha256": "6b87fe89fe09840c2386e6889d1c4861af0c8906c210ad5e7cbc5a3916749ef1"
+      },
+      {
+        "path": "images/receipt_transport_0059.jpg",
+        "size": 684760,
+        "sha256": "36c6da8a6f6713d93e0b6c235f922ab785ce8a0d41521b98be7c93b93393c8de"
+      },
+      {
+        "path": "images/receipt_transport_0061.jpg",
+        "size": 1289075,
+        "sha256": "d72859cf5fd99a9e8be3b606ea03d410e3b07792077b4a5900b65332dc96edb7"
+      },
+      {
+        "path": "images/receipt_transport_0073.jpg",
+        "size": 1318987,
+        "sha256": "47443fdd2050d5809cd1c63a3dea5a6f94a2b9a5ca217fb876e6b2efdd3c7e5a"
+      },
+      {
+        "path": "images/receipt_transport_0075.jpg",
+        "size": 1203736,
+        "sha256": "00e4fffb2f3d1093674c2a0417f05a6736f271d516ee4206fd481b4556d79912"
+      },
+      {
+        "path": "images/receipt_transport_0080.jpg",
+        "size": 1643709,
+        "sha256": "cacd8c1646a8d5dd0021cc77ff58f5fb1f7d74a129c516d7f26f294d9d4ac57f"
+      },
+      {
+        "path": "images/receipt_transport_0095.jpg",
+        "size": 1189317,
+        "sha256": "824bef583aa93417ca391268a93f21fc91cef7af4e72a2f9a81b4f5711ab54ac"
+      },
+      {
+        "path": "images/receipt_services_other_0023.jpg",
+        "size": 975115,
+        "sha256": "5e6fb3f60e92493ab06528f0b57d818602bfebe34e38c4719548a4d75d77ffbb"
+      },
+      {
+        "path": "images/receipt_services_other_0025.jpg",
+        "size": 623018,
+        "sha256": "61b5a25924f440982997b4baaab3d078903d96bd09fbd6039a62ba013cb8d5c5"
+      },
+      {
+        "path": "images/receipt_services_other_0026.jpg",
+        "size": 625198,
+        "sha256": "7a6d8ef638c68d1a59876a788bd43cd378bfe5a49d3d1e3679123bf8434738d4"
+      },
+      {
+        "path": "images/receipt_services_other_0038.jpg",
+        "size": 1933528,
+        "sha256": "af854dc57f70449367b2a1dadf3ced1da1fd887110e1ce0ef920c504d579a77e"
+      },
+      {
+        "path": "images/receipt_services_other_0042.jpg",
+        "size": 974151,
+        "sha256": "6499e996e921a8d15993b6ecee515f10ee2b092277001bd2840ddebef39dec22"
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "dataset_id": "japanese_receipts_detailed",
+  "source_url": "https://huggingface.co/datasets/IngCrowd/japanese-receipts-detailed",
+  "source_revision": "e679e42ba2a408038d4151ced36eb6f32589422c",
+  "license": "CC BY-NC 4.0",
+  "rights_status": "approved_for_noncommercial_redistribution_with_attribution",
+  "source_annotations_sha256": "90cd9777c4eb14ca06be7832ede10885f89f6e392748a3a9b1d295e2c12b4a1f",
+  "source_images": 100,
+  "image_bytes": 129962425,
+  "image_decode_failures": 0,
+  "image_dimensions": "100/100 image files decoded with macOS ImageIO; all boxes align with source annotation dimensions",
+  "visual_review": "All 100 source images reviewed in contact sheets. All show genuine Japanese receipts. Source dataset includes selective black bars over personal/member/payment identifiers. Store information, public addresses/phone numbers, QR codes and transaction/receipt numbers may remain. No identifiable faces were observed in the contact-sheet review.",
+  "annotations": {
+    "records": 100,
+    "unique_images": 100,
+    "regions": 2005,
+    "transcriptions": 1802,
+    "region_labels": {
+      "store_name": 104,
+      "branch_name": 93,
+      "store_address": 44,
+      "store_phone": 97,
+      "registration_number": 94,
+      "datetime": 102,
+      "item_line": 537,
+      "subtotal": 88,
+      "tax": 193,
+      "total": 102,
+      "taxable_amount": 130,
+      "payment": 123,
+      "barcode_qr": 92,
+      "pii": 112,
+      "change": 52,
+      "store_info": 42
+    },
+    "unpaired_transcription_regions": 0,
+    "pii_transcriptions": 0,
+    "invalid_bounds": 0
+  },
+  "preparation": {
+    "image_pixel_changes": false,
+    "split": "eval only",
+    "file_count": 105,
+    "label_format": "structured_ocr_csv_and_jsonl",
+    "zip_filename": "japanese_receipts_detailed-v0.1.0.zip",
+    "zip_size": 130013467,
+    "zip_sha256": "4f3a480f09eeacfda9f9ca4d84dd01ad8aefa49cce776ec06a7d64f5f25dfb5a",
+    "transform_script": "prepare_japanese_receipts_detailed.py",
+    "archive_integrity": "ZIP CRC valid; 105 safe paths; each packaged file matches external SHA-256 inventory; CSV/JSONL each have 100 aligned records"
+  },
+  "student_use": "OCR candidate extraction for school festival or club expense entry; a human verifies every result against the source receipt. Not suitable for automated payment, accounting decisions, or exhaustive OCR accuracy claims.",
+  "limitations": [
+    "CC BY-NC 4.0 prohibits commercial use.",
+    "PII masking is selective, not a full anonymization guarantee.",
+    "QR codes, public store contact information, and transaction identifiers can remain.",
+    "Only selected regions have transcriptions; this is not a complete OCR ground-truth corpus.",
+    "100 images are an evaluation subset selected from the 1,010-image basic dataset, not 100 additional samples."
+  ]
+}
