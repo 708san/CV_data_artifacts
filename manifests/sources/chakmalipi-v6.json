@@ -1,0 +1,34 @@
+{
+  "manifest_type": "source_file_inventory",
+  "manifest_version": "1.0.0",
+  "dataset_id": "chakmalipi",
+  "provider": "Mendeley Data",
+  "source_url": "https://data.mendeley.com/datasets/rzjphbvz9f/6",
+  "source_version": "6",
+  "license_claim": "CC BY 4.0",
+  "file_count": 2,
+  "archive_count": 1,
+  "image_count": 37708,
+  "class_count": 48,
+  "files": [
+    {
+      "path": "ChakmaLipī_Dataset.zip",
+      "role": "source_archive",
+      "image_count": 37708,
+      "file_id": "f5d6106f-4f81-4914-9bfe-84ac069c829b",
+      "filename": "ChakmaLipī_Dataset.zip",
+      "size": 103184395,
+      "sha256": "187b7294c7d4720981022d14d4ae3edccae642c7471a195a27a580a55d6fee52",
+      "download_url": "https://data.mendeley.com/public-files/datasets/rzjphbvz9f/files/f5d6106f-4f81-4914-9bfe-84ac069c829b/file_downloaded"
+    },
+    {
+      "path": "README.md",
+      "role": "source_readme",
+      "file_id": "1e81fab3-7fef-43f1-8a57-e7bb72658507",
+      "filename": "README.md",
+      "size": 4928,
+      "sha256": "a644e62a17e3c7e175a8f4888d5dab0b751abd466b4ffa16187ff57f553a7185",
+      "download_url": "https://data.mendeley.com/public-files/datasets/rzjphbvz9f/files/1e81fab3-7fef-43f1-8a57-e7bb72658507/file_downloaded"
+    }
+  ]
+}
