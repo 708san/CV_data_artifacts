@@ -1,0 +1,24 @@
+{
+  "manifest_type": "source_file_inventory",
+  "manifest_version": "1.0.0",
+  "dataset_id": "orange_fruit",
+  "provider": "Mendeley Data",
+  "source_url": "https://data.mendeley.com/datasets/zk4hzhtcdd/2",
+  "source_version": "2",
+  "license_claim": "CC BY 4.0",
+  "file_count": 1,
+  "archive_count": 1,
+  "image_count": 15000,
+  "files": [
+    {
+      "path": "OrangeClassificationDataset.zip",
+      "role": "source_archive",
+      "image_count": 15000,
+      "file_id": "fixed-public-zip-v2",
+      "filename": "OrangeClassificationDataset.zip",
+      "size": 110185722,
+      "sha256": "b486ee40af7316c4603d3d8354a636a7bc859c500beb126b3577ef79bf3f75e7",
+      "download_url": "https://data.mendeley.com/public-api/zip/zk4hzhtcdd/download/2"
+    }
+  ]
+}

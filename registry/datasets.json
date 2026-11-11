@@ -252,6 +252,26 @@
       "transform_version": "classification_v1.0.0",
       "manifest_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/manifests/bdroadsigns-v0.1.0.json",
       "audit_report_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/reports/bdroadsigns-v1-audit.json"
+    },
+    {
+      "dataset_id": "orange_fruit",
+      "artifact_version": "0.1.0",
+      "artifact_url": "https://github.com/708san/CV_data_artifacts/releases/download/orange-fruit-v0.1.0/orange_fruit-v0.1.0.zip",
+      "artifact_sha256": "69408ee9184638215c1f0e459b1a5e11a9ec853b4ce815ac6071a174294f8115",
+      "source_url": "https://data.mendeley.com/datasets/zk4hzhtcdd/2",
+      "source_version": "2",
+      "source_sha256": "b486ee40af7316c4603d3d8354a636a7bc859c500beb126b3577ef79bf3f75e7",
+      "license": "CC BY 4.0",
+      "rights_status": "approved_for_redistribution",
+      "attribution": "Ashif Shuvo, Most.Subrina Afrin Monika, Wahada Jinnat Oishy Bhuian (2026), Orange Fruit Image Dataset for Classification, Mendeley Data v2, DOI: 10.17632/zk4hzhtcdd.2, CC BY 4.0.",
+      "modifications": [
+        "Preserved all 15,000 JPEG pixels at 224x224.",
+        "Created deterministic per-class train/validation/test splits with seed 42 (70/15/15).",
+        "Added common-format labels, metadata, attribution, changes, and student task limits."
+      ],
+      "transform_version": "classification_v1.0.0",
+      "manifest_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/manifests/orange_fruit-v0.1.0.json",
+      "audit_report_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/reports/orange-fruit-v2-audit.json"
     }
   ]
 }

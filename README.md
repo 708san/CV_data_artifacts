@@ -60,3 +60,5 @@ reports/        実体監査の要約
 `fabricspotdefect` v0.1.0 is published as an original-image-only object-detection artifact from Mendeley Data v1 under CC BY 4.0. It supports educational prototypes for noticing visible spots before washing. The labels do not establish clothing cleanliness, wearability, safety, stain-removal success, or textile quality. See its license record, manifest, and audit report.
 
 `bdroadsigns` v0.1.0 contains 5,136 images in 18 categories from the Mendeley v1 `Compress Dataset` variant. It is for classroom sign-recognition and sign-literacy projects; the Bangladeshi signs do not represent Japanese traffic rules or real-world navigation. See the license record, manifest, and audit report.
+
+`orange_fruit` v0.1.0 is published as a fixed 15,000-image CC BY 4.0 classification artifact. It is suitable for student experiments about visual categories and image conditions in a food-waste discussion; labels do not establish freshness, edibility, food safety, or plant disease. See its license record and audit report.
