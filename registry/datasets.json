@@ -110,7 +110,7 @@
       "dataset_id": "recyclable_waste",
       "artifact_version": "0.1.1",
       "artifact_url": "https://github.com/708san/CV_data_artifacts/releases/download/recyclable-waste-v0.1.1/recyclable_waste-v0.1.1.zip",
-      "artifact_sha256": "c209fac02eb88867bdc709b33e46f1d1ccd9ac63859ead5add112b8a4d8ac2f5",
+      "artifact_sha256": "71d71622b65c44d2748e296ff23e8ed49c2f3e4e788301f1d9128d34e0affd1f",
       "source_url": "https://data.mendeley.com/datasets/h5pxbsdz4m/1",
       "source_version": "Mendeley Data v1; selected public image files",
       "source_sha256": "154381f20cb1775f24e39801a3516cc0607d8330502924b9da6c7f2cbcfd8339",
