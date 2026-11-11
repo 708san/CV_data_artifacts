@@ -52,3 +52,5 @@ reports/        実体監査の要約
 `geoset_ennea` v0.1.0 is published and registered with 136 images, 1,188 bounding-box annotations, and 9 classes. The source archive was fully audited; only original photographs were retained, and scenes were split by group. See the audit and license record for scope and caveats.
 
 `bangladeshi_ewaste` v0.1.0 contains 2,157 images across 12 classes. It is prepared as a fixed, reproducible object-detection artifact from the Mendeley v1 CC BY 4.0 source. See its license record and audit report for limitations.
+
+`pust_cafeteria_food` v0.1.0 is prepared as a 691-image, 16-class educational object-detection artifact from Mendeley Data v2. It is not yet registered or available from the library; release publication is pending. See its license record and audit report for the source, transformations, and limitations.

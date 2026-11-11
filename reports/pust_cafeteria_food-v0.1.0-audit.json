@@ -1,0 +1,37 @@
+{
+  "dataset_id": "pust_cafeteria_food",
+  "source_url": "https://data.mendeley.com/datasets/fn6yhzjz83/2",
+  "source_version": "Mendeley Data v2",
+  "source_license": "CC BY 4.0 displayed on the official record",
+  "source_files": [
+    {
+      "filename": "02_processed_data.zip",
+      "file_id": "9e24b022-b800-45bb-b5fb-1f6d0169db9f",
+      "size": 278596946,
+      "sha256": "f2f85952807a2d64d50b958c9355829cb5cad8636d611b2b9d7357e7267250a1"
+    },
+    {
+      "filename": "03_metadata.zip",
+      "file_id": "f17ac06f-e635-43bd-b063-072f309cf51b",
+      "size": 73738,
+      "sha256": "5e93b20b4e2e2d2844028d9e0dcc200ecaddecbbad0d943a6f4dedf930f6a73e"
+    }
+  ],
+  "artifact_version": "0.1.0",
+  "artifact_size": 36085147,
+  "artifact_sha256": "97def37fae5a2368f4d0ea7bc4cffc0d299173b7581f49ad97bb43d08f496b4f",
+  "image_count": 691,
+  "split_counts": {"train": 483, "val": 103, "test": 105},
+  "classes": ["chaa", "chola", "chop", "daal", "egg", "fish", "mashed_potato", "matha", "meat", "puri", "rice", "ruti", "salad", "singara", "vegetable", "vegetable_roll"],
+  "annotation_count": 2510,
+  "excluded": {"training_augmentations": 1008, "background_removed_images": 29},
+  "annotation_review": {
+    "source_polygons": 2510,
+    "instances_with_out_of_bounds_points": 561,
+    "coordinates_clipped_to_image_bounds": 904,
+    "conversion": "axis-aligned enclosing rectangles; polygon shape discarded"
+  },
+  "visual_review": "Nine contact sheets covering all 691 retained images; meal contents generally match food-class annotations. Partial hands and tableware/packaging marks are visible in some images; no identifiable faces seen in the reviewed sheets.",
+  "student_use": "Food category detection as a prototype for making cafeteria menus more visible or exploring food variety. Source is one university cafeteria in Bangladesh; not representative of Japanese meals, nutrition, allergy, hygiene, price, or food-waste measurements.",
+  "verification": "Both used Mendeley files were checked against their published SHA-256 values and sizes before extraction. ZIP CRC passed; selected 691 image/label pairs match; all 16 class IDs are valid. The prepared ZIP CRC passes and its manifest lists every packaged file with SHA-256 and size."
+}
