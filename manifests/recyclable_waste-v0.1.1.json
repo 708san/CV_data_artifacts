@@ -1,0 +1,4929 @@
+{
+  "manifest_version": "1.0.0",
+  "dataset_id": "recyclable_waste",
+  "artifact_version": "0.1.1",
+  "files": [
+    {
+      "path": "recyclable_waste/LICENSE.md",
+      "size": 1049,
+      "sha256": "aa247a220c8d2ba803ef9ede5e513a511525988c87db14a83c4341de8f37697c"
+    },
+    {
+      "path": "recyclable_waste/README.md",
+      "size": 1430,
+      "sha256": "dabaa07b0baef352bafd5beb8d870e230fa9b5ec8578b21edf50ffdba94aa1b2"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/0999abc8f5727e62.jpg",
+      "size": 99155,
+      "sha256": "1bb22cf356bb0b1b61ab53a6d61367bf39a2c18df14a6a593517241de8039720"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/0d86b0be73b627ad.jpg",
+      "size": 49615,
+      "sha256": "31124e76958be45c4e3cb2124eac8366fae0d60636211475df0220300c3492ba"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/0ee57e2dc532005b.jpg",
+      "size": 42513,
+      "sha256": "02bbd31691abb0e0d00afae64b06ff54fd10d46c5b2314c856284d70ace3c7e2"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/0f164b18ba17d5f4.jpg",
+      "size": 112127,
+      "sha256": "ef34621195e8a73d2c7f43574ac0c5bed2a7d9085bcc722f2fb1767aab6a36df"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/1f7787a7339034d0.jpg",
+      "size": 78819,
+      "sha256": "5b0b2a34fa07df203563ea1209fc2fc76098d9cf824a0bffdb1f2e368709b785"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/1ffbc8254b8d3d24.jpg",
+      "size": 123111,
+      "sha256": "5d24c54bfde3647853f04aa6a1941b2e05b339666f9bbdf393a0df4ab0942c99"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/201a03b33c4c3552.jpg",
+      "size": 91236,
+      "sha256": "baf976200bfd6f8ebb1b16cf0dd3a79d5c3366cc7810766b42f542397d37cfc5"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/21082460a13a397f.jpg",
+      "size": 139473,
+      "sha256": "a04089131a00dc647a84b975f8b2bdb31dc644e413dc15531534e9d8b1e40c2e"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/26c41664336c4fe8.jpg",
+      "size": 140745,
+      "sha256": "7eab4b7cba40b8df0cd48b25d4e583f5ec3d6e6511dad9a91b9f426e7e245f29"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/26c5e443ebc30af1.jpg",
+      "size": 87637,
+      "sha256": "604e37a2d73956b0a0a06dad54a0e1cfe4a5f8d5c5a142eb683d240ea1905d6c"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/27b49bbfb3c60c73.jpg",
+      "size": 118338,
+      "sha256": "4aebb1219a20ce0014286df930356bb014da38f3d39c182d2f90f2d8bd8394a8"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/29455b6420805658.jpg",
+      "size": 115460,
+      "sha256": "4bad0c9658f19a689d217f57b5a9a1ff562249aa9b8f195352126eb1f4627f3b"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/2992652ffd37bc4b.jpg",
+      "size": 82179,
+      "sha256": "30decf71690a96d5178b6823683d3a0ac33f480ac7c12af2535c8be1f6ff6049"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/2a87c00a22b789f6.jpg",
+      "size": 96274,
+      "sha256": "2b45f867c87a0bb0a94248d4f4a8d4761aedb8fb05cd16a2fb7ea722eaf5c49f"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/2ed44675a4dc9977.jpg",
+      "size": 85302,
+      "sha256": "4727b30f0e4bbfaae7289824ca7223f7b8398142bc3812693a71f8b3254f4cfe"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/31e2a4523dd93662.jpg",
+      "size": 54587,
+      "sha256": "a2797fdfbd481acd752a6883607146b892c600753d084e3e719571be28a1c757"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/3211d6f0f323ceb2.jpg",
+      "size": 139692,
+      "sha256": "12418a546cbda2db66bdff1a4070a98f33516c7234181d73cf8d25c563d5d18f"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/36a71d85ff9977f7.jpg",
+      "size": 103455,
+      "sha256": "69b6d6bf9260526857bf00c405d1da213f42d2e4a6bae4eb77ac5a2e3ab91622"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/3961a12502acdcd6.jpg",
+      "size": 37272,
+      "sha256": "80f55f10b45bdb9a1ba9a955171f4295909f311965514107a034d4f17ee3d76f"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/3b77b4565155b7cb.jpg",
+      "size": 48684,
+      "sha256": "a7736447ed8b4c66fc937f49c5e77c23ec79c43b4924919fd44bc176ecbb026d"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/3dd47e98beb45193.jpg",
+      "size": 102460,
+      "sha256": "244f8e6099c58d7b6b4ad0c5a827bb342c30dfb88ff4cbb184e3e7790138b595"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/3f2a41fc91b9aff6.jpg",
+      "size": 55424,
+      "sha256": "9ee0aabf5df1793e0e4d9cb3791a77d07c9ce59893ecbff113126c146c97bbc0"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/41463f5649f95a4c.jpg",
+      "size": 98375,
+      "sha256": "8cad668a73560a32a96f11e31538b7ff460c9daa4084403813962b53d812dc50"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/4182c36a4cdfe592.jpg",
+      "size": 37228,
+      "sha256": "529bea0124f88bc3dd887b8a378a9f10eceb20fe1c315825a0e3ac02a610c537"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/4e558cc341c254ac.jpg",
+      "size": 117504,
+      "sha256": "b3b25669d0f4d706bcf4e8d67fff37c27729d688de31139a51695494f7d24cc7"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/52966bd7a1e955ed.jpg",
+      "size": 108178,
+      "sha256": "f8ed23cc9fca65712f0b80da92fe7ca5a065681da2dafbcdb5f5627b0fd15222"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/56bc950c22c1ec72.jpg",
+      "size": 86220,
+      "sha256": "1bd9414d3384ab3cf1f714513289d6e8b9c6bbb1f8fed26876182fb11cbd3e21"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/57b0b21a9adecacd.jpg",
+      "size": 70620,
+      "sha256": "42364fa079dffbed88cda1acc4f44b7ea59a9a945690a5d4a4984fb8270380fe"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/5cf8ec2729e0f466.jpg",
+      "size": 84403,
+      "sha256": "fe49e585779acef438c76dfe767373f9c82938117369f8c375e7aecb07a30d6e"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/60d87c4d967b5f9a.jpg",
+      "size": 128427,
+      "sha256": "d4bdf21fd7b3ddd12b1f290dcf63498d7afbc6b5e7b6929c79a4402fe9d7f5d3"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/629074216d3baac4.jpg",
+      "size": 60236,
+      "sha256": "e00facbdd6cee60ed61d40b40bb85b5528252dc0aae57323818235373586ad3e"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/64095de054b33f53.jpg",
+      "size": 121149,
+      "sha256": "38a5bc1e168310d9349ef757cb40448fb4ee8675e32cd9ec30f8941aba190b7c"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/652381d12dec6052.jpg",
+      "size": 90264,
+      "sha256": "b3b8947fc2816d1e4328a0949d5d2553100f5e9a76cfdd358398cd96b31ccf80"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/67abe7a8d03af942.jpg",
+      "size": 65849,
+      "sha256": "96307d809f9a144218372bc6e719a45aa6658c230908fbbd700bc8cde04a5e4b"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/68dc5f94a66b81fd.jpg",
+      "size": 125714,
+      "sha256": "a3bc89c48f7bbc0a88f185b2a9ad0608e2676e858a0f30fff1dfc7d1d342cd88"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/6e666930b4c71c89.jpg",
+      "size": 122465,
+      "sha256": "8ef2a5ad7c9c0a1ab2413eac896f1d973d85da5acd32020b41c74fb78213b635"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/6eeba9babd7b9be8.jpg",
+      "size": 105385,
+      "sha256": "a13056ff6203d5c4222a3620d23492cc3526488dd417c19858c8f3ebcac841f8"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/72223fac01847cd4.jpg",
+      "size": 92908,
+      "sha256": "3ec7c49d992205930fb40602febe421131ce8d5af36dc90b6d3721dbc7915cef"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/782ca4ef7e574211.jpg",
+      "size": 53744,
+      "sha256": "1a73b7aca22da97c942e72929371a4c5e642a67d408b428997b1c234a65ee905"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/7bc9c3499cfa0fbd.jpg",
+      "size": 123504,
+      "sha256": "0e66410843700bae12981bb8e46b1c8f33c3b122d87daf51043e5dd6461deef0"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/7c957c8f3fcb738f.jpg",
+      "size": 114016,
+      "sha256": "e09cba946bac6d72245986a5c3babd212037571e1c28555afac2e0c5595ae20e"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/8023cd93c89dd36d.jpg",
+      "size": 111681,
+      "sha256": "c37f6d8be658dfa0487412adb1fba44ac97499bd9069ee442096f1689e6412e7"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/894048ff73e362be.jpg",
+      "size": 40601,
+      "sha256": "031f786003a3711fd3f9adeb950ed2ed82f5d547458ff552bdffe0590e1ca023"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/8f4e7766684d265f.jpg",
+      "size": 111555,
+      "sha256": "3f347ec6a54687d3a967fb1443e2c34d00d5c0ca998b20a9c67685b75c90920a"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/90dd9019280d1b44.jpg",
+      "size": 40794,
+      "sha256": "1f4ced6939e074b645e064c75b974869c5de17f2d5c5e357bb93ec17b3227cd0"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/949df05361554319.jpg",
+      "size": 105881,
+      "sha256": "ec26e66b99a0ee9f25a31474e3e0eadad048dab6a198363aa95c00a3f9bb6e17"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/951dbe74a18893bb.jpg",
+      "size": 117352,
+      "sha256": "a91fa12912f727c3e5111bc525c9adb0da1e117a0e571a58d849775a6342e848"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/967c25206ceb3fd4.jpg",
+      "size": 98631,
+      "sha256": "74d65df7434a0c6fbb52e43bdd96dfe785b90ff4c63dc72b8681484a57bba3e2"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/9c2322a565a0c9a0.jpg",
+      "size": 30217,
+      "sha256": "c46092379c0e40f1fd4ec411392804d77fec2809d1b54fc6c55261d1ec315dca"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/a248b20ca81b6579.jpg",
+      "size": 104065,
+      "sha256": "6dc5eae184cc103e06a54392970cb7b7413bae9088a458a0fd570ecf225abe76"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/a357b74b3ed405a0.jpg",
+      "size": 154995,
+      "sha256": "457e93ab0b9715cc914e512c3ebbde9fe2efc36c3346603559f9bd9bac3b1e93"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/a3edef5f36abd462.jpg",
+      "size": 126694,
+      "sha256": "1425e4d87b5f214d38e8c705485d596aabde115713fb99abec05ff1d1795dc4f"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/a86e3ac923797eff.jpg",
+      "size": 60447,
+      "sha256": "4c002eb52226b65153e1c250758dac36407a2a049be653140d001ed5ec080112"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/a9f1d52a5951eda0.jpg",
+      "size": 64191,
+      "sha256": "bcb376b0d009e2cfda9d4be000a45940a81bb0b126e68510eeb4a675e4db59b2"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/ad9e9bad0313aae0.jpg",
+      "size": 121516,
+      "sha256": "f205beb5c229cb13cd32bf233bdc9102baec668a223110464422cbdb2482a53d"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/b2d538ce6a1c67cb.jpg",
+      "size": 60476,
+      "sha256": "66d718cef345a6ecb1c23defd07e1eb25fce099fb112f5e9fd9f523ef0cb1aa7"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/b4d47682af1140f1.jpg",
+      "size": 104554,
+      "sha256": "3d2afa34540a1240cd0104be748b0a5e6ab2850ec50edd3408d1058ea5ca3505"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/bb829535df9f2bf6.jpg",
+      "size": 81258,
+      "sha256": "03215eb3b47db6aaadaaadf61d02a73cb2a3f992875190ece06969304f6c2387"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/bc88f715a3e74b28.jpg",
+      "size": 80417,
+      "sha256": "bc54af3135fb4540a6a7aa7dc4fbe20561ff8b7c636645881240bdf0e5ff1e84"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/c39bc3ac458d17d5.jpg",
+      "size": 83010,
+      "sha256": "bee7987836a408a9863e7a70578eb45ce8cc783ae47ee12164822a8bd6a60506"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/c62eeca83c7c8248.jpg",
+      "size": 57512,
+      "sha256": "48323170816b2efda8dc7db08fc08e270778d3fe3d042761bb99b8fc77826278"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/c9d38daa305f9072.jpg",
+      "size": 124696,
+      "sha256": "f4b939133d478656b1a2dcced03a7085bad6ea688deb72b769267af8035f6a41"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/cae17aeb67db9557.jpg",
+      "size": 125660,
+      "sha256": "b226ecf93c33feae2dd7363f834a2e48472bfb1b6bbb838b169e804fc31e29af"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/cb1c9f63ca9aa1fd.jpg",
+      "size": 93961,
+      "sha256": "97a68577e39999753443d38bcf0f346f0c880b9fcca460621a1345e61df333f0"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/cdeef7fc87dc0228.jpg",
+      "size": 108359,
+      "sha256": "07459ad46b80b1c14fefc0e01056b901dc267be7d11f1f9df8328c417867007a"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/ce6cd7a04af2fda7.jpg",
+      "size": 55639,
+      "sha256": "cde5d0f23d435232f53df20289de7fc58bd57634c5c9d9857eff9549d6d40d69"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/d4fa9dc02e20b78e.jpg",
+      "size": 98814,
+      "sha256": "29cfc7917e56ffc2dd00c8857c73fe5029bbc265f0ca91efe2ada7302f40f7f8"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/d543a65fef354789.jpg",
+      "size": 118207,
+      "sha256": "2f34113c166026ccfd54e827deb0c96546a9bfd7d6e3231d40616a771c3ab472"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/d5d2beec9543fc0e.jpg",
+      "size": 113985,
+      "sha256": "aa2410d4aeadb2c181e72f31cf3f13dd895183539715054d9bd1351cad68298d"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/d657e30ef1f72c37.jpg",
+      "size": 57399,
+      "sha256": "94ddf4a5af162f59e624b47eee682ad74e682a2026768ecbbcd517213f22d056"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/d8469f83c06bfb1e.jpg",
+      "size": 129459,
+      "sha256": "b8613ab34ac99fe32a587aef27a01998ebf70df7ab5032969236afd06adb136e"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/e4366d518056c6f7.jpg",
+      "size": 122977,
+      "sha256": "a36f113b42ff7554af656ed7a94dbb3cd33b2e648da9a78100d81e7e3a192c27"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/e6f2d8f7549424e3.jpg",
+      "size": 109836,
+      "sha256": "13ffc74d10f5a256d11f8aa9637c27021baaf19ab0eaf47e34c2a21094cf21e8"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/ee2b61a999b33767.jpg",
+      "size": 146940,
+      "sha256": "8c62d12d72ff73caeabb34b1444261af5b341d144bdf0b90203279f167b054b1"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/f2f7d56694681754.jpg",
+      "size": 64247,
+      "sha256": "00ba7aa30d1995fefa99225601a3a74173418a61f72e36547eeea664cb070a8f"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/f42eae37e195a8eb.jpg",
+      "size": 106278,
+      "sha256": "bbc5da047db69ff0c2315df3be351764365ccbc3c12b5f723d79954092d2bf06"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/f5e430f994206d27.jpg",
+      "size": 124309,
+      "sha256": "010497c8dd664003f087b1bde2f9f146d01638b92c16440947df790f62a05f8e"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/fa750320f989c160.jpg",
+      "size": 126335,
+      "sha256": "d2fbb2e60f19f1f764dde817b9459f1d5ae7ac56d7245949c5d32997d4763dc1"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/fe323597cf222a05.jpg",
+      "size": 98049,
+      "sha256": "0b0d963f2ae5bc686304fa41f0a9ecafd76071bc5837b12a9127dcd5b1f1c9e3"
+    },
+    {
+      "path": "recyclable_waste/images/test/cardboard/ff628bb1861c181b.jpg",
+      "size": 105991,
+      "sha256": "f4b9f62d0e60402cab44408ca9336cdfbcc7bd6d17743000d304d40d3527d4f5"
+    },
+    {
+      "path": "recyclable_waste/images/test/glass/6ae66f7460aa2ecd.jpg",
+      "size": 57425,
+      "sha256": "c0f70516c77a9f97c55d4a09868bd4ab53c53c7bb3efe012fae3e53f46abfbee"
+    },
+    {
+      "path": "recyclable_waste/images/test/glass/9c656ecfb38753d6.jpg",
+      "size": 146403,
+      "sha256": "ad96bcdb1be8dc9a34bae6c767d1c1c065bfffe2deb0d08c2a467afc21aa8117"
+    },
+    {
+      "path": "recyclable_waste/images/test/glass/ad22932bf6ea5024.jpg",
+      "size": 55102,
+      "sha256": "517313ef2579d5f75cb013d9d2f0b0d7df835eaabafef452892da5db4652476a"
+    },
+    {
+      "path": "recyclable_waste/images/test/glass/d99a5309613acdd3.jpg",
+      "size": 54365,
+      "sha256": "cd09ede9095fafc52dd0b752ffff4fb75472730c926d7044672737d20b042302"
+    },
+    {
+      "path": "recyclable_waste/images/test/glass/dfa6f4184db86b7a.jpg",
+      "size": 89234,
+      "sha256": "43b9a89fe16bbab4b0412f64b5e6384451f51712f3e23b59658ac0f95c8d77c8"
+    },
+    {
+      "path": "recyclable_waste/images/test/glass/ee8a7547403e6c4f.jpg",
+      "size": 92649,
+      "sha256": "43c825a699fd385b0a9a84e8b551c1877ba8dada0a504bbb4d085e734e1af18b"
+    },
+    {
+      "path": "recyclable_waste/images/test/glass/f03186f6c759608e.jpg",
+      "size": 98486,
+      "sha256": "88499c3cfe220d5b1984b020f618b331130c70b304bdbcfbae0f11abd592ff43"
+    },
+    {
+      "path": "recyclable_waste/images/test/glass/f68341ba369f6f10.jpg",
+      "size": 54679,
+      "sha256": "d6cffc510ea37ff3a6d5b98c5b9c824c97504ff6d68d7e225460c5c24487d373"
+    },
+    {
+      "path": "recyclable_waste/images/test/metal/006c5b26961b3269.jpg",
+      "size": 130263,
+      "sha256": "b675f03ed5c793fe2718e446480db46dc2d176b17e9e88917a0c6b2cfc1adb4d"
+    },
+    {
+      "path": "recyclable_waste/images/test/metal/04566b127e1ac127.jpg",
+      "size": 143442,
+      "sha256": "a7da2542f3642997c67ac43391aab36db4b2b0668b5773b4a4d5d05ccb8b0bea"
+    },
+    {
+      "path": "recyclable_waste/images/test/metal/1fe43a085667b982.jpg",
+      "size": 114318,
+      "sha256": "49cc9bcfa515b7cde384367ae1e3c11ac8afeef222a26e36709625c4f3793728"
+    },
+    {
+      "path": "recyclable_waste/images/test/metal/24340f6402f838a1.jpg",
+      "size": 140838,
+      "sha256": "5e7aa3830b2cdc1743b9cb9009800f5c4bf708dc50513920a476febf606cbc24"
+    },
+    {
+      "path": "recyclable_waste/images/test/metal/3484fc2f1d0709d0.jpg",
+      "size": 79495,
+      "sha256": "b6dc72e1cd6ecd50707eab403d5ea20d82355bfeff797cc3b63e718ca9d7ea50"
+    },
+    {
+      "path": "recyclable_waste/images/test/metal/3cba809cfd8934a8.jpg",
+      "size": 112609,
+      "sha256": "f2dcfdb960860751406513507ea87891f15e3ed3e7bdff3db4a991191ca8bf01"
+    },
+    {
+      "path": "recyclable_waste/images/test/metal/4b1a1b67e9f14144.jpg",
+      "size": 93071,
+      "sha256": "ea573bd285c44a5cd5298b2fcfd9bc16c87e38138a136f9f4346448e223fe3ee"
+    },
+    {
+      "path": "recyclable_waste/images/test/metal/8df12a5fd51017fe.jpg",
+      "size": 101581,
+      "sha256": "aebd33b6f5c0dbc395cdf06fd8a591ef1225d7ef6739f9974281dc3a904b26fe"
+    },
+    {
+      "path": "recyclable_waste/images/test/metal/a44b6f17d85927aa.jpg",
+      "size": 112671,
+      "sha256": "09847186dfb8aac5f7a73bef95993d4e498084586e8fc2052eac03b906802683"
+    },
+    {
+      "path": "recyclable_waste/images/test/metal/a5c048351b6e0c63.jpg",
+      "size": 117608,
+      "sha256": "bd7bf70ddc3b1e980a823e2c2ed3cf17f62566f5947d23189f10581237e56337"
+    },
+    {
+      "path": "recyclable_waste/images/test/metal/eab08f7aaced6a15.jpg",
+      "size": 103225,
+      "sha256": "f61bb9b6c1601d338bc777cdbc1c93af7648b60df00fdda8558b86e2ff5286e6"
+    },
+    {
+      "path": "recyclable_waste/images/test/metal/f2d88e8aa0d3357b.jpg",
+      "size": 134866,
+      "sha256": "6c73be9ff1be986de503e7096aff5bf99f02adeb63325ceacf41959a782c49bd"
+    },
+    {
+      "path": "recyclable_waste/images/test/metal/f76c40b60faec673.jpg",
+      "size": 29465,
+      "sha256": "2c42dca35d4b377e5292b87b2f51705178b5b3052e96f062e037c847520bd084"
+    },
+    {
+      "path": "recyclable_waste/images/test/paper/05b73632e241e0a0.jpg",
+      "size": 54989,
+      "sha256": "6766aadde94f635247ba67d6a4fcbe2c24ed91d17e116160813f192dc879659f"
+    },
+    {
+      "path": "recyclable_waste/images/test/paper/0ede1fd1df41916a.jpg",
+      "size": 60618,
+      "sha256": "1327e448f2651485e2d0beb420bdbaa2fa2cb248fd31fe19dda9b320a0abad26"
+    },
+    {
+      "path": "recyclable_waste/images/test/paper/248b445efade9801.jpg",
+      "size": 153073,
+      "sha256": "e43e14f32a88bc7bb4d045116872aa5e2929d6b23775727b9e65d4104bbb1ce1"
+    },
+    {
+      "path": "recyclable_waste/images/test/paper/26e69203c39e7ec6.jpg",
+      "size": 103344,
+      "sha256": "72b2e9ebdc49c2eaeeb558aa5b5abb72567b94edc0e65c17d99fbda5e83ab5e5"
+    },
+    {
+      "path": "recyclable_waste/images/test/paper/2c3e6212d62dc152.jpg",
+      "size": 144845,
+      "sha256": "83426339df2d7fc9027e52e648d552676492c638a083a375ec627e1381a66fd1"
+    },
+    {
+      "path": "recyclable_waste/images/test/paper/4c4b66844e8057d0.jpg",
+      "size": 50913,
+      "sha256": "efd7885f8f2929030353927bd116dc4390ea3daa33d2269705b40dcb7426e7c4"
+    },
+    {
+      "path": "recyclable_waste/images/test/paper/595536b12330c95c.jpg",
+      "size": 122104,
+      "sha256": "7e6db42724e9ff95c97f5c99054de7d4c060ef197da176a755a5566397768aab"
+    },
+    {
+      "path": "recyclable_waste/images/test/paper/5bd497692f5aac77.jpg",
+      "size": 111905,
+      "sha256": "97598b6dda92a67d3035b2a7ad49114067912ce872cb4c39954da005d34d675d"
+    },
+    {
+      "path": "recyclable_waste/images/test/paper/5d7df91ca053d6de.jpg",
+      "size": 76974,
+      "sha256": "d609bd128783966a509f267bb030fa27af4f4bdde268d06a5bea0dfdc22fbe56"
+    },
+    {
+      "path": "recyclable_waste/images/test/paper/6a07c9fc9976a300.jpg",
+      "size": 61034,
+      "sha256": "0ba2d39ab8fefebe750b49ed4e75f3b55955a686ecd8596f08a612f1c1a7c86e"
+    },
+    {
+      "path": "recyclable_waste/images/test/paper/7ec87b512945420d.jpg",
+      "size": 62177,
+      "sha256": "12262b58aebc969fef76420826e0b587ddafcc2e9f4ad291ce857806ad8be7db"
+    },
+    {
+      "path": "recyclable_waste/images/test/paper/9545e236b71c5f1a.jpg",
+      "size": 117017,
+      "sha256": "5c2d46d7d76fa9ba3b4016153f83ddd86ce9f2503087176f4134706bca6ca347"
+    },
+    {
+      "path": "recyclable_waste/images/test/paper/963f29a393d3a046.jpg",
+      "size": 138969,
+      "sha256": "fd98651ed2f14ff6fe49642becc5c242543619bbc464d33d3d5f0a4fb7a809c8"
+    },
+    {
+      "path": "recyclable_waste/images/test/paper/bd904da51fb15112.jpg",
+      "size": 59920,
+      "sha256": "d78376f5dfa19557460751baf9889a7b6be8fc851e5c3b35de9ceb0c3f1c6de9"
+    },
+    {
+      "path": "recyclable_waste/images/test/paper/ebb2b13c77aa903f.jpg",
+      "size": 117295,
+      "sha256": "85570affb9f5bd39fe504146c6808e3f9fd2403ba655207662fbc543bd0e190a"
+    },
+    {
+      "path": "recyclable_waste/images/test/plastic/0f544433efbc5d53.jpg",
+      "size": 136024,
+      "sha256": "481f599c5549eaf0324547a0c86564f4c759c89cd1323d5e68cfa9d405d32810"
+    },
+    {
+      "path": "recyclable_waste/images/test/plastic/100406f278756568.jpg",
+      "size": 86440,
+      "sha256": "f3937520c693f6a51a563df76b5013f6215ec913c84f1c19f2bff805d784ca43"
+    },
+    {
+      "path": "recyclable_waste/images/test/plastic/16ccda41ed0d1e9b.jpg",
+      "size": 87197,
+      "sha256": "ec20beb897c6b9a477e74f6aa6930790305709d5ad865d25c6934293e710fcd0"
+    },
+    {
+      "path": "recyclable_waste/images/test/plastic/1797e6a372096c71.jpg",
+      "size": 102489,
+      "sha256": "3f89522721e61ad8f99fe8ce0cb6bd83f3a3028fc045dd457e2b22d2cadf5653"
+    },
+    {
+      "path": "recyclable_waste/images/test/plastic/1a68ec0935130437.jpg",
+      "size": 51699,
+      "sha256": "307fb6f2fc5ce3cc8c481eaab64a88fc8dce73ee176d9277a56833f5d4ae9092"
+    },
+    {
+      "path": "recyclable_waste/images/test/plastic/1b6438db469b50e6.jpg",
+      "size": 97193,
+      "sha256": "a145e102c973e4f7d1f85ef9789b2e190dbd7b46b51c6cdd8e15112db46e46cd"
+    },
+    {
+      "path": "recyclable_waste/images/test/plastic/308c05c93fd25877.jpg",
+      "size": 89983,
+      "sha256": "c76d5fe0122e75578bde36b42a793dbcced44faf1e207e1e2874d3b3978a69c6"
+    },
+    {
+      "path": "recyclable_waste/images/test/plastic/3e88fd3f96e64539.jpg",
+      "size": 51576,
+      "sha256": "3b94e6c18ca8add40aad8ea74bf1025fe4e58ce6ff221029ef63dc216047a3bf"
+    },
+    {
+      "path": "recyclable_waste/images/test/plastic/44802f86db241545.jpg",
+      "size": 118232,
+      "sha256": "bd199458ea8d3e99aa5f2bc4fe4be2512a3f54c032ca5b6ec7bde888a409e97c"
+    },
+    {
+      "path": "recyclable_waste/images/test/plastic/450f28d808161f63.jpg",
+      "size": 103728,
+      "sha256": "c2f23ebea18f2d950192d4402d3338f8d4d56aeeff0d9df121d8fefe339a65a5"
+    },
+    {
+      "path": "recyclable_waste/images/test/plastic/4b8f5103a7cb428b.jpg",
+      "size": 82915,
+      "sha256": "90b7df8c590c9e0f5675775040dd61c52be393757fcbc631c84cde0be7d7ee79"
+    },
+    {
+      "path": "recyclable_waste/images/test/plastic/6886b301e1c7ed7b.jpg",
+      "size": 58224,
+      "sha256": "8d680b1d1837455992f52c4b2f2687b9e7925c64fc47ab792eb7119de46fe7ac"
+    },
+    {
+      "path": "recyclable_waste/images/test/plastic/76b8053522e94457.jpg",
+      "size": 61324,
+      "sha256": "ac3a10e1238212eb65dcc3d53b30a0ce102c5057c4f419d171efa1b418cfacd1"
+    },
+    {
+      "path": "recyclable_waste/images/test/plastic/7b5540e0f7324d17.jpg",
+      "size": 104287,
+      "sha256": "d0614870630031e7e637331b109bc7c214fc4cd78dd5f5f2c89f8d33ddc0e8c2"
+    },
+    {
+      "path": "recyclable_waste/images/test/plastic/7fd0f520fba25de6.jpg",
+      "size": 120810,
+      "sha256": "a37b2cec72e09578248957f30cdc2e306ad913c361c72a54a47a0c0724fc9b7b"
+    },
+    {
+      "path": "recyclable_waste/images/test/plastic/82913fca2f3a7a52.jpg",
+      "size": 163280,
+      "sha256": "fed2e1578544ae9d3dc877bb361afe9a76f96a4e885e9a4c4a8c04b8787c40bb"
+    },
+    {
+      "path": "recyclable_waste/images/test/plastic/850f9dba941a6425.jpg",
+      "size": 146376,
+      "sha256": "0e9c44545c81176a3a50106932a71acc1d1557cba9e52035d9184dce1e138cf4"
+    },
+    {
+      "path": "recyclable_waste/images/test/plastic/884aa2e139a7c860.jpg",
+      "size": 74211,
+      "sha256": "1de39cb5a52c4472eff215fdd263f5deea3dce99d20c402bcc4b139b3e5075a4"
+    },
+    {
+      "path": "recyclable_waste/images/test/plastic/8e0c63ed7f0ec5a9.jpg",
+      "size": 112976,
+      "sha256": "bf86fd3bb91c0737f615d223dfb1b7a18828a8c4e6464e0d3fb5201b3e1d10c5"
+    },
+    {
+      "path": "recyclable_waste/images/test/plastic/95ae6488ede2f4e9.jpg",
+      "size": 73837,
+      "sha256": "75512ad999050b1ebd27aa54c57de77bd1725094f3d0316413453043ab2ed2ba"
+    },
+    {
+      "path": "recyclable_waste/images/test/plastic/99a7b834d0008a40.jpg",
+      "size": 71769,
+      "sha256": "ce58310864d9284d294a7268dbeafb44e0eb8efb2e7a1e094a6e949060bd9a1f"
+    },
+    {
+      "path": "recyclable_waste/images/test/plastic/a183ec7e8dda8308.jpg",
+      "size": 82774,
+      "sha256": "26cb9539e4b5261fa0639abbd466c0343d03550dcee1b62e0740ffedf189c064"
+    },
+    {
+      "path": "recyclable_waste/images/test/plastic/a6b330f7df9b1373.jpg",
+      "size": 186803,
+      "sha256": "bafa7dfd1f94ad548d6c35e3d32f708731c17ca430ff0bad95099fbf0dea2c22"
+    },
+    {
+      "path": "recyclable_waste/images/test/plastic/a937ffae09b31e77.jpg",
+      "size": 119826,
+      "sha256": "fe7bd83f484a16f1ed42d7e9c8d2d946d7abd534d3f98cd2906b9a8f94b2b9d6"
+    },
+    {
+      "path": "recyclable_waste/images/test/plastic/be6eb33b5b44dd4a.jpg",
+      "size": 147184,
+      "sha256": "df4a54954433be4362455a305d47f48cc5693397106dc90e9e2b5bf8532b2897"
+    },
+    {
+      "path": "recyclable_waste/images/test/plastic/c9101fe45295cccd.jpg",
+      "size": 93291,
+      "sha256": "c999304fdcdd7b2bb1a5eb943e12cfb4d8b1c5e3b80c138c4415ebc5db4bed7e"
+    },
+    {
+      "path": "recyclable_waste/images/test/plastic/cd1ce365d74a363b.jpg",
+      "size": 73960,
+      "sha256": "9e9744c0d34c31c1c90b66b80c74fa3de053de3d326c52ccee84b92aa50e9180"
+    },
+    {
+      "path": "recyclable_waste/images/test/plastic/ce1c4b66444819b4.jpg",
+      "size": 72399,
+      "sha256": "9abb18a90d6daf24b240649399d76882d5f77e4d65997bd0477a7aa89c23cc9d"
+    },
+    {
+      "path": "recyclable_waste/images/test/plastic/cf435628a74d45a1.jpg",
+      "size": 100644,
+      "sha256": "42b860f4f5d68af95208e5fc53a122c94dabe8d35131fa7d74c00f08830ec637"
+    },
+    {
+      "path": "recyclable_waste/images/test/plastic/dc84bb887f4fb919.jpg",
+      "size": 50444,
+      "sha256": "9199004704f2f81df90addb82495a38216147591710d42cad0391bbb104d166b"
+    },
+    {
+      "path": "recyclable_waste/images/test/plastic/f6775c5c0bafd5ef.jpg",
+      "size": 88641,
+      "sha256": "9df2a1c79419039da08af0f8a77312d2d95887d67e18dcedac15cc99f873f7ff"
+    },
+    {
+      "path": "recyclable_waste/images/test/plastic/ff1065cccbe999f2.jpg",
+      "size": 91086,
+      "sha256": "64f7d172dbb730429ba020b7ee865da54be8b0ea8631a8aa15ece77f3bf14d66"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/0025f92ef514b2a7.jpg",
+      "size": 112357,
+      "sha256": "8cfa1711302423a53ce3f9c736a0cfb69b489048f48a4ca68c1d451a53e3e404"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/003e39299492039d.jpg",
+      "size": 56361,
+      "sha256": "5d06e3e32b758ecba043f92021f4e6683c8f9366e0969777fa2122ecb63fb8e1"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/014afaaf17880106.jpg",
+      "size": 80747,
+      "sha256": "053f3659a1271f17067b91d242ea9da33bf75dceaf1fd09f256b18ad8fe0b5eb"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/0228a8a9e96da8cf.jpg",
+      "size": 35971,
+      "sha256": "5f1bb4d422bc18c022c23781540a49184eec745b054beccf92b4f7e77b2cb99c"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/02b321ed1f879b8b.jpg",
+      "size": 83868,
+      "sha256": "2eede9041ef0727ddb394d3315c42081f08a7f31ffe38fd79d13ca118fa95ab9"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/0346f0f527f8f798.jpg",
+      "size": 120488,
+      "sha256": "9d8b5a1b3a41e752908856089cde7abc55b2c9fe099869fc55c08e6433ba134f"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/0466e52933bbb9a2.jpg",
+      "size": 129033,
+      "sha256": "183504c62004aa082df098024a7caf1b39d443726a1c86eff3a763e031f59288"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/048264f7ecbe9be0.jpg",
+      "size": 146943,
+      "sha256": "b912de68b16c2560cddf44b017d28670f9746586c7e85bcdab66c7fbc97b9c12"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/04e89778f2aa3ae9.jpg",
+      "size": 111865,
+      "sha256": "a0c73abc6c0197331fc69eec7050845cf916a5a4048a143e5b0a3345654d8c8f"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/0533704d042a8dfa.jpg",
+      "size": 55209,
+      "sha256": "f44caa4652b8a271058f7593403b4e68134870a2e51ede469924ea6912984284"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/0656f2657de6247a.jpg",
+      "size": 118119,
+      "sha256": "d3b3d2a5d321779564824fae7d4d6d06d6c19464195ef093e227fe32611ba890"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/09582079494c85d9.jpg",
+      "size": 92850,
+      "sha256": "359f948d67a25f6cca87ea265fa953b4fa81a4d9acb4d595490030f5903c326e"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/0a4e2cd1307b28e9.jpg",
+      "size": 120442,
+      "sha256": "dd97f468f50e011c787ae6d97f83bb303cb50f76f5e74581b01c9a45d2f861f7"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/0a894def1f6d87eb.jpg",
+      "size": 130713,
+      "sha256": "0396469c73bb013d4a2c7972d2dc69f8bc6c2d85130ca15f2f8c7e5850f93088"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/0a9fb473ee4d984b.jpg",
+      "size": 64772,
+      "sha256": "3174d5e29c728da757461c8bbefb335f93b1c1c32ab0da966535c0a96aef969c"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/0acfbbcd0deef017.jpg",
+      "size": 123116,
+      "sha256": "4f344af68d8e21ece20f5150d4d815ed58b33b6053ac95f5e60533c1d820e652"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/0b46f31b80afe7c5.jpg",
+      "size": 146515,
+      "sha256": "9d8f8ea0c2a3c56d1ad9aa42a1765c61d62b7e90934e14f67e72e433ba37018d"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/0b503997b1a7579f.jpg",
+      "size": 116081,
+      "sha256": "ee63d60a75d590f5f0d5487db1d9f42d6c829cecf8e4317af5588bb77a6441f6"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/0d8b521b32b0e32b.jpg",
+      "size": 107042,
+      "sha256": "957442a9e797e86abf5b9017a7f5b479659a0d0959ab4f0ae7a60bef0aaa1cda"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/0e2041f32fcce46c.jpg",
+      "size": 77386,
+      "sha256": "e630b87492a54925dc77274dc7a27da27221ca4104e12999e2835a0a3d20b017"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/0e4172727570c970.jpg",
+      "size": 97065,
+      "sha256": "f3188e304ad8d9ef4d95357fadb0a72a16af56111eb5a992fe45e7194802c6b3"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/0f5d794c7ef70129.jpg",
+      "size": 109337,
+      "sha256": "e0ba9f467b1006d0266b1bfb770e248c68930fba63344d038b143e1903be44c8"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/0fc665d31e9da97b.jpg",
+      "size": 74139,
+      "sha256": "fda0d1253e79385f82493fbc0e5084b6217e4a211817c2290a74351971cfbd1c"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/114ddcc396aec62f.jpg",
+      "size": 97749,
+      "sha256": "65fc06e792739e8ed6c176e31b57f328e792ab2da775f37e5bfe1027287bb0f7"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/11c77b92afa055e1.jpg",
+      "size": 55874,
+      "sha256": "10f84de52a79800a605ed320a2dfc8b8bee8bd4f0f909e0e17d3dcc894be1aba"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/11d23a3d76fc8dea.jpg",
+      "size": 110973,
+      "sha256": "a9d6ce64284bbdd1ecf39cb1d0a4ed683ae07676c6d768d4a6e004804c01c55b"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/1340eb919b93c40b.jpg",
+      "size": 129445,
+      "sha256": "f64b51c2aab8b39470a8a5fd3e97924a664fea4eb7e982cabe1e385b77ad9049"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/15255273082e0547.jpg",
+      "size": 59393,
+      "sha256": "e3f4a7290577b6209bee4c937f43f45ffe1a53fb0ec9a2771125d9436ca6be4e"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/1550823905a23d97.jpg",
+      "size": 125747,
+      "sha256": "37872f3de04358f4f67293647ba9f72655396c06eb049bbb42e8c14a3efa50fe"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/155870dfae6ff249.jpg",
+      "size": 37865,
+      "sha256": "11dda77f67fa94f2f76dd1a2d0eff1c878f1e90bb2c2b4de5401477481aeaf21"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/156dc808a8098a0a.jpg",
+      "size": 99668,
+      "sha256": "cefcf530b4e5ad7f70a4e3c9b277711e5790a07d8d618386a0f5f273938ac943"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/15fefc92977b5b37.jpg",
+      "size": 118023,
+      "sha256": "315a203910ea8f7a2ad2941f135f294a74aed5c9e6a00a2cb3265880fdb77376"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/16d0e810a5d54bf9.jpg",
+      "size": 107900,
+      "sha256": "0c45ee0aae32ed99ecfd9e96edb51cad9ae4ed1e28850912feae2d43aa72e8f8"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/1804c0564b001333.jpg",
+      "size": 126365,
+      "sha256": "9ff5a9ff901125da03fb498e020214e8c31e84b0127ae95fbff2160b170c2286"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/18827804f2e7aa07.jpg",
+      "size": 58549,
+      "sha256": "b1053df5b67bfca656bd40aacc7f1e4fa76d8a546dd02401c968aee0ff4a8022"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/18d7d34754eb80df.jpg",
+      "size": 129109,
+      "sha256": "12b46f2ac18c72963a83e3f0c8f87130500a0c8c406f74abe15ab0a81b2d3a82"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/1a4c1d3107f41311.jpg",
+      "size": 115014,
+      "sha256": "7b5cf4f57e281b5dd4c9f0915271cf7d229b95a590aab821a49cbdd79ed2aab7"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/1af88e36d72d18a0.jpg",
+      "size": 56323,
+      "sha256": "e3bb1abc92a9a5d5bbb254386bdf5732cb8bcfddd3ac51b37aea45a09766939c"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/1c01a1af3d76b399.jpg",
+      "size": 111776,
+      "sha256": "765d99e12d200bb3ba713587b02e17c793c81cc14d97f66d5e871f2f01def716"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/1c3ffae08330e449.jpg",
+      "size": 53257,
+      "sha256": "053eef89f942a5d065f6e3fc9795e602d17231378eff5daf4e0e51245dc31263"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/1cb9030edbbadac6.jpg",
+      "size": 101848,
+      "sha256": "d4007e485134607594cd68707f27c496e8a8b04b0410a2ae9572dffaa92c381e"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/1e19070cac4a6999.jpg",
+      "size": 107565,
+      "sha256": "30f471482310e245a30e5d507dce4d4cc25a6b262d611ecd2175d0a00d8bb840"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/1ecf0bf0c5e82bf0.jpg",
+      "size": 79041,
+      "sha256": "74ace15b1eef3b1c8c6340310a3efe6553db99f185a7d7eea8bcdfbb4fab306a"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/1fc98afb1ff63e59.jpg",
+      "size": 78598,
+      "sha256": "e618caaae1c978aa7032b30147860812156f121dfbac9c442e789a5a0e4a4dc6"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/215ef79ab5b316a6.jpg",
+      "size": 34724,
+      "sha256": "f89d26eb57c2581e7dfab52a1600b85c0635626f7a798b3d1e052fe81edc7e0f"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/21b6c0986d6f0278.jpg",
+      "size": 97424,
+      "sha256": "91b0f84411fed2b5682bdea5a9ea5c8e053eef39fd39a2ad6c4bbd7a7555d586"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/2284f233ba4207e4.jpg",
+      "size": 103145,
+      "sha256": "c6f90f0e807470ee11e57d30d4c802d9de9334c42460efa75b29a23ed141bf15"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/22b8a318a3a82cce.jpg",
+      "size": 73568,
+      "sha256": "243bb146a496316aef4d7842c0e4c424866ba8e34566588716c746c1d82c2af2"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/2411a3a270194124.jpg",
+      "size": 101206,
+      "sha256": "4bb3a3d13ad72e003551fd1c15556090d5238d6e01d48a843213543858ed9be6"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/246d451d65a1207e.jpg",
+      "size": 118364,
+      "sha256": "19460957b4160a923bab0c43c96d55e3684300e03f173e2f775c852a6c12df49"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/24e08f70de53082f.jpg",
+      "size": 46159,
+      "sha256": "478863dba5af2e3f6ca007ceab38239f89ae5ba1605160ad3469a36923cacb0d"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/25d84736bd0c3450.jpg",
+      "size": 50116,
+      "sha256": "028da14d4eaa37901c8b67b93fe957e598cccb2e31677de0a681898257c3df64"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/25e8aca1dfe3786d.jpg",
+      "size": 110295,
+      "sha256": "bb4196adc33255a20985472be31a1d8f4f8b1ef76ace5c6c3b0586372d41955b"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/25ede76541d13b23.jpg",
+      "size": 37889,
+      "sha256": "e24272de40a8abd4a4c0baa8f58509f9e57b880fd464269e65da6b8c014f3f6d"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/26bfae29c4d378fd.jpg",
+      "size": 100333,
+      "sha256": "2ff81203d8c56c3afc5f82c1896c4f93e7e317ffddced9946c65cc3325b80844"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/27152c9379da6fdf.jpg",
+      "size": 63824,
+      "sha256": "ba1e60336803771c5451f8bd396d57923ce21c3750ed7fdb96e013b061337a87"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/27e6c7d1926444ce.jpg",
+      "size": 128469,
+      "sha256": "8ba80481cd067849f3404dee2fd2f5e97f928d93335705164088e71b59785d88"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/29efc19fc58d8e96.jpg",
+      "size": 113636,
+      "sha256": "70f967530addfaeb4b4edb010d3078fa355fc348412d33f8974aa0878cec6cc5"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/2aa5848cc6fefcc2.jpg",
+      "size": 92564,
+      "sha256": "8255ba5971beed4420f3c3034023343da60d0da5e2fdbf18ea4a09a4c591b1fa"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/2ae431951532a5e1.jpg",
+      "size": 71622,
+      "sha256": "c669e62603fa5f620aca41f61f147e0310d8ec2597569ede82473728f2825c99"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/2b16ee02a3f4996c.jpg",
+      "size": 128653,
+      "sha256": "9aa3bb559493f7f9155e7906d2d1c0d22085da9a55e273a76809e26d395ff00c"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/2bfa250c033b637a.jpg",
+      "size": 101747,
+      "sha256": "d96d08d9ff05a17446019a9c1c766b45cc5cc6ebc0a27bda20c94eecf99b07f7"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/2c5ef314b33c5fd2.jpg",
+      "size": 140810,
+      "sha256": "7b00bc86f466c3ac50ec8abfa23a837c04c522d2eae679b489694ac2f898ed59"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/2ceefc1b194b1d53.jpg",
+      "size": 43934,
+      "sha256": "3e2db33378655010839c453fb89da2c914cff3f2a1e07fc2d25015e6ca02536b"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/2cf4d8ff7a74df71.jpg",
+      "size": 97370,
+      "sha256": "10e9d16c0504af70b87b444d7b46dad4ec51b41825f86666c0e6100aa19d508d"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/2db81c450e59bb11.jpg",
+      "size": 119795,
+      "sha256": "76781c14210c15b9804990812669787c115430c3caba12225fc1d7691cb8722d"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/304293f2bb851e6d.jpg",
+      "size": 129715,
+      "sha256": "5fd444a80a7bdc9ca970df3d126c35fc71c3ed6a3b7f8e7777036912c3ca8cb9"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/310bdfd74fb9d4db.jpg",
+      "size": 77546,
+      "sha256": "d9fbe34e3b5c8118545f4ec1e049ab5d30fb32ff52ba0bb1d1d4160be8226ed8"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/318207208fc72368.jpg",
+      "size": 42972,
+      "sha256": "99da073629c83073c9eb361c76a6852c8480a8422156d4f02460538e710219be"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/31843d5dca0e08a7.jpg",
+      "size": 51344,
+      "sha256": "a59825ea0b7f1df3e3884fbf7173e168314fa749f76bd76b17b0500ef9999344"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/31b486dc6a51c5cf.jpg",
+      "size": 80072,
+      "sha256": "a24abb240c52597d6e95db3e151bf10390b1177a4e4fd909924732e2306df5cc"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/324380db9e6e58a2.jpg",
+      "size": 126842,
+      "sha256": "164534104a40482f9384b957ff688957465b10875b62416e6ca6c193706980e6"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/344933cc0ae4add8.jpg",
+      "size": 127923,
+      "sha256": "a27a8eb6b1cd36b80cce9ea19ad0ac86075a3b0331cd4de11455f9fb93880b2b"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/3487d8bd7f90637c.jpg",
+      "size": 43101,
+      "sha256": "6f7a1815683a01d9ec61ea5010d5ad5b5e1351c430d0d0fe38ba31ddc68b1e97"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/36527c42ed4d08c7.jpg",
+      "size": 81802,
+      "sha256": "30bdf0ebb9cf2756b5bcf6ce6e261f324cf6a9431a929705a1685284f03552bb"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/36bd24a4168ef4ff.jpg",
+      "size": 41741,
+      "sha256": "b1f9639553ad1f51d69f6d65d5469393f80cd1a1fca2a306973ff36f2194a024"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/38bf02f5a1d300cd.jpg",
+      "size": 123220,
+      "sha256": "ea72d96a7451d0496f1d3cd1f7fcee0c71f2c7d2893c77cae2aec1f8bb27f3be"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/3950440488571c1a.jpg",
+      "size": 79557,
+      "sha256": "f9b61c0f02114d1573927582b6500e7ed52152424e6098ce7db2e81ac7b4ff5b"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/3a425fd97e49add9.jpg",
+      "size": 133342,
+      "sha256": "cc0e704e663750309e292fb242abe416835318b651d5ae5fde5755f260f47cd6"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/3acc47fe2adc3fca.jpg",
+      "size": 50857,
+      "sha256": "2609dc53a76f909e90975b195a34bc0a33abfb23c3762e3a5d5b865806d5eef6"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/3c2b266456014998.jpg",
+      "size": 119104,
+      "sha256": "677bfa1506014c866459c3546d14e90ff9cf29f9a5f425f0b5a5a7c5f1388915"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/3cb76c11fe66eac6.jpg",
+      "size": 115559,
+      "sha256": "4ca73fb53fb97e435b6047a1913db95168357213fe71e3d807747dbef523b6e4"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/3d4a9f653cd08aa2.jpg",
+      "size": 118656,
+      "sha256": "e1245a17c055dd44ca7169ddbc24140a1ba56fe1d7e880f66b5d687f94c3b1cc"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/3e56c5956dcc0f16.jpg",
+      "size": 115409,
+      "sha256": "9f957c9bf6764db53efd7505ee1915d027207dc54bece3ead924de954b015579"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/3e917038202fafa3.jpg",
+      "size": 48744,
+      "sha256": "2da90aa8f4a0bfccbea9c0ba28b0ead3e5faf16458e06483000259850fc1fcbb"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/3f59bdf4a72b4324.jpg",
+      "size": 112675,
+      "sha256": "07bc973fdfc1eaca4eba01628e30bfccd63072514311698ad1ccf5e4ea83ec8c"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/4061307547bbcb9d.jpg",
+      "size": 96984,
+      "sha256": "7b0b24858a09791b3a5fa9506d442eb349c96a4d5315966c08d252f9cfb75d9e"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/407303d016f4cf72.jpg",
+      "size": 100238,
+      "sha256": "3aea10c8185c3df0a6f74dd6b5e6f2ebe25a3ee54ac7a5c57b64b7f2c436af93"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/40c16a18b6f30421.jpg",
+      "size": 113463,
+      "sha256": "4b2693c445e6dd55ca60b40e186a273611449df564b5df0eb1767aededcac103"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/423ed8d038c99910.jpg",
+      "size": 114355,
+      "sha256": "ee658cfed0ea5ce0bf6a9840e7dcf8d3595c145440e4b82dacae760eadd51df7"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/43bab4e31ddc6a83.jpg",
+      "size": 110235,
+      "sha256": "76f0047f8b91b3dea804a9c87848d9e8734474cf4f02cac7be66e29642a8de02"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/43e3c8949ce5e775.jpg",
+      "size": 47476,
+      "sha256": "0d72a9c81ff23f98ec8cb312a226059e072dcabd0b6c64235bee54ea700e27fd"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/443fc448a5d0f28b.jpg",
+      "size": 31059,
+      "sha256": "0e135125a6f60a40b1a2ee9cd8379e7291a53c72f09dcabb01875d341ac06c88"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/45d83428d6608527.jpg",
+      "size": 147587,
+      "sha256": "bfc2fcd750b8c760a65e2abea639957212ab85b42be1381a9d8bcce20cc1845a"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/474e85a07de9509f.jpg",
+      "size": 113032,
+      "sha256": "e05e7f9818bf7e05898be13d4e764c138deb6a20338d192794ca3cf64b49c455"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/4753204c2623b0be.jpg",
+      "size": 50078,
+      "sha256": "4614d56be5843347468f758ed6997fee628123b1c8ca2cd901fe95ce758158c2"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/47d400a8e90dad52.jpg",
+      "size": 129558,
+      "sha256": "c11ff84a08e7286c54bec6988e5dcf60a53fd384f960441e767468eb36825d28"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/48b24f8933f2215b.jpg",
+      "size": 52459,
+      "sha256": "d30670a77c24d8e6510217fe92acd071382e52cd4f78ff9d9a1d8489f1dc26e5"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/4afcc84f726d5da4.jpg",
+      "size": 96327,
+      "sha256": "5c209ad41ca72d017458db648b795e83f7ea9199fdb81cc18ce10f33a4fda9d4"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/4b18ea0e142094a2.jpg",
+      "size": 118411,
+      "sha256": "cc54bee5482b0b6cb6afe44c03b025067c82d7393f041dbaed8687d77b3036ff"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/4b1a408a418eef0d.jpg",
+      "size": 68469,
+      "sha256": "7b98d64f75ff54d2e970962f6b8a7528a88b0d4bdf30c449ece04594d90254ca"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/4b3116af76be7de4.jpg",
+      "size": 85749,
+      "sha256": "dc8908b47dcf3ee4bc9b629c8dc2d1fd3a9bcab4746782c618f4df9bc5c514be"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/4bb05aa569b9d48d.jpg",
+      "size": 107735,
+      "sha256": "39e783310e21dc639f8f83c397e0e81a91344f84599cb5ff49e0baa6f51eb5fd"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/4c6ea7fe097950aa.jpg",
+      "size": 120549,
+      "sha256": "213623f41f905ed5ea53d1f882409a37bf07188fc08ad29da12a2c2788195439"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/4c7eacbbc56553d2.jpg",
+      "size": 143576,
+      "sha256": "49c7e1fa1e3a7cfc809b4606c2e2336f8a98b071757e7eade505ebba63e456ff"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/4cb1f131db806838.jpg",
+      "size": 127670,
+      "sha256": "0ff777b418ff5d77ede50d3d16271ba86b9ea7e684372c3042234ee823590d26"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/4d4045813872e670.jpg",
+      "size": 37721,
+      "sha256": "2ac8027b700f6eb4a0ae83970df61c55d7eb1434aa9b489c6bf35a5b585a0ed5"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/4df90d137b155954.jpg",
+      "size": 119529,
+      "sha256": "65e80333d0e7a5fd67e039fba0099503372bde744d2f817a1e2432433221986d"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/4ec8ff8f964ca1ab.jpg",
+      "size": 123553,
+      "sha256": "789b94d7fe25b87ea70d1f7fe77882a63fdb73b79821d3009ba53d8c910e756c"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/5031699fadb84720.jpg",
+      "size": 119252,
+      "sha256": "8edc00d059fbefbeebe0c01ceac8825365f26b190131e769c82bb5b440f5164c"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/5058d2270e58d5fb.jpg",
+      "size": 103979,
+      "sha256": "4f6be8937e9ee17ee6dc4307a670e017b751bea4e2cd9e967f4cc97786d435c5"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/5120c0ec487a47f2.jpg",
+      "size": 46032,
+      "sha256": "f9c504b9be54a3bd0de187cbe3083a90746de1d840fc5871713ffe38574c54cc"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/5126e2d4354adf95.jpg",
+      "size": 50986,
+      "sha256": "0e62e137e52a77d207f15e0ba3cea62822f1e62d6319f2cd8074623c51ab8fda"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/519e66faba3399ef.jpg",
+      "size": 132837,
+      "sha256": "0653f1c617f7708507f8956025016d5263bb1bc84f4810cf75ea45f2aaa001c9"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/5228cff70dd45cbf.jpg",
+      "size": 100900,
+      "sha256": "3d69314c4bacd23507348501cb5c8b719ccdad0b49e623d733821a9ed211ac23"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/5360d1a36ec34c09.jpg",
+      "size": 119877,
+      "sha256": "e270f80cd013c4efb4f70b638bf4c4cf69fa8beaa30af73a2d46a1cd14140f04"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/5432b4c306e5bf07.jpg",
+      "size": 141302,
+      "sha256": "06780fb8a81587b76662170ae8d74ad5f60216ead900865a541af38f85c8ccbc"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/5694857293529df5.jpg",
+      "size": 84126,
+      "sha256": "f93f41a1894ae17d97dba333fccab0df5dbccbc308d1e71f8939bda9cc660154"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/56c05a44d29c5ea9.jpg",
+      "size": 27649,
+      "sha256": "c79aa7696720b09a0cb699914175bf4ba423a8afb5e1545925082cd4fea86925"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/577eb0dd96728764.jpg",
+      "size": 139633,
+      "sha256": "05f7ff9d063288d5fcd392440989c9b6ad45275e2c7d1fa07e2c490871be1b62"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/580eac3dd000fbba.jpg",
+      "size": 54715,
+      "sha256": "6526dc615d48d5f41284b4d87b99cb030218736890ffefe2f69a7862b31bd32a"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/58e831ff33810f61.jpg",
+      "size": 89199,
+      "sha256": "9ffcc736376379cb40020749960664327dc8f651f00c63b9fe75ad6e2e3c2a4a"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/5943e39583287c96.jpg",
+      "size": 163768,
+      "sha256": "b4aea20b5cbdf08e5aca3fc23f8e0d39cf9a21039f08ddfecdf1b3ff8cf6cc27"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/5971bb77519b6c3a.jpg",
+      "size": 37889,
+      "sha256": "8cc7f31d3df95180df2334fbe134ba63c215e19ecd02568d840733479479063e"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/59c0f7fe83bd3b52.jpg",
+      "size": 149129,
+      "sha256": "5d3441cc4624bb41f0aa27bce00c80e179fc17f977c7445fba805222a10a3fce"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/59d3dcb7592602c3.jpg",
+      "size": 123414,
+      "sha256": "c3a64be17df2cccb6fa2a964fa1183d1a3129c6588909e1a404db63588db874b"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/5bde53b418520cc1.jpg",
+      "size": 120521,
+      "sha256": "26e4039e1c6343a29af45e6351efc24b1ca12c396fbcf98d7523da160850bfad"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/5bf4e7923f8f7629.jpg",
+      "size": 168038,
+      "sha256": "5a1230c8edb46505b19feb3284d807b4d1adeb89f8cad079be1f83f962114125"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/5bfbce4f3608f8b5.jpg",
+      "size": 54518,
+      "sha256": "87bd8637d5865d5786bc8f33284dbbf1dea7719397d692375d863d3532cf34ea"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/5c3955444e0f2c01.jpg",
+      "size": 152733,
+      "sha256": "ef18aa583a5684b7097737dc62204395de7d7e1405fe2c97ab4d842b3eab21af"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/5ca9163e796a30fe.jpg",
+      "size": 90763,
+      "sha256": "6987d8f402b32206645486b3db1824994f3da7cce34b2c1b28a4e15b52f25417"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/5ce0e102e518805a.jpg",
+      "size": 127927,
+      "sha256": "8fbc6a2e802ff82e349af25888b196e7381a06ee4a6cb9bb998cefbf6143d0bf"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/5d950a51ab746b2a.jpg",
+      "size": 139597,
+      "sha256": "440853951e7414231103ee1a85404e7f7786aa73d2561843aa92f6eaad266680"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/5de50a0da351bc19.jpg",
+      "size": 45754,
+      "sha256": "1feac757800509b1af7fefc9f867bfe11b40ac171e6af0bf5245894180dd23d8"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/6046f5f4b5460308.jpg",
+      "size": 62615,
+      "sha256": "652707d2bbdacd4051dee1b222a3dcdb45fbffbc3981822c4a203845d1d0e5df"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/60d8d195c3c40df5.jpg",
+      "size": 119520,
+      "sha256": "794c6cbd14a12b2784ecdf48a90abbd6cf92ecb29488b7f620d65fa6382b9685"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/60f98bcc64800d9c.jpg",
+      "size": 60987,
+      "sha256": "5fe2a03e6cd89d0fd30852544f89a89e7400b5a05c897dd06e5cb2e0ef2157a2"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/6163788a09d36542.jpg",
+      "size": 115430,
+      "sha256": "e3d912adece4275ff8beacacb97f573a4befb487a33181a6c04a7ecc565cde27"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/62ce8ac4f79945aa.jpg",
+      "size": 132115,
+      "sha256": "3933033c3521dabe644bc6ae898a518293e39a1ae745345ee9dd860a1f23c6f9"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/6393788ea72d9b30.jpg",
+      "size": 47395,
+      "sha256": "3596a30aa284521a57a0479de41fd53962af14ca6d4b705d64a04141eb213817"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/63cf6149fa1d847b.jpg",
+      "size": 59096,
+      "sha256": "dfe01a4cb9d1f6a0c6f9adf42e86058856ed8b51bb27e3d45c3c6e29af1b7c37"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/63cfa5c8d98dbc95.jpg",
+      "size": 100406,
+      "sha256": "ec419a63ed71b2199bd83055f47f32f4da5cc97ad95dea198ec8c60564189ddb"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/64a355fa3af76ef7.jpg",
+      "size": 37411,
+      "sha256": "6d3acfb47d30798b4bd72d94f38c064fb4cafe366e4dccf46a621f055e92feb1"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/68d55728176b4f4a.jpg",
+      "size": 57277,
+      "sha256": "6dc81f633a87b01e349d6ca186584f9e2d93f8a9c8e5e28bdcb717144349a5f7"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/68ecd06468b350a7.jpg",
+      "size": 93393,
+      "sha256": "a7cfeff23e5aa8ca45e7e048289d0bf0c14d69b8321b5f9425fc72e1b71c719e"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/68fe2dcc1aa6d94b.jpg",
+      "size": 46656,
+      "sha256": "a8d7340669505f1bf2572d3e4fe674ec32687e448089ab652898b18b4ce399e4"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/697d3d306c5771e7.jpg",
+      "size": 154796,
+      "sha256": "aa946eb616a26c8587fbf6881f2c7435e8279b4c90f3225f796f5dddacf3a61f"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/69a7e34ab918ac48.jpg",
+      "size": 129945,
+      "sha256": "bc10c6497d66e2a09a472d3cc14ab690e8da4ccfd1f6592014a45157aadd43e2"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/6a14f90ab6a5e365.jpg",
+      "size": 123961,
+      "sha256": "46722ca60da95aab1df8e05e024fdaa4e0a811de2aa352b2fa09ebdc59dcf754"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/6b82eae8a6a20706.jpg",
+      "size": 83412,
+      "sha256": "7fa3a130ae408293e038987b214d3d500c2c431d5068ced3ee203a82da398d3c"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/6bf4c15e9db6dad5.jpg",
+      "size": 42717,
+      "sha256": "7afcfcd2b41f35dc60602e288d4521e601bcdbcbf70da26d286b95baae294330"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/6c4665c7c95da99f.jpg",
+      "size": 97942,
+      "sha256": "cfeb88b03bd3878bbdc7607fba3f764bd0ba77072b043775e0b89213adbddc31"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/6cd65e3ae06f796c.jpg",
+      "size": 92230,
+      "sha256": "9a55acbedc3a3b0fb1a95b6095e468d3a4e1b714b94a87529995927300f72a2e"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/6d1c0a6b662b699e.jpg",
+      "size": 41257,
+      "sha256": "5283af078ea2cf983fec325065f84c05a68ab5c8dd123c686f40f48f28372adb"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/6d4c86e3227a3714.jpg",
+      "size": 139589,
+      "sha256": "ab341ff988af466c52c552d1160d60e2e31161f51e94ee3315534bce1bea4775"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/6d908289cb6c9054.jpg",
+      "size": 118803,
+      "sha256": "3766d41914c348a35a9081c4f6848a6efd52f5d349751191ab1796ca908ebf9d"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/6e247f80d23a3a36.jpg",
+      "size": 100192,
+      "sha256": "d36ea3728d4ca0e5d22dc3852043d444a1f83b3a9edef6be041d58c8bda00bad"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/6e68011343c227c8.jpg",
+      "size": 162362,
+      "sha256": "6e135539302459753bf3bd3b4d19631531e407cfe84673ebeafc01160ba547e9"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/6e784fcb1c69a024.jpg",
+      "size": 74642,
+      "sha256": "d47d115fb808c26526c98c7d2c3d02d07214c4c9e55a5c4079b7beea14ae8684"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/71f19e1d8c36972a.jpg",
+      "size": 126010,
+      "sha256": "1fbed4fa3b1a241819c5cb8297ed41bb7b76e576135be8c95dd18168d69fc931"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/720b69fcee0f02de.jpg",
+      "size": 92590,
+      "sha256": "426bb8b2e27eaf5715ea0e21526c38a57aa78b4d2f248ceb8254627f8c966521"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/72657ee31b40ca73.jpg",
+      "size": 129708,
+      "sha256": "140c1014c0afdb834e5504d9e9eed7906315db5d079693e59d18950732c8979f"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/72e93532257ebecb.jpg",
+      "size": 160041,
+      "sha256": "26c8ac801a77c23060a69f275380f7de922c1550cc3fa0a9ccb18a57460aa54d"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/73011033731da631.jpg",
+      "size": 141170,
+      "sha256": "8eeab30209f04cdd2885ea06a34156300ce1d16fa91c361c615d11a7d4493cc4"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/74bc97c8ad2f4715.jpg",
+      "size": 150648,
+      "sha256": "43eef9ba83dae85f9358cfae7adf6ba29bfe33ec5dcd60ff8d00f86dc12e7a55"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/74d4fa906d909e98.jpg",
+      "size": 137888,
+      "sha256": "d7ab4432d90015f0bcc0d68d31795a4cf62578411d429cb4fe732c4d4a9dc75c"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/754e181ef47bfd36.jpg",
+      "size": 138303,
+      "sha256": "477cebbb9242886b7ca17d1dbc1f7b22963fec69f3f4434c914e1f3751cf2f54"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/7715072e6059c194.jpg",
+      "size": 106132,
+      "sha256": "31d50760db236bd60eb32c77e170a6ed34d35b2b30f5298a0194151989d7a3a1"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/78a292a0f1537412.jpg",
+      "size": 113493,
+      "sha256": "a298187ca45dd005d3cc502425efa4c50e3cb49f66bbc838284753b269905abc"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/78b6381c4edf3e7b.jpg",
+      "size": 79137,
+      "sha256": "78bb738d8bbda2a988023c112e2760b6e5808df260bb27a46c0c2f5ef37ee398"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/78c1c73340ce0683.jpg",
+      "size": 112656,
+      "sha256": "c937f19d5316af6b0c75a10c57eb85d613df3142d4cd4901bc681e326f67ba4f"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/791b2a07943250ff.jpg",
+      "size": 81962,
+      "sha256": "adf8b35a611279edde430bdae8e9c0c872400651153aa8150a409f1f7b129fe9"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/79d020456d298263.jpg",
+      "size": 95776,
+      "sha256": "7ef8dce2951f92b53290a21d78d66655168ca61fcb51d7eeba9fd5716b0e6937"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/7b2dad4416f22084.jpg",
+      "size": 87814,
+      "sha256": "a4b1e16c3b230eefec5c21500e8a4a0a7799fe5b8ccd09104eaa08cee611431f"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/7b434ffaca87b376.jpg",
+      "size": 119468,
+      "sha256": "54b73484086ef381e15317c7fe43e545423568334427118eabaeacf0522b56fc"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/7c1a33c63d44bb6d.jpg",
+      "size": 90262,
+      "sha256": "d6006339d23f5045ca26904b51ffd4b44d39f8709824f57cba4ea8db89c1e41c"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/7dfa1739bea9ee7d.jpg",
+      "size": 77278,
+      "sha256": "98a0f14010f758662f1d313af783a47bcf79b11975be4651afbd042d88c39f24"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/7e0770e0638ecad3.jpg",
+      "size": 102669,
+      "sha256": "a57cdd231bcb0b544114a5b8ec0a56b9576894eb213f11931d4f8aede068d1bb"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/7e5262bb648dc808.jpg",
+      "size": 133463,
+      "sha256": "6d5847d4261a92d722e76ec0e11d6dc4b1e4289b16a26332dc963b9e80b1abe6"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/7efdd51100cb69cb.jpg",
+      "size": 38959,
+      "sha256": "6275a2540f39914eaf79f3c4ccbc2975b33c1c58474cdfc3407320d25a54e769"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/812b71c5c4fb640c.jpg",
+      "size": 75609,
+      "sha256": "371464b25768fac166ea6062290034a0619fecb5cc3fb0795e044398fea6fb81"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/8143e95d44515a1c.jpg",
+      "size": 119073,
+      "sha256": "34515613cc43815f795c347ba5b7e4d7e789259c748a89d54ef6a947505aa8bb"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/817092b60928f10e.jpg",
+      "size": 123795,
+      "sha256": "9f4a5e4ccdb30ba3d2bbf7b35fba963e3f5aab39300880b2f60909bb64b499c8"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/81f34faccb78cc9c.jpg",
+      "size": 76071,
+      "sha256": "6c2e89397b4c05df2560649fdaa0987e1ac5a12be4e7fff779a04e1e2405920b"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/824dcc8ebdbd325e.jpg",
+      "size": 104502,
+      "sha256": "5d940b0e31fa74b61bc8e6c07b3690f1f5c8b85d08b8d7095900bda0dd90eef4"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/8683259530966e2a.jpg",
+      "size": 119587,
+      "sha256": "84e92dbc1d75911037ff6c7d7cc602311ae3e5b80b885a5a2a4003cc3f5b2e4b"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/86c308aaa77915b8.jpg",
+      "size": 122258,
+      "sha256": "7a32536a97dec8e8c7ae3249e91160bb177159e552fe12d9516157f79df0b453"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/86d30b3aa46a5863.jpg",
+      "size": 136189,
+      "sha256": "61ba4b8bd6be3a2ca6b7427ffcbab7742f60be88b1d8370fa12935c0259b402e"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/87fa7e21b2f05f37.jpg",
+      "size": 72727,
+      "sha256": "4e7b1e97132ce359de632c54f1d4dc7fb1202651ca9702de96f7d2c70b12b82f"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/88456a118360a506.jpg",
+      "size": 133659,
+      "sha256": "cdb99fee37fc8796ed48c7b97f1556e49df6b95e5c7f214751b46b187f5b24ea"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/888edd3e0afd6175.jpg",
+      "size": 110542,
+      "sha256": "fb2385abb0d4c562cad4a29bdb19169fa964455ee643f6a9b7c803948bc7ce41"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/893be6ef927283b8.jpg",
+      "size": 55620,
+      "sha256": "c4cec12fc6085a7a43a6707c907bcae6fec6ed1970596148b92c5d55bd98c325"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/8990a1b4d8f09e48.jpg",
+      "size": 35715,
+      "sha256": "31e976efefb09331ed906a5baf260b8b47c3de547f5f3a2fcdfe27abbb699f5b"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/8a1dc5e1b237597b.jpg",
+      "size": 132685,
+      "sha256": "6e4046543e8643201ed972422a5f51f375def9b54968c645cdda771bcba79cb0"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/8ab0a37ba24fbb05.jpg",
+      "size": 125175,
+      "sha256": "07fffd4ba297ab10a9d9f615ad5b6120ed5b444cb255d412725f2a3423007227"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/8bf606e6ea1b7b41.jpg",
+      "size": 144994,
+      "sha256": "fcb90b47145e684ab7afea2182e310709ca08fa4d2880984c066d8ce94eba13e"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/8cb2651717f59a48.jpg",
+      "size": 117197,
+      "sha256": "fe5f36ff40cfbd550596d360d4c529807b9118b60a1cc1969b8df3b65ae1acfe"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/8e79707d35d19cd7.jpg",
+      "size": 116967,
+      "sha256": "1156a3dcecd9668f6508a981274c46a7daaf1b752d47b3a29322c7533e2b4a16"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/8e79c7ad92650173.jpg",
+      "size": 123626,
+      "sha256": "cf41f92f9fce24d8f447f41242f73099130267ab9693d0eb1a64ce2822da8810"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/8ee94629b8a3ebab.jpg",
+      "size": 63848,
+      "sha256": "5195c5aaee1bf69e25908598f9e2cffe5683d6c063656355002830a937d226d0"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/8f69271648320740.jpg",
+      "size": 127126,
+      "sha256": "dd96dc47d8310b2f62d203aa67392f5cd66443f62570a53e7afb9f4852648186"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/8f845ec63ac07b66.jpg",
+      "size": 38312,
+      "sha256": "a9ec11434f582bc164e6014f4ccc5e6c595b77f93083029060c49f97afa38b5e"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/8f9d08f920c75b56.jpg",
+      "size": 100683,
+      "sha256": "df23e6b4ab3f6a92bcd92611b00c9aacb38b89009c36764c2a7eb765628e5f84"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/8ffe469e21346234.jpg",
+      "size": 127543,
+      "sha256": "9babfb832941c752efd5f566448b9037cfe44d07ff114f6d51d474f6f65aee45"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/90782d8e01a09957.jpg",
+      "size": 99560,
+      "sha256": "84c48c2c7729a71de2d049fe171d106b2a2e42cd612b73a5208c6fae81107e26"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/907f615b7df62f4d.jpg",
+      "size": 124167,
+      "sha256": "b85aba2a3806708a984ffc41bfc5a3bf03de089ae4e0897ef4dd1c4821df9f6d"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/91cdbcf33e8d5b61.jpg",
+      "size": 46810,
+      "sha256": "57b36de45d7ddb07023675c179077ad084b96cd41787a8b120c2c910e78194ed"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/9420fe7127de5dd3.jpg",
+      "size": 90760,
+      "sha256": "60f950470a6a018a2448c1c263d32f8f75efa1742c13e979d925f70964354cdc"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/95122dbfafb63ce9.jpg",
+      "size": 121112,
+      "sha256": "cf26050b0e3d7bded29805a3ae34c702306bf60c05cbb7cad1be72ea4bfd8a22"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/959aa5e5589cd57a.jpg",
+      "size": 119001,
+      "sha256": "4c8fac97a0cb1bfa143561f45130dd15d9542e92f81072a8fc17fb790fe48888"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/966ed63ba38df055.jpg",
+      "size": 109156,
+      "sha256": "9b7c28b1a337ab876e14b2d53b47f5399ab3f20859ecc25a04f82956ce08a7d8"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/9682c523f9d50c26.jpg",
+      "size": 123748,
+      "sha256": "373991dda2d698221b8e029397abb56ae87dfeb22e7e1664906044c94083507b"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/96f876eb91e691f5.jpg",
+      "size": 120295,
+      "sha256": "8e00ba27fbb93ad3caee54d02ad43473573ba19097690896707cece373c54199"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/970a42eccfc12456.jpg",
+      "size": 110359,
+      "sha256": "53842e8223a6684a756d56e8f48ab98db1a82eea22110bc6191d42df0ce15c21"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/975d0c4985a1274f.jpg",
+      "size": 82254,
+      "sha256": "7769bff340bc8ea62e0cd61080961a6986e00d37ed6d8fb043f4745061be96ee"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/977f6709d3c3bb40.jpg",
+      "size": 83873,
+      "sha256": "a3b8fbc0c4e87146f236381945cbd8baf2467d14f6a6df4a20b36f756e1ee3c5"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/97db3d902560d679.jpg",
+      "size": 89695,
+      "sha256": "5090b373880b6fa9d67150d4c1e2faf6c007fc7ee581123533ac72fbb41d6a06"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/98a74bbfc950d856.jpg",
+      "size": 93916,
+      "sha256": "727b98b9a86cc7e20cc96bfbf961b93153d0e88c85528d751578b946b69f1c20"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/993f915f443bf25f.jpg",
+      "size": 89901,
+      "sha256": "e84c20c912aeaed2db5c09066eb3f688d4af37e42200cda37a1bc3ad6c672077"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/99492ff1161f1909.jpg",
+      "size": 133544,
+      "sha256": "4b512cfa3835f1d716602df9b97b9563459e09143d5490e08e4733377d49a348"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/9995c50b9b51545f.jpg",
+      "size": 40551,
+      "sha256": "d56cb2c9a2f44aebc472f79df81d808c70813fc52da1a4522a0e61d0dd864ff9"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/9a958c69493232a2.jpg",
+      "size": 47597,
+      "sha256": "698b695c712257d3f5fc938f135d87b4f08c93d9ab5959c3a53d60b988e881fd"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/9b77c23be0ff68ab.jpg",
+      "size": 125602,
+      "sha256": "2bddf148c6e86c81707719ed1c72c0c42c70b7703cca784b19bab465e719b2b4"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/9b974aaf50d07163.jpg",
+      "size": 121501,
+      "sha256": "238197ff811368b4f1ae9753d4008377dc5e588db8edc54c0349267df99cbce9"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/9d08ec29b4952ac3.jpg",
+      "size": 104588,
+      "sha256": "29ca65759d522b83380127de971c7752fabead13cc41aa81cd8a4608c2d17cd7"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/9f7a365df1c109e1.jpg",
+      "size": 115744,
+      "sha256": "33b0005e0843e0b5bcb09117b75203343a09364483aeff96d9c085c6bfcc8298"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/a00ce5402353c74a.jpg",
+      "size": 86985,
+      "sha256": "58c31ac78f478afc3cb88d2eeec6483f81b62497c0913033791ab8c47942fe10"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/a072a82e60b3540e.jpg",
+      "size": 60188,
+      "sha256": "9b970c3694f6a11f1595410af52af1354982bf8270f86b8fd4322d3334939b38"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/a08e1f49c8b28a1f.jpg",
+      "size": 62138,
+      "sha256": "291753f3299d1e92eefbad9faa9076bb5e3a3b6d3988fba4b43400be68e6e713"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/a1da355a9f30fdae.jpg",
+      "size": 128765,
+      "sha256": "c5f2bc5f28b9f975cf14006564a138da53feaa28f9e68a256431bfe37215cbc6"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/a3301a77e917f78c.jpg",
+      "size": 126490,
+      "sha256": "eb9ef2fec182b5e7a2fb1ea8580f3274ec99ed7fd4cefcfd2924f7b622cbc331"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/a3d27dd2c7777e00.jpg",
+      "size": 143217,
+      "sha256": "ced7ee75dc0b1531bf6dfb71df3f11f3169a5689f1c13943b98346cc5435aa92"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/a480cb65280765e8.jpg",
+      "size": 127805,
+      "sha256": "bf2e0da786885d69509de387f839dbcfd0138ce2f8d5627491c33115ac4ad880"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/a4f642f1fb63e304.jpg",
+      "size": 105648,
+      "sha256": "0a5fdcd995161608ea881558cbc53f6b8542c02d97b23fb5178d5255ada92f43"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/a5f1d25a71d65d53.jpg",
+      "size": 112037,
+      "sha256": "5af3b3dfef165cf4addc597ecda48bec60eca27e8383f1ded8df076c8d9e7219"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/a658a50c9f1eed8b.jpg",
+      "size": 114084,
+      "sha256": "bbbaaf45512c65d554d17dbe569ed3b85da21e3915673235e00a8243a7025e5a"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/a67a0d4d6babb736.jpg",
+      "size": 110535,
+      "sha256": "7815b9a21230e60c2e405a55b232cc74242531f0fa143476bacdff85f0acf9b1"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/a694f0462c6ab73f.jpg",
+      "size": 44664,
+      "sha256": "8e1da5d731e32eea39c509f50dae78fd1a725c6782577396e01567e5aecb9afa"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/a7acd39f1dbcf14a.jpg",
+      "size": 68017,
+      "sha256": "2fb8f959b3fe401f3d349097b9296c9a750549b661e12eb59dcd1c090d1e7ec3"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/a7faa23f6f36351e.jpg",
+      "size": 140535,
+      "sha256": "848d7b3e98c0cbce477558ab4599bbd759e1cfd28f99e7fd1cdd706fc7da2683"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/a92e02f6e31a503f.jpg",
+      "size": 125144,
+      "sha256": "f2766d15c582de6d119a4c2bb9e0427ff42a87d6c355b17036382f674dcdf2f9"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/aa8ec8eabe6ecc59.jpg",
+      "size": 97082,
+      "sha256": "974d511c81518059cd9a8a113c213f2606c68ddfb140b27d37b1706b19a7a4ad"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/ab758778a2f442a7.jpg",
+      "size": 121477,
+      "sha256": "4fd1b784fb30c9482175297b56562480465ff49937bae84b3cd0cf055e7cd17f"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/ab8edf8bb9921be0.jpg",
+      "size": 93481,
+      "sha256": "d5d7682acf9b7384a533e84551b64bda0786686f9a5e2bb43accd35458e3ec4f"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/ac92efdad8bfa514.jpg",
+      "size": 56515,
+      "sha256": "ed3fa232bc31e6d1e41a13202de8ca670ebea988562dc1c0312ed5429cd34390"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/ac966ef7fa6b3de2.jpg",
+      "size": 115051,
+      "sha256": "2d24039e2c63b1b50b126656782c338ee4f103f4e7bd98d8b9d5cd720e5aa4d0"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/ae1de1f21eebb360.jpg",
+      "size": 124336,
+      "sha256": "d1754c00e6b9b25868dfde60df9465707a56590f8ae610a306e58e2aaa2de477"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/ae99973412839ede.jpg",
+      "size": 113605,
+      "sha256": "752b1188d72b4bc47e3e9da56e9c94f424bd65c542eec11f694c1be38bb2562b"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/aeb84f3ad118298c.jpg",
+      "size": 98873,
+      "sha256": "447c1b5fc4509a57491046270fe9962c484b003b655ea8d9023f2db021c7e03a"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/aee00215ba6ff8d6.jpg",
+      "size": 131902,
+      "sha256": "f7458ffa410b6c43a8d3347b2cd7f78d875940ba95c60682a18e965154ed9e0c"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/af0640544de5727a.jpg",
+      "size": 120863,
+      "sha256": "8637db3f22a8b4d6664a419541257ce70adb43ac281cd15dc52641003d095511"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/af4ce7c858ab5cc4.jpg",
+      "size": 115442,
+      "sha256": "bdfc9e68763f7023cf5b1ed284912950b7ec6d0301647100f34d23f2f467eaba"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/b0334b2a9774bd75.jpg",
+      "size": 75499,
+      "sha256": "32ab6018aada4a301d61284e1632b51abca34d8f8d16852a61e0a4a82571d7c7"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/b28755ca4b8bdcf0.jpg",
+      "size": 48731,
+      "sha256": "32ca6ab6d42fd6b1c882270ece89984b72e0c044e2680ce553e398cfe63d8b21"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/b4eee228a5b0a26d.jpg",
+      "size": 129676,
+      "sha256": "7139a7466cb201ced1a8a35b2f2e3e317404cdc77958f320d7a5cbee339ef4a2"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/b52c1fd1517dfc9e.jpg",
+      "size": 143894,
+      "sha256": "d2c62fd30ee832285dd970f0affd597efa3243d5301f14fbf96817a56e41ca22"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/b53004919268e9e8.jpg",
+      "size": 145087,
+      "sha256": "a1e5c801adae0b5c3aa55a36ad47267c4bfc9c117b50f43f215dde705347cdbb"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/b563c313555299c0.jpg",
+      "size": 86453,
+      "sha256": "02473cfb1877772aa7528ceb987f6cc3385172c1851becc3d367983d2524b613"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/b72dbfee66ee6766.jpg",
+      "size": 119619,
+      "sha256": "9ea7324809a9ab21de16cb13ed296708378c9e5ebd19cd39e47066dc4c0e9d7d"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/b77e7b53b66c2b33.jpg",
+      "size": 62341,
+      "sha256": "5fa5cedd9c257288bc13fe4cc96b8395216383f32c378f37245c6f75da126778"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/b79999e7d95d2263.jpg",
+      "size": 102136,
+      "sha256": "215a6ab3b6c68f983a0102f594fbc1c784623aabe2352f278fe91462e8f20c36"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/b7cb5486d11d3c78.jpg",
+      "size": 77237,
+      "sha256": "38c7776619f4f47b9e6d11ea9ce3b7b2f337a16e3bbcbfc77903ee399eb022ba"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/b86ed0d5e4f2b4cb.jpg",
+      "size": 116421,
+      "sha256": "a5ebadd02056e18f900cad2ac49b7bf41b0d246b9ab166a9b3801b515dd2a6bb"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/b8a60fb4e826e43b.jpg",
+      "size": 117963,
+      "sha256": "0f0b086be8aee38692b926433ce272f5b9a9b1f2e47e05100002906a4c3ece16"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/b98b29faa6934252.jpg",
+      "size": 121265,
+      "sha256": "922c6668aa287d41a63f529695d30d1ae6009acd7ed856b9ade60f9c8f8f408d"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/ba6e15d6bca919f8.jpg",
+      "size": 57906,
+      "sha256": "da3844356ef4f339409dbb980beb771e2ce6774d7e16f43d323347e4c8106e37"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/bb3cd782ec08a09c.jpg",
+      "size": 56870,
+      "sha256": "96f3ba2a37199ca36eb049e14fbdcb59f4793316539dc232a8581ae03f4a20be"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/bb5f3f6bc47abebc.jpg",
+      "size": 70805,
+      "sha256": "9253e0842a8b1a3802c1a135c43cab8adc2c0071ec461cfbd1cc266747e2f5f7"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/bbd1b578b79451bc.jpg",
+      "size": 45364,
+      "sha256": "b2b8b279b05968a4680732c9b0386e0f28eaba2a9f76e376c6efcf204927252d"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/bccbd1e2670e09ab.jpg",
+      "size": 103042,
+      "sha256": "9b137c7f9040afae1d00b333b3d09ff66da43b5e6fb177deadb45260e308cc18"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/bd11228b10a16f4e.jpg",
+      "size": 97555,
+      "sha256": "bed54bfe3067df613996fd59d5fd180770f470f8cc704d215e05d683fe867016"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/bd7b367729538487.jpg",
+      "size": 162817,
+      "sha256": "514fa93706132e25a66bb8df42f4b1e99455a20eff73469818cecc9599eef23b"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/bda75af514923b52.jpg",
+      "size": 109337,
+      "sha256": "3d24b069124088f5ea08fa3832eccf7a5315e65dddb7f6f768c3b565c4b5d97c"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/be8e3507f1f57f92.jpg",
+      "size": 100107,
+      "sha256": "2840fce2199149ad15aa8a8fe411f64f8f816066e0c4fab0a9ed068f5e6478e7"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/bece8abbd2f8ab7c.jpg",
+      "size": 107574,
+      "sha256": "cd9ea0b393ae3e2a88f9768d1c5686b2060c9eedf4499da6c413a614b70b1511"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/beef8153d0fd58e4.jpg",
+      "size": 142886,
+      "sha256": "a0647d3e9cd62113eb5fb413b95af013c858d2d22fc29bff142f3071a18a0bbc"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/bf286e77fcb8d3a0.jpg",
+      "size": 114441,
+      "sha256": "351afcc61d3ce8cbdea72acbbe338b5037baff10a9a17fef88e19152638efda9"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/bfa35772501cda61.jpg",
+      "size": 106301,
+      "sha256": "2d709a8ccf9432be9695201011a24124d5e53c14fa5c8464e2a653619146b201"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/c037a791a4205db4.jpg",
+      "size": 53006,
+      "sha256": "a160ad0e4af3c7dc31dc87434223b4544d35372924f4c35fde8e2f43dddfdb9d"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/c42467ff37977e92.jpg",
+      "size": 116616,
+      "sha256": "9bcb43620e7ee4d727ab9809950b5ea7691b2faed3417e3570d0ac8ec841947c"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/c59be9a13de1114a.jpg",
+      "size": 45201,
+      "sha256": "b5261a899482df235621439fa805d6db7d3f99f9c56bf35cca48e9143a252dd8"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/c5c1aae682684c90.jpg",
+      "size": 121818,
+      "sha256": "660968a56baf1e451e795e6c8a373eef0bcbdaf72b258cf7728e2cf4628a1c74"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/c601280175d64fa0.jpg",
+      "size": 90312,
+      "sha256": "978edd5ab3123d829a24c7620b7c35f338377c56254e915ceee83dbaa450d52f"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/c7d357c6ee2e10f8.jpg",
+      "size": 83166,
+      "sha256": "5398f95b4adb7305313eee57e9670211b2dc90be1b8d4291d05d2f6d485b8b29"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/c7d7c83b04de465a.jpg",
+      "size": 103303,
+      "sha256": "70466bb2c85cf7bb23ae3ad658b147bf8f97fea0807a308ac39a07eb0750e77a"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/c83d93cb45ed70ab.jpg",
+      "size": 36996,
+      "sha256": "3bb4159d2865ac8548c4295128beb38b47cd8cfe0fb88c7478fbb4e9540a14a8"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/ca301f57e0cb122c.jpg",
+      "size": 120965,
+      "sha256": "3e26276399513742ae981c5d4339f7bd0ce29456b46177ad567c63de9ef06fcc"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/ca9c40004290ef91.jpg",
+      "size": 114600,
+      "sha256": "446043fbc1667beee54c5f37f07342eb3cd137aaa3b4e066f1956c598c34395f"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/cb781006d321b0b1.jpg",
+      "size": 136790,
+      "sha256": "91dc838a6c0423bf70659bb69965d9ce3ae406ef5fe69e3e38891ba960ca01dc"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/cb8047b254e4d867.jpg",
+      "size": 34049,
+      "sha256": "7212f75572b55fb65e6a6144c508d872a9534c173932871d9efaee11ceddcb04"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/cc7b86385459ade0.jpg",
+      "size": 33708,
+      "sha256": "1b6a33fb872b77eed2a35c0df82ccb0c1a0d7634966c0fe559905642bf0ba12a"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/cd01871ea1264497.jpg",
+      "size": 62721,
+      "sha256": "21b2a63f2ef6406002b2ee4259537d70e88e9922213193f267fe3a405441f466"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/cd082d17be19a281.jpg",
+      "size": 119094,
+      "sha256": "9d911178bfb81dd08d3ab17fc9186059bae795ad8170f2ae575c080d9c75e85d"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/cd3751a5629bbbcd.jpg",
+      "size": 112482,
+      "sha256": "3d3e673cb80c7f97f71d48d7a6c90a0b0230db03b88bd8ed598ba6fbec8fabb8"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/cda6a88ff8ef5509.jpg",
+      "size": 91461,
+      "sha256": "03bd88d5208d76b86790dd397af1882bd26fc41eeb343ab5b96a8e6a29692868"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/cdc31f0a01415295.jpg",
+      "size": 133012,
+      "sha256": "205e48ffb9e933fc68fef21b7105d4e9bc11f834646c8b9b367a868086d7c87b"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/cefdc9dea916d4e4.jpg",
+      "size": 117026,
+      "sha256": "78efad2fdf9e1ed231d66aa94589cb098ffb09898d6b91f6d796bc99414cca6a"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/cf0983f54e2c25bf.jpg",
+      "size": 135618,
+      "sha256": "94809f9e2e3f1f3c0de34f2ed72feb92c847fcf05710b5bbf0e3c6dff4e7cfc0"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/cf43f5c0d982d7e4.jpg",
+      "size": 118935,
+      "sha256": "fd11d495ee6f98d49860cc951a132f6ca65785ea0a8c32482946cc7c80180fb3"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/cf4c2de9c44d169d.jpg",
+      "size": 132849,
+      "sha256": "68d0674795ee574016667137bc2504bde4586c050e93012ffea8bdc97f61b293"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/cfd03a9ed058805d.jpg",
+      "size": 51558,
+      "sha256": "fcd3973ed507a22b189f816488b833a174392fc61db90f78dcb143c691b12c55"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/d03fa6353a1c5222.jpg",
+      "size": 115196,
+      "sha256": "81f9e66e00292748d08ccd36f5d482308b80d4144199e0d24356024c711bb7f7"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/d2561ff3180c0682.jpg",
+      "size": 106913,
+      "sha256": "d10eb5c310c8c329f6c824d04e940b2d07b6ae1fd33563793ee5f476439584a4"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/d2db1db50b3c868b.jpg",
+      "size": 104574,
+      "sha256": "8699c9d15d7214a4fd956bd19ebd4dc7ca44f4f35e6e9093f0d6d0afb767bfeb"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/d3bfe18cb0555d9f.jpg",
+      "size": 98128,
+      "sha256": "f4d2b860845e27fd497c05b1161e1b2c1415b634b00016a1425a43a181cf1c5d"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/d4dcf2e433ba7f59.jpg",
+      "size": 122263,
+      "sha256": "bb09b8326d61f9e8e891e4f81164a5ec2599a90e2ca32ad0e67fb554ec24aae6"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/d4dd3d875d9635cf.jpg",
+      "size": 111856,
+      "sha256": "a5c794bc11b84ad3cc7d4a2427e35cbaf7e74eee1d2a8078d852feddb6f3312f"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/d59443853299f751.jpg",
+      "size": 53319,
+      "sha256": "e98cc23e578425a767c2ae4c1bb8b7f16e497c6403da6c8f51610b90fedc46c2"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/d5d3a10b42be1d2f.jpg",
+      "size": 134800,
+      "sha256": "d80ed79bd8d8501fbb52ba5a61e04cd8ea5fa7dbce16a429530142e2fcdcdf67"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/d616182ab3c1e615.jpg",
+      "size": 115609,
+      "sha256": "902bebe6c760b5c86965db071a510d7d081ad63d5146438801308d2106ea3d7e"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/d69a053a5b3c88c5.jpg",
+      "size": 113691,
+      "sha256": "9030a50cf1dcb7a7913670618a8a7aeb5ff38f2d99d76e202fe98e37e2c7536f"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/d6a4c3745305429e.jpg",
+      "size": 97260,
+      "sha256": "6ded67f4f34d31db09db6c22e74bae85731c4b88792f04f1a2ae7068d6993b87"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/d7387265b0dcc0dd.jpg",
+      "size": 118006,
+      "sha256": "e3da9de7bff27b16385a1a761bc7d598495b2c440309c57f8a04196fd5ebfec8"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/d79ecffbcbae67fd.jpg",
+      "size": 116127,
+      "sha256": "abefebda66ffdf4b19e71141c62d557219fe6496e645382895f95bfdcc8a6fb3"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/d8809d73c7acbbbd.jpg",
+      "size": 125588,
+      "sha256": "e0b4d2ce140645b6b8aa1ad07b3c9b632fae3b7fbef69b6637ad34da0daa3e3f"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/d88820ade1a6d9d0.jpg",
+      "size": 105723,
+      "sha256": "ead33a4c8e997b31606b3eac83fa8409e331945e503ba33853cd6c6034f06909"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/d89aef9cf1ae3446.jpg",
+      "size": 126704,
+      "sha256": "79f6ee37ff948ba0ef509cbf85f46f898fc1aa2a88d5419e17c3d6bd345bc967"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/d8b7e7ecea92d603.jpg",
+      "size": 116967,
+      "sha256": "4f262ff54ea21f138c9bc8d60d768c8b75d6f6cad8a97d781404141bea906da0"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/d8f6c77b3ed077f6.jpg",
+      "size": 142062,
+      "sha256": "d1413f7e0c348881f745d8fc6b8a26ede58efafb28e43130400178d889fad262"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/d9db9ed57835f985.jpg",
+      "size": 31783,
+      "sha256": "ae8b40826a4388bf5e5f324af870b88cf75e929709d3ee7f7734d4d70c1d87c0"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/daa3f858b1e85ec2.jpg",
+      "size": 130097,
+      "sha256": "669192b384cff2e27c1cdc5de9f05e9ae5432bf16f1e47fe734b5d106e02d399"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/db4abe34ed41ce6d.jpg",
+      "size": 123363,
+      "sha256": "81d644bc8349ef533a70e919a8dbc832a692ed815a0087cb1007ddee6c90058f"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/dd5613e0e2c46d2e.jpg",
+      "size": 63056,
+      "sha256": "86ccdc0e84226180b4a6e48457da8699949b97191d2880a25bfd5cb2b16c4cff"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/de80d9e3091defa8.jpg",
+      "size": 124886,
+      "sha256": "5778a0d6386585b7214fb06afdc2caddf6f3efb7364e61d4c53070304f2002f4"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/df02ba50955d2815.jpg",
+      "size": 40948,
+      "sha256": "e6a348b9c53a7854f6b143f504a198d16ce1ad660d83eebf2a90474ae4475b50"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/e0022a8cbd416167.jpg",
+      "size": 60670,
+      "sha256": "543825f1abcb46d3d19b1e56bc3428ce034b936539aa940c55fea0b46f77500b"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/e0714d8c27845bcb.jpg",
+      "size": 65288,
+      "sha256": "b758654f9c63346cf2a62dbc076e98e29cacd7003c36a79dd7cb8e91eaa1e624"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/e14031d5d6eff01f.jpg",
+      "size": 119741,
+      "sha256": "eb70dadbc2f4cb4ce5c53dc9e48a0240988ce8dc2ac50c156504db9cb0a97b7b"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/e148aa5e3cfd2a68.jpg",
+      "size": 127511,
+      "sha256": "e56208103bd3a629290e3a5bcec7655651e4c3e8694349af077d212e8b90f294"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/e1a2c2ae24e36cb5.jpg",
+      "size": 97857,
+      "sha256": "3fe3f32d320df5e30935e4baddd65f7277f8df3db9bd15e546501db260a30a11"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/e2d159ddca6464c4.jpg",
+      "size": 107944,
+      "sha256": "3b53141bd5deaa4f962d4452f238a015a9f76d79af435abdebeaab8fd5a2cba2"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/e2d6d7afb714add1.jpg",
+      "size": 46967,
+      "sha256": "2a924a612849156c96c0eb13dee0a3db83dc04f506801b9fe5d899b9a35d57e7"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/e4089466f59516e7.jpg",
+      "size": 115810,
+      "sha256": "2b7583437ebed94f18f9b1158efb9503c91c43b3d49f9c9fe58b59ad6363127e"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/e48ac975f76a012a.jpg",
+      "size": 128528,
+      "sha256": "3a19d8dbf28edaddafe3b1744263291f8147a7e0c525b5c4950673d3fb3bcb0d"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/e587c94ba4c2091d.jpg",
+      "size": 119527,
+      "sha256": "62b4e9c9b0dd57bfea27ca5b188caa3ecea476830a9e5136609fd24362e1aac6"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/e59a91d963885441.jpg",
+      "size": 111158,
+      "sha256": "a27d5d2431ecb755b524320a2b993e1d28775a4cec71880fa2b35ba6b6f671c8"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/e5edee56d378d52c.jpg",
+      "size": 137507,
+      "sha256": "da1b71db01472f953141b93de944e20d6d1c2728c5a55bce32799e815c5f5251"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/e716e7ba09e2abc0.jpg",
+      "size": 142287,
+      "sha256": "12153808b09c64092639a2ed20f2af74143d2a22658ce9e276d4de0049ed7bde"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/e73d5cb27b537496.jpg",
+      "size": 94589,
+      "sha256": "135132c17aec06f1025be0b8299aef825313acf639c75130ae7a3448f710f703"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/e7c181d75237739c.jpg",
+      "size": 105497,
+      "sha256": "485675fe278674aa2c92a7a50a1199ae86a41e709ca620829d619903ee8506a3"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/e9e232e837324e93.jpg",
+      "size": 81001,
+      "sha256": "1985930291bdfe88c5a49cc31a1b1dad2868109719b63a8a763ba7409b951197"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/ea084a3079da2130.jpg",
+      "size": 108715,
+      "sha256": "6866cf40d41f705409decf8c363a9ec37b3114d1f20667f8c97a02ab626dec17"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/ebe9141fbf1f9971.jpg",
+      "size": 111759,
+      "sha256": "c11c72cced2ca9987390418ac2ed4bc55a21454d349a67f9cfde8010e3a134d6"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/ec0778e75d7b48a4.jpg",
+      "size": 120292,
+      "sha256": "90c631347498c645a156818e9d5afd2957c96b9daa3504b170efc41ac45ab0e6"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/ec87f0c41b0c2372.jpg",
+      "size": 147344,
+      "sha256": "a8317f57c7ffc1d2e8a5d09591c7b2be5fb6b7a1694cdea6ab38764ea3b2d009"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/ec9d5ef68567fa51.jpg",
+      "size": 47232,
+      "sha256": "fc990208a36b08c54763c65ad93dacc0acdd5f6e7a68148c605aac5b74078714"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/ed3e3a5054e7f0ca.jpg",
+      "size": 113294,
+      "sha256": "71bbed91fc9bb0c70815686000e67a1b2e132294619e800bbda0f35475efe61a"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/ed8fdd947dbafee3.jpg",
+      "size": 41988,
+      "sha256": "ae5ae8c0a12ac2d0990a120c1eefc0c79ad7d8790fa61f7bf1c381d66a29e901"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/eddd28f1c6b44ca7.jpg",
+      "size": 69613,
+      "sha256": "1b7f77d79c940d61a2017d719c509ac49f61f0be55e22a8d514089c1e5a35d29"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/eeecfb71379cd6c5.jpg",
+      "size": 67773,
+      "sha256": "1af8c10dd3b858135e863dbe41cbefe04466afd79219ccfe8568c86e18e67cf3"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/f077564e6f9b0159.jpg",
+      "size": 33510,
+      "sha256": "2c9687e9572aa2bf0391c90e300eaa10304f852b3b0ccd46ef29c42de771b29e"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/f0fd7216d7162666.jpg",
+      "size": 142399,
+      "sha256": "18c0f779ed6c806f1e9ec6b7cdcf7fbc6a1276a8b54e4ab8ad34097f6b8df43c"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/f1c8b305330aa422.jpg",
+      "size": 122762,
+      "sha256": "70f86d800315d5f74e84058c0f51f066e7ddeb4f897e61a7e86b6345793de775"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/f2747278dfddbc61.jpg",
+      "size": 108590,
+      "sha256": "82661777adb8810be78c3309ccbad8ecba46a5cf709d2f4dbd1599cae73f8602"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/f3554368524caf74.jpg",
+      "size": 96758,
+      "sha256": "0d3d5a45ac21a42527962fcae8283543648e30d687937774f8d3aa8d06914695"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/f364c7d8ce6b9735.jpg",
+      "size": 142898,
+      "sha256": "3a3b19342dc30871655796e2e3de26721b32aed5627ed4793c340f6ce1e706b9"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/f3bf9d71eb34bdc5.jpg",
+      "size": 99335,
+      "sha256": "394ab55cbd57034624672cc3c0583721d831cdfd4c9cf4b78324340330889ace"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/f452ab187eb19665.jpg",
+      "size": 77333,
+      "sha256": "6a2634f544ddd7783616d509936396260b0f72db5c1a0241b405af0d3b630f4b"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/f4d357e6363284ac.jpg",
+      "size": 104947,
+      "sha256": "a760e0d400a33df2c485ca0e4dcc8d2e7e8af388ec3d2a905d7789b1afb76419"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/f4d9dd4e6049a7bb.jpg",
+      "size": 127204,
+      "sha256": "c98be4dabc3718264d07e6de7c62f50c358c8ea9f83786a3b946b285d7efb36d"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/f51847702b05da98.jpg",
+      "size": 124810,
+      "sha256": "f884d16bfe7dc28ce50113441b0280e35cd7f6dbae7bda5b99f9de2f5d3c0373"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/f6a55f470b5533b7.jpg",
+      "size": 101920,
+      "sha256": "0bf2f82d967dd877e86a075228b40bf3d7b4be4499e2ad98974305be3f4bd276"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/f6cf32afde4e74ce.jpg",
+      "size": 81339,
+      "sha256": "d99c34eb7ab127f178948ee903d0cf408e11f380f7ac1b305be7688d5e5beb4a"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/f76fdc4f0dee5995.jpg",
+      "size": 142462,
+      "sha256": "d1acf466c01826912a7cb7089ec7eaf8e15a8b339c4c7bdf16ca6ab4f94d2c33"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/f7809cc6b12b240b.jpg",
+      "size": 94151,
+      "sha256": "0e476621f696ebf6af0d9959e909bad810b9640eda4b91128d51843a7b8bb420"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/f784be17e97ab72a.jpg",
+      "size": 49664,
+      "sha256": "b2183aa29b4cb33ecf3517f460274b4441decf09a4b5697899a59bfd44132333"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/f83dd291509ae684.jpg",
+      "size": 46025,
+      "sha256": "1920ff07a796b838996908c130f57b82b5876c38b3f50e9b0dd12dc09b438dd6"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/f989b97c47bd5cdf.jpg",
+      "size": 57108,
+      "sha256": "47e3e932d30763eac0ca6a2cb27f20039a149c497027705300cb08cad5291892"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/fc353a70fef5fcb1.jpg",
+      "size": 98325,
+      "sha256": "e022d1a09e873097eaadab4803fc8b8bbd4c3dc43b770d26b39fe62bcd96d429"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/fcfc6ff4a4906c38.jpg",
+      "size": 110208,
+      "sha256": "dffad827ce9e361df247a10bacadf6e111710ef3d0843b4f6b45735d689561ff"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/fda5d1458e253cd8.jpg",
+      "size": 98516,
+      "sha256": "c3e6702b3b97a00c356bf575942a767fe7e8ed35220238ad8f9ad0fb96207e79"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/fdbcddbb4b1c9ab2.jpg",
+      "size": 128692,
+      "sha256": "aa36f04aa5fe5db3c1ed8417c08248bfa288f4c9c4869a0dd8f5f7d6f1450e77"
+    },
+    {
+      "path": "recyclable_waste/images/train/cardboard/feb2e386d782d52c.jpg",
+      "size": 82922,
+      "sha256": "102e9e939f092e8cc8ad9f162a2ff3a3c446e44bc1e2114bde8595d8082025cd"
+    },
+    {
+      "path": "recyclable_waste/images/train/glass/00cf0441053c5ab2.jpg",
+      "size": 43815,
+      "sha256": "5e51ecbbf71e6f9678143024ae3966eea906062aa366f0b56cee702e8aca0486"
+    },
+    {
+      "path": "recyclable_waste/images/train/glass/027c3fa4cc8903d1.jpg",
+      "size": 97571,
+      "sha256": "4690fdca1062f496210443cbe048bd30b06a0c6a0580fcf4617506f40b6c8fca"
+    },
+    {
+      "path": "recyclable_waste/images/train/glass/0bcf197c1c14104a.jpg",
+      "size": 75340,
+      "sha256": "8923efc99c52b2fa7a618396b06404b63526387c1d13e77e385c9e0b8b98fe43"
+    },
+    {
+      "path": "recyclable_waste/images/train/glass/14fcdb77e81cde58.jpg",
+      "size": 63354,
+      "sha256": "8d9a91e33169763bca258c6acc3f0f2d348b145433995319e4922a77f1869ba4"
+    },
+    {
+      "path": "recyclable_waste/images/train/glass/28bb913cbeab20b0.jpg",
+      "size": 168837,
+      "sha256": "05a26c64e07b47b44e6c1904619d4ce0ac3870b3e24c7fb0d52a6747167a3b8d"
+    },
+    {
+      "path": "recyclable_waste/images/train/glass/39d47d745b572e75.jpg",
+      "size": 46303,
+      "sha256": "d92df825673053008eabc625f9ddec2c9f10d8c39f215ca1821f3c5c7ca1d739"
+    },
+    {
+      "path": "recyclable_waste/images/train/glass/3ba9a6b7a8b4c5b8.jpg",
+      "size": 144014,
+      "sha256": "51a84c0eb0aef804a565dfc4feb956cbac5162584edfe4fb3c0646a68c7def67"
+    },
+    {
+      "path": "recyclable_waste/images/train/glass/3f8337cc2ac7d4e8.jpg",
+      "size": 88605,
+      "sha256": "deea5ded0ae58decee9343f0f2f47e82598a410263f8991bb116f13d7c28de0b"
+    },
+    {
+      "path": "recyclable_waste/images/train/glass/46723425cb3d69ec.jpg",
+      "size": 70141,
+      "sha256": "83ee2ca920894ce8a607fb4e28dd5ca3461aa55b61a935eeb174a394e09704ca"
+    },
+    {
+      "path": "recyclable_waste/images/train/glass/46f2a3765b2386e3.jpg",
+      "size": 83866,
+      "sha256": "f641e8cdec2531dcabc7c5f92712211430709479efb363137d6b88e85332a404"
+    },
+    {
+      "path": "recyclable_waste/images/train/glass/4709d664c574a502.jpg",
+      "size": 125672,
+      "sha256": "ce56c8605e2ee7dbf36749b58da7f32a35330051fc28561f85ee44e9cd5d2763"
+    },
+    {
+      "path": "recyclable_waste/images/train/glass/498bb48238ef68ed.jpg",
+      "size": 127386,
+      "sha256": "70c753dae300ffb0295ea7fc767c17a4654fa559fb584220de2254a0e17119ef"
+    },
+    {
+      "path": "recyclable_waste/images/train/glass/623c0fdab9cda987.jpg",
+      "size": 113425,
+      "sha256": "e1d1e42690af5ab8c69b90e6a8bb17ff5a8770dc85465d1c658ddb0ba072500d"
+    },
+    {
+      "path": "recyclable_waste/images/train/glass/6d72623398c991e7.jpg",
+      "size": 93701,
+      "sha256": "bfcaa353b78233f2e5d2358dd95f72056e0aa826fe97fb3a12d1a10eb1942c7e"
+    },
+    {
+      "path": "recyclable_waste/images/train/glass/71034b7b55a47f17.jpg",
+      "size": 111817,
+      "sha256": "6e76b2d3c62f725eeaf82c2cdbe94c32a4dcbbd7276f0a8875ea62c98de3f23d"
+    },
+    {
+      "path": "recyclable_waste/images/train/glass/7400a2520bbf20a2.jpg",
+      "size": 44960,
+      "sha256": "356fa60bb485b64170cdeba5f272648bca47761eac904dbe7a58d2ef83ea03d9"
+    },
+    {
+      "path": "recyclable_waste/images/train/glass/85d51b4f67e689fc.jpg",
+      "size": 71940,
+      "sha256": "73b7985b0b596402908c54f74a9242856b24deeee89f1b51fab19e82bc6f3a82"
+    },
+    {
+      "path": "recyclable_waste/images/train/glass/915d181548f0f3c7.jpg",
+      "size": 22317,
+      "sha256": "9225305b8d5bd5283febb90170724a5afa6f8224cc6b338be9575473dd3c437b"
+    },
+    {
+      "path": "recyclable_waste/images/train/glass/97bb0ea92ced8a63.jpg",
+      "size": 52676,
+      "sha256": "df8c9fbb168a1ce765803e8852b781fdbc5a929e5ed25c679231f610d8ca7f6d"
+    },
+    {
+      "path": "recyclable_waste/images/train/glass/a49dfa0461ac3cb8.jpg",
+      "size": 33041,
+      "sha256": "9de8abb955945576025d9ae3deb3ab65b530738ef693eb51ed48e368ca7e1f7c"
+    },
+    {
+      "path": "recyclable_waste/images/train/glass/a596ba32505bfcaa.jpg",
+      "size": 66919,
+      "sha256": "06757f9ae684bd4c126588b635f86819d5987bb2770e18970540fb6da423c3b6"
+    },
+    {
+      "path": "recyclable_waste/images/train/glass/b09c6995b333db5b.jpg",
+      "size": 65991,
+      "sha256": "3a406db4cd80c0f385076507e5b8a5a9ce9d30ee4a9deac93fcaed624a8a6364"
+    },
+    {
+      "path": "recyclable_waste/images/train/glass/b244d97c5bd80512.jpg",
+      "size": 96561,
+      "sha256": "67db02a94940486eb372908a7e916f8af79d50dc8c9ed58d19724c52d5137b92"
+    },
+    {
+      "path": "recyclable_waste/images/train/glass/b284a52c9afdd079.jpg",
+      "size": 35553,
+      "sha256": "cde3535536548cd040fb660e0fe65a8f4e596981e80dac590e2485997430660b"
+    },
+    {
+      "path": "recyclable_waste/images/train/glass/c36a7320762249c6.jpg",
+      "size": 75794,
+      "sha256": "6a0dbd2c1faa666a89dbe37175dcc7c6d363f0bcc6b5ee0465a1384d27143761"
+    },
+    {
+      "path": "recyclable_waste/images/train/glass/c51b0b78beb771da.jpg",
+      "size": 75763,
+      "sha256": "46892f7463a6ed282df2e8d4b2e768f89ae5fd0f4610a033d215b2b03c4222d0"
+    },
+    {
+      "path": "recyclable_waste/images/train/glass/ccef76b1e159cf0e.jpg",
+      "size": 37059,
+      "sha256": "1522661596359a87ff3e783091436d51f5b492aec886b2d34d9dcd83c9075079"
+    },
+    {
+      "path": "recyclable_waste/images/train/glass/d0921466ef15364d.jpg",
+      "size": 92655,
+      "sha256": "c5d673182da03ca0b7f8749bf1861a8177e81226150de361e99f06442bd5b7c1"
+    },
+    {
+      "path": "recyclable_waste/images/train/glass/d5535062f6c5ded6.jpg",
+      "size": 59348,
+      "sha256": "b9a3e3943b0ac00ade8c94ea16f24a35370f02127b07b0c66754935450d0c636"
+    },
+    {
+      "path": "recyclable_waste/images/train/glass/d865fd4060f26aca.jpg",
+      "size": 100027,
+      "sha256": "2ce9e5b8f5d16f1ff21bab41320de039326e68b0f56606b27e50c79e8fddc46a"
+    },
+    {
+      "path": "recyclable_waste/images/train/glass/dbc635a22cfa6bb2.jpg",
+      "size": 57105,
+      "sha256": "fbcf709128a1328deca2195ef6718a2fcb369bd211e1cbda3ee062cb64ea1358"
+    },
+    {
+      "path": "recyclable_waste/images/train/glass/e06af7362426ac87.jpg",
+      "size": 84882,
+      "sha256": "8fa4f08c792f3a8647818e4f94421a1a488ecd66e55a8221851a71d705116ff7"
+    },
+    {
+      "path": "recyclable_waste/images/train/glass/ea7673e1404e17a2.jpg",
+      "size": 111788,
+      "sha256": "e7f9384a54357659c9d6fc3c7a2434969abb54c03e4870bec539fe7a2ff0edd8"
+    },
+    {
+      "path": "recyclable_waste/images/train/glass/edad311c5202d133.jpg",
+      "size": 100668,
+      "sha256": "bbaabfb370976e7b72c6ec61295c4db29fb054f7908a17e20e11bb43028e523f"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/02ab6a7004849136.jpg",
+      "size": 93600,
+      "sha256": "a32cdbec0567f6295d8d59ac917dd14ed0888f5c5165242b9f3155f824fc23a2"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/06bee8529849e4d8.jpg",
+      "size": 116624,
+      "sha256": "282283e2338573c0ddb72d6cb665d6c19b908b8775af28e89a31abb62aced585"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/0826fbb41b50b34c.jpg",
+      "size": 50547,
+      "sha256": "303d66056466236402c40de32a5d66b94908a53a1097239d16f88dfb3d48e03b"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/0c241bcdea264c92.jpg",
+      "size": 98780,
+      "sha256": "11b39c75d6e25eae368b1d3b0a3644d9bf5ca3cd867c965b1288af02028fe415"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/13fc1ef9c96f25f5.jpg",
+      "size": 65668,
+      "sha256": "50ae9499611fd7f08c0ae33a385200838d1ad056fb06997dae7893eb24913815"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/1595844f90d5d76f.jpg",
+      "size": 111061,
+      "sha256": "c8ae9d7efd43f4b5a9104ab7177e823a82274cea81c4a3807b1739fd686d484b"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/177f5cc07d91c3b2.jpg",
+      "size": 94432,
+      "sha256": "e1d18cd32afdbc70f0b152715ca3d94390f696ad40ea9bcc28a16ffcc7c67159"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/1b6d97d148395381.jpg",
+      "size": 41340,
+      "sha256": "8a28acc78136fd033b9e882b91c0487683c6cd6c33b800d677e7b5b7adb2e4f5"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/1f75d0b9d1c3419f.jpg",
+      "size": 108914,
+      "sha256": "d7491621f3affddaf8059372ee92cc760c99b01ebbb32ebd0866cae3884ffbd4"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/2135591a7b50bf9d.jpg",
+      "size": 92775,
+      "sha256": "78a32e60d182f1194b4634663b7c0e418024077f1ecc9440f62d6d164dd07cf3"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/23b37aa20ea5598f.jpg",
+      "size": 142143,
+      "sha256": "f8634ad8434d3f9590aec487fbcafacdaaa433096017a2791d6f99a1dbac0fcf"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/27de4338ccc65c52.jpg",
+      "size": 115688,
+      "sha256": "2073906c0c3c37697e2fd688a26f7f278691f3015ccab4e203d0ae1ec5fa4a94"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/2a391f7bae65d4b4.jpg",
+      "size": 86183,
+      "sha256": "bf1b3bf39e7b8d3f664a42a5860e3bffdbeb32c0e445895eea8622d6a4ad6775"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/2c30f691c34f7ca7.jpg",
+      "size": 136003,
+      "sha256": "3b0d375d4571e0b36ffcdfff3eeec5b20a4418fffa773e7ebd58abca95c3b5e0"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/2f75cebf3d246dfc.jpg",
+      "size": 105586,
+      "sha256": "3ab4c15f35343ff05bd85d513f53ffe90d3f2d951d7a651920cc0d97d4ea3382"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/31171bb8b35c22a7.jpg",
+      "size": 66838,
+      "sha256": "e5d3e224a7440e3ed5bcff27fc056946edfc0f12821c770b0f475a569760e609"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/375f992c3a9f26ff.jpg",
+      "size": 129277,
+      "sha256": "48fe0ef4cecfe6d92033eb05d1ceaea1bad722459e99fe9966b755362c85f48c"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/393496c6becaaef8.jpg",
+      "size": 113566,
+      "sha256": "78b4047b8fde4ee9aba370d9d29b6924213817699e0cabb413221a84e8bb807e"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/3b4b756be086532b.jpg",
+      "size": 50571,
+      "sha256": "b6f313f034381bdac14e57824a4f0828b7bf9b0aab9c68869411c1389eb724d8"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/3be37e5ff6cf0369.jpg",
+      "size": 148962,
+      "sha256": "68a40de82e0a513aafa8c48ae12faca686a7596e365df65fd6d6af025e393490"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/3f02ddb8b0ac14dc.jpg",
+      "size": 116816,
+      "sha256": "bacb528d829d59f2d6723a253abfc17149bbcfe9d46fc0df15feabb5b05af168"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/4060f241cabe98b6.jpg",
+      "size": 114360,
+      "sha256": "2c83396d862af3025da9331dd6a79b0c49b4d62bdad630003ae723574254bfb1"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/47a587df2913e89d.jpg",
+      "size": 138802,
+      "sha256": "845ead4e00d9d84bedc9efea61ebd2df7b175fe22ac150a6ab8afab3166699ff"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/483bfa990c7efd9f.jpg",
+      "size": 54293,
+      "sha256": "6c9003fb338d6ccb6a5191409fb7e2e20738c7bc5fcbe2a02e681c326eea4b5d"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/49e9a58baf6e2539.jpg",
+      "size": 117585,
+      "sha256": "0d07f3037764f74b188461754f5f3a06c5abf678d6609216f4ae0cee3a82a531"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/4f05b2583c56b7e9.jpg",
+      "size": 116410,
+      "sha256": "15ffcee0022aa8879e83c0eaca7f6eac7de2642d2ba37b6d1ac50ae02fac173a"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/5cffbf76256c23a1.jpg",
+      "size": 57698,
+      "sha256": "be5c78b3bd827b240d7d1ac60f4ab01d31b157e23c8dfe4324a2f27ef76251e4"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/6783caf8c1156952.jpg",
+      "size": 46656,
+      "sha256": "e65c34cd173fe8cf875258b561fcdab9be67d6057f0ca8dd59caf333e04de6f7"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/6ce2dd40b863db42.jpg",
+      "size": 126608,
+      "sha256": "959882776e65b0bf7de43a183d7a83b1c8aa9cf4b3bc76d5ef9b5482a494c6d7"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/73cea79e048e1962.jpg",
+      "size": 77172,
+      "sha256": "283f27a147a13076bbf12e5f42a7558151d96f2c1b9d1a0a0646f705e4e281a4"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/8676eddb534a3255.jpg",
+      "size": 48631,
+      "sha256": "5c822d675121ac6e0b976844e4192fb050f0350deb707c0357e161055df7886e"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/87a171f654dc6d38.jpg",
+      "size": 100172,
+      "sha256": "ad020720d16b1056f12783c836eb6d3e722794aef06ff6ba446c24dc4780d29b"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/892675e712e31c3f.jpg",
+      "size": 43709,
+      "sha256": "ffc601a9f244b3965bed71eb3e77b132f99fa5ddd11664fec2c6c547a862045b"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/924f3f093ae9f2f3.jpg",
+      "size": 77340,
+      "sha256": "944ac37e44117192d029c64e0f2eaeaa9e0e30a41ad76283fcc9f4ddaa1bc4d5"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/93971a13cef19938.jpg",
+      "size": 122946,
+      "sha256": "ebdd6c7560678dcac116fde96f5b7f7134bbf3f7b09ce23118cac1dcd1d8c7f5"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/992ecb2a55a37df6.jpg",
+      "size": 47329,
+      "sha256": "aa4ede7840ec1efe346b32edca37a8867065cbcf7dc660312e5d70f69dafa6fc"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/9ff4f5be51e62e76.jpg",
+      "size": 50752,
+      "sha256": "c4cd4627139bf228a85c186ca0a47ee399941579a75a4ffdfaae974adb892468"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/a64de9025e95734f.jpg",
+      "size": 40823,
+      "sha256": "e88e8a16d0135bce18f1e10b78158dabb0694799921159c9e5c492a318914a81"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/a74ac87126649bd5.jpg",
+      "size": 96082,
+      "sha256": "5200e5294a1c246309f6769ddcf4a2bad8eb423999c9edb93578593b18f0043c"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/a8d97e376c04e56e.jpg",
+      "size": 131638,
+      "sha256": "59b60832bc2cc42a6d7e0e7de6ded600003715eb650ae98d76297756c09bc87c"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/a94071afa0044f57.jpg",
+      "size": 48431,
+      "sha256": "d0270719d5a978cc85c01f237da66fc073b6992bbbe0e642d76443519e373f1a"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/ab3bffc4ec173cad.jpg",
+      "size": 137943,
+      "sha256": "ce2355d33b7efebc388924a2a4e542c37916cc745025698954bd38eb51b18e81"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/ae4395773dd949f1.jpg",
+      "size": 117636,
+      "sha256": "98327e53ea5b7ae7cc6bbe1dbf29bfa88e1999489eadeecf1899818af95cb0ff"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/bb5833b4f0bc51d6.jpg",
+      "size": 98706,
+      "sha256": "864c337335a6504f503651da4c4b7952624d5cdd427826cecef16c94f7d65953"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/c0cffa3d34e87d31.jpg",
+      "size": 110257,
+      "sha256": "68c8df074efbda7325555f18de59bfe5256a8d59fef2e2ee7b8a9f27e912ec76"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/c323e09ad7851e93.jpg",
+      "size": 94241,
+      "sha256": "eceae2c67b0b0962609fce9020ab861b235a38f3e8354c1a958631a20e8dc41a"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/c3e9777bb2db4dd2.jpg",
+      "size": 107986,
+      "sha256": "1e3d21f50cbc15203d8b0bc4a7770511093e109d1fdb8b03e7399bad9047e133"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/ca873b4e6d3f1a2c.jpg",
+      "size": 127086,
+      "sha256": "4d69c910348a27cf0392d2df4a2f06f5c644186ae7e9d842c7874f2a1d5932c5"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/ce2eb706fd0650f4.jpg",
+      "size": 132331,
+      "sha256": "0e5053ef6ff46632f317fb5dd70ffa3655dac825fefa63262ee33e880c29f0c6"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/cfec5bc326cfe094.jpg",
+      "size": 117282,
+      "sha256": "d8540b82b20e96efd8fd6f7a5abdb8294965f054bf7d0355e06903ae9702be83"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/d1410379dbe67550.jpg",
+      "size": 114750,
+      "sha256": "bb721e1d17ea25273d13497d20c5859a26dd2866c4222ab528ab0db6ea2e96f7"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/d390d9c9b5a35be0.jpg",
+      "size": 62331,
+      "sha256": "a94ed6d6bad559b7babe8647c3669e0b97228f0ec38ccdde0b4e671213475456"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/d43deb5d271d257d.jpg",
+      "size": 88612,
+      "sha256": "26068828dccf3c01634426952d54d065b3b0a6013afd6de1e6172ffdc1759391"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/e12b8e7b95066183.jpg",
+      "size": 75091,
+      "sha256": "b4f0509edc0cb0ec8d88977a1bd327be1987888abdf43c3db85eae7117199d32"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/e13a5926c1cd94e1.jpg",
+      "size": 86695,
+      "sha256": "63f11bfd3e6ab7b839533d2a12fb6f7df0f91fc8ccb0133e46f429ab24848ae4"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/e3ab759ab0743538.jpg",
+      "size": 79219,
+      "sha256": "8de724f1d5b9b5b0b90bde75ba4d11e08cc09b78174cbd729cb4d4ae31d1f37c"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/e657f4d32f8bb101.jpg",
+      "size": 123865,
+      "sha256": "5fee16e92b7bd4fe800c12dbb6ddfd508a51146b7da00d2c52adb594f6e2f8ca"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/e9d29a2bc5b1b0e1.jpg",
+      "size": 126229,
+      "sha256": "a9e8427856986ecf3335e37fb4bc8175c5880c5a8497a69a1c23909a4fd45628"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/eefcf877967b4dea.jpg",
+      "size": 138437,
+      "sha256": "699641c72efb934cd58caa4f5447ee213b95a42b8d3997dba981c80e8b0525a5"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/f13c0f6b5b4238b9.jpg",
+      "size": 114556,
+      "sha256": "4fbeb8e8bb0665e5e9dcb512dec41c90739a3edd3b436a371ca4216867c1d25a"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/f6bff254307b6e2b.jpg",
+      "size": 145533,
+      "sha256": "a58ce164f1816bad9724db4b6521596f768a9b68afe98d294184a312abc053d8"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/f949fa13100f3cef.jpg",
+      "size": 91874,
+      "sha256": "1a3649b8c35d90707617cbc801ab701b7aca439f0c859de6685f7a32a70911fd"
+    },
+    {
+      "path": "recyclable_waste/images/train/metal/ffa103ab6792f033.jpg",
+      "size": 107027,
+      "sha256": "2c68cf1458eed628237184e1c73f3aeb9b56ce3366f03a24b821098e9a342a65"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/07a9e95c8b65dae3.jpg",
+      "size": 85368,
+      "sha256": "8fb6b0bb6704646373c245c748614760da0279214948ab6e945d23c4c77abb22"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/0fecbbe9da5069c2.jpg",
+      "size": 83765,
+      "sha256": "1240f07baef99213fb1e08e43450914bb1f4cde613db26ebdcd6d1d6db81f172"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/12c8dfd81ec89979.jpg",
+      "size": 69904,
+      "sha256": "00cb0ebd951635773d348c8762528078b7d541fe9e111e20fbea03a3851312e5"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/150145ed1e98c8e8.jpg",
+      "size": 81323,
+      "sha256": "421271b7bfc5027478df47da12df681b381a16524a35039acbd957658b8744b7"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/1941e434526d23f8.jpg",
+      "size": 121298,
+      "sha256": "b7485705e67992fca4ba1e932db79ef59fc459ec616eeabb65aa1f2707d5aeda"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/1a60420a54108f23.jpg",
+      "size": 132615,
+      "sha256": "8347aa8187bd10f450e56c160f74886ee294fa22a025e3ebc97484bb9a900d14"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/1d82e97434fdfda7.jpg",
+      "size": 60610,
+      "sha256": "d06547af2b2b0622a9472476c60d143683ed71b32add3b379c0c97e437a803c4"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/1d9c11c8463c6c66.jpg",
+      "size": 135677,
+      "sha256": "87d93715818a8e9fda13ab4490a2bc11959b5c23073200ed54213324e60ae8fa"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/28f7f81b3713cba0.jpg",
+      "size": 94099,
+      "sha256": "ee4aeb4ee499c70f735891ff2000753fccfef91f2cf320c9580c1b9d9fc9d230"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/2b66fa114d7e6836.jpg",
+      "size": 108961,
+      "sha256": "8aab581ee100c253ca708fa728e9846a2da0fcac5e721fbfa56758066acb4e3b"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/2d277e1fa31b7510.jpg",
+      "size": 59456,
+      "sha256": "d40ae0f786a67d013f5e0a899aab46230c7dcc07ca1d27d48246751ab8d2505c"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/3146ffab1218a176.jpg",
+      "size": 72124,
+      "sha256": "964f4ee21ab75add19aacfeb324ae242802da03014c356acd613939650e435a4"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/34c4a5267a7e0da7.jpg",
+      "size": 65212,
+      "sha256": "9fbbcc4a7aa8b08d9b3f47e2fe1458f9f5ddefe92fd2ad81fd10d3dac3a98564"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/34da1365388eecdf.jpg",
+      "size": 78949,
+      "sha256": "5b588173ac9cb13be6b76f062151140dcdc616dc15efc77aa99f98600f495579"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/40dbc8b634086237.jpg",
+      "size": 136942,
+      "sha256": "69b4d0111446eef65c20a56e41727dfa08d513bc6af56f28d32968779ff51056"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/41cc75f4163c4a3b.jpg",
+      "size": 75022,
+      "sha256": "0297b044105ca235c881d0489e660d660919e22f64d1fbfbaccba51b2a4e77da"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/4405c036a373d496.jpg",
+      "size": 59495,
+      "sha256": "0424de3b9b183185aa2de00c4492503adb639d6e447a3994b4154006186b8c5c"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/44c45d0102fbe7c1.jpg",
+      "size": 59315,
+      "sha256": "094efb2e9db0136a487e7eb1fe37bdf73797317cc37a681852ac65debbd58250"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/4d76fd8a4b4605f6.jpg",
+      "size": 56727,
+      "sha256": "74f3ba26069a41aeeaccc5b9dfad912e97e9d0a31ad1ce9a12d02af5a85e05c1"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/4ef59912d221896c.jpg",
+      "size": 61059,
+      "sha256": "0465fcce0af1f768c52a840552a4e76fdf0316c13dd0cd12a54d6652c9863ebc"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/5213dace7c72a548.jpg",
+      "size": 52495,
+      "sha256": "716e77d787e3c467521fd6379862aba8722f494b9437f6ae4857a0ba83241d8b"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/5313a6824a5201ce.jpg",
+      "size": 86099,
+      "sha256": "9103917ed0809fcb35bd4e357dc108251fca52abcc3b778c607ccbf669efcc57"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/53323c9a465de8b1.jpg",
+      "size": 84411,
+      "sha256": "f8855d4e8a886369358b1a4ef3cc811ec407fd68c493970c0347843ccb69365e"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/544e4e8063a0c69f.jpg",
+      "size": 91306,
+      "sha256": "b14b3f29796a91c5c91e9bb386eb5e0bc8bdbded5277604bb946d4f77cc0f525"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/54a7355ab9528f63.jpg",
+      "size": 140813,
+      "sha256": "9059165d16b0a9b1fb4958f76e3b5aba213b0ea722697031b080612ddd411620"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/55d841e8dc1a0487.jpg",
+      "size": 130879,
+      "sha256": "ffbf3831ae3dc74844eeb96d48ff88ca9763f12dedf9b3eb3ebd01f9a8f58f5c"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/5663427de955dced.jpg",
+      "size": 147970,
+      "sha256": "c226c2dbd78bbdff8fd1bb5f7dd6df3a5117a48e26fcc415267cd4e15851df6a"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/56f0f0e0a7e6fdc9.jpg",
+      "size": 70089,
+      "sha256": "f33f21603fb4eac2f0ab5d188f807a133e4f10b0e715367402e74a221c70df30"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/5c7aeb04c5cb88ff.jpg",
+      "size": 61094,
+      "sha256": "9d4a23b530f97cc1deb6af241bc4b6655d4f909ee45d4a7a191ced72fe3bf3bd"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/63bf288cb64dc707.jpg",
+      "size": 76821,
+      "sha256": "e0342b26b60fdf8530c948d259ed555a80295158d4bc0a8d239785337d122e53"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/6517b3124dffa69b.jpg",
+      "size": 93647,
+      "sha256": "6538852815b8c992798123193aa3b575bd29b6fe6d36ac884175cced289ecdc1"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/680254cfbf652140.jpg",
+      "size": 100289,
+      "sha256": "f4f5207eb3be6779b3e6b58b996a66bd57d2717ed4c7161e8e64af13f35ec4a9"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/6db0a023e242189f.jpg",
+      "size": 90848,
+      "sha256": "7ae6a09aac212273469d2579ea6b3beeba06be6da4a4fa6cd70ae7bbf4ae8dcb"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/6f5379c13a341554.jpg",
+      "size": 79083,
+      "sha256": "603db1673b0ef821466f23ac3c7e8629369c7b3d8b3c0371325c1cc002c8df65"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/714591ef5a46e644.jpg",
+      "size": 50082,
+      "sha256": "da2562645b029535872ee222190e164cc4a2895499bbbf9f693c157a9e0e7739"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/72a412d911d7ae20.jpg",
+      "size": 49911,
+      "sha256": "65b21a7c75932edf9ad8efe92d4433cdb77e8a07daf93b28637149073f0a95cf"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/7338127f399048d4.jpg",
+      "size": 67073,
+      "sha256": "09875f26ba95fe30571c841176cfe4b14a23004947f451eafd868876cb8c04c1"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/79a9c6d1f49dd6ed.jpg",
+      "size": 63672,
+      "sha256": "e11a028f8e56595371831392d265c4dac2a0515b4fd738c3be92039c31e2f773"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/7af790b7dec2851d.jpg",
+      "size": 123659,
+      "sha256": "8f259f715a2fe6e7330cf1a13f87b48e30fd004ab3572c200a648db9751d3c90"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/7f718310103d3979.jpg",
+      "size": 132486,
+      "sha256": "ac84316749ef2a65adf142aadce7d5a1a31a0bc5c739daacd811c76940fcd100"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/8da67573f02a69f8.jpg",
+      "size": 79195,
+      "sha256": "5640c85f26de07378ddf36d802bb133efcfd3718cb8df4e91d6fec4b6c5a868e"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/8eb22a3a6d73469f.jpg",
+      "size": 84614,
+      "sha256": "0df0809ea82d736d8aff6c6f759adca937112886573a063f9e742e1acbb39d43"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/91302a72f15b059d.jpg",
+      "size": 63526,
+      "sha256": "ea73d5a3d5994b80d936f1967221211cc75632be150fad0d89d3ab618e5bf793"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/986cd1147189def5.jpg",
+      "size": 147604,
+      "sha256": "6733290807dd85d201751a37e9f87de797b65fb2abbf1ebfaf9f440a49fd160d"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/9e2aed4cd501a3e8.jpg",
+      "size": 122131,
+      "sha256": "cd4ad9e1187ad8f8f030001bd89e0cf2482a4b646ad90a28f42aef89bda042d4"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/a68d8b0ba39dccca.jpg",
+      "size": 131399,
+      "sha256": "c9d78beb038682f401ccdbd5fd03b8539b8ba0fb900998243d582854d68d89ce"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/a7cf6ba9a7b68df2.jpg",
+      "size": 70552,
+      "sha256": "823c4fa4a85958adf2614c92efa7214b5a7da88ef54fc99d6dc44d5f648c7274"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/ae3165acdbbf1393.jpg",
+      "size": 49194,
+      "sha256": "765f6afe96df81cabdeb70d44529cb443470568f401c5560ea30e837484f0fa8"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/af5b3305e9e7cda2.jpg",
+      "size": 67245,
+      "sha256": "6ec72d4387123646b7ffb98833f805c111e9d5d63af91000a69482b75e63c2f1"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/af76580d59c2a73f.jpg",
+      "size": 82088,
+      "sha256": "f91a3e887cccf3f8f22e7691b4ceafde735f3436fd788ec7304742df5feb6ec3"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/b6b9d5e1041c5fb4.jpg",
+      "size": 52110,
+      "sha256": "f70f720caeb47b946f2041db6d65e7faca7d07e918967664c7538de1655257a3"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/b9cbf5d43dcf535c.jpg",
+      "size": 50199,
+      "sha256": "4b8ec1b34c8742a05e67c000b527c8bb0ea41b2b581307b5b1312bd1ce27ccda"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/c224ee6a44a9a967.jpg",
+      "size": 133808,
+      "sha256": "61f9310a2769a26fdfcb6229bd16968bea3e7534a1d5fe397a97a5df3f3f8ba1"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/c3012f4b614286a1.jpg",
+      "size": 53939,
+      "sha256": "d7bace9dd6bdbfad2ed55dc91e3db4cbf4f0240ee8f997ec0a18716954fbf42b"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/c38f812d3e86ae35.jpg",
+      "size": 127655,
+      "sha256": "bb860b2315d58212a89b42c111e1f3ac1ce17387a3c3858a8a2a1ee10085346a"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/c42bd3b11fcbc2ed.jpg",
+      "size": 140508,
+      "sha256": "54ebb14073c0d0583c97bd194b3d01de285654f16f8dba0a79e29706bd792b39"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/cc31e95a54ae7fbc.jpg",
+      "size": 118211,
+      "sha256": "65176377e68cec123c21c88436d1d28c8fe30c8d2cced60b847e8f282f12e896"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/d044f3cacc249558.jpg",
+      "size": 45883,
+      "sha256": "a96658c8e2ac535a3ea07ba3f59c9e17cb32f92640e5f9fca3a3cba43f3ddb32"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/d059e6f28ff5910b.jpg",
+      "size": 136497,
+      "sha256": "4d0ef035f60d905a478d7d9045a049996eaa229b0062216ae82d4da938f313b4"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/d7a4fc88d20a4a4e.jpg",
+      "size": 130864,
+      "sha256": "d743548ea4236ba8c067a3c533786034df960f6416d76a64a3cb82651578d170"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/dbece5e142acc674.jpg",
+      "size": 102770,
+      "sha256": "9b4c01b15878290eb7bbd6a946c57ffc465bd1ace95713090226da42c2f9e984"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/e092a5e35e99fbf3.jpg",
+      "size": 63607,
+      "sha256": "81d93b47c747d34be7e6be2892e5588c2f832e73a23732d5d7e7856963c85b3e"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/e3ac07c3ae47b3f0.jpg",
+      "size": 64560,
+      "sha256": "ccd87b2d2644fcd92616569a541dccfa814ffc0d558d4117a1f1228c3008a8e9"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/f518336815297c6d.jpg",
+      "size": 153262,
+      "sha256": "27e915148d4d317af030e10376e0746b2e8c82073612e34d0784fba1c0dc1194"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/fba20f00d9353eeb.jpg",
+      "size": 42459,
+      "sha256": "a94fbc6ed50e629a6c3681556317118302bb125355974a5fb35920abce6c8d9c"
+    },
+    {
+      "path": "recyclable_waste/images/train/paper/fce6efa43239b6f0.jpg",
+      "size": 70423,
+      "sha256": "b6cfe59f4230b5f2bbdef5d44d06d9f05b1f1a1f412663604affceaafca8b531"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/001e91045678e59e.jpg",
+      "size": 149439,
+      "sha256": "2221818fa9814cb892b2189c904d509dcec63ab4b064b9d878200a548472cdfb"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/010bc586c288baa1.jpg",
+      "size": 141561,
+      "sha256": "91b958e6738ad74364c1bd44bf986ba68c7095f6aeb2c6b993437045f00dadbd"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/042baa8714708ee8.jpg",
+      "size": 78054,
+      "sha256": "bfcbe70687e1e1cbb0f1fd1bd5d5f724d23195ff38ff12f3853d6944471ca1eb"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/0653718a8694fa61.jpg",
+      "size": 98219,
+      "sha256": "479dd5ec057a5fb6abe7c57f98681fe1d3794909323d2f0f5aa8a1e719fca268"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/08c1445f9d357cb8.jpg",
+      "size": 126150,
+      "sha256": "fcda33511ca08d7de984c16b037e7217e86525d054bfcfa48f68684ed1a78cf3"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/0a0656c1fd10b9af.jpg",
+      "size": 144591,
+      "sha256": "aa675a6c048d3a8eaee43a06988a97471c22887ae69c2fbf72e7a67544f5cb0d"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/0babbd7766f6281d.jpg",
+      "size": 28138,
+      "sha256": "587cb27f0433ce8911a6a93ed5611f7d58cbbdff7d44c52b92be7fc3300a53bf"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/0c711b5d25736333.jpg",
+      "size": 30957,
+      "sha256": "6113f43660eadeda998fac5161c4b8c4083c7c6d1feb8cff428df17182d57e30"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/0cba78e2c9e2bf88.jpg",
+      "size": 138875,
+      "sha256": "9455eec684fb84da11c13ad11839fb15f4942021f9a6f032075f1fd6f29fe86c"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/0dbacb75f618e964.jpg",
+      "size": 97027,
+      "sha256": "b1785fc9feae5f5dfd2ec36b559be3bb26314cbf602956fb3a75080c5db14a49"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/0e13bfce9acbd282.jpg",
+      "size": 38075,
+      "sha256": "06113b164f6a5b7af59c9ba123d4776503f3d2ed211e56ba94e6722e58007eb0"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/0ef9604c2aee48e4.jpg",
+      "size": 52231,
+      "sha256": "6933c4dab872691c901137a9b20b4517c02d1ccc63f4786da3b25fadcb20c484"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/10937f2394824b69.jpg",
+      "size": 45267,
+      "sha256": "440b4bcad43bea326e9f30a709190c9a780d9d55b5a709f63467c9f3a75487ee"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/12767cfad75847ee.jpg",
+      "size": 62471,
+      "sha256": "33328c56deb481449b5c1bb51407e18e0ec71ad9865f253090648bde8124f737"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/1342eb99a1821e39.jpg",
+      "size": 78589,
+      "sha256": "1bfcb14fe2afbeb265e9f0807d5f87bdffaa7d71bcf62ebaa800a306521f5741"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/1513dfb5ee51015c.jpg",
+      "size": 131197,
+      "sha256": "36ba5e279423db8e5bfba35371be8302a0edd6625aac3ae3624e68a17d864e57"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/15400987429dcf68.jpg",
+      "size": 75123,
+      "sha256": "e4bf13932672b00077eb6c5e8489b0cba5ab05bcbe76c0647c7daee8c32a8e0e"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/1b8a2f3a79a67bde.jpg",
+      "size": 96317,
+      "sha256": "b747c55d2f8b56a6342c04f774524eb920e7290d237651d3c06a85b077cab2ba"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/1bc604681ae15dd7.jpg",
+      "size": 83376,
+      "sha256": "27686bfc30a1ca0f6d8d68d93ecd7f93b2aed271394c699bcee0c49526eae832"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/1d5e3dc4405e4b77.jpg",
+      "size": 136799,
+      "sha256": "100cbcb7a7777c37943f414760df176d7027770a5ef1ac6a71f0ee8b10d47945"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/1da1c086eb77df93.jpg",
+      "size": 125868,
+      "sha256": "561bd16c21bbb9d6b15b45ceaac088e7f5969490707aa2fefe2ea9121714413c"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/1f0cefa9d517281d.jpg",
+      "size": 93975,
+      "sha256": "ffa4f5752bcc753e2adcf4ce2b6eea37f6f4726f95353cade87074a1f9716afa"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/20300677b725bef3.jpg",
+      "size": 113698,
+      "sha256": "2ddcb3603843b6598ed1898df2dca94cdf19dcaee583c7f2b8be53615d397a1d"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/205bbbe45e397210.jpg",
+      "size": 83491,
+      "sha256": "6cb51fda01072751f08215de85a74698e23d7261c6bebe8415b9fc03d817cbf6"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/208aabcdd2cb7a75.jpg",
+      "size": 52847,
+      "sha256": "959ba7101327bfa1014b45a0979cfbbcc67fe9054227261e3d20fcabec99968c"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/23418a1a3465ba4f.jpg",
+      "size": 76506,
+      "sha256": "71dfda828368498667f183777d783f99c95f0a78dbea83582e719422d01761c7"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/25b5dc51cf1aa56b.jpg",
+      "size": 146872,
+      "sha256": "21bbce8c014ef4f634379417839bc3f1fdfe0047793d7fe1b4fc6c4d372a9b68"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/26914fc63182d936.jpg",
+      "size": 78868,
+      "sha256": "f536bcfda69a9c5e54cfcd7159d487cbb402e2f990421b3f62a3519cc5cf9d24"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/26deb63667fdce97.jpg",
+      "size": 58474,
+      "sha256": "6494c24e10b5b237b5198ec35346a64fc2dc836ae110c4bd2afcaee21c495674"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/27ca2d3847eb9e28.jpg",
+      "size": 104349,
+      "sha256": "0a9afb3e169c583fce3495ce51f5e5c78c91465edae5b83037992e82dcbd9390"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/28b565d5a3accf6c.jpg",
+      "size": 104207,
+      "sha256": "34ad6ebcbd1f461dd5e3bd58c52ea5d2982c64d1620d90792c8d3d25ba933a3d"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/28c9b8d7400f6bc8.jpg",
+      "size": 75478,
+      "sha256": "961a3317c32c034adedc4f4be80f50837e034a70a4dea70e5a84a8053a74463d"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/29f2e86c197642e7.jpg",
+      "size": 107686,
+      "sha256": "e43a2bdc7ce6851ae3803fec40a0f3c4fef90acb4e4d2e543f743ec3dd33dc2c"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/2c365a61bbedaafa.jpg",
+      "size": 110812,
+      "sha256": "5cd66574cbeab021fd45e8f6d16692a6dbc7600c63dad8890c34cd3e6a521b7f"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/2c7b13d5d73b8f5d.jpg",
+      "size": 139696,
+      "sha256": "ed56ed68648436a8ba948e9a2e356ac56d8cef43e5697699d00ac52d57486b30"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/318e205cf73a8c7f.jpg",
+      "size": 80831,
+      "sha256": "f316155fb8dfc894c5a800bd2e3648646b5b6a009c287aa0b15fc176a0093b3c"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/3226b71de9b42795.jpg",
+      "size": 75796,
+      "sha256": "0f809dd5e1e939ce60ee5537a497f5f3bfc0bcac207a8471719224e3a2c38432"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/34bcc7bbdf04a6b2.jpg",
+      "size": 87980,
+      "sha256": "4a02107741f165e2d3e8ceb602c51f91596cc4965f70438dfa75c85c5be09567"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/39375bc361c05e5f.jpg",
+      "size": 84746,
+      "sha256": "b039fdd6dcef44f3968df8542b93b4a09ba8a78dc58bb279a6615c39962b1860"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/3a7e006ff5bc2cf3.jpg",
+      "size": 57555,
+      "sha256": "b6ba737d995f9416d67012d28f05fde8c85a77aae5131e6c4380c9c9ad8b182e"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/3be0785798f0cbc1.jpg",
+      "size": 114916,
+      "sha256": "ee5679e2fb1d707f118bf9485291928c20f1a6f6ca6bb0677cc858fe0a12cd6d"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/3e8701686e0f91a4.jpg",
+      "size": 39878,
+      "sha256": "3677ab8ae6db4a1f8c0f9f4f88b0ad7a55d2804f50cee742f20a759ea05133a3"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/3eaf42588399b7b1.jpg",
+      "size": 120192,
+      "sha256": "6338cf6fa159599f369b3665102107328e97a9ad9dabb8a61bbda698c4063ed3"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/411852ea9a5a6107.jpg",
+      "size": 92901,
+      "sha256": "a993ec42540d47c476bb6743b9758f61ad0ec7b12569979d3c6e2f38ffbaa16d"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/4312df6f8bd6ef96.jpg",
+      "size": 88855,
+      "sha256": "9743e65c141f35b5f9aadd09b62d70210561aae163a73b28a65709368881452b"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/4591f8412b6b946c.jpg",
+      "size": 54871,
+      "sha256": "ae3a8789823265bcfb8d5a3f5787ba87a33a72cf346a14007dbe8acb13ef12a5"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/48c2f20ac3d0ffa7.jpg",
+      "size": 53416,
+      "sha256": "e20685a8bf4702e774fce4efe4b21d232dae99e75379b05874298ceec52b85aa"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/4dc44477ee40dfd5.jpg",
+      "size": 116539,
+      "sha256": "1f19cbd0af483eed61465cdf72d60fae53b2657d090b639611ad7c7e304a3e5f"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/4e728d440a203675.jpg",
+      "size": 130655,
+      "sha256": "c05e7b5e0e44144457deda104ecd685e5034ffc508c67366e81263b6fb39a1f8"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/503e7de931eacf70.jpg",
+      "size": 88202,
+      "sha256": "8285284744a3af951da28a4399b94e7ce278bf6250982a091b69449fa5e4ee98"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/5405ac35feb9354a.jpg",
+      "size": 60026,
+      "sha256": "048de1cd3a220b7c9f105df875e8042724f1021e5fa50d8e8b56f8e600a85f6e"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/5575f359da16bebc.jpg",
+      "size": 47190,
+      "sha256": "4bfc996d23e84553f3a2c209a922c01804fcd8e3c1e58ffc0eeb5da27c8c6bbf"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/55b39a2d03994cac.jpg",
+      "size": 84054,
+      "sha256": "8c4cbed3761c7786e270d739e6c4e76a2a6962f6a66126be96c83774e6c4dd39"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/5f8dc6363b040d20.jpg",
+      "size": 79980,
+      "sha256": "35e090bed3139af54f89f564ffad4dafb0d4f942f443894408996cba0d470e98"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/5fc1d598061793d6.jpg",
+      "size": 111453,
+      "sha256": "920f76736bf5f3bd84070471e57eada85a8516c1a58c4e5ba9ece1d02afad117"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/64d9ee2b96b6f468.jpg",
+      "size": 80471,
+      "sha256": "0c4d8834a64a4244e6d9b3909830d1404b57fe4a72e153d2461ab85f81c6154d"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/66c08f61650a4e9f.jpg",
+      "size": 123697,
+      "sha256": "2be6d991252298b307374373d272fba66e87dd12d701dc0e03a0dca45562e22d"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/693ed6812a11f0a7.jpg",
+      "size": 76653,
+      "sha256": "e3b946d9f59ea7888e875716e39a84d147d33844b377689ae7877c710c04b8fa"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/6a84274b43e760dc.jpg",
+      "size": 131085,
+      "sha256": "11ad9b6fa78e6adf42021e0ec9161330f3bd02261a595b1f58d3f4079ea9e874"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/6aae4debef6913e0.jpg",
+      "size": 70269,
+      "sha256": "d0257aa90fb09f8c30e831f57a0ac35dcb425822def30a684a9f47142cd412d9"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/6cd10da02a4210ca.jpg",
+      "size": 33724,
+      "sha256": "5cffe6c2a706fe2020fddf4bd9b12db07b22be0272532843751b21dcfdc75880"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/6e05f89d2b024c38.jpg",
+      "size": 129632,
+      "sha256": "d1391941255277e703d92c9d09c065a1f6630a50245e318bebaeb4c0ea592f1f"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/6e3010486412e1da.jpg",
+      "size": 77266,
+      "sha256": "f76fe6ad893bb8baaf9c3768db7c8a29168e78760a5d2ebe4ccfce4ddcd0d2a3"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/7248e32ccd1d1846.jpg",
+      "size": 84953,
+      "sha256": "ed5df71898668ec55ea654546fb5e96e6640d9754fa3ef731ca38b589fa147ee"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/73af7353889e6a08.jpg",
+      "size": 101472,
+      "sha256": "f0dea1fe31d2e6c760e8e24aaa546889634e74c8b5b4c5808ca1a618d8af63ff"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/741a867d32c4343f.jpg",
+      "size": 78747,
+      "sha256": "d093b7e0466c43dc81ebfa051dd5ce3c5db3af628c322ed78e33f87e216384ca"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/75ff789de8bb02d6.jpg",
+      "size": 23035,
+      "sha256": "5ad00a9951fa4f11efc53db4bfb84acac76b0476e1f071f1208e613681f93d21"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/769083fa65ac289f.jpg",
+      "size": 89124,
+      "sha256": "9683dbe44324b66ffac8224b18db5690377b963d37127e9f69a1a8b2ba685769"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/7908a06a4bbbfbbf.jpg",
+      "size": 72325,
+      "sha256": "096dc61d748eaaf6766f227d48b0e4c57f0bed8dae08ea4eed7a5a49e9108420"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/7a85a88efc900774.jpg",
+      "size": 79355,
+      "sha256": "3aeaf69584184286ae51a2f96fdca2e75969d1abe724896165c55bcc7fb05b84"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/7cd52cd55eedf5c3.jpg",
+      "size": 91074,
+      "sha256": "94b448f26aa151fcdb9cdacbfa826d1e04a9cd26ba6d34541e7738dd982b412c"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/815c9e093010a3c0.jpg",
+      "size": 108059,
+      "sha256": "52b438d4c97fe26991581fec5ae7878822397a15af06c3e89803297c34d49ef1"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/82e7f7f879bafa3f.jpg",
+      "size": 43707,
+      "sha256": "b0f79e3e664eeee45980bfa8916fc38f76a56264c806eda64dca9ade3f814bc8"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/8300c78bf7b959e4.jpg",
+      "size": 55149,
+      "sha256": "523b038153127d97939789243ed2239e3fda5f6b55379cb479768cdc91276599"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/86a2159c61871604.jpg",
+      "size": 83002,
+      "sha256": "590cfd29fe8ef0e512a90327f3155d5c17df2feb057c8b2d98e9c238f34b1f7a"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/88842a9d67a3cff8.jpg",
+      "size": 113844,
+      "sha256": "ee354e8f70d8ec7969f7f96164de9531b01df5d67062c14f1eed1b69c024ea9b"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/898e5ba0d8d7332f.jpg",
+      "size": 102111,
+      "sha256": "1f60b19b1ab5b9738499ff3595f463695c0f6606f4da292eb7bc894d6c000132"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/8a5dcf136584a29d.jpg",
+      "size": 61128,
+      "sha256": "e7e3634068be47266b01917ce95068341f08861cd520ca4854d7918d97fa746c"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/8a998ed17f475b03.jpg",
+      "size": 53025,
+      "sha256": "89c75ebfd3907c2dc25c216f0227bd03a8d3b445363c40d93dfa9e693427606b"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/8bf0a5383f5478a3.jpg",
+      "size": 44508,
+      "sha256": "75c13b81d8174b214b32d70e80d9db9b2c796c2d3e194811a646add693443cf4"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/8d9edc14ac2f1472.jpg",
+      "size": 73360,
+      "sha256": "677d2a657e9bba61787b7823e32ddcd046f8e231c2712b2359357945d6666c42"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/8db2942ad6e68b11.jpg",
+      "size": 138862,
+      "sha256": "519d53a228e1bfb4e340c2b26b5a55e89076dcf7a5f4bdd8c23fb4b8aaae8486"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/8e4ab6772a8decb5.jpg",
+      "size": 105965,
+      "sha256": "7d0a323e61024cd6240a846d21a8c8c2630bb1f77ad13d2f804a0db84e861be6"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/8f9221278e594ecd.jpg",
+      "size": 46544,
+      "sha256": "19c2c597ecf56291ed49dcdac2737e096267de0dd188c0429d43b7400dcb9e41"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/90a94e7bcee2bb13.jpg",
+      "size": 85649,
+      "sha256": "c165a58b6a1687552db45d6a2cdebf8e06d1ff435f2f99388c1df6feba6e276d"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/913ae7f51fb74a93.jpg",
+      "size": 89062,
+      "sha256": "cb70f8eb868471d615c7b661b84c3a6de819faf3315c0a38f44e267fb8c6a3ed"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/9245545c6f4a03d5.jpg",
+      "size": 146120,
+      "sha256": "5369b4e290998e2f1c83fc52365a263f82f508c47925af9e9debfac020dacb49"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/9286b66388b677ee.jpg",
+      "size": 54941,
+      "sha256": "bc0a2eb415d788fa9738afb849996435f760dcca946642b7027302acc336eda9"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/93f19f7b54d7eef7.jpg",
+      "size": 58255,
+      "sha256": "5b3503e05c09e4906f8e4be78023a4c740e2951232a405b638df140a80380134"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/94e6a618098afbd8.jpg",
+      "size": 71228,
+      "sha256": "0c903d1831847eadad80f03daf41404e396694c75a2f8c8471588f36be38a4b0"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/96717e950ad376a8.jpg",
+      "size": 152902,
+      "sha256": "68bd7181a67b14b3ac5cf6448c8dc3155a27f60680b0ee418a141996a80af9df"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/97a7d2e79bbe0b7c.jpg",
+      "size": 117630,
+      "sha256": "0ae6d2b51a7256eaed155812dea5bd154323369522ef868c8d04383eda0718be"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/9878f78d4c1ec041.jpg",
+      "size": 84457,
+      "sha256": "350754f9e41e113d399e91dc6640a3a71f0a3eb9029ddcd9f31e7549470f406d"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/998de88e9bbc40f2.jpg",
+      "size": 140358,
+      "sha256": "96acca75126bfecf9b7f1c6aec7fc3c3d83b0f894b7b7102355430a327905be8"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/9ab121dec01a9eca.jpg",
+      "size": 90456,
+      "sha256": "a4a69daa17be30c1aa859e1cec120d7623fb0548d498018f1f31836733c9d2c3"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/9fc2bd58131c05de.jpg",
+      "size": 95924,
+      "sha256": "f6dee7019a6ae60cde76ef6a2609b2542544316749c739e56466fc372dd2a318"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/a01f1c1c41a88bc1.jpg",
+      "size": 126497,
+      "sha256": "9ccc64bbe4eabda111314b4b377114f16ca4c16e82516ea160d5b6ce959d9998"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/a32e3766f57b6fc2.jpg",
+      "size": 121160,
+      "sha256": "a3cc14b493f8aa4e6d47e307b819020b742aba0bc5410825a5c25f32d5226086"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/a38323032b950c0a.jpg",
+      "size": 87344,
+      "sha256": "2495d1c6c9d1abce038db61d07556f6bf70d5101d85f270b7f8868a3ca2b7009"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/a61614bc951dab8e.jpg",
+      "size": 83726,
+      "sha256": "c30d54b85d3e4b7805c3fb6b463a9a0b9bd7d9790468ebcf27821c9b7869ad4d"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/a74651234dbe597c.jpg",
+      "size": 84056,
+      "sha256": "3d51c9002fd61f24f35401cd3be99e2dde98ddf3d6e9fdd96053dfbcc2d64e1e"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/a7718600208d4c0a.jpg",
+      "size": 122166,
+      "sha256": "4a70b1e2524090b967995c9b948b0bafdb86aa8fcea022b294ac8d265b2a40ef"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/aa80bc82dc6ad16d.jpg",
+      "size": 105827,
+      "sha256": "906d72f35ba4ccd33780a551f41ad56f824b5fa0348d97905500b981736ab569"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/abe6b99c928d8080.jpg",
+      "size": 49579,
+      "sha256": "9596e48f20539571496b90bb341a80ae9d0090b9193065e57d2b5d7716b8e650"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/ad206fec4447174f.jpg",
+      "size": 172922,
+      "sha256": "32283946e60907755ed8a10fdc50031b28f08cbe9ddbe0492a4b2df058f3edf3"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/adc9acccf8c9ce2e.jpg",
+      "size": 89182,
+      "sha256": "33d8cac25f398dd453b605965215f1e2b1647589cb560413d92c511c29caea57"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/aefa39fd58d12ad8.jpg",
+      "size": 104368,
+      "sha256": "be68a527d0cc608f1c1a96e63d56c91905c62d2b5c6cb90597380cf077134434"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/b0b686c03f33f117.jpg",
+      "size": 81280,
+      "sha256": "2640d5ca4fb85817f10e92d07d2b172b6e619d1bf7d0444fae1cb7adb3cdff91"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/b34443a67a8e5585.jpg",
+      "size": 91337,
+      "sha256": "548cbe28bda676b5652658b0a812bffbbbb6542eee6a825000ad0abf9ef9d7b0"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/b3795cd09e45a4a9.jpg",
+      "size": 87650,
+      "sha256": "d4b5ebcf2c01d329d6b394f8b829262423621091a4f8e62829a73ea53579d21c"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/b56b834a43a5b888.jpg",
+      "size": 47573,
+      "sha256": "6ea5824ecfaaa2eb03cb6c5f1ff9741f9194466aa92d6161a5ddb0df1503d3c3"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/b5cc700dc47e4882.jpg",
+      "size": 50617,
+      "sha256": "139836402b538ca3230bfc64ec18db5d19fa8f5ed005dbf757f355b4d7401fbd"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/b7bec63691d3a010.jpg",
+      "size": 82064,
+      "sha256": "edf85af9f7b7a9f1c8f1f0930f8f8b3607092b50b89c3a34c7a04d10cce3f285"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/b9b5513c504ab657.jpg",
+      "size": 107596,
+      "sha256": "543b784fde810834c21193732d3243c75e1394b580150438e76398975cef0e8a"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/c233c1ad680b197d.jpg",
+      "size": 95241,
+      "sha256": "629f6e34b961732e126d037e0f8100a239466089d5e278176533c1a10fff264b"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/c39d0a82d549b6b4.jpg",
+      "size": 134258,
+      "sha256": "da8d8b0b17badb962c870f94c7eb5fcc811a7780e9f30c3e54512fa57a59fe89"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/c724271af703cccb.jpg",
+      "size": 60914,
+      "sha256": "e66222439c9bbbbb1e67a5010dacc6c554dcca56c93a8a97da01a4cce11490f0"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/ca119493c73ba4b4.jpg",
+      "size": 59103,
+      "sha256": "22cdbbf3e47180e7c52c5ef47ad414d535b6192b9304c35dee1c245ac328a616"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/ca8da54b6a93387f.jpg",
+      "size": 72979,
+      "sha256": "a5119c2aa544478b6c877e558497ec9210d55eeff4a487e73a0dfd6ad5d8c799"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/cb30c3672bd2ab85.jpg",
+      "size": 138030,
+      "sha256": "c307a2bfc3d8b11290fc2502f3c3a45c1e2a4ac6be96173a7f55484d8af3594d"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/cb9b6caedb9a3ead.jpg",
+      "size": 44546,
+      "sha256": "030b1649f25c29e5aaf47455e735b601c1742c44ee8fe9ff0064f152e37e6a0b"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/cd7bd77d155a3e49.jpg",
+      "size": 120577,
+      "sha256": "c9921ff8829863e1eb813d44187a762bc187f016fb18eb6f9c8cbef19dc7937f"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/cdf15041b52b4a7d.jpg",
+      "size": 92508,
+      "sha256": "e8f03b219ef53478421fcb188960f4f777917155928f681ffd5945b669bb2d2e"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/d1c27aa3bd4c2211.jpg",
+      "size": 40563,
+      "sha256": "ec78b8a530da02d7601f121a763125886f20164d25a38c4e27156455749e7af8"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/d5f33dc65d6e4360.jpg",
+      "size": 46577,
+      "sha256": "c165583cb9e7c67d7fb1bd2130d6ed6a20644f04841e54f9a441ac86201fff18"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/d9af31451b0f3b29.jpg",
+      "size": 137813,
+      "sha256": "37e67b230223f0d10b5f5f0667b92d0022c2b4a397e8f4a690174ccdf2707031"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/dbb051b0c71a0c68.jpg",
+      "size": 104011,
+      "sha256": "7b613c50d75fba2bfebff720e41bedd3c5a9a8e691ab1ed40342f940e0045981"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/dcd72595256905b0.jpg",
+      "size": 96602,
+      "sha256": "4236600b0e7e76719086bf1367191930a73ebcef5c85ebb82f9cf80cec36176d"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/e16b9fa494af0004.jpg",
+      "size": 139360,
+      "sha256": "705be2239f47854239b90afdf0664f20644aaa1bb385602efaf6f9696154c93f"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/e42e454dbab7af84.jpg",
+      "size": 106045,
+      "sha256": "e20d4391a800509f8b99e6e2e7c39db6fdc656111d5f715911e5d44cfdbd7f21"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/e5abaf71d1861fba.jpg",
+      "size": 81402,
+      "sha256": "f00c36d21615c06462dc32e9b8d0c81ef36b1360ff91105b781e55be6cddfc72"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/e630e27db03e9aa3.jpg",
+      "size": 102472,
+      "sha256": "324e9d3110766b4ca2b3aaaccebc50c83b4453735fe6ec96558341df5d396c51"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/e7913ea4605e53a0.jpg",
+      "size": 50590,
+      "sha256": "87920f024b8d100e6d3f10daca8bb80b2d76fadcf12e332141db3c9744220dc8"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/e97e5382e007a176.jpg",
+      "size": 44214,
+      "sha256": "992572ffb2201c8cb3b25269a6178876874f0881136c400eb741de4192bbf43e"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/e9ada79f45a0b22f.jpg",
+      "size": 58852,
+      "sha256": "020cf4af6ce17ecd61188f43a1f8215c32cb58e5c19ba00077128e4dc4bd9c4f"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/e9ca4e8e64b86c7f.jpg",
+      "size": 103571,
+      "sha256": "cdfda2f8ec2fc975e24a5becc683afa3b48b1b350215b018377d8cde1c7cd1d6"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/f14955172a192029.jpg",
+      "size": 107015,
+      "sha256": "81ba822124cc15e092257bbfb8458df21daa293216de3cd40084f40285ea7efb"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/f1e5abf9f2dbb39b.jpg",
+      "size": 102964,
+      "sha256": "4c638cf8be91f419509380725db9c18a7b1416430e996d9182c49fac20f891f0"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/f3980e2a9005acf4.jpg",
+      "size": 115487,
+      "sha256": "f9c4589591fd978662052c4247bdae7ad2294ea6b132d5a820802592e4b000c8"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/f3b9c5e1b7e4640c.jpg",
+      "size": 49677,
+      "sha256": "ca2c28aeb0b9c0baec3556b5fa5760392190dc4f28f86f6682680b51a0d0ecbf"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/f5e4693c313439a3.jpg",
+      "size": 89224,
+      "sha256": "474f2262ca584f82753b3e9c0d92db13b5cff7fb4bf0d9260b6d6ae5cc858eee"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/f7d01c4db64e363f.jpg",
+      "size": 105735,
+      "sha256": "2ed4d6475f68b4e109ee36ff0de13c9020b80e45ec7458d386f9e019cc982723"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/fb8a394cfab72358.jpg",
+      "size": 134802,
+      "sha256": "bf1af83557dd31174c7c9cdf67fa6c044450df76e44c4b233fcd3b4aef65af2c"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/fc713072f7c25b5e.jpg",
+      "size": 71142,
+      "sha256": "1475862acca62eb3842a84b9cad63936dccda9dfc54db54dff024084f16ab813"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/fd073993eb2d2666.jpg",
+      "size": 141405,
+      "sha256": "61d8ebb56465ccb2a613e820c2126e86c914b27e59f56c11e4987ab59cf6b853"
+    },
+    {
+      "path": "recyclable_waste/images/train/plastic/fdcd51ee2f952cad.jpg",
+      "size": 73569,
+      "sha256": "dd07d3f80512284b1cf55d7606197f54ad66223b7da62882f701bad776d29794"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/0192059b13dd61cd.jpg",
+      "size": 108018,
+      "sha256": "b395389bef30f36f77aba6cc5409988f73dbeea30d67264e871bfca5eb27571e"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/0c1a6bec2103841d.jpg",
+      "size": 44535,
+      "sha256": "78999e9bea669368632faaccda7c7e08aa404c321a0cb61d49b42bd63015a561"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/0d263dbdda16b788.jpg",
+      "size": 103777,
+      "sha256": "358e51a2fbd6abf888d6dd3aa5ae23d92476f0ae79d18d326ae67dee34e6f47c"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/0e763840ff80ab6e.jpg",
+      "size": 122587,
+      "sha256": "ad63d2fc3c138292f8efd3e72ee801c09f61e4c21578a0c55904d1afe1404292"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/165df433c6550993.jpg",
+      "size": 76038,
+      "sha256": "a07118ec2b029b644b70fb1f0fe6bc5d9e61a12164b0148ec6e16ec791c47da7"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/1a4a19027bf5df75.jpg",
+      "size": 103750,
+      "sha256": "319d85af58d1cbbfc39da8f6e83ea73fa0db751f25a6b941645532f607f765f2"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/2181691a3d6ac6a2.jpg",
+      "size": 119503,
+      "sha256": "982934e1a3f5b3eab86bfb47057a00c9e5ce24f73ea4fd66b653416d08bc7acc"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/21a05a4b150cf958.jpg",
+      "size": 82706,
+      "sha256": "b00d29f87e51f210c6fe95313944d42288d7a745e243c9343a0909b4ac6d843f"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/23154173536d2423.jpg",
+      "size": 106585,
+      "sha256": "8aa2d07d7ec07c763502136e605c5ffe789fac10f301ccd8ce91d35e43a89cf1"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/2681de550b2359e1.jpg",
+      "size": 134723,
+      "sha256": "272cd67588b8c17ac28a4b1bcdf5a431f81cc1db0044010d5d1fdee25db0fa75"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/29c7f82728ea7403.jpg",
+      "size": 113665,
+      "sha256": "b56d53df1b26360d9b50f099f0b6c5fda00c5daac8c31a3c9c01c80109aac784"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/2c44db0e1b9cd1fc.jpg",
+      "size": 96615,
+      "sha256": "d7210db5f46e1561c6be916cfd55a3a4f85d8e631f36fc17ee326c8ce1bdf41e"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/2c9f678867788545.jpg",
+      "size": 124412,
+      "sha256": "35e3395c0d4881310ccd0a6b0894dafc8269b195f564efe77952c92e6ad9260c"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/3162b48167336bd7.jpg",
+      "size": 106926,
+      "sha256": "ee8ae9f8c3d9fef1007196b12416a9ea82ab8d42b2592395253208831e11dcd1"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/3369cbce1d41b426.jpg",
+      "size": 118926,
+      "sha256": "92102c09afb62e13250fa4005e153b50f68b360d14895b5cbcc0f76e79d545d4"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/34576507cfe5c5c7.jpg",
+      "size": 52678,
+      "sha256": "948b2c5ecbf50a79ba2e23afceeb0f34a0fdfd81bca769480a0b4af83ff8c3bf"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/35649390df9b5c25.jpg",
+      "size": 84177,
+      "sha256": "ef273e3f2746d6a7f5e108b9a12e51aa30c01ba431072bd0a373575764cac99e"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/3a1872a92e48bdc8.jpg",
+      "size": 68913,
+      "sha256": "ff989422aa5c7a2c03c8385f69fc791d7b35d515f6143f89fb5988185aae7625"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/3fb842efc96b3fab.jpg",
+      "size": 60067,
+      "sha256": "563820171938b3d660a8bbf9dc56e7c8cd6e53c45a45bcb234324fc8e75a53d6"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/410a5a38531dc288.jpg",
+      "size": 129370,
+      "sha256": "d418f5ae78c3c8b19b05177211d8d7d4c5c96d744ba93678d39275cd37d7309f"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/44358daaba79e796.jpg",
+      "size": 121128,
+      "sha256": "bc81b0f9aac24ca1fc623ee16e061c3e7c341ddfd64d9f3babb2f22b61c02657"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/462b36f0b86955ae.jpg",
+      "size": 123067,
+      "sha256": "8f0e6e8b21d8a348a0490e714b72a06aff0f4c1a3424bbf875cdd6324b72bc37"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/4777fb9ecdf8a9fe.jpg",
+      "size": 111997,
+      "sha256": "49c2ac211b7c5c974ac45b7c603ff249a51ffa260631cab5451bc2af5e5d5d91"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/4def557ce5a56bd8.jpg",
+      "size": 108421,
+      "sha256": "53551baf77dc4c72c5f78ae2ec29237d5eba166a7b93fbd43e78c9059fa2d3d9"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/4f025cc0f36ddfbb.jpg",
+      "size": 55821,
+      "sha256": "f8732350831255ee9839cb1e71cb48d7cf37e282387cff4851d91b21661c0fe6"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/4f40c57a5166f57d.jpg",
+      "size": 93006,
+      "sha256": "649880b289a50b518472f3166ead4dc98ec98b58ed0eb8c1246fd35289023870"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/50b5eacc5e25223b.jpg",
+      "size": 102405,
+      "sha256": "bd46c795482c3d203e2ef52488576532eb4bc6b5abb40422bf4cc5152bb4b917"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/53d68ad2088d67da.jpg",
+      "size": 61929,
+      "sha256": "2a788aa5810f3709efa4f565112d4b378d1d55e8bc593510974cb9a519e1fe52"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/5691ac4b69653645.jpg",
+      "size": 120491,
+      "sha256": "a60579f540ed4a0c31169044090d41648506b5b38eae2043dd948bdcabea7970"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/6362f8d3094200b4.jpg",
+      "size": 127837,
+      "sha256": "f9f7237ef93bb5d785c1cf6c94d4c037b7913179a4e66db0435344c5ba61ca82"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/65f3162af2889a33.jpg",
+      "size": 59713,
+      "sha256": "db742e905bca8893c5ab62447e4c10d0cf0ff8d5c5b7fae6c34535b834778c62"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/6b48d021cf2a0a95.jpg",
+      "size": 147872,
+      "sha256": "bb369edc0381a500574122d001ff4a1da03c8a91b0a42abbbf7d54a762ea0c11"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/6bd404fe8abb496e.jpg",
+      "size": 121672,
+      "sha256": "0fc2bd74a04c66ba651678790c6279e98a0c9b372cd1dcfc903786560cf90d89"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/724a21bd6cce64a0.jpg",
+      "size": 92968,
+      "sha256": "36028a1ee0531c9bc1c7a3ddb3912e821097290ab347da6c5a53064d9e0d68c2"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/7b6fe70f5edf6e1c.jpg",
+      "size": 119195,
+      "sha256": "2a542aaac98b371a6bcd79757b91f329fe9528111a1e8302210a2d87cc68c404"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/7b93221d0138e37f.jpg",
+      "size": 124538,
+      "sha256": "d4571af439eae3f1a5e966436a18a744965306d8d82cc8f746f39c77b505bf38"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/7d6c8df596cba5ce.jpg",
+      "size": 112864,
+      "sha256": "dfc51fb528b4bc6b114648978c6cf2e5fa50e9d9c46d4793587bb86fe33b7a35"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/82a13fb110432dd5.jpg",
+      "size": 32218,
+      "sha256": "c98c901ea0b0589b3b4a1f7bf74866ed11b93231f291f88ecf95aa039207fce3"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/82a2158b065ca635.jpg",
+      "size": 119742,
+      "sha256": "631bb007c6214bb5b3ca4df7d44232d623e737d6f5dea602ee75c95b7a856c9a"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/843a8df7983fe6a5.jpg",
+      "size": 114871,
+      "sha256": "37836ccb70df75e2a24b4f615d6d269987ea893c82e66bc1a1030f4fd796d6d2"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/85380aae905187b8.jpg",
+      "size": 129683,
+      "sha256": "bd2886998ecc70770942041c6665b9ecc68c38e30c9fcd6d23066ccad0926f9b"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/8874196ee91cafaa.jpg",
+      "size": 109578,
+      "sha256": "19e5249ffe90c89e4d1a128a76de4bc14c5decc1fe2d13f17bf669da02c6db32"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/91b37f626e63d4b0.jpg",
+      "size": 99363,
+      "sha256": "485578e1eacb58768958b45fc10f88bedeafd771d98e703b9a7e156644fa965f"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/91e871d7fb3e0584.jpg",
+      "size": 58050,
+      "sha256": "40b59f404de7fb238dc752721d2006badfc197336cd1924466eab4cf70784816"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/945f05c5caef63ce.jpg",
+      "size": 99663,
+      "sha256": "18bf7414ae4af565063a0f02a39e378f73c1e9d470ffeeb1adf6f67cd1f26264"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/94ad455efcb6aaee.jpg",
+      "size": 50411,
+      "sha256": "efc6716fccc41802c07bc1d08440f449f039304891ccf52260cfee7791a40f3e"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/9515763d019f5583.jpg",
+      "size": 135677,
+      "sha256": "c699b289df386b39624c5dfd0edc7a39aa9e07b3c95f98057b28ad83fa455a2c"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/985ea1e0e68399c6.jpg",
+      "size": 80149,
+      "sha256": "964ca9182ea0c4ccf3af5660d194e38ac70cbace8079cba00f73265fc82fa17c"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/9a972591dbf9736d.jpg",
+      "size": 141623,
+      "sha256": "eb66100c23775201ea96a55d771600ae35fe04d75141da3e442d3117401e3c3d"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/a1ccb360b03c1588.jpg",
+      "size": 116424,
+      "sha256": "3d8ccc481f502cf7c53d5ae16eeeeeb318c19350a3deb42998b39e566ed5067e"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/a2f3a7cb32966f87.jpg",
+      "size": 109979,
+      "sha256": "b46d3a5c55ae99b82ffd4527094898b7d9c97548b3fe15b44b3f53ded75d7b23"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/a59c973ac91ddb9b.jpg",
+      "size": 127751,
+      "sha256": "a98e9f4c95d057928356d61f632748bab717b68535d64577cbd48158e7fa71dc"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/a636c11c24046060.jpg",
+      "size": 110492,
+      "sha256": "c532283c46ec612ce2519ebff88162110aee2a674417a376c3841009b7c9d9ee"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/a6403cc9b42e0e64.jpg",
+      "size": 82861,
+      "sha256": "cb17ebce29f7edb9c15fea7777d551ab6ecb37fcae684d859f11ff131f6d2fdf"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/a8c0b4fa52fa64df.jpg",
+      "size": 106845,
+      "sha256": "0c16527cf788f04bc039cd5626835bddf8cdeeb88cb7ffa02b728a10e33eb227"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/aa5b42e1a484c90e.jpg",
+      "size": 54037,
+      "sha256": "1ccde9df7954f6eb27a68589d92bffc4f82a173c3c8587ce1fee3484624bc0fa"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/aefebd2aaa343e05.jpg",
+      "size": 89191,
+      "sha256": "cfe0ce3e0a3f0c5ae7ee6d50ddc796fc38cef1f0d9ee25bf49b2a475f54299ce"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/b1569f6082b262ea.jpg",
+      "size": 41685,
+      "sha256": "3597be5da8ce3579b91a9d4e64a917091d0ae3b9b9eb50fb6abc06e408089c0e"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/bbc0ec081a884af5.jpg",
+      "size": 62688,
+      "sha256": "c5a0aad0ec715b9de759e1ff71959ae298a17f33c01e9b8c1614d6715cdd610e"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/bcca9015cd32f533.jpg",
+      "size": 69070,
+      "sha256": "b201ea07e05eb992dc02273097fb64be4f98275c3bbd975776ab8c2f0b12a064"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/c38740e82ff59e95.jpg",
+      "size": 124226,
+      "sha256": "34a5ad98fa9fae2a8501000ddf3ccf0c2e87e5ebf8d2ac83daab2560927ba9f5"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/c924dc58b9c4a657.jpg",
+      "size": 125823,
+      "sha256": "5346ec78c3a6b63a7e416461d1494d7529ce9c1297eacde3092be08797982704"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/ca6e34a9844f2509.jpg",
+      "size": 102959,
+      "sha256": "024ec7b87bba2ee86de5162ed99f56d78037dcebbb30375b76023ac2c3cd2139"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/cb3eb274c982c9ae.jpg",
+      "size": 125441,
+      "sha256": "c2e8497d79bc4be8d25b39f1d6017b7ef539ac2b517ac8890306a819c6a03ce4"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/cc8c978c32b1e563.jpg",
+      "size": 132844,
+      "sha256": "7c4d76086d7ce33a1243a1dddf6b92c27eaa0350fee378cfa82af5f49adc8ee7"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/cdb27ea5734f84a8.jpg",
+      "size": 96995,
+      "sha256": "5cf8463ea8aeebf9bd47e4785f8dfc8f3591a41816e670f474fb8bb28d7a0274"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/d529937675ab735c.jpg",
+      "size": 119795,
+      "sha256": "02577fe2e5ec403e03f4618dde83d2d775a6b67712ff8056a45d568d4686b79e"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/d5751630ba688710.jpg",
+      "size": 87999,
+      "sha256": "51854d2aad0ce25a3189974058712b6e00c475bf8df580fcb61601718bf7739d"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/d9540d0e9a238047.jpg",
+      "size": 106197,
+      "sha256": "ebb91cc29db593269d6de375b8e030cdd260562c591521d645ced6635d523eee"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/da14ec8e868b726e.jpg",
+      "size": 141852,
+      "sha256": "895b65d5e25b8135d06dcb84b6b4ff323fdaeaa37a5641f0040ec23f31025abe"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/e2ee5bdf0706b5ec.jpg",
+      "size": 116831,
+      "sha256": "94d8c6e785e48ea0ea92fbda40efc9e179d1ec9304d0a14b8fa2e82118353df3"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/e353a85fc4e3b636.jpg",
+      "size": 57349,
+      "sha256": "f70394daadb28af7969d2b2166f7b264bc9f9343240447695ca5e8aed7b19041"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/e6d6365e969ccc80.jpg",
+      "size": 76318,
+      "sha256": "cb3c1e351ceffdc27a4b87a215d2ef96a5b550ea866eef9a0954968082c1996e"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/ea512512b9972107.jpg",
+      "size": 122011,
+      "sha256": "d62035655e43af1156cd3ac2eab0bf6603314e8fb6dafa34d9d0d791eaf4e038"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/eac2f1b362a37e21.jpg",
+      "size": 41828,
+      "sha256": "380e43c788fb29456be1693fae0869c8dc7a57abc0d9b68030ed49821719527f"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/ee4787f98093eee7.jpg",
+      "size": 131395,
+      "sha256": "a9a7fd2fb991f57420e22acee81676e3ec1e0e698792703f87882bd7097bd040"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/f195bac9872fe5a7.jpg",
+      "size": 103618,
+      "sha256": "68a4a6cde5327b6973c53c61547470ab9dcdca53b4c4f9ca7a668f1df6e41152"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/f60b02a35e1f8c9c.jpg",
+      "size": 98296,
+      "sha256": "de051de8dfcad546e8393abeb209335158d89ffe998cd65334c35bdc97879ab2"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/f67858bcd5404616.jpg",
+      "size": 116885,
+      "sha256": "3a03d7771d7c95f56cef70978111c712b2b5b3a1c6a20c4666d840ea6869bcd2"
+    },
+    {
+      "path": "recyclable_waste/images/val/cardboard/ff6a2bba396ac9a8.jpg",
+      "size": 93086,
+      "sha256": "5692cdf089e791553b4d5d75b3d143e72372ae42b514799f1b67a78a8b4fda67"
+    },
+    {
+      "path": "recyclable_waste/images/val/glass/261251fbc5b14c3b.jpg",
+      "size": 51014,
+      "sha256": "a8fce2aa049161097e75466f01879785a734d83194afa69e12546e0501e599b3"
+    },
+    {
+      "path": "recyclable_waste/images/val/glass/2963de654ed86cae.jpg",
+      "size": 121296,
+      "sha256": "176dcba34b555eb3338fc7bbe1974ff68dbe06b18539587ecd058a10ed5f57e6"
+    },
+    {
+      "path": "recyclable_waste/images/val/glass/7ce86aa0fae8a07d.jpg",
+      "size": 69566,
+      "sha256": "8003fc9333b1ab48e4d92c1571da2b27da56f3b780176e0f073018c7056a68cd"
+    },
+    {
+      "path": "recyclable_waste/images/val/glass/8afc27babecaefac.jpg",
+      "size": 121542,
+      "sha256": "8c5ff94184302f6edc3713b8cc017c63bde51b02831a121172fa473c00051c54"
+    },
+    {
+      "path": "recyclable_waste/images/val/glass/afa2535714cbd869.jpg",
+      "size": 105568,
+      "sha256": "6da6c0a8bfa7c84cbe2c92d6d5a9a82f677d368ca3a25538424909d54b2214ae"
+    },
+    {
+      "path": "recyclable_waste/images/val/glass/c0938e4d1890daab.jpg",
+      "size": 35583,
+      "sha256": "5d434edb3143f3dc64d3a759991fe2a842cb42b48e372a1a289f2446741391dc"
+    },
+    {
+      "path": "recyclable_waste/images/val/glass/d8ec94bfc2d50012.jpg",
+      "size": 59840,
+      "sha256": "01f09f39e688dda2c55a4c3a2a745aa5097b43239893a3d21e17d75d69afc745"
+    },
+    {
+      "path": "recyclable_waste/images/val/metal/3c728e53e3fcb042.jpg",
+      "size": 113639,
+      "sha256": "52ea87699a72ef1c8d83e6826c05ee99093e046139732c040aff1ca74565f515"
+    },
+    {
+      "path": "recyclable_waste/images/val/metal/5ad513cfd71f1c45.jpg",
+      "size": 47753,
+      "sha256": "703a5714f04f0679bd2d1c565a97e5c3486521347997f93ad4ab69f1f1fa01e9"
+    },
+    {
+      "path": "recyclable_waste/images/val/metal/6774b466bd894c39.jpg",
+      "size": 127522,
+      "sha256": "b8e14cf315878deba4761d096db663ff266d47c9e6fe1f07a62f2a37f4f37316"
+    },
+    {
+      "path": "recyclable_waste/images/val/metal/6a8542ca0d020611.jpg",
+      "size": 91802,
+      "sha256": "7b115d37e6fdae6b3e0ecafbe9d175682c34a732c5b7d02719d1b149c9d8dbd2"
+    },
+    {
+      "path": "recyclable_waste/images/val/metal/711e85658fd8c529.jpg",
+      "size": 120554,
+      "sha256": "7d082a522aceddc099adff7879dd13d673104c37e4608557e86ce840d60d0683"
+    },
+    {
+      "path": "recyclable_waste/images/val/metal/7d24163da8cef247.jpg",
+      "size": 129030,
+      "sha256": "d9b995a36dd0f05bf73cf98e710ba5310141fc3c7054a15e6ab23ee202528fd2"
+    },
+    {
+      "path": "recyclable_waste/images/val/metal/832b6a9136b79b8e.jpg",
+      "size": 144970,
+      "sha256": "3784eead3fccb1c88838bd65b31999738707017394c2ee8b36b7396d13f0e977"
+    },
+    {
+      "path": "recyclable_waste/images/val/metal/9bf2e08aaf88fd3f.jpg",
+      "size": 122476,
+      "sha256": "182508e1b213f86bdb8419a88a45cfa60269bc9200f6fc849ace3e064c84d46c"
+    },
+    {
+      "path": "recyclable_waste/images/val/metal/ba8586f71073cafd.jpg",
+      "size": 148113,
+      "sha256": "724b21b175037f4901ccb66342549f1aecad99634e7860fc1bbb7ab06240a5fc"
+    },
+    {
+      "path": "recyclable_waste/images/val/metal/d292037fb19d58cd.jpg",
+      "size": 68613,
+      "sha256": "21214d2e3ac02dbfded93acca4672c6e88b9cb780a49a1a8adad44242dd3ca30"
+    },
+    {
+      "path": "recyclable_waste/images/val/metal/f3cf2e1322e1f7de.jpg",
+      "size": 134723,
+      "sha256": "ad7bed0a81ed83ddb50e298b89496a74840b6cedf0aa48980ace379ec0323cea"
+    },
+    {
+      "path": "recyclable_waste/images/val/metal/f6a671aa18391ee0.jpg",
+      "size": 117833,
+      "sha256": "805ed7fed9e606b9fb49147d4555d58f680b76eb8d8a85e075b0625d2b55df68"
+    },
+    {
+      "path": "recyclable_waste/images/val/metal/fdaddac57fc5485b.jpg",
+      "size": 108364,
+      "sha256": "82c705406b6918ca73e877aebc9f65f26ca0125e709d0c8026e622e83079e729"
+    },
+    {
+      "path": "recyclable_waste/images/val/metal/ffdb9348281e72c3.jpg",
+      "size": 91608,
+      "sha256": "0b1caeab7a31674057cd7eebf26eedcf72626c2a77e0ffc1b84f8df247a1b1e2"
+    },
+    {
+      "path": "recyclable_waste/images/val/paper/0d5efcadb924c005.jpg",
+      "size": 61706,
+      "sha256": "076eebb6268f69877098aac061aeb6f7018abbd8411c29732789eea41ac8f8e0"
+    },
+    {
+      "path": "recyclable_waste/images/val/paper/1669da14e185f79e.jpg",
+      "size": 32598,
+      "sha256": "4c0a3481fa2d23cd4af0713bbbb1d109b00ccdfe0201688b8c31ac334245d72b"
+    },
+    {
+      "path": "recyclable_waste/images/val/paper/1d3f7705681ef0ff.jpg",
+      "size": 102435,
+      "sha256": "0f69c26f4d9a3a46fd6fe029c9112a1ccf2b5af3022139eb42ecf4079458aab7"
+    },
+    {
+      "path": "recyclable_waste/images/val/paper/252c09a4fb4374fa.jpg",
+      "size": 98100,
+      "sha256": "379da73ec87b9eac08041733d68144b0dddb15ee6c1506a36cecdef675e1fcfc"
+    },
+    {
+      "path": "recyclable_waste/images/val/paper/289ac2db8375c0ce.jpg",
+      "size": 172921,
+      "sha256": "1fdbbb227826374b66cac33bda802c42f027e6158b810808f3826ac29d3b1eee"
+    },
+    {
+      "path": "recyclable_waste/images/val/paper/531c4815f5583160.jpg",
+      "size": 56085,
+      "sha256": "b5e2d41e2b4b554d038fc404ab2c3417aab3d3d14bd51d2e421064f6de719799"
+    },
+    {
+      "path": "recyclable_waste/images/val/paper/64464ad7d10ea46b.jpg",
+      "size": 158883,
+      "sha256": "d7385595a39e0c223106484e9e59eb50813c9209431742244bb56f020177c239"
+    },
+    {
+      "path": "recyclable_waste/images/val/paper/71da55c8f269dd79.jpg",
+      "size": 66017,
+      "sha256": "3071970626486e33129ef7879db4d42cc98dc2da45e63cf5f27c4f9ca3b2d737"
+    },
+    {
+      "path": "recyclable_waste/images/val/paper/9e6c22d76e52b07a.jpg",
+      "size": 143729,
+      "sha256": "b198331d26982c36af719091ae2b794d1cdd6c5501a7d58908a7c827df839f1a"
+    },
+    {
+      "path": "recyclable_waste/images/val/paper/b18bd56d074c32d3.jpg",
+      "size": 51628,
+      "sha256": "c8b31f59a07f0047b8ab01eca7f592aa649cda910ca90d3966bf1a9d746b7ed2"
+    },
+    {
+      "path": "recyclable_waste/images/val/paper/c8dd02172adb8a0c.jpg",
+      "size": 74601,
+      "sha256": "8101e8ebed60234ea0b9e20093e52c02234a055baa081c16dba34a6998a2ca94"
+    },
+    {
+      "path": "recyclable_waste/images/val/paper/c9af9feedd2f2f1f.jpg",
+      "size": 54369,
+      "sha256": "a23dc446f4e666cba6a2db0479125460687d78d9268359483af8cd0d205217c1"
+    },
+    {
+      "path": "recyclable_waste/images/val/paper/d12fcfd751d7323f.jpg",
+      "size": 130112,
+      "sha256": "43be550199b02ab59b6a4b7e318001e308e85ed1f3cc8bc564e627c4680851e2"
+    },
+    {
+      "path": "recyclable_waste/images/val/paper/f485df4e127bf15b.jpg",
+      "size": 126548,
+      "sha256": "56e9908911d2bec412d41127004f176c36cc6988027afa657cfd0dbc1d8ac588"
+    },
+    {
+      "path": "recyclable_waste/images/val/plastic/06b38130a87d9503.jpg",
+      "size": 102988,
+      "sha256": "9a32c2d29ac528c489fedb5cc0ba8f85faf82fb8ac41c6272c6aca51ef789584"
+    },
+    {
+      "path": "recyclable_waste/images/val/plastic/08ef1c1755e94294.jpg",
+      "size": 76575,
+      "sha256": "a40d4f1061c8e363fcd02d335e7d2295745a5c1a41a899bd77a56a0c5b196ffb"
+    },
+    {
+      "path": "recyclable_waste/images/val/plastic/1d34697085e575cd.jpg",
+      "size": 145194,
+      "sha256": "deda09c32e9ca577f691ea778ac18b229e518a97c4f0bbdfe048820fc363b969"
+    },
+    {
+      "path": "recyclable_waste/images/val/plastic/29887bf11f509a44.jpg",
+      "size": 77097,
+      "sha256": "9e7a4bc04e3b0188650926212f38a4b7ca1c4cd147b4689c135c3708b87307f2"
+    },
+    {
+      "path": "recyclable_waste/images/val/plastic/384767c386f2155a.jpg",
+      "size": 112064,
+      "sha256": "b42b40a97b5505ffe9f4ccf4f01f6c42f35f0177a199360406aea01587b6e0b5"
+    },
+    {
+      "path": "recyclable_waste/images/val/plastic/3af7e0598cdd6311.jpg",
+      "size": 119026,
+      "sha256": "4b216ab44fc7353b9040f8ca20759f6c65d13be83232a495a771b12c48048231"
+    },
+    {
+      "path": "recyclable_waste/images/val/plastic/3bd5d5ed204c83ad.jpg",
+      "size": 58978,
+      "sha256": "57608652707305a7cc8844320740c64c16b4b8a5fbf5f1afcd69c648136fe00e"
+    },
+    {
+      "path": "recyclable_waste/images/val/plastic/3c8dd1f6b16fdbb1.jpg",
+      "size": 108489,
+      "sha256": "680e1ec2479426dd80a402940bc214cf785cda9478ede1d2fc60322ee1dffdc7"
+    },
+    {
+      "path": "recyclable_waste/images/val/plastic/4795b8704a3452c5.jpg",
+      "size": 77295,
+      "sha256": "f1eeeb67dd5cdb7e9ecfbe4eed6e466db1602f6abcd3451105a9cc8d3a31532e"
+    },
+    {
+      "path": "recyclable_waste/images/val/plastic/4ceab2ab9ae1ed1c.jpg",
+      "size": 83596,
+      "sha256": "0a1b65636a82f278a895be60e41ef3c91f53d46382baca26e218a86c23ddab99"
+    },
+    {
+      "path": "recyclable_waste/images/val/plastic/6318625d109bd1b8.jpg",
+      "size": 113007,
+      "sha256": "c4265dfca9e80c46fe211c022fbd0798d02ef29edd3ee84351452b6bdc3d39a8"
+    },
+    {
+      "path": "recyclable_waste/images/val/plastic/695cc00bdb9e6ac2.jpg",
+      "size": 58772,
+      "sha256": "2a619d916d9ae771970c32976f8b3c5ff084742550529e943d0b05f5be38e242"
+    },
+    {
+      "path": "recyclable_waste/images/val/plastic/6f703a8b39718b39.jpg",
+      "size": 93725,
+      "sha256": "71919e58bab70bfb8f76bcf622cc05214cbb5a32a74ababb2b513e508dbd2c69"
+    },
+    {
+      "path": "recyclable_waste/images/val/plastic/6fd992564d41f42d.jpg",
+      "size": 105451,
+      "sha256": "03e79570b4b20643ed42f1487896ce68bea52748f6910cf3eec2407ac3d430e8"
+    },
+    {
+      "path": "recyclable_waste/images/val/plastic/74b6081c0b3f7590.jpg",
+      "size": 106403,
+      "sha256": "b416d4ca5599f961ea255ff7604cd6ae342ca563da92dbbabb37328b91f500a8"
+    },
+    {
+      "path": "recyclable_waste/images/val/plastic/7f0bf494c67057f0.jpg",
+      "size": 110369,
+      "sha256": "9c15f19090ad6fd4d312068f986da4460902a08d68337fcb04eec63637bef164"
+    },
+    {
+      "path": "recyclable_waste/images/val/plastic/a8dfcae46b140def.jpg",
+      "size": 89453,
+      "sha256": "ed81b5dc543d9dc5ef85f4b165fc2bea4d448bfad2120b4b342b2b9b6c382a1a"
+    },
+    {
+      "path": "recyclable_waste/images/val/plastic/a987fc60add3f40e.jpg",
+      "size": 49255,
+      "sha256": "e60d31da27320860a753b9f7b4deecae322cb39f38c325c441f88c50aaf8fedb"
+    },
+    {
+      "path": "recyclable_waste/images/val/plastic/b386085d05c57636.jpg",
+      "size": 68590,
+      "sha256": "45a028e367e5ffa760088577065b5b9fcf3eaf68e0914bad04fb02ef392363b5"
+    },
+    {
+      "path": "recyclable_waste/images/val/plastic/bc6586f95ab6ee3e.jpg",
+      "size": 140905,
+      "sha256": "0f2425bf6262877f1fe87e63bab9941cd966b022ec8254e75179643980fdd28e"
+    },
+    {
+      "path": "recyclable_waste/images/val/plastic/bcc5aaec0a85ad55.jpg",
+      "size": 88288,
+      "sha256": "b3c035f72cfb851907711e0fbf02c4bd91f740ea959b9495878bb297a9a70a87"
+    },
+    {
+      "path": "recyclable_waste/images/val/plastic/bd5d7b6af9e8199e.jpg",
+      "size": 119654,
+      "sha256": "76108e955de33ee8ae76fbad8dd6ac0716c0613c54e91dbb3e3131f6d7225097"
+    },
+    {
+      "path": "recyclable_waste/images/val/plastic/c559c840b4798acf.jpg",
+      "size": 102765,
+      "sha256": "6919b8189418647d8b29fd80229d203793ac9d2054a498c6173c3116de551985"
+    },
+    {
+      "path": "recyclable_waste/images/val/plastic/c682d72ea64867d7.jpg",
+      "size": 51185,
+      "sha256": "7f12edbdbfafa6226b0a7df78c8b3f71c296419432b269d83d486c950b90c2d3"
+    },
+    {
+      "path": "recyclable_waste/images/val/plastic/c6a310d6aceeb6bc.jpg",
+      "size": 86132,
+      "sha256": "55f662f578e37d04048df24ff89e93cadd879136b88e91ba2eb5d6758bd661ee"
+    },
+    {
+      "path": "recyclable_waste/images/val/plastic/c7e3b0c8bb6a04fa.jpg",
+      "size": 119125,
+      "sha256": "6bbc16f17b585fe7e5ec414f65e295007941a34a7073121f263c01b0d7978a9b"
+    },
+    {
+      "path": "recyclable_waste/images/val/plastic/d05ee9a4a7aed178.jpg",
+      "size": 89359,
+      "sha256": "3b1231151d01788ba14c3fd0d2b9bd2225e914db21bbc8f8afa71a6acdcbfa28"
+    },
+    {
+      "path": "recyclable_waste/images/val/plastic/e1c6b9e09290dc5a.jpg",
+      "size": 126736,
+      "sha256": "3bf108739c9ac14be64bbc5e1e94cb1837d094998f6008d4eea86c30a4a1a936"
+    },
+    {
+      "path": "recyclable_waste/images/val/plastic/ea1d197aa7e34831.jpg",
+      "size": 93107,
+      "sha256": "2732eafe1d2fba50bd8397f048a53f96230e429d177a105a7a16da88626a4ce3"
+    },
+    {
+      "path": "recyclable_waste/images/val/plastic/f0cef6d17c3e9a5b.jpg",
+      "size": 91209,
+      "sha256": "5b1180eb969ce31e6bf5210f98911f0106ca909016abbb7021eb60e958c9de2f"
+    },
+    {
+      "path": "recyclable_waste/images/val/plastic/f644ac94a13915c5.jpg",
+      "size": 99727,
+      "sha256": "da9a22886629e62c3b826ea66e970b238eefe4dd58e749f4facb984906fd7958"
+    },
+    {
+      "path": "recyclable_waste/labels.csv",
+      "size": 73553,
+      "sha256": "c8f6e719fc5bac5f8e5430bb75cbf10e474266df9b2167101a29637eba00749a"
+    },
+    {
+      "path": "recyclable_waste/manifest.json",
+      "size": 2204,
+      "sha256": "be824e158c20e344df6f6ca117e349a0679f300f8c92d9cb9b85bc56f7b0ac61"
+    },
+    {
+      "path": "recyclable_waste/metadata.jsonl",
+      "size": 129148,
+      "sha256": "7be6578f21965e5a5a079411cfac46e121cba09c3760d94bfe868cca96e1850c"
+    }
+  ],
+  "image_count": 976,
+  "label_format": "classification_csv_and_jsonl",
+  "transform_version": "recyclable_waste_v1.1.0",
+  "license": "CC BY 4.0",
+  "attribution": "João Alves (2026), Recyclable Waste Image Dataset, Mendeley Data v1, DOI: 10.17632/h5pxbsdz4m.1, CC BY 4.0.",
+  "source": {
+    "url": "https://data.mendeley.com/datasets/h5pxbsdz4m/1",
+    "version": "Mendeley Data v1; derived from fixed artifact v0.1.0",
+    "sha256": "39c52710ddaeb4e662dbbf3ba7cd95725a8b11cf2b22434d04bc52626b721299"
+  },
+  "excluded_images": [
+    {
+      "source_path": "paper/UHW_Paper  (72).jpg",
+      "source_sha256": "4c9f3fbe83bd01a5a4e03ded0598699df5278f0262f2e72754e7e4a71e6522e0",
+      "reason": "political campaign poster and a person's portrait appear on discarded paper"
+    }
+  ]
+}
