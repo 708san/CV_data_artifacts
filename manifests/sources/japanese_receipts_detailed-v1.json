@@ -1,0 +1,13 @@
+{
+  "manifest_type": "source_descriptor",
+  "dataset_id": "japanese_receipts_detailed",
+  "provider": "Hugging Face",
+  "source_url": "https://huggingface.co/datasets/IngCrowd/japanese-receipts-detailed",
+  "source_version": "e679e42ba2a408038d4151ced36eb6f32589422c",
+  "license_claim": "CC BY-NC 4.0",
+  "license_evidence_url": "https://huggingface.co/datasets/IngCrowd/japanese-receipts-detailed",
+  "source_inventory_sha256": "72ed2708c57927730ede820b388f4e84bc65d1112198288b0b193b0dbf93db4e",
+  "source_file_inventory": "manifests/source-file-inventories/japanese_receipts_detailed-v1.json",
+  "annotation_file_sha256": "90cd9777c4eb14ca06be7832ede10885f89f6e392748a3a9b1d295e2c12b4a1f",
+  "image_count": 100
+}

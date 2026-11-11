@@ -334,6 +334,26 @@
       "transform_version": "indoor_plant_varieties_v1.0.0",
       "manifest_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/manifests/indoor_plant_varieties-v0.1.0.json",
       "audit_report_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/reports/indoor_plant_varieties-v1-full-audit.json"
+    },
+    {
+      "dataset_id": "japanese_receipts_detailed",
+      "artifact_version": "0.1.0",
+      "artifact_url": "https://github.com/708san/CV_data_artifacts/releases/download/japanese_receipts_detailed-v0.1.0/japanese_receipts_detailed-v0.1.0.zip",
+      "artifact_sha256": "4f3a480f09eeacfda9f9ca4d84dd01ad8aefa49cce776ec06a7d64f5f25dfb5a",
+      "source_url": "https://huggingface.co/datasets/IngCrowd/japanese-receipts-detailed",
+      "source_version": "e679e42ba2a408038d4151ced36eb6f32589422c",
+      "source_sha256": "72ed2708c57927730ede820b388f4e84bc65d1112198288b0b193b0dbf93db4e",
+      "license": "CC BY-NC 4.0",
+      "rights_status": "approved_for_redistribution",
+      "attribution": "IngCrowd Inc., Japanese Receipt Image Dataset (Detailed Annotations), fixed revision e679e42ba2a408038d4151ced36eb6f32589422c, CC BY-NC 4.0.",
+      "modifications": [
+        "Preserved all 100 image files byte for byte and placed them in images/eval/.",
+        "Normalized selected region labels, percentage bounding boxes, and transcriptions into labels.csv and metadata.jsonl; image pixels unchanged.",
+        "Retained the source evaluation subset; it is drawn from the 1,010-image basic dataset, not extra images."
+      ],
+      "transform_version": "japanese_receipts_detailed_v1",
+      "manifest_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/manifests/japanese_receipts_detailed-v0.1.0.json",
+      "audit_report_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/reports/japanese_receipts_detailed-v1-full-audit.json"
     }
   ]
 }
