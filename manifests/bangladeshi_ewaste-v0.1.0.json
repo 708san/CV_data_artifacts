@@ -1,0 +1,2213 @@
+Warning: truncated output (original token count: 247078)
+Total output lines: 21638
+
+{
+  "manifest_version": "1.0.0",
+  "dataset_id": "bangladeshi_ewaste",
+  "artifact_version": "0.1.0",
+  "files": [
+    {
+      "path": "bangladeshi_ewaste/LICENSE.md",
+      "size": 1126,
+      "sha256": "dc1a698d6c4d4411faaf9b2fc6bf921fc922b6ca6efb6f39b0911ca19ea906e0"
+    },
+    {
+      "path": "bangladeshi_ewaste/README.md",
+      "size": 1506,
+      "sha256": "df6149b01426d500a96bcbc772f5534d201520e91f80843b902c5ef543bdbdae"
+    },
+    {
+      "path": "bangladeshi_ewaste/annotations.jsonl",
+      "size": 836681,
+      "sha256": "86b78ba8dfb370720ba02e7804d507997bd75636f1308f2a70631bebf5e24c3b"
+    },
+    {
+      "path": "bangladeshi_ewaste/classes.json",
+      "size": 235,
+      "sha256": "46fac763e91eb19b33b32ac744c81090d73961efa4fb584a3aa74aa00fb469fc"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250803_215632_jpg.rf.e24ffa46f609d1debb2febc7da520dae.jpg",
+      "size": 17650,
+      "sha256": "9503169bebb6396c87869bcdcb765b550ade5fe19789d80727009131238c09b4"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250803_215727_jpg.rf.ed0c24ebb5a6e14c10a1c4d99dbf6530.jpg",
+      "size": 15476,
+      "sha256": "4765929cb39f50b5e5833ff109d06424ac32d7159c5daca63951fe5e8504e029"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250803_215738_jpg.rf.576b5312e98cc236b1ed1246493119c6.jpg",
+      "size": 14923,
+      "sha256": "4c0357359e41bb8c34cbc6b444e044ad11ecbb0a7af2b7241854a40fefc0d843"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250803_215807_jpg.rf.949f4e1a94325c40ad658940123c68d8.jpg",
+      "size": 17327,
+      "sha256": "b0e033fc2443bb338ef6c2fbc41eb2b9614a2f5723215418e7636fb5178b06fb"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250803_215810_jpg.rf.bf03fc4486612281e874dcbde3267f8b.jpg",
+      "size": 14715,
+      "sha256": "9937a9ae3037928e59193aed6d1083a0fbed4634ac3909fabcefe0be7efd4cf0"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250803_215838_jpg.rf.bac3fad9510b7b1db2b0a13d1b39439f.jpg",
+      "size": 27936,
+      "sha256": "9358fc1aa2f0cb8163cc35e5236f7e323b0f9eb439860413e068876ad4f0ee90"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250803_215849_jpg.rf.9f3b116a634ea1a286d4e6054533b8c7.jpg",
+      "size": 32194,
+      "sha256": "d4b69e9eb81e7f844f4dd4c207fb95549c6d198a9939b46cddb2e1134f80ccb3"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250803_215851_jpg.rf.63c6f85a1160ed7d231558ff0a13e94d.jpg",
+      "size": 31848,
+      "sha256": "1eefd83481f2c2e3cdab7d7d028fed86cd0e643d9e160c967bf71193282f6fdd"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250803_215905_jpg.rf.9ea9ffc023daf5f2d35c1aabb1d51bb7.jpg",
+      "size": 26532,
+      "sha256": "db6498a766446b25fc7a38cad6a75e3499b71198ef82f9d8932e42a7d0f2ef74"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250803_215914_jpg.rf.8feef1eccb5913579498f857230745d0.jpg",
+      "size": 32603,
+      "sha256": "7f94db9317b87545d2fdf3e5d13965a3cc3def88bbf449c8edffafcf6eb5e3a5"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250803_215922_jpg.rf.2d0d3acf3b2ae57e09ef07ea4f228f4a.jpg",
+      "size": 42789,
+      "sha256": "70644e4757cfd018d02651b90d5799bff5387ec03eb6023e03e212c5212d44d9"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250803_220025_jpg.rf.0c5fa936f319339057069716325911b2.jpg",
+      "size": 19071,
+      "sha256": "83138498e082618e4531cb63db52ade2f5a30cc95db41de75551b551e69d9432"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250803_220034_jpg.rf.ff0c9e529ddd3dfcdb4934dc21b66ca1.jpg",
+      "size": 28981,
+      "sha256": "cfa4eb0ad25844a34355091b83906c4ac59d07cfec2a3577d8d067c584a6a9d9"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250803_220038_jpg.rf.7649ac00470edad7f06ef522f2ffa0ae.jpg",
+      "size": 30791,
+      "sha256": "3afee53c46515e93bb74b62c9fac71dcd754e27c6ed23909bb0b395c802af3d0"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250803_220045_jpg.rf.337135edaed79d430b95b610ec32c0db.jpg",
+      "size": 27413,
+      "sha256": "94a465a6621bf9ceed76151fbf7017d7635b8fdddaa2fc053e2fb86637bbaa03"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250803_220050_jpg.rf.440e59bfd126dbb87848a17d6ef10ad8.jpg",
+      "size": 31223,
+      "sha256": "a5e2fc462c9e51371c0eba71a716248331d6011886d91951773c181de4a49c7b"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250803_220051_jpg.rf.39ebee3d80d991a2fd3bd1e036ae9b05.jpg",
+      "size": 41031,
+      "sha256": "6234bebca89c81a8b5eb3902d54f961e99a2170003e86c846a8b2c30b1feee34"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250803_220138_jpg.rf.c32f7dc03280433f7176d3be9f2d22a3.jpg",
+      "size": 31006,
+      "sha256": "b9f4ead353bd2cbe4e3110fd12a71933fd1170c21c76a873012ac9d1c45ec470"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250803_220141_jpg.rf.addfdb758aea6542ed458ec7e715f306.jpg",
+      "size": 30404,
+      "sha256": "8cc443bdf490139d67c10705c6fbee3a9c7bef34bffc596bb4c862c0ee821ab2"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250803_220146_jpg.rf.c669407739cff140d229870182988583.jpg",
+      "size": 31040,
+      "sha256": "424da110c726fa4d16b3342fa177e870583fafab17252b14571fad351c4c3463"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250803_220228_jpg.rf.8e94e7ce7153325b8e181e6a1d331ef0.jpg",
+      "size": 22778,
+      "sha256": "f9c508ba5bc04d39a58131378509b9e27809ffff52155539148c1e64bb10320d"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250803_220244_jpg.rf.25e694fad0069d6b3720bcfeff342f09.jpg",
+      "size": 18310,
+      "sha256": "552cc1b0e60838bc72604327882cb809c37f951a235ada1222cdce5733a570df"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250803_220254_jpg.rf.11410f220a6391f2c4b55aa7acabf966.jpg",
+      "size": 40481,
+      "sha256": "c8e00af032b9249e7c4829598cacac567ab551634a68663f081fec56d3f53d2e"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250803_220256_jpg.rf.3b9f89aa439c4e4d73ed04ed18e16668.jpg",
+      "size": 46733,
+      "sha256": "116de6b6fb2367f376bc61a3079bebc7865a3a8b09a37b8b592f222793855803"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250803_220257_jpg.rf.8553c912c825e21ed3ec17bc2f25ff9a.jpg",
+      "size": 48929,
+      "sha256": "30a965434b059f7badaae93fb6d6947d9ac2ab67c0f797cacc40d8df37427428"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250803_220311_jpg.rf.72c9015fb578049a797e0d93bd65aee3.jpg",
+      "size": 27695,
+      "sha256": "0ba29832d53dcad6f8d92456f8906413a311db1da66b8f7e6c34fe7566989c76"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250803_220320_jpg.rf.10f96e152fbca7bb72a58524897b976a.jpg",
+      "size": 29360,
+      "sha256": "3f2830dcdfef1be884390510264d89f54a1d73a52beb5c00bf1f40bf04a29800"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250803_220323_1_jpg.rf.573457ae657057432e59564c621a62b2.jpg",
+      "size": 35896,
+      "sha256": "d9db9f1b7c219ae65618a590c9f7bce93460b24a79e273bb592af81608000db8"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250803_220351_jpg.rf.450e818f2d954bda365821a90b9c2a70.jpg",
+      "size": 35331,
+      "sha256": "48bb27a8ac771bb2852816d337d71c413772cc3018c31f7f9c1d36ef9ef837f9"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250803_220955_jpg.rf.8dd2b8a8a60e6a334821d9751836a964.jpg",
+      "size": 45261,
+      "sha256": "616c0918292ab41d8f6b72e7ddcc5c29ab8855d438b4ed3e5c3a2be8f0c16b33"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250803_221037_jpg.rf.29e8cf20123f9a73107df6244b555deb.jpg",
+      "size": 28096,
+      "sha256": "8709f2aed41c995faae3dcdf7a7a0d1e945ff6f02ff7753fd1760fec0a078712"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250803_221141_jpg.rf.19ba9752b8a8560d2e212dd8091ec02b.jpg",
+      "size": 26632,
+      "sha256": "30c459e121ee9192ac90e98bd5ebd46b5b95d3b495e54513d39b3b649d1cad39"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250803_221142_jpg.rf.c090fa5d55df4fa3a45e14bc112603e0.jpg",
+      "size": 36173,
+      "sha256": "f1edc5dbdf171926352fb73d5c62b0f483642df607a10de0c90b5706761d6e01"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250803_221216_jpg.rf.da2761316f8b63c36999f58d67934c89.jpg",
+      "size": 27374,
+      "sha256": "9f1f211e85dc29e4fc6812958123c79e70825849ca6dc8b112537c4397dc51bb"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250803_221234_jpg.rf.54011c5111fbf0f2afc5aec06098d07c.jpg",
+      "size": 22667,
+      "sha256": "33f88b7f5772f6930e1b90eca5197774847e934c6d379abde6c48aa655b53cf1"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250803_221247_jpg.rf.158a2f86724bbf1b425a04849b56b2cb.jpg",
+      "size": 23226,
+      "sha256": "458459b7343627dc32160e64bc54cc702d8334dfdae0d2509c903461004ae523"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250803_221258_jpg.rf.e96f5564c3f97b4c7490742c46242337.jpg",
+      "size": 18828,
+      "sha256": "944c536a1a92ce3bf4075bb4068e804514a3f376e00271447ac16575ad4587b2"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250803_221309_jpg.rf.8fe7f3a579dd00c5d707c33f9743f8f2.jpg",
+      "size": 18920,
+      "sha256": "0ec9b905fb6269d06be92a18ba2163555c0188b5d7c3cbd6e073cd5abc2eb96f"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250803_221334_jpg.rf.9f1107803cb1ee522fad104657e063d8.jpg",
+      "size": 28252,
+      "sha256": "8deace78b77d9a2939587315a4665536d746fc200e9d3f57ca5b7611717b4ba6"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250803_221337_jpg.rf.0dc3d6102f72fa0780d7197750898d5d.jpg",
+      "size": 29798,
+      "sha256": "921cc12be7fd0f39e57276ba6882755a8609d46951008f1f9723fe674950f52a"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250803_221346_jpg.rf.da011ab4b385dd0a91706f9a7e663513.jpg",
+      "size": 38862,
+      "sha256": "579b590fed2f7083400c16869794bf65658d629e3b00dd64b0bf711598bc26da"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250803_221412_jpg.rf.8824ffd49cb179ea3fa4a32be58a8a56.jpg",
+      "size": 24011,
+      "sha256": "10b86f98936e19fddeb736df4f0fffef649269686f45b3ae56c3f7f2c6b7ae11"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250803_221413_jpg.rf.7981da4922da4ef0420a42a7d1f9771c.jpg",
+      "size": 20099,
+      "sha256": "f669c3c0a2cb305d7fd100128873426be85172d3f4eeb4ad0c3ef1f04866130b"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250803_221421_jpg.rf.37ec4fbff8fe98ac23fc23adf37421e0.jpg",
+      "size": 15827,
+      "sha256": "72da6e2e42664788c309b5805add35876f4d444f0b7d40daf619453eb081a1e0"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250803_221522_jpg.rf.882e1986f28dbb978fb365d869fff6e1.jpg",
+      "size": 23688,
+      "sha256": "22d329c466ba06e559a56747c16f4ab94b773c6fe08ec00599b9158fe4edf832"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250803_221539_jpg.rf.fdd8d01810754a6be1a9802cba87e223.jpg",
+      "size": 28553,
+      "sha256": "71cee41eb1a1d5ae551d2f94de28e894e4bd117595953ae6b4c18821f68b9865"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250803_221548_jpg.rf.bbe6ae2021e28b57ff8d34546aa38603.jpg",
+      "size": 19217,
+      "sha256": "9893ef8cd1f133361e9b425a5c56b66957c456001db8ba08dc607f88c29d998d"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250803_221615_jpg.rf.b08ac1fd862f41b0aff68cc4a9a7add8.jpg",
+      "size": 18641,
+      "sha256": "dc25296908400b7be8021aa054bc7ea89c7521300573269fd8c378edc5914d37"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_202214_jpg.rf.9fb9113b79fd3add8062889b78e5f5d6.jpg",
+      "size": 25654,
+      "sha256": "8f3b5c7c43b18db137d6bd51ce85e41d5bc9403c0ceae31a6cb26304f2059b1f"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_203101_jpg.rf.18953f17b026f6fed9e0efdbc7b32630.jpg",
+      "size": 21448,
+      "sha256": "482a4bde0d4473b360f92bd0842db89f55fb35ea73c3a54e26847cb27aa7556a"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_203123_jpg.rf.2a3b9e36ad6e59e9f7bf2783c2a30559.jpg",
+      "size": 21161,
+      "sha256": "92a1a5fdd1eab82e4a365aef97ffa92b550016cec3830b112f0a9782b7845d56"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_203125_jpg.rf.759bdafaf6951e846d732bb6cf22ba50.jpg",
+      "size": 24709,
+      "sha256": "ab13d691b760eb6cdfacc58d424c72b49699fb4d3c3a01505a6d5cd6df3e2620"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_203146_jpg.rf.e25134ccf361d70976ae6a77ebd96682.jpg",
+      "size": 28550,
+      "sha256": "c7a31ac9fb5012c803471f43032ec777969ee0ca1686412e343d8cf93744218d"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_203147_jpg.rf.28029b7f4ef5f35504d750c524f501fd.jpg",
+      "size": 23743,
+      "sha256": "26be943b5d70b9d44d2bc2024be672be6f47ef893a6286d887cd6c39b91fde56"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_203323_jpg.rf.a182df57cbdc73a0a473a3e488e1725f.jpg",
+      "size": 52208,
+      "sha256": "211729b6870b52962105c69786c3217460569e287f9a92dccdd1daf467868a1c"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_203327_1_jpg.rf.fa4eadf62370e6bdea8c64d3f20085bf.jpg",
+      "size": 53855,
+      "sha256": "97ea83615b3cf9c68cf88df1520fc7973090a05ece4f310e796e7c0caa8ef4f4"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_203331_jpg.rf.057cab3983811f47856a15c6f0a2449f.jpg",
+      "size": 65103,
+      "sha256": "108c8e0ebe890fee2d0fb970b209360e4a9037645c092118a7e6a576b18609ea"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_203332_jpg.rf.d41ae9b5b36b9d521c1ca424ad79c0e8.jpg",
+      "size": 62886,
+      "sha256": "722d1911853f1df87206d5853959383f0f440b5e03218aac5e38032b1cf13ab0"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_203336_jpg.rf.ab9901e1027c275718c876cd3fd594e8.jpg",
+      "size": 67651,
+      "sha256": "596c6f3483bfbb8260333337b53c8b71d02e8c13d44032c5e4393416362978a1"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_203338_1_jpg.rf.bf2025683e05750526dc29fc829b8ac5.jpg",
+      "size": 71551,
+      "sha256": "c9be20972a6dede5b730e8ba84f60cf302a4627f0dd5e5b04a3342b35e3f3703"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_203629_jpg.rf.d89fd0de6e89404602d2a25bdad904e4.jpg",
+      "size": 52936,
+      "sha256": "8e729ca1766264b779d48a977480bae6dce230a3ea60231a3faa13a04bb98959"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_203635_jpg.rf.4b7ff9b6be85b3adf4c377982527e6c0.jpg",
+      "size": 52203,
+      "sha256": "a133404d12752f0bcd7e1ca834582c2130faab8f86dff88036a01c824f15082a"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_203659_jpg.rf.edbe8e689ffc0dc1021c447051c64419.jpg",
+      "size": 30986,
+      "sha256": "4fcfce006a529e9621fb15861379ee0759221c5b81e8eeace3f8aebbcb1b0e5b"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_203700_jpg.rf.15590bc0a0da9b4cf5f44df567594169.jpg",
+      "size": 39652,
+      "sha256": "3775a42e1d7931a0fa49d885ccc5205551e08cde7c0f4f65f8a49d6482f4c21c"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_203720_jpg.rf.15922a548d7874a6ff4d0b741a3eca9c.jpg",
+      "size": 43196,
+      "sha256": "5e510147e42babfa41bc0d10bc98213b0781d455821237439833856101e815db"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_203721_jpg.rf.1ac5083435db1cc9be594e05cc7a6be1.jpg",
+      "size": 37716,
+      "sha256": "2046cd02e441c0829da1c44402b6098be4df2650f8b559f3e9111b5d6ffe7baa"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_203805_jpg.rf.ecf4905797f5b1dbc5887402d335664a.jpg",
+      "size": 37137,
+      "sha256": "5dd9cb0ed970bba576b46d29c1c8a4edf2161d62741b925607d5a13dd7ce7ea5"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_203845_jpg.rf.8c15db31b863733a22036fd715b6cc3a.jpg",
+      "size": 29764,
+      "sha256": "ace6eea4f3d71d51e1c82cc811846aa23cb084053307702b57ca1f3b7f73a19b"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_203855_jpg.rf.b93267bbbb8a18ecabe79a8491630cce.jpg",
+      "size": 32462,
+      "sha256": "311a03817195b5ed0dd9ed595666e7addac3a3af34ccaa6d956ffae87af71533"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_203918_jpg.rf.0320c79bd3505204e3c7b6d35a1d716a.jpg",
+      "size": 42608,
+      "sha256": "acc30670db2b0abd7e7a1d8e52c1ea40c0938ed9d9635afd3e26df1d404e394b"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_203950_jpg.rf.e20c8cf0ae6b59ee38b2a9c2dadbe0eb.jpg",
+      "size": 44053,
+      "sha256": "1a1f0c1b6fa165d661c56d283eda74d12f9575961349126e6f60c50349214ca8"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_204014_jpg.rf.edd767591a6a2c56b9c099869b6c2b9e.jpg",
+      "size": 24239,
+      "sha256": "de4a0d51ecb84f88c7e3a5b9da8e6337b7ee4f907bb9fcdd6cd986b89b2b775b"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_204021_jpg.rf.c38944bc37d953025211694e6fd1ecc8.jpg",
+      "size": 21106,
+      "sha256": "a08d2c50d33a901f36e3957c9f9f019206f2d80d5082894bc2533412fbe06bde"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_204033_jpg.rf.03f7bbc7c8e1d021ef9e8aad4f0ef1c8.jpg",
+      "size": 21581,
+      "sha256": "bf5eb178fab174b33af85858e19dc00ae686ae087994b9d6f89547ab063c9447"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_204035_jpg.rf.e1c07dca1c4c1fbee2f331681dfa44d3.jpg",
+      "size": 23616,
+      "sha256": "ba0817772ad831c5289fcfa276b8e99b595cd0baf5ff2cc675df07ac0374f7c3"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_204046_jpg.rf.4c59551bf5a9f94a5156a878395f458e.jpg",
+      "size": 25417,
+      "sha256": "243bb92120cda59a84eb8c10313f14dba646c7f2d33882293e539eeb25ff9d6c"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_204100_jpg.rf.4631aee0211112328a507c9dd38f8020.jpg",
+      "size": 23082,
+      "sha256": "4c1b30bcd4e3c3202729f6b157a398da728a717e4e0d4a241e94b278196e297c"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_204101_jpg.rf.d9cb7a9fb4bd9ff815ed45b7b230fc48.jpg",
+      "size": 26336,
+      "sha256": "043f8a1c7636462d40e358e1f23236558b2986eafc2ce4d272e361c5174550c2"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_204108_jpg.rf.4af4a9e325ac0c7ff3eca39a2b7d88ea.jpg",
+      "size": 27760,
+      "sha256": "567feab069680713314942357d84efbbd641cfbdaf72dffd663588de331a5c7c"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_204109_jpg.rf.9b1f4f99a34836ac7b97b0235cbe7e74.jpg",
+      "size": 24844,
+      "sha256": "da8802631003c6c5013afcc431e34481c2b1dd1b6dd900d9744c9b0c8295d2a6"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_204126_1_jpg.rf.9a9df0bec9c45b42c64cddc67af2c9c8.jpg",
+      "size": 33599,
+      "sha256": "e4f597206cd9a3caa303fb40b6e92eb3f89e04bdc04475355239fa0cd096fe41"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_204128_jpg.rf.5b8f7b79ed1140bc2cf21ff49fc3827a.jpg",
+      "size": 28312,
+      "sha256": "6866fa971992fa9e2814eb5367bac21018756b812c826aa9bfe3dc203041ac4e"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_204136_jpg.rf.27a6ab940a35b768e293348d61b95943.jpg",
+      "size": 36868,
+      "sha256": "54f7e297990f9f336fa18e7b7c252face5f77b777fd395e557459d2cf942be66"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_204149_jpg.rf.d9150efe0f0785192433135bff1383fe.jpg",
+      "size": 33903,
+      "sha256": "a16559fffeb97a31570909a989243e8cfd08904b06023de9c369152e72622a8e"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_204152_jpg.rf.fa53a95341fd37acb3055a8e3bf55cce.jpg",
+      "size": 38463,
+      "sha256": "9df97191b0a5b51ce62d397f249b95738d0b163d3bb1a4b8f619dafba34ad523"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_204159_jpg.rf.3a3977e2de172ee9817181eec1970c57.jpg",
+      "size": 40760,
+      "sha256": "fc6ec6ec6fd8d13d5ede00e10db26ce7be6a59fdb5142316d09651e6773591e2"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_204217_jpg.rf.d5a2052c6fad4aa5e068a72359f25ce1.jpg",
+      "size": 26623,
+      "sha256": "3fbda88f2981db6404d1886ca0a3d30d6d6698eda38f51356f81d25bc8d89cac"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_204228_jpg.rf.d40317ca03e80a73dc8fbf09e93e412e.jpg",
+      "size": 31915,
+      "sha256": "cf22844abe0d24a9e3e7fc043ff38a3cce5cae38964266f667ecbb6ff5f3b967"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_204256_jpg.rf.eceee9ee5641dac437de26021e9df9f3.jpg",
+      "size": 36727,
+      "sha256": "a32d2672b7d877b0454d9f932e859db0dddecbc94b736b57a188bc77195629d9"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_204303_jpg.rf.d7335968b18df9fd243e8e9933106032.jpg",
+      "size": 26045,
+      "sha256": "376cb96539878373aba4d90af0fb08597aeceffe7733db9b17433ac46cf28ace"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_204304_jpg.rf.9f16e61c7a17c1cde693aa45c441de9c.jpg",
+      "size": 35769,
+      "sha256": "a67335b448d7ab07596c94b107552c2f98b325d2623eb9097594d8f65a5f6a69"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_204326_jpg.rf.7acbf569db05376e7af14adaab127472.jpg",
+      "size": 35614,
+      "sha256": "3e2c90a96fe5e703dfb9815d5f11b6b066809ba471006ad378867a58542cdc45"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_204327_jpg.rf.564f75213574d478e7fd1a3c12b6b530.jpg",
+      "size": 39226,
+      "sha256": "20e0b58c3d0b4edc2100ce8f27f3c41b172c9bfbdfe5e68f06582e0c27ff9bb4"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_204339_1_jpg.rf.6c0f05b8051712e23c28275b9cdd8046.jpg",
+      "size": 20792,
+      "sha256": "d33c025c528b9ae2f9888afd9314e2ff9bf1d1be20b8509370afe86be0b438c1"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_204339_jpg.rf.0dacc9298b13308bd49facfcd9584223.jpg",
+      "size": 22771,
+      "sha256": "520ec1bb0c62b26f598b76856852f7881955d9466ce23a26282050dd78939549"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_204354_jpg.rf.e503f6722d74c568f72428559a365af8.jpg",
+      "size": 27900,
+      "sha256": "99a9f0a78d823c0109c05fbc2280afaaffb3fceab1b96215d821229dd99af59c"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_204358_jpg.rf.474987c75f548ea736b4c084caf52222.jpg",
+      "size": 31276,
+      "sha256": "cbc7382e9eaa81faf7e69cdd05ea805c201d09f14a8759eaa143107b20a82485"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_204426_jpg.rf.98ab16e044e1f43660b180d6b5f65c90.jpg",
+      "size": 48711,
+      "sha256": "15fabee86e022122798604286651779d689518a091752bae9227722e332bb3e6"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_204509_jpg.rf.8d4d8d7aecbaad03b2d5e3cea5250aa8.jpg",
+      "size": 32948,
+      "sha256": "580c470e6be94352ab81516e30d39a72bf7582543f7fc63a127f741e2643952c"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_204531_jpg.rf.3c74d598795cf488074d6f536599252a.jpg",
+      "size": 33114,
+      "sha256": "77f589ff3ef56625b91815caed6369755eacdc7d4e869c6ead61a9a5ea336e85"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_204535_jpg.rf.c5afedd771afb16dfb161aa9e47529cc.jpg",
+      "size": 38541,
+      "sha256": "100621fa442ce2bb27ebffd9fde4f044568fef7dffbcf7cc085d946f27a16035"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_204540_jpg.rf.96c54b47152eb892aee273ada85f2732.jpg",
+      "size": 40320,
+      "sha256": "878e14a81769757acc8a12c69d418e9a2905a8569dcf8e56f984299b8fb86a51"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_204617_jpg.rf.6bb21b42c794bd4cb885ac3a9aae5e46.jpg",
+      "size": 33001,
+      "sha256": "7524118be6354c4df1ff69a3fdf5de0d8165c4c7bae1b6efd551839be3325240"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_204618_jpg.rf.16ccf63a195520f6ec112fd61ab536e3.jpg",
+      "size": 38904,
+      "sha256": "8d412c2e8de2913fb58947027bc23d002791b896cf716140241fd24a08b88ce8"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_204716_jpg.rf.b14036a7926b739da24817281336a96d.jpg",
+      "size": 26506,
+      "sha256": "77e6c095c847374dd46b9f20c7e862e63a05d8c02c58558d3f44d37971d641dc"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_204730_jpg.rf.9dfb47cc879ce8b82787ef089c3ad647.jpg",
+      "size": 30268,
+      "sha256": "6e0a6855eed5f3088a7d9ef830dd5d3aa985fc99b90a3a79051855860b83fa25"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_204821_jpg.rf.d2ee210c12dcceb83f4fbcd79606d08f.jpg",
+      "size": 30683,
+      "sha256": "761a16961f3bf6cdb6b71ef6457c12707bca8fcbeeb3c2e5b0e2ff58cb14cfe5"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_204901_jpg.rf.9d14ef5f5e3cd04fa8c617a912987052.jpg",
+      "size": 41686,
+      "sha256": "c454b34f28bfa8c664bf37afc1e62bfb62b6062738f35585b387f00d1defd621"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_205005_jpg.rf.47184ca24eb2e8551945b6ec4b5898ce.jpg",
+      "size": 43990,
+      "sha256": "6e758d951f42269492a7d7755735e0bf13ed2f723e1d7e07611f9ca887c87346"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_205008_jpg.rf.a4c86fb79e5cdc6a0bf0e8d4691a2628.jpg",
+      "size": 47185,
+      "sha256": "03d9f6818657d59572058ba7231b05e39873a02e7f075a273ffb94bf5475a125"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_205023_jpg.rf.ca9a6515e2b28cc0bf600793ec912a51.jpg",
+      "size": 53221,
+      "sha256": "1d6b28a6af6203b5873fdaa4cb2dc6c1da53951bdd779e7320411bf05e58e5bc"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_205026_jpg.rf.2b4336e312c5c015dec782fa65d0d53a.jpg",
+      "size": 52073,
+      "sha256": "a0988f8fdf8520a76eade1ee5607a69369552e09cea44ef086012b0765496fa3"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_205034_jpg.rf.3be0c6a2ac393d9750609f621047f9c5.jpg",
+      "size": 52224,
+      "sha256": "c7b0cc6706d5a2b03cca58469b65e77dc7009373361aacbb040c2ec99ba8fdfe"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_205037_jpg.rf.1c1059c0c28cf1605f3d3df1a724ba2e.jpg",
+      "size": 51919,
+      "sha256": "09e98717f2e05e0c7980b9d23752f6b4e5bea0e1b97a42b89b551c86380471ee"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_205053_jpg.rf.4a5a176714e4c428774a32fbd7e0f915.jpg",
+      "size": 58231,
+      "sha256": "9bb0d394b5af80076c0cc78e0e329fdb21d0d7c82d88e0ff0206ca52d5e8a2e8"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_205103_jpg.rf.98fd26f06009a55e2ebc9d5ef8f07b79.jpg",
+      "size": 56594,
+      "sha256": "0bdcabf7343a6705e1e242a5dffe4960bf26924b25cab32843e8cd2a88406bb4"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_205105_jpg.rf.64baa5f50ef7acfeb065e54695ae2760.jpg",
+      "size": 56538,
+      "sha256": "ece159b24910e8a0dbcd98cbdb4bb09e5a67c20315580af24fdaf48cc970956d"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_205124_1_jpg.rf.648255e5416d096ea002d22b3db3a443.jpg",
+      "size": 38129,
+      "sha256": "fd38b5fc65dbf8dc408115c312949a1848b76857c9bc8d61f5c0a9a79d7db45e"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_205130_1_jpg.rf.d310add3682b1d0a4906410c40409da1.jpg",
+      "size": 33500,
+      "sha256": "59c00bb26f4399e1a2cfe144f7ba61dde611bf3d30686c3be59717c3764bc33f"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_205130_jpg.rf.37660d23e50404fec5f8306b8a719641.jpg",
+      "size": 28797,
+      "sha256": "e719b20484147f946b89a2d076a47b4649fdb6255dde20a79182665b409035eb"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_205143_1_jpg.rf.5f1533b2db7a5c31f1e230442d0af1cb.jpg",
+      "size": 37731,
+      "sha256": "34b59e14902c915644f1757c44dea45c989cdc9ed262a2f1e2f0c0bec1973a1a"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_205145_jpg.rf.3a64c9d810b401a6f722eeec456863f7.jpg",
+      "size": 37680,
+      "sha256": "0ad0fa1be30b9a1d142903d8c449881c7e8424fe01272d705e8415a060e1bd16"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_205149_jpg.rf.60f4d447cf659ecb9b07be308fa9b0fa.jpg",
+      "size": 35044,
+      "sha256": "1ebcae99ebe22974e71e86ad69ad74c9cb102efd1bf9c257ca0868d71fb894dc"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_205150_jpg.rf.709f4605c47cdd625e44f213e22b3fb8.jpg",
+      "size": 38999,
+      "sha256": "4521fdf5bf79ce4c503df20e913cd9f2f954ab56e42915965a2808362b54770a"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_205151_jpg.rf.e6bf2c96e092a04f2331d8d1b288c67d.jpg",
+      "size": 35746,
+      "sha256": "10192f143cf8e8b6957eb9a841587a4cc74c2b23d24bde769d74ade3d779232b"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_205245_jpg.rf.b753ab0e76c54f4090f1563c206b55bf.jpg",
+      "size": 27405,
+      "sha256": "0fa25288a5e62a7590da9c4341a43e18ebce28aa561ee4295c1e81d4415c2de4"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_205250_jpg.rf.299bcff334c54651f50f43d8337ce02a.jpg",
+      "size": 31921,
+      "sha256": "2918b860ccba0bd4b5b7ffd9398d633fcbef8e886157bb8a325ff01f4624f917"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_205254_jpg.rf.3de4933da97c6315aed2abdeb316a3f5.jpg",
+      "size": 26133,
+      "sha256": "2404b823cbe034ef238d70e4033c76a65fc782eb1543d7cbfa92325f4e1581bb"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_205255_jpg.rf.01a5f60ba685d69f8aa101adb94bdbfa.jpg",
+      "size": 28729,
+      "sha256": "8d639dea1a315f0cf2e31a3bee4fd789e9e0ee88dfbd97d7b0a0620628c49a68"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_205300_jpg.rf.9718f8c3c536eb99f69daed30f96ce69.jpg",
+      "size": 24738,
+      "sha256": "879ee88a5dff040266e2230f065b953185c8166a8b3963c0eeb80f0c9440afa3"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_205314_1_jpg.rf.33e6e50746cb8d5eb6ede5d5b962effc.jpg",
+      "size": 31338,
+      "sha256": "88b75114bd84533ac5de7a14ed23e3dc612e3d0c6f66f0451ec726b6fbb92678"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_205315_jpg.rf.4394968743c03e5db47b4d93ee83c654.jpg",
+      "size": 29637,
+      "sha256": "a206d9b0223da829eeb2b4e9cefc347ecd79f359d2a13791a4841523d33f1fc1"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_205337_jpg.rf.198ac275aa383fc8b60921cb8c97757b.jpg",
+      "size": 27171,
+      "sha256": "6032ee2793555d30d5b10b9e91c3536b55cdb56120fce4b8ccd96edeccb92789"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_205339_jpg.rf.6712e9342819463227bee4d32c7c2e04.jpg",
+      "size": 25604,
+      "sha256": "a9284b0ae34b862b8d205c44bb59d315a61dc6ed73d4c7fc0e4d7d075ebb9e7c"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_205341_jpg.rf.7b1d02176ba8b6f3e05247bdcabe4fa4.jpg",
+      "size": 28917,
+      "sha256": "da30311c0d78c669e581ae6410e4e3b65c68addcbe26ec313d2eac7570af2064"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_205350_jpg.rf.7956615687714c5f5cdfcbaa3540c719.jpg",
+      "size": 43118,
+      "sha256": "bd6d9770808617c67fb735ed74578c6ae5007cbffa7e04caa5c4b312a69e060b"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_205403_jpg.rf.5a9b820f5d2612316dc692feb3654491.jpg",
+      "size": 25017,
+      "sha256": "9edebe01c36c5a1202dc31cf0551fcf17230209315788d9f7a7f7a34380a959f"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_205407_jpg.rf.383bfbcfa782b11d1f75a83b614daa5c.jpg",
+      "size": 37567,
+      "sha256": "a216a8fdda72c704f2e45fcf60450a1cfe346021749b69e67852432e11efc8af"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250805_205431_jpg.rf.c92632bd2a6247d852d374aa96d40a8d.jpg",
+      "size": 36241,
+      "sha256": "4fbb8e191d5d0a9ec1a465270429be5ed92b4f1a07577c4cd9119427dbabf3c2"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250819_235825_jpg.rf.7aa576f7cb02471e8994444cf27fa28c.jpg",
+      "size": 36695,
+      "sha256": "23c26b63e7362268be0744167739e6c63a914f45b8423fe3804468e1474c4855"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250819_235826_1_jpg.rf.c4b68d324e66f8a22b052b5fc9caf77e.jpg",
+      "size": 46881,
+      "sha256": "1b69f07ee984a1ffb55b27a624e9d4138961dc554245af33990e8c8ed6641a4f"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250819_235834_jpg.rf.ca82a7a2b1613934ff84e4f2b604624f.jpg",
+      "size": 55275,
+      "sha256": "f471779818849e259fb19e188d18b91bce2d4d8eadc7cf3db7cce51a4cf8f47b"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250819_235854_jpg.rf.1301ce39100af13ea5388ee514c5ae8d.jpg",
+      "size": 50953,
+      "sha256": "8e0fac75f0a69590a403700ac16f5082da25caf9615f0eaf5339425be822b20a"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250819_235855_1_jpg.rf.f04c1306dc16b1f9b9278111b7d62f68.jpg",
+      "size": 53010,
+      "sha256": "a9f8bddddcaf48fa0c52a5f242de16b08aebcd7cd05532b55c5cfd63618cdf81"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250819_235901_jpg.rf.dd11536cef119c9a8d77c4ca35e81b59.jpg",
+      "size": 42422,
+      "sha256": "7911295fc7f31dad32dd06a9a9a6b1464a6352382a8467ad2c6d101b34628939"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250819_235906_jpg.rf.acb4f57e3be6dbfcdf1c0345f05e42cc.jpg",
+      "size": 62557,
+      "sha256": "a201f8d881659fa255261a98fcff1c92c94ec1bcf374f711a0fe76c2265959b2"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250819_235909_jpg.rf.7b6756f0b84eca2fee8652178b358cad.jpg",
+      "size": 64657,
+      "sha256": "f25b1eb5979b0ffb4767168ec816120673dba97f9b812434ca4da0de9ff22148"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250819_235928_1_jpg.rf.bdf2ed5c451e3f0f6f66c14a405fdcf4.jpg",
+      "size": 54309,
+      "sha256": "b7004790b7da9d12a91b501af6218bf761e8eefdb5797e2940dad0801db3a869"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250819_235946_1_jpg.rf.8062c6fe42dc08b615e1b1d3fd24ee49.jpg",
+      "size": 58387,
+      "sha256": "b7224f66600b51fffa7827f3ec41b027cbf7cc3b9e45f6dfa91ff8ec7f89397d"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250819_235946_jpg.rf.81cad422467acab353a93f9d628214c0.jpg",
+      "size": 56644,
+      "sha256": "eccea6833084419784960bfc81971741f3d5f2866eeb1ed30c06ff540d60f045"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250819_235956_1_jpg.rf.13c8f40791f750605aa42a1d3e903da9.jpg",
+      "size": 53269,
+      "sha256": "07c98c92587a01bfc88897cc91664d82c0b24aaf72f7ceb507d458a5fa99c866"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250819_235956_jpg.rf.bca754d8c8474f5b1a13d84dbba205dc.jpg",
+      "size": 45546,
+      "sha256": "080d1deb7262bc2e447e12b09e10bd294a0f6371f9ea35968c065b223e7a025d"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250820_000033_jpg.rf.adc972c64f812ec16fb7b709cd8f8d48.jpg",
+      "size": 33413,
+      "sha256": "9f90cd44f1f9993194d1b5b002f415c90c1cd9fec637924ec14f944b4891fda3"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250820_000035_jpg.rf.3407d126afc41a5158e1ab67a1306b90.jpg",
+      "size": 47161,
+      "sha256": "16f539123675e9a9db988461d929ce888849428de3de3e3011a8b7a90e72e851"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250820_000047_jpg.rf.c2f82c69a566742b8d1f5b87fd1b9984.jpg",
+      "size": 50107,
+      "sha256": "cca7ef6c47e87af152d68766239f703219ba8f488030d044a3367a3f7a582ab6"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250820_000050_jpg.rf.d5926835c69464775534ba88b4e245de.jpg",
+      "size": 53473,
+      "sha256": "e7f45dd0ed3db1e2385400ef77718c66d8c5b7a4ca86c109c2408e81a64b98b5"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250820_000054_jpg.rf.61ea31788c45e13dcb66eea5b0503579.jpg",
+      "size": 49126,
+      "sha256": "e1181e274a6abe4e4add6f86d682083901165c86402ba4e22b654b6824b4898a"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250820_000059_1_jpg.rf.0a4cc07d817a5083c6dc09505c31b33e.jpg",
+      "size": 40838,
+      "sha256": "db53b7a924ac0d1e6c6140aa83ffbf576030f617214d66c3b9dc71202d166e57"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250820_000101_jpg.rf.4f68106af83c526406d31efab9a05adc.jpg",
+      "size": 41360,
+      "sha256": "95e3dc9dfe694cd207b54c9b81498d8b4b93c9e32cfec5bb4883ebaf787f1333"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250820_000134_1_jpg.rf.9d5420526a6c553ff0faa51084546ee3.jpg",
+      "size": 53921,
+      "sha256": "f4f92627f6a318ce5c4b91eb63a6647bc0702c1a29402f7220880d8af0d47177"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250820_000134_jpg.rf.25b23ebf880b183086a384e7c3046fe8.jpg",
+      "size": 51888,
+      "sha256": "46fa55e3804a5bd876293598759fde5433830d92f0c4a2084efb7cdd170ae087"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250820_000155_1_jpg.rf.0cc062953a4fabb2963a72c41cc6ff8e.jpg",
+      "size": 60997,
+      "sha256": "e6531c7ab3d1c941509120cb5143cf17b3ecee69f5a6fd4e3f8bae3bcf682e9e"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250820_000158_jpg.rf.21193b8da65fcf0f38601cc8bd4f1b47.jpg",
+      "size": 58741,
+      "sha256": "487825316b27a9c776a4d1efd7a413b10c7284424aa9beadf836b1bc57faf35e"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250820_000208_jpg.rf.8ef14c59eeed172b81cad649377fa976.jpg",
+      "size": 55080,
+      "sha256": "5231e13674f448d6d46f9052ee5142e2ac40b28c0236e4ec7ccad04b5b43dc9d"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250820_000210_jpg.rf.c7731efde23ccbb6f20b0c3b033dc383.jpg",
+      "size": 56987,
+      "sha256": "24b52308d90cac83b29509e0f40968658a93930fe67da2fb607cdf8c8374bc48"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250820_000214_1_jpg.rf.a4009d99178ad043ce6e7f504a036d92.jpg",
+      "size": 75082,
+      "sha256": "2ce5ee7b4586e3f1af03284f1632951181bbf9f01441e47280927e10b4f1f53a"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250820_000327_jpg.rf.0057c7022a462cf14b440bdb3e8d1681.jpg",
+      "size": 40758,
+      "sha256": "f6a310341629deaeb60ef8e177c8ff65f1b043d610d65ef7c1ca116220473302"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250820_000345_1_jpg.rf.8a56e4c81b502c74fced7db7285abde0.jpg",
+      "size": 40351,
+      "sha256": "c404a8e8b325d406229fac0c51e33578c881f2a5bf4cb4e9b14bbabef12bec25"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250820_000346_1_jpg.rf.475e7b00206377bd35fedd8ccddd6513.jpg",
+      "size": 40079,
+      "sha256": "7af15a2b16338c02ba391eaf88c6061aa1e689ed657a644d8d80966756f9c055"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250820_000346_jpg.rf.c6106872da4fd5008ba31e9dbb78a6a5.jpg",
+      "size": 39219,
+      "sha256": "f384f0eb86f8e90602eb9c9241165d3fe5dcff63f397230f71ad09168a8f94b0"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250820_000347_jpg.rf.b087947381255155846ccf96858177ef.jpg",
+      "size": 35549,
+      "sha256": "d3007933bfe802b956b72ebb9da0f63c74682a54d3bc5200ba700bc30a9cbc76"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250820_000350_1_jpg.rf.4720d935c5d6d5d9bb4d968a9c11f2e2.jpg",
+      "size": 33987,
+      "sha256": "61f84b377a06f77a87e188641b9495eabd4e8e80c20b4075849cfe8fe703c242"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250820_000401_jpg.rf.e850d2354d04cd96561cbc82dce9263b.jpg",
+      "size": 39993,
+      "sha256": "f7607377697d35d9cc2aaa47eb061c66ac7b2ff10e32b040bd8202e9c5be537b"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250822_135900_jpg.rf.453e2314c45b42bcd284114778b8c551.jpg",
+      "size": 37708,
+      "sha256": "cd93c5a4681255dd867a66ef28103fffc59a7c83c56c7362a17c47ad3662358a"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250822_135906_jpg.rf.3b7d2cbc98e29c0fcb4c76e1ca805446.jpg",
+      "size": 34757,
+      "sha256": "029ff43fd93f7440e3051e36f4340f323af6ca609aff803aa1ee40a8e1eb53d5"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250822_135923_jpg.rf.093e30b9e636a584f99200ec22dc90e7.jpg",
+      "size": 32123,
+      "sha256": "60f60193cadc24042c29a4a7637ee9fd14f4eae0b8c91be2f0fad30c91490859"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250822_135929_jpg.rf.2f0cf54e9747d01974aa628d24d1dde1.jpg",
+      "size": 29843,
+      "sha256": "19b2dbf8b4fa2f2ff7ca3bad36634664ca24c301b1ff7966d4ccbbcf5d99dc99"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250822_135940_jpg.rf.21280cf79175e652ea82f65d0b9c7f62.jpg",
+      "size": 37695,
+      "sha256": "5e13a48f67f6cfcb7f98480e4ab509608544d2ec7239f4d11b0572f335468eb3"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250822_135958_jpg.rf.420daab7fb8b612ee27099a692f61e42.jpg",
+      "size": 36678,
+      "sha256": "0ef046097a28fe0a1fa6aed71f412818027616292fb22dbeeb7561153b99276f"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250822_140008_jpg.rf.8989c657b76686633249aa1103b65e2e.jpg",
+      "size": 45276,
+      "sha256": "f0add79000f853ddd616c02a1b0c8c6cac0e4bfac16a2041e0aa1c0eec68f796"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250822_140009_jpg.rf.f15772bec2401f30e84df176faf9bf5b.jpg",
+      "size": 45377,
+      "sha256": "4ad7fa72dc114810cee1586f2d4d746cf29fd6e28f41cf46dcb76685d84972a3"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250822_140159_jpg.rf.74aaa63443e33b800cd53eccd5b716e3.jpg",
+      "size": 52098,
+      "sha256": "c91e2e068a33b33eb9228010f68ab2059558d80b865773da7e6c1e2764eb2a01"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250822_140219_jpg.rf.02ec3714370ecd019073128a348ea140.jpg",
+      "size": 40878,
+      "sha256": "293080a4260ee4bb16df146edfb624186b6a263f05188fa603b3a324a44a6a8b"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250822_140222_jpg.rf.ff63928f6fd759424a21461d4c5e1203.jpg",
+      "size": 41482,
+      "sha256": "65bbfc61b4872877ababa5f9b252f0bebef2ba949345846f7569db0d97f92e78"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250822_140223_jpg.rf.1306b02c448e484476bfb44cd9960957.jpg",
+      "size": 38660,
+      "sha256": "a3ba11e787f3df73a759d758ced6ac654f57954cacd5b674adb2fa1bdaf11761"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250822_140225_jpg.rf.853567ed56f80104abe0de86d68a50e1.jpg",
+      "size": 40722,
+      "sha256": "6417ab2cba64fef8aa2a5a3db8934574c9ce1c3a1fb055aa327cbb3c3e7cb0c4"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250822_140230_jpg.rf.8e21bb8d48cebe5fdff21d1032e62d54.jpg",
+      "size": 31015,
+      "sha256": "1d251779992cc68629db0d219de21b71e2df2d239453389646f7dc7a93d0d7f8"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250822_140302_jpg.rf.6eaa141f0ef3721372cbe3dc889dec87.jpg",
+      "size": 60880,
+      "sha256": "e8fa76138da82da0284adc67b6ed3646925f36fbae6126edcc8d21dbccae02c4"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250822_140304_jpg.rf.c89a1817c375cfb5bd51818eb01621f6.jpg",
+      "size": 61694,
+      "sha256": "accfd0d33ccfad2938fbf569d9126512e79c3b12fdd22bc7c4277a31d12ca972"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250822_140308_jpg.rf.8d6f8692a27b5076cdc634ac3a93e8fa.jpg",
+      "size": 62933,
+      "sha256": "fe30596bbb7775a7720069ede8f7c3e78b75ad72329e5b58dc6d21da5150e985"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250822_140311_jpg.rf.a3ee07b7977b220b17a4be2eca36ba8f.jpg",
+      "size": 56149,
+      "sha256": "b2be9f5ef44d5a403e79ee5d439596885cdb07426a54c27feb239168da729251"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250822_140317_jpg.rf.8a8350e9a0119414b9d805cd5d27bb2a.jpg",
+      "size": 70203,
+      "sha256": "a7efae64f2ce9e156be6a3fc0824482ccf7c845310b2049d9ed1330aba8a8ce8"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250822_140350_jpg.rf.37910db6261f9d7b4c8e256400d8771c.jpg",
+      "size": 26515,
+      "sha256": "284c81a6b4245716a5f695460e015ac12e1c58a1591e82748bcd8ddefb3802bd"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250822_140351_jpg.rf.68a8ac2bc7e4380a0e2993e012ff5c19.jpg",
+      "size": 23952,
+      "sha256": "52034b6032a482370b6896649722aea81345aede9fcb9a3dd8760928ce3e9651"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250822_140359_jpg.rf.9470f9f5d5bab33f64ec56963463294f.jpg",
+      "size": 23502,
+      "sha256": "d32a3919120e5df472aa83cf46b8e030d3e9ec9f86ccbd461f66e0a0584907b3"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250822_140409_jpg.rf.42405a2d8bac9ee2bce25275e0e3d92d.jpg",
+      "size": 23242,
+      "sha256": "ac72809cb22f2a595d1f70f7ff8bd0836be828f3ee409b788e96b91c25fca525"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250822_140412_jpg.rf.4ee51e53754b9b6942d000b4469de550.jpg",
+      "size": 43113,
+      "sha256": "d3f2f53641701babb63bd40c411a9f2710fe04893a49cfe05159ff64be6e64f9"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250822_140424_jpg.rf.561505a19b65a4aada84cdaf0084a292.jpg",
+      "size": 21829,
+      "sha256": "8d679c3a78987ffe8c0a388891015df85e4d755ade1eeadf62c1c70878431b65"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250822_140426_jpg.rf.f5bd5222e11ac436c427f2f5274f611b.jpg",
+      "size": 23333,
+      "sha256": "b979efa0aab58a29290f7688b926f4f69f7faadf99200533060a061f65ccff12"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250822_140431_jpg.rf.0219dfce4349916a8a0b4c3a90383476.jpg",
+      "size": 24461,
+      "sha256": "3da5c67f5e37aca208b5723ca956717d5a5dbd53b70ce56d1373b4cac366561e"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250822_140439_jpg.rf.9cefc436b0a5838a8f3e084f24758d45.jpg",
+      "size": 33208,
+      "sha256": "e7f6958e383aa51516b164ba3c08a50b59e95a444ff25eded746552c23de6a5b"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250822_140534_jpg.rf.268594c436cd144eba2c43c88ac635f2.jpg",
+      "size": 35790,
+      "sha256": "e58d3dd9ebda711d489efee439028671d5f1978bb9297de3d4d8c04919a29639"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250822_140539_jpg.rf.cde02abebb4dcdae8d8bff45501e38e8.jpg",
+      "size": 36591,
+      "sha256": "0b74b33fec2d1734a8405785576d53506bb2e6457522d0ae81cc9a2b376ac6b5"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250822_140544_jpg.rf.e28c16fcab9ebedbb7287210430f0c0e.jpg",
+      "size": 48067,
+      "sha256": "43f65ba31ee299af930acbaf6eddddd5f175b414c1fdb1839c892f9eafb34698"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250822_140600_jpg.rf.7b5883061ca4a70e4fced90d41cbb9ae.jpg",
+      "size": 24055,
+      "sha256": "b449585ac410a6b8dc77261db86f448662b238f3c81d9a2ce7c027de4744581b"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250822_140735_jpg.rf.7c52bddb838601517556ba12ba6a3f7e.jpg",
+      "size": 22827,
+      "sha256": "2a221d6155a992c3543403a7899b273422d54844a262b8d1385296ea668fefbd"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250822_140736_jpg.rf.4a09ef24a25d2c57ee2ac630cd43395a.jpg",
+      "size": 23338,
+      "sha256": "9313893c4b6b4a60b0c87e596149c61e97d689823427bfa4496e0f758534a245"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250822_140742_jpg.rf.811f3a2798360d968965f3c8b35cf683.jpg",
+      "size": 28928,
+      "sha256": "1ce62542c0e61fba8260b2e6248b25ae6a28ef08d094920b1b170f049064b92d"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250822_140817_jpg.rf.57071078b8e05b774b90907450c97a52.jpg",
+      "size": 18181,
+      "sha256": "55cdd579c9db2438ec5aabd1c7d79a45b656aca84d57ea17fd66cd8b872cac50"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250822_140819_jpg.rf.6bc889e0ff14e453f52551128fd143c5.jpg",
+      "size": 18990,
+      "sha256": "056679369d6394b85e1492fc68795d986ad019825d8da983e8f545f34380edb2"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250822_140831_jpg.rf.8bac2dc62bbc6eecce5843150a93a367.jpg",
+      "size": 24304,
+      "sha256": "8567fdf905378a9bd528811208b2e9313e550d4c7dc2da46e3664fd28245c89a"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250822_140841_jpg.rf.9c958515cd70538cca79bace4a32fa4a.jpg",
+      "size": 21876,
+      "sha256": "39405f492f6f6ab3c948b7ce6880f8297661889bc43fe84aded2fb66bea3c49e"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250822_140901_jpg.rf.eb59ae1ee095dcc3b5c4d4faf6eba8fb.jpg",
+      "size": 17963,
+      "sha256": "7602137a212d4dac6955f0acd7283f1406eda25ac12a15af91b87412890f3c44"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250822_140903_jpg.rf.0ab3494f906b9f6e76136edfb1d74544.jpg",
+      "size": 17845,
+      "sha256": "c134b657a62a67c10a3292bff1bd4bbf0ac69bd614406265736c74e0ce4db3c7"
+    },
+    {
+      "path": "bangladeshi_ewaste/images/test/IMG_20250822_140907_jpg.rf.c066db1fce595c6ef38c60d5e329dd4f.jpg",
+      "size": 19836,
+      "sha256": "648b88d5a47deebd0395…222078 tokens truncated…     "path": "bangladeshi_ewaste/labels/valid/IMG_20250805_204626_jpg.rf.8495b87f2ab0c81b054369640e0cfcba.txt",
+      "size": 82,
+      "sha256": "08f7ae02a35856c7c0e81db394b706b4dfc98228818067ccef2f315d2fe4c953"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250805_204647_jpg.rf.d9c90959671e7b6e662d6e3aa6441d02.txt",
+      "size": 72,
+      "sha256": "98c4ea593eb65d6d68afc44c8a6f566f09c28cb16728762f1733274d1bcd32df"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250805_204801_jpg.rf.06bcd29264fbf6c0e7edc9e921c2a8d1.txt",
+      "size": 72,
+      "sha256": "557d23b4813686e1a2b5c48f665db6081cc05ff2e9f3c917a7aea10ac4daf2fb"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250805_204803_jpg.rf.b93b527055d5d443f5c5f4cd7a4e4be2.txt",
+      "size": 73,
+      "sha256": "626d45693bb70f3c58b1213b90a5ff67bc63aa0efd72f3a820a39b2bbf1485db"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250805_204805_jpg.rf.a6dcdc7fcdf26da9da4aac2564cd6b9b.txt",
+      "size": 82,
+      "sha256": "c388de1f80633f0f07b923e935199047aa1f8cc1bd13e7e72923201b385f5162"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250805_204806_jpg.rf.026119e3f5bbd7746602ef0a45ac381e.txt",
+      "size": 72,
+      "sha256": "35e573c8b82ddd04be9230a5475ac6b0478ac94b3084b92ecbb1ce1c8de3054d"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250805_204821_1_jpg.rf.9c799b4a63e4a206d19d770bf4380533.txt",
+      "size": 75,
+      "sha256": "06bb28d4ebf8d67ff85803ea241c653f9dba7be7186a19a34e5e872b88080a94"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250805_204853_jpg.rf.00d07d9974c2d7326107af752f44f6b3.txt",
+      "size": 73,
+      "sha256": "c2fd44f4d87535be07a2413b337ad2bd70601234d75ad1368533d75e188ae38c"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250805_204854_jpg.rf.33200c016aea8eb346be36b6e3165667.txt",
+      "size": 63,
+      "sha256": "f53767dd455a6d867b4058e27a785cbc974b7761ed1a191ab5113699514f64ef"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250805_204903_jpg.rf.eb71917bed9892e488f346ccd5a20030.txt",
+      "size": 82,
+      "sha256": "3cc50138eaff9c8419a62f2f280eb68e4641a192e00b1bad42ca3b2c1f77bf96"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250805_205007_jpg.rf.96784642454cc10f830f6fc27333b628.txt",
+      "size": 73,
+      "sha256": "7ef6c6b7b5b57d99a98e1146a4b95531b5ef3d09a8ab2d1ee9681c59cae35220"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250805_205009_jpg.rf.0292aedad341e86afd7847ea27857feb.txt",
+      "size": 64,
+      "sha256": "f8dc2447c049e795c4b6d05ff390969eb70ea080d89517a930ed0a955cd508ba"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250805_205015_jpg.rf.0b048a47b8688797012e70a4b28cc43b.txt",
+      "size": 82,
+      "sha256": "d87d4cea1da8c1a0599372f3c5b941b7e0ee80e20285c11f4eb8146cb5ef0c47"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250805_205024_jpg.rf.d712c687a82bbe88f51807560183469b.txt",
+      "size": 74,
+      "sha256": "226e56e7b14b37b696e2320732983017474fb0726b602447483d6145b86f2b58"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250805_205104_jpg.rf.13fe8b932124c1d9b7a12c0fe5709be4.txt",
+      "size": 74,
+      "sha256": "2e5d8abff3c96c0d47fa4071d5d850d20d36033b5920a3115c46070acb333891"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250805_205124_jpg.rf.78df0cca1428186a7f08938aaa479eef.txt",
+      "size": 51,
+      "sha256": "798932cced41a2a339cad6f3da31bcb618c0cdf93fbc2062d04c6271b48d93a3"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250805_205133_jpg.rf.da6d1209d38e2c27558d23a0747f8913.txt",
+      "size": 83,
+      "sha256": "4f34ff075d717a953ee6e6775e55971e67ab1fc4b1250ed7eb34457e808219ce"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250805_205153_jpg.rf.d051eed359d1532502032f1ad2bb5cc0.txt",
+      "size": 80,
+      "sha256": "5bbd78e6248002363b5304e50a6902fe5a9c467e8bdc0dbee88f456cfbe5816a"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250805_205157_jpg.rf.d7bbf7c284859a6aee4930d7716db037.txt",
+      "size": 83,
+      "sha256": "9cf91e0787992926b75599ef30987341008d6439514dd4437b3c34f3233d0d00"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250805_205249_jpg.rf.c00f1841c88990f1eb3c331bdd3d2fdd.txt",
+      "size": 74,
+      "sha256": "fc6a8dd4fb5af3e580c0c9f1b5e5645f200bd8aeaae12dc348c2b73523aaf3f2"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250805_205335_jpg.rf.0cb1e65a1bd96492d29906f5b00c72e8.txt",
+      "size": 83,
+      "sha256": "9161637baa31907f7e1bdc201cc6211c7ba1ce392e770af242edde8c860ba967"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250805_205351_jpg.rf.664851624437e5c6e5c3f253e690d43d.txt",
+      "size": 41,
+      "sha256": "e5dd949fb4afe8ff3d8b3ae1dfe20ac64044199b9e82a84c66796662134a9ed9"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250805_205402_1_jpg.rf.52b9b8f73f3b91a34da7deb704776245.txt",
+      "size": 74,
+      "sha256": "1d6d811736320c856f6e2ea3c7a8cce45e6f04927aeda166e9ff2126032de299"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250805_205429_jpg.rf.0520c084d2fc0652f02f57479cdbf0ba.txt",
+      "size": 76,
+      "sha256": "5f2274cbdc23bd1ec1775846b7e4020fee837057a1a8b143c8903de983baa251"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250819_235838_jpg.rf.888e800191101bc3b7bdfffcb0475470.txt",
+      "size": 72,
+      "sha256": "92590a0273f9ee11e421cf8dd32230f87f433b5b9a4ae33379d7e40c9b6282b9"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250819_235842_1_jpg.rf.1fd64912fd4148466df103ed4f110adc.txt",
+      "size": 81,
+      "sha256": "8fc6695b422359b0a0f11af93ac17fed6cb2fb059cf265dacd000eb930cf2569"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250819_235842_jpg.rf.a43af71c02ae1c645d1b315ad9980e9d.txt",
+      "size": 74,
+      "sha256": "92c56e0924172249895e8944c80f1609f88ca03ca5d3eda3692d83b5de757f80"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250819_235843_jpg.rf.d882244b4742ce69e89e0f0c43b81ec7.txt",
+      "size": 81,
+      "sha256": "4eb23a9513c95ea9d6d272c8603431d1eaf6aec405ff9d3f7c74ec45ddd55812"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250819_235853_1_jpg.rf.ae6094b2a084ddac00441c8cf74ac624.txt",
+      "size": 74,
+      "sha256": "58893bd22d1e57da853bcd55e2fe76f6f5c59750366895cba1cb7c4e1161cabc"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250819_235854_1_jpg.rf.c972ca1131e9d19f42d96feac39ee3ea.txt",
+      "size": 81,
+      "sha256": "3ad76e15b9a562f69c725b40ffb0a92d8f7acc1e5ee967cad09acc1aba234f6d"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250819_235855_jpg.rf.ec4e49eb3acae9ad6cf5993ae2a773e8.txt",
+      "size": 78,
+      "sha256": "7f95cd44d1131298d44e4bbdf57fd10e343fd5c74323cf543d764994b2bb66e6"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250819_235901_1_jpg.rf.9ea5d881b87f497f931cf97313b89250.txt",
+      "size": 72,
+      "sha256": "093f5c8d4f077e4247b774144e34a618d48a10545c924c9c3470352103556825"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250819_235902_jpg.rf.c861cb0db3eb318ae1c784dbfe49f3fb.txt",
+      "size": 61,
+      "sha256": "cd2282cdf805d71e2c280ad7b51d70a6fdad955822ad8ba85775118cbe97897e"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250819_235905_jpg.rf.c4980a6578a9c42efa135812534e86e8.txt",
+      "size": 82,
+      "sha256": "294acffdb6186be4e31f5153d8a709c187394badaec2d1ed7966f7ae0458a82a"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250819_235908_1_jpg.rf.95f926adcf3efa512b4651b72a29d006.txt",
+      "size": 81,
+      "sha256": "01e1c7f45a49838384af45219590930707dc5e86ac6fbcf0ed619bea3655f300"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250819_235908_jpg.rf.89fdef3b3a973def9c379873513bb364.txt",
+      "size": 81,
+      "sha256": "de88f72507126e8fb17f5ec3986823fe4e1321efd99486d88b6bf66e6c56f015"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250819_235926_1_jpg.rf.7f3f4609c5055b0420445f0b330dbb3f.txt",
+      "size": 70,
+      "sha256": "e03fcfba3d06d9956a142536f83962e07024acd17c42af72cb361b2a620ee1e4"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250819_235927_jpg.rf.92ca28607d3583cbb4e47ac76d4d4979.txt",
+      "size": 73,
+      "sha256": "24fb968dacb33c4a876e2fa3e46b2c5b1752d2c72992122e1a59a5060f69c132"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250819_235930_jpg.rf.d83c7b6eba6e84b684277de0e5deeeb4.txt",
+      "size": 81,
+      "sha256": "d669fa8c92b82ff467567ce6d4bd8a5ce5beb3d401b30b5527c2d5b425c1a033"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250819_235934_jpg.rf.2917ec33822c0e587ad4e50feba3a906.txt",
+      "size": 70,
+      "sha256": "26f99ccbba71c861a001d7b756d3733130e845e03ccfa8ad4aaa1cb1fdf44bb6"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250819_235939_jpg.rf.4a0359ba6a87efcdba7c3845a45e73cb.txt",
+      "size": 77,
+      "sha256": "ae8ed90205fd02b7439d8c092f484eaa927e3f9845831646052bcb4f8af23f4f"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250819_235953_jpg.rf.9187dfa4123f92bf96f0e4822508c0c8.txt",
+      "size": 81,
+      "sha256": "a4aaf05f85809b81d6ccdd0e199a9483fe4b4a171b38a749a0293f02df34569e"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250820_000034_1_jpg.rf.97e381996a582bf25eccffc8a22ae7d6.txt",
+      "size": 74,
+      "sha256": "80f34b5cda610d1fae6682b41164f2142e03982210340a214413d764becd3a00"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250820_000034_jpg.rf.970f72d7de714e380e2f8b49bce4b22a.txt",
+      "size": 61,
+      "sha256": "11be608fc3845979016ea514567c80d4830b627a3c418ed0d9d61dc1538083b5"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250820_000036_jpg.rf.29e8716903573c7a561d3ffa46d798ea.txt",
+      "size": 67,
+      "sha256": "2e7f2aa7dfaeca80e7ebaa29ea80c9bcb10b4eefcabd107051b7b5013c1be34f"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250820_000100_jpg.rf.51dd1976b3d96637fa3ddfa23a9f1532.txt",
+      "size": 82,
+      "sha256": "5cc33fd7397eabf83bff0bd8ddb85807a38d5558d035a1fa8777361e8329fd7d"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250820_000135_jpg.rf.c544cb7ae163fca94462a5366dfbeb75.txt",
+      "size": 81,
+      "sha256": "605d8a6bfe0962d6c8ca37c81f799fcac5ed50c454ea259ef85fb53d67158314"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250820_000156_jpg.rf.c869c224644d0a8d0fa0126eda24dda9.txt",
+      "size": 82,
+      "sha256": "41c527eb298906e3b50cc29379b029600391fa6cbb47b35814bfad9f8a097fc7"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250820_000200_jpg.rf.c7a263db062da89abf39061e96a7de27.txt",
+      "size": 82,
+      "sha256": "ec0136ee0b8d12a98cf6634f97d1cd31382d34e2f68f798565a0eb62d13c1b34"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250820_000210_1_jpg.rf.ff97d480f7938169ebf6b45ece2bf008.txt",
+      "size": 82,
+      "sha256": "f4011933233bcdbc23b5807e04d1622714167224b87331beb87c79102f9b7a0f"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250820_000214_jpg.rf.13a2967d666c5c11a5792b726b7c135a.txt",
+      "size": 81,
+      "sha256": "285f6d297eaecb39ba9c1625e7b77ac805b67b42d2409af980b2d9ae6937ff2a"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250820_000314_1_jpg.rf.776e7ba31cde1232fa44c4cd889e499e.txt",
+      "size": 80,
+      "sha256": "efbb60ff061a3ca35d8f020ac49b6cab1875ac248b874423bee9a1fb40759c64"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250820_000315_jpg.rf.4b4c448d9772f1d4212afa1f8b460b26.txt",
+      "size": 63,
+      "sha256": "71d3243d6ed7334c437ae6427267205000d592f2dd55618ab1fb235865dc82e4"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250820_000316_1_jpg.rf.be1578bc456f996747c3eb106972406c.txt",
+      "size": 74,
+      "sha256": "83b0cd31e521be4748658ceb4dc5116e2e6f859cd81d86e8fadc14d4743281f5"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250820_000316_jpg.rf.0916c882ca1fcb87dbc489b2742f0074.txt",
+      "size": 73,
+      "sha256": "2fd6f821e0e9bcd603a23b9c7210937b9db5f09f34f4c4e220fda76851d9a6e5"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250820_000329_jpg.rf.6eb3fdff32f72ecc14203b4c5ba7d620.txt",
+      "size": 83,
+      "sha256": "a819f18b193fa42a969bf0ccb416d6627f15ac2c16320da64300a2094082ba49"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250820_000336_jpg.rf.0283b97d8d42640c2b4d9a59bc1fe4e1.txt",
+      "size": 74,
+      "sha256": "19eb320f9b1f191df396bcf4ef2eee70dc6b70c1c440044d1613df33124fd6b8"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250820_000345_jpg.rf.f5ce578c3eae046df54c887265f22e42.txt",
+      "size": 65,
+      "sha256": "ad997f68a20948f627c2faa926b2832e1431fb87289777f76c9710ca2fef80c1"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250820_000353_1_jpg.rf.0519cb952916091e16e482ae9c5889e0.txt",
+      "size": 83,
+      "sha256": "268e16f7a554419be10dcb58f15090572c63c788ac74eaf0ca40f3101c4ed192"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250820_000353_jpg.rf.5130ed00883caa78894f8b7970890a4c.txt",
+      "size": 72,
+      "sha256": "66e773acd013fd1b97daed8f90ad0a0fbba76544edcf3a0c0ebd0b3c66381f6a"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250820_000354_jpg.rf.767fa0a99a8459de046f875309d39f4e.txt",
+      "size": 74,
+      "sha256": "64865a6008057101b2fa82c0fca5550eabc174161e34f173cd7a0daef472cfa5"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250820_000400_1_jpg.rf.19d37a3e87ee1b6e09deb768a8d87036.txt",
+      "size": 74,
+      "sha256": "e2a87268d166a813c9fb4839ac310115630fe22f6b4c33339b5cb08f134837f7"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_135857_jpg.rf.203ff1d415de4f0edb8dd6bc5850cb1c.txt",
+      "size": 78,
+      "sha256": "fa38765f35eef68fcb87413668587eaf5eab30385b7d26bf0b3da8702c80f814"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_135903_jpg.rf.a4113502495933e697f731c4c8f73979.txt",
+      "size": 82,
+      "sha256": "d2c8300ee0b1e60d3ec9157c441087a2fea7851e4d91f8f70db5d31a39415a4e"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_135905_jpg.rf.38ad275938f82a1a7dd66f5e6ea0abbc.txt",
+      "size": 82,
+      "sha256": "7277dbd298effd0c0b7fc6c43ad1254a5ae8c07a8a54ef298b6bd6da9b109723"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_135913_1_jpg.rf.e523beb553e404e87d04d9f51fc707e6.txt",
+      "size": 82,
+      "sha256": "464e213b97ca87390015a1b72f88f64e0bfff3963cf4ec38da587717d498379a"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_135916_jpg.rf.54e0cfb108f147792a3d93ccd555bd96.txt",
+      "size": 82,
+      "sha256": "2ffef9aa46050045fe2561404abad7cd7e76b9a617777b180913cbdddb6641da"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_135922_jpg.rf.c8af085579a9a9e77f321ea5cb54a42c.txt",
+      "size": 82,
+      "sha256": "975e275026830997fc3bdd8151de4ce26e34f7068cf7aacae96cddb6f3cce97c"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_135926_jpg.rf.aec0150c69b71db21d3875a85d27febe.txt",
+      "size": 82,
+      "sha256": "5c02e495453345422c70e2a2f58fdf0d8af95c6b76b3eb7003dc858fc474a1d3"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_135928_jpg.rf.19a6acb4bf9635132865bde5ab1b90ce.txt",
+      "size": 82,
+      "sha256": "fdc9879df88ed1e2ecd6a0c223ad2e4d14c520b424bd4b9308fb097530bcec07"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_135943_jpg.rf.77556fead8d7f313c04b78a1c7ced099.txt",
+      "size": 82,
+      "sha256": "82fe8d612db06bbe21afde43c51a2ecde5769327854ff3ac7bcb5234259c8f0e"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_135959_jpg.rf.747ef13a209afed24d680b1235359ce1.txt",
+      "size": 81,
+      "sha256": "6b58b049a4538bee34b8fb0e85f30bfa1b62bea82486073b85d7566bcc061e5d"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_140003_1_jpg.rf.0e78a2a48ca922c8698712970b716051.txt",
+      "size": 82,
+      "sha256": "6c00189b95ab39f41ff7fc8db040313f52fc1b0d9a8be503b1d2ea73feced011"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_140200_jpg.rf.af2503a2670d2f94e469c0740775525b.txt",
+      "size": 82,
+      "sha256": "d9cf0b9b96dcb3c3a528a015ad0b24ad9b5a30a793a3e3223114eff0c6aa8221"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_140206_jpg.rf.9a95dad9141a8c4d803a765ebc67123d.txt",
+      "size": 82,
+      "sha256": "bd6d5bcb7dc7248af260ce9f7d4d5a62bdd74a607b68f793ddd6737fbfb83b36"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_140209_jpg.rf.608de97ce5b2e1d47b651f54ad16e4e9.txt",
+      "size": 82,
+      "sha256": "33408d6b437556c0d8945e26f6afe9906ae20a97d7816b54739cc249b0cf0cd0"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_140221_jpg.rf.fa562f352e53a236baf68ee2df8906c2.txt",
+      "size": 82,
+      "sha256": "c3e42df41c57f359a77e529821a4d66d70eba17f09cbe2e6a3eb030739cff9e1"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_140231_jpg.rf.45142812a6aa538af37f8cd70f09b99a.txt",
+      "size": 55,
+      "sha256": "2e2c22ecf869b35c683353645c1aa2b38c4657c31c5027b662d259356cdf9bc5"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_140233_jpg.rf.2b75d6ba55115782567fe155a8719eb4.txt",
+      "size": 79,
+      "sha256": "3176990f4c08dd005ab9a5451d8567a15154faf85e15021af8dfe5e7f61b09c5"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_140248_jpg.rf.961c47dc7a9179c5684484af5d6a9b4f.txt",
+      "size": 82,
+      "sha256": "c1839d7319ce80da0854cd042ed1f998eb66c1d9855dfc77db05ec310f18fd97"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_140303_jpg.rf.68c84f598eda90d3ed815a15f1ac931e.txt",
+      "size": 82,
+      "sha256": "f3ad1f501aafdb50415a4c57006b6d9e8868ef0a20a6690bc80db5f8a88d3b5c"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_140307_jpg.rf.2a87ece5d03144e4209ff05bb0e44ae4.txt",
+      "size": 82,
+      "sha256": "76a6916667799d75e89f6a348af671721783525d06b8e28eaf5303d7a5ed0683"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_140315_jpg.rf.e6810dc36be004b7118803ae8905dbd9.txt",
+      "size": 82,
+      "sha256": "cc1945aa36606cad7f4a633fb32262db35bc7fcbbff1f085e2cefbfda2949743"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_140349_jpg.rf.6460419b61231e8fd594a77eb8f62b1a.txt",
+      "size": 82,
+      "sha256": "97892c46332dacb2d11de9d42d6c38a30ab7d6872b6167bfbb2e95a2588520db"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_140358_jpg.rf.c30ba2b8f50a8ba82dc91a6dc1df5dc0.txt",
+      "size": 82,
+      "sha256": "3ddecbcf62ed0a7cf57501b45923b4f65f6349258903104e35eb5e1f053a5b8f"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_140413_jpg.rf.73cf4af821a990defde96ed1db5c0d92.txt",
+      "size": 82,
+      "sha256": "865e37922f91e3a4127cd339bfda4c82d5b9197a41d7dca0224fd5b40574efac"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_140415_jpg.rf.c9c893e4913eaf11e5f8216c8a12839b.txt",
+      "size": 67,
+      "sha256": "2bc64d63f76303e0c0d48c08b1e3da64a57269448ac60234238c6785d7acb006"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_140429_jpg.rf.5cdd4a2e6db7fcffa0b8ac686d2182fb.txt",
+      "size": 82,
+      "sha256": "62660812e4365e186c03004e99d327109a3098e65d3da4344d6a28dde577fa68"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_140438_jpg.rf.abf8602d67cb2faf0f4e87678daa3eae.txt",
+      "size": 82,
+      "sha256": "832c04b4eaba23e5e3554468c445746ed8f046bf1b03fbce26e08cea5fa0eb9f"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_140536_jpg.rf.1d37da9c3159ab3c2ca3613706626ac7.txt",
+      "size": 83,
+      "sha256": "5b8b0b8e918559001669a29cb6995534b9d695efd3e561dcc354d882a3c42583"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_140538_jpg.rf.ac48c9f6c937875957fe3fe945c55063.txt",
+      "size": 65,
+      "sha256": "b9b6c2f6a2a81ef25173a8326279cac817d7dbd11f0caff0ad9341bcda327e17"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_140541_jpg.rf.a8e4182a5555f7534f1c1b8cedc611d2.txt",
+      "size": 74,
+      "sha256": "ff2add0a65acf4c31ed493f87bb3c09959160a6f9a6c7f8274253237d94e92c3"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_140542_jpg.rf.1e3b8260fa03431f2c0a20a56bbdc207.txt",
+      "size": 64,
+      "sha256": "e8edeefb5e0c0fa355e29ba3615f2912441c6caee879da63e148a75e6889281d"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_140550_jpg.rf.157e8675527ee0441318dbceefb7faac.txt",
+      "size": 83,
+      "sha256": "fdc177cc2614617278ddd05970350b5a572688ffd1d68ae179d87e5793bb2f26"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_140602_jpg.rf.803619495847fccb4b011bb9212f9db8.txt",
+      "size": 83,
+      "sha256": "a04dbb0a90410d3a9d329a9a7470de5a2f29908931dd32ebfe318cd933b21a55"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_140646_jpg.rf.9ae49dafb5760e7c9f69b373eae94719.txt",
+      "size": 48,
+      "sha256": "4763df64a5ebcd641a5894c550cc6f1de1e29bd97f4ac111f8aac52c54d3807b"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_140734_jpg.rf.22901ffbca3572a3cd4c501aecfa6853.txt",
+      "size": 72,
+      "sha256": "d289ad2a67db8d222fc0cc41a01b27615bef5ef85ebcaa690af2c210ba98b3a5"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_140747_jpg.rf.4ee99021b5c5fb0627ca3fc9852b6499.txt",
+      "size": 83,
+      "sha256": "0830d9e64b33143c53620fa184df3e8db7cf5eb2015a53fe82091b10ecdf1aa9"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_140822_jpg.rf.04e7125331b3909f0634109dc0b408d0.txt",
+      "size": 83,
+      "sha256": "5aed5f1541d64bc9eb5fdb6f874b59071a596072dc588957dc3fc38f24b1b927"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_140835_jpg.rf.0ee465b61929f73d654324d4c2fd96ff.txt",
+      "size": 73,
+      "sha256": "0a4da1c9eb4765756d7d460019a52ba66d2177797febcb437111a9740744a3dd"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_140902_jpg.rf.b5185070d5fb1ca4c0cf2d5600eabd3e.txt",
+      "size": 47,
+      "sha256": "55330141b6bc23820eebc6d32522d6237a705a381c9e8f23346d2b4a41e55e09"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_140911_jpg.rf.0f42fb9d4a920e720922ead9fe0522c4.txt",
+      "size": 83,
+      "sha256": "195bc3b3614d50629981d98ee10a563c8b7d9bbc1b5548b5a3c7bfadf067efa1"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_141128_jpg.rf.d04cbd43b9303f09b0ecd3390456ce54.txt",
+      "size": 67,
+      "sha256": "576e49cab19d2c2eaa99419f7935ba4ba63a05b4b68eda854ce0a8563b7108f7"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_141129_jpg.rf.21c061d725a9b581f232e702d54e912a.txt",
+      "size": 82,
+      "sha256": "4700156569f968851d38dd98f7bab7984a07a4920a2ea76ca3093e8ff80b3e49"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_141131_jpg.rf.6bc9d7c9d12a91707c423c70f7639835.txt",
+      "size": 82,
+      "sha256": "ca20b356ffde607bdf884d54c655377da2918d0e67d82001e31297fb98812be3"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_141149_jpg.rf.4b59e7ba12c09c342a35a073665af02b.txt",
+      "size": 83,
+      "sha256": "69ed1de39d4bbd86a52d0d476661b9adf06a1ef9ef6aa81e050fb6ad3b0c8fea"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_141152_jpg.rf.55ac8b24a683a0bf4164cb577c94d795.txt",
+      "size": 73,
+      "sha256": "4e7b8914a6826e1d44442624323dfc26a157af854cfb02cae48e51a76f260f7c"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_141222_jpg.rf.3606b8fe8ba522369748b13f049cb41e.txt",
+      "size": 82,
+      "sha256": "ad03feb65de670967843743af30a04557d854c3d49676b029f38c0b2d56130ec"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_141223_jpg.rf.7b2a5a2c88a30385f9f63b64f3b1438a.txt",
+      "size": 69,
+      "sha256": "e821d361646622962e1e257327218e6d7c6161d21228471ed06fd4c0cb5600ca"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_141228_jpg.rf.fe06eaea6abaa58741174df4f5e1a6f9.txt",
+      "size": 70,
+      "sha256": "98e5a1a078af5bcb92b9176deba9e5d567f3b6ff25fd0ce63c28ed6f07033731"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_141229_jpg.rf.3175c54eb0b7cbc79dc68678bf68c44b.txt",
+      "size": 82,
+      "sha256": "b4459822f8e85f2133a75c549fa76c39a7bd1c497a316e1ac5ae18ff05cb07b2"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_141253_jpg.rf.40de7b91241d10afa26f632a1ea635a1.txt",
+      "size": 70,
+      "sha256": "924db86f24b0e9c1f20fcb404c265536be1e3315a8e6ad7bdb641d875f606e1d"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_141254_jpg.rf.ae0614dc175ab58dc857e843b6359740.txt",
+      "size": 82,
+      "sha256": "ad9cffecb6efc3b09f3a5528395722bf436f9f90463529793be35e95505814a3"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_141258_jpg.rf.122f8c4ee7a623e175ce06117421ee93.txt",
+      "size": 73,
+      "sha256": "45b2aad439f72ceb9cec16936cb96c55cea25085830fb9206da39a5dc226c28a"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_141305_jpg.rf.fa7b0cea316ab546fd49d38ac85d21b4.txt",
+      "size": 82,
+      "sha256": "d64e94b4fe2b67a4742fe613e8157952a036522201cd5d5075ee2cebd6c13224"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_141400_jpg.rf.3c8f9349ed83353c3f03a134a18ccddf.txt",
+      "size": 82,
+      "sha256": "61a3a7a58e48ca5905459530edfa20a0e1703dbd94ff1b9254ca3aa9b884aac3"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_141404_jpg.rf.6d91b77b58587f431efaf185b2d12dc3.txt",
+      "size": 77,
+      "sha256": "f5530fc712d111b4db86fffac74d34a2baddc52f7ba83227a66fd46c9849f6b0"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_141521_jpg.rf.f00f29234fc515ddbf32ce164f0696f7.txt",
+      "size": 59,
+      "sha256": "7c6e9b6f86057876c2be8a996feb334b1b789b129af582becdc39063f83c80c6"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_141646_jpg.rf.11f5f05bc852a5072685b294082a9bd4.txt",
+      "size": 70,
+      "sha256": "209420327c2a23a33db097bd76fec982383aa4f45bb80432186b5b90e94fd3ff"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_141648_jpg.rf.39751b3d0eab5b8589bd8a7f66e470f3.txt",
+      "size": 82,
+      "sha256": "6ed83f325f9a3cd08a7336deef6a3d12749ecae272d12d59b4c43e7c5dae9182"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_141653_jpg.rf.bb972a8631d3de0718c5d1ffd4343be6.txt",
+      "size": 82,
+      "sha256": "3a9f770647cdf368e66230c207ba8eaeb6b0ef288ecc3f30fffad90d1504eb7a"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_141829_jpg.rf.603fa265dc03c8197e4c9cbd7309a87e.txt",
+      "size": 82,
+      "sha256": "a39bafd8b312cc7c1d4557943cfac91bd673fb7bb7335c7d2cd30d56026d1362"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_141842_jpg.rf.7a9582080e653d425ea4bf8a3174f20a.txt",
+      "size": 83,
+      "sha256": "d0c78f377a210f363c9fee93053010755c5a6b81d090e2554ce29fd4cb6ae157"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_141855_jpg.rf.c95b8c3c3fe8c9792ced7ada96376cee.txt",
+      "size": 84,
+      "sha256": "11f20f1b63e4d96c44780cf14a78443768f9611c6399a8e9886264cb76fbd173"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_141856_1_jpg.rf.1bc44332dd4a5e9d1ae7d3fae7140043.txt",
+      "size": 84,
+      "sha256": "b27f16c4f600ee234c0397c1ca34b72c9ed9852075b861c938b9face2e4bf46a"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_141901_jpg.rf.82df290e826cff4bbe4e7564e4d3d55a.txt",
+      "size": 51,
+      "sha256": "13e187f1a1a466f9c9ed4d3610b71a443c4ed79f79b1c6c944df7b296e6ace62"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_141902_jpg.rf.c34a6a4144430ca6059dc71c1e0db09c.txt",
+      "size": 74,
+      "sha256": "b899e7e6280463edb5d33ccef423a59127a71eb5aa5be1207eed3a83975570c4"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_141908_jpg.rf.55d3fa75b66fbe62edfb7ee0a549c51a.txt",
+      "size": 74,
+      "sha256": "a36e3783a3cbd2f4a6c5ca9fade4de3363cfb5537e160cd5a184b489a91327d1"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_141912_jpg.rf.a4bd5cf3a4f731dd35569d24581eab1a.txt",
+      "size": 82,
+      "sha256": "d80456bf887722572f6ca3c11ddd80576fc2ac74cdbefe849bc82ea70eb2c024"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_141916_jpg.rf.be4a2db8b9366d41d0d4dde47b888ddf.txt",
+      "size": 80,
+      "sha256": "695a1caded00921e3cdcfed4466eee6f3e89311a48aa9296f5f7964ef60be2d6"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_142028_jpg.rf.e397cba6a075cfa8e1d5c9edfa40abcd.txt",
+      "size": 58,
+      "sha256": "d9112a8bc33693a8911b2b0e71ab7212f7b57e806a880c9e2e21361338ea1d1a"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_142029_jpg.rf.e13f709f722a9c85a631db36a33b3c99.txt",
+      "size": 58,
+      "sha256": "f3e0fa5aceab66bf8702cd6e8992f3a2ccddfc41b9947aa21912e5b4f735ab15"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_142030_jpg.rf.f32349d4aff512b88a4ff86f3dfdb4b4.txt",
+      "size": 83,
+      "sha256": "30b5376972a7ad26be1fb28ecc53d155d2f7c75e7bb00a36e5746fd9ed3fd15d"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_142043_jpg.rf.fc636330f59e0bb10d2155f33a223a08.txt",
+      "size": 83,
+      "sha256": "5e75e2f4f37bba92c68f1bbb721af87ebea08eb8f28a87da616d8cc4cd1fa742"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_142044_jpg.rf.06aed6639286974ef38a3fe5c06eacd7.txt",
+      "size": 83,
+      "sha256": "698cf73d4cba5f7130d7c65f3484a0214195505194a810a1081157973744a28d"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_142053_jpg.rf.3867619f5e714c25ddc1b4d3fd5c017b.txt",
+      "size": 60,
+      "sha256": "74d02ee79192059d0dd87e6381a62a6814b89c254423cbb4155b4180b974ea5f"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_142056_jpg.rf.b7703fbec5d58b50f229e4b293f38193.txt",
+      "size": 73,
+      "sha256": "c491f89ce5afeba12bdd9f80b010344a6ada900841a7642062a99237e3489790"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_142129_jpg.rf.5f8da18536b8ae2bf9b982f14b4c96fb.txt",
+      "size": 83,
+      "sha256": "1d3e3033b59549860e502ca308e195b145f059e8b98059edb6bfb670ad7b8bcf"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_142147_jpg.rf.94cd758475f73a6586d112cda87ac370.txt",
+      "size": 83,
+      "sha256": "51f9a9483fb9e736cdf5af55042b66983878a9d98b896d1624d08bed67faa78a"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_142225_jpg.rf.fb98ee37ad43b9c50c7034721f3dbd67.txt",
+      "size": 74,
+      "sha256": "7ba9f153464635e0aaed3bd88ea5f9d18a3e5cb4299cf72bb61ca5fe17dbbd14"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_142304_jpg.rf.c18fa1ce465e9f581ae75f1ae07a2d6e.txt",
+      "size": 68,
+      "sha256": "421f733b6cc1543431816519efefdcb52ddca7ab0b46c1d45fe36ebbcd334550"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_142307_jpg.rf.6985e2ff119f053d79c5cd2b999bcaf0.txt",
+      "size": 83,
+      "sha256": "e354dd7c41dfb10578be78b621bb7c565b473c6e60913c82ea6da7aab9c9e983"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_142311_jpg.rf.c4e392ccddf8ad5a76d6b7ebd2af9357.txt",
+      "size": 73,
+      "sha256": "6e8e04fd600fe51eda341edfcef327f082f6455c4fa45bc4668e9c3905050766"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_142342_jpg.rf.ceb5aff32fe6166c40b8c272335bfac1.txt",
+      "size": 68,
+      "sha256": "d0ef3635e4c2d0b3354e35f5afae93b8ed206dab3d6a985977d76395393d1998"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_142344_1_jpg.rf.8f765dcd882b126ac960dac36973502f.txt",
+      "size": 82,
+      "sha256": "fb118e492cc392bb7ba64ab0709c115e1647e19dc4c2cfea5b5a7514eb82748a"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_142447_jpg.rf.611b1d466302e0701e663863efb9b414.txt",
+      "size": 82,
+      "sha256": "b2a76cac240f226ecd9d7076ac2a1b420a6c53cef4f570ffbf3f166d1142aea2"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_142449_jpg.rf.ec0829394e6827c6e6b3a946d2be4cc1.txt",
+      "size": 82,
+      "sha256": "5439816dfa0a24a1ba4db2208131ab4f0b3192cec3dc5e042f12318dddf568ff"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_142454_jpg.rf.43c1991162c3bd2e61f256e6622b31fa.txt",
+      "size": 82,
+      "sha256": "ed2d54ce4cd4919407e6ee40be076b1732987f397ec5f9d1be9f473695b11fa0"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_142543_1_jpg.rf.9a3e254df2a0aaccb8b52089b859148c.txt",
+      "size": 82,
+      "sha256": "fc1f22ae0086884e3a600aa220650f18ec812018689ebe3c441c9fb541139f1c"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_142548_jpg.rf.4ac24ef581df9e286c86a6971b2eb3df.txt",
+      "size": 82,
+      "sha256": "025895c40f3588f05c549449043f255c92d55e4865a38e7836bb8ca78abba4e0"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_142549_jpg.rf.ceaa32446f155ab02be4bf2521046d48.txt",
+      "size": 82,
+      "sha256": "3c67c6b716e07aa30bd9281be0cf4b6124a75a50e21bb42d8ae8730b16b4c25f"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_142641_jpg.rf.8c53c0a70d12a8c6f500f068513722a9.txt",
+      "size": 79,
+      "sha256": "0f0bbfbca235c2bcc06d90821d1f1838deb5938eb1c992c47e24f25c7516aa2f"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_142657_jpg.rf.58ea4181b25be25584110b5acf982290.txt",
+      "size": 82,
+      "sha256": "7999b9999a3393639d8ad07f30da5aa761f844f155a50184ed472b952dc7c38b"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_142700_jpg.rf.1b1b96a910bab5a045120227520e980e.txt",
+      "size": 82,
+      "sha256": "e03094d0f1235ca15801cffb6ef8b8e7b8d9af585c46b90acf97f2ac2cc2f17c"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_142701_jpg.rf.e2beb72d40601f34ecc2babc20e39cbf.txt",
+      "size": 70,
+      "sha256": "38696ecc3a105875d17630094d5a7bbe77ed7550df33ea72b526ba3c4d66da81"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_142724_jpg.rf.f1175648ba92010e656112ae9834dd19.txt",
+      "size": 71,
+      "sha256": "60ea600ea053350e254761d45d62f8faf077426ffe2fde84e3625b03d7a4a26e"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_142804_jpg.rf.fb06cbf7b84f3dd5dc33eaf41b62a3ae.txt",
+      "size": 73,
+      "sha256": "7c23dd7a7c7677f59969bbe79cc3e969ce6425c53c5b0453d405b7211faea9a3"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_142827_jpg.rf.8f7b2bc720099c73bbcbdd6c5aff925f.txt",
+      "size": 82,
+      "sha256": "ae2f0a5be8459ffff853d44b577e46cec9cc7dee571ee4e4f0a4bc6a2aa44c09"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_142829_jpg.rf.5faf7c8183280d9471c626777c35e5af.txt",
+      "size": 73,
+      "sha256": "deb61d1b9d9d398d8eb9eef5cb7ba5b507a135394a24bd0196feecae2f6086b6"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_142834_jpg.rf.94471c4aef69c01f2ef6a963d13c9db7.txt",
+      "size": 73,
+      "sha256": "4adf1381d6dbdbc6f1b164cdd8ce80970458583f538cb87d8a415b248e9d5038"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_142926_jpg.rf.0175a116ebd90ff39ddffc3abdc8ad3a.txt",
+      "size": 82,
+      "sha256": "670dedfda2794e673d4a9d80b90cd7b6b91d85731881a0b4a18e009afc983f37"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_142939_jpg.rf.1a54873e532c007420ad255c6374b81a.txt",
+      "size": 82,
+      "sha256": "0d763b89d7d93879451062c3db326faed5cc6c876ba82a9f3d1922603b5f4319"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_230546_jpg.rf.9b86d914136a43f3b15ed814e1ba72e2.txt",
+      "size": 76,
+      "sha256": "eee01c17a813b43357bef8ea7d33ee6a97072ca592f7add5b1e0c4aab0d7f4f4"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_230548_1_jpg.rf.9a9c3ddc6ee19eb65c26219d87dc5d06.txt",
+      "size": 76,
+      "sha256": "cdcd5393bc5a41c526ab7497774a328c9bb9752b46bb18309ef206538c6fae09"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_230612_1_jpg.rf.e5395ae6aed69c08216490e1b18f2a41.txt",
+      "size": 72,
+      "sha256": "c8e2f31c88a47c1cfb1887b4f5429cfd5cf2afa19a7b39f3567119feee95ae22"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_230619_jpg.rf.5983ad2a144f44e71170695c9d31409f.txt",
+      "size": 64,
+      "sha256": "0e5a0323b783c760f55f73ee7871cf9bd3984b6f020721bd8652a1f778acbc60"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_230620_1_jpg.rf.eb30e72a6bb7352e5f67aa4e0631bf62.txt",
+      "size": 76,
+      "sha256": "206ebeb0f8019bad1cf688ac0dbbeed3e6c1aca3c2b0ff3279de9eb3b3ad245b"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_230620_jpg.rf.06b9f9e804854a1d95c72910c49cbcfc.txt",
+      "size": 73,
+      "sha256": "5766043c1bb786b0ae71765f3d8e13cd987fdd4d4f3f722122d8622ce38330d9"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_230658_jpg.rf.7ca97965655585e56897f2cf66ee8a21.txt",
+      "size": 82,
+      "sha256": "172eeb2f98d6b25ed0e3cced3390027b9d28f3ba414a8435dae813e4705829ed"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_230721_jpg.rf.da4a0e6b5ec0694bd49b1a5e9736dc69.txt",
+      "size": 75,
+      "sha256": "b393a78fd332028a6abb1fed682ca9c8eb9e9a151d0c1063ce0b6973c0b1ea0f"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_230722_2_jpg.rf.ec5772d72900b7eccf10fe5a8b5ecf65.txt",
+      "size": 75,
+      "sha256": "b55842a59899c38209858d5781b76d6a0e4095d2d37b47b5a67861f227911489"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_230723_jpg.rf.c17046dc09580d4021973aee62259ed2.txt",
+      "size": 65,
+      "sha256": "63bf4b322264943823bfd68567c91734a410d600b17243018f3d0d61978c8bd1"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_230741_jpg.rf.dc0bedfaa4027479fab23c0976545a6b.txt",
+      "size": 74,
+      "sha256": "2c1fda552e9139cf99e5d1c0df2b0b2adacf05503c13d657d6941ff1085a9264"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_230745_jpg.rf.575284a1f604651d70552dd83a91e217.txt",
+      "size": 78,
+      "sha256": "bffbf4723fffdd286807fbb4c0d9021667371cdc0be909e0d4ac40fb5cf63e08"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_230751_1_jpg.rf.b6a6bdfa657f14559718f7b530cde398.txt",
+      "size": 69,
+      "sha256": "41f91819dedb44d40c5e33a0984adfa41130a1aef8cbed01cacbef699da20f77"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_230752_jpg.rf.35e62924506878244db8c7a6a3bd88d2.txt",
+      "size": 78,
+      "sha256": "5f86d9b62da2476052f4b001bf8a7bd16e9e689e1f8aafb31d48b9625bd08976"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_230753_jpg.rf.689df5e4539001a17087ec4dadc1a8f6.txt",
+      "size": 75,
+      "sha256": "14703dbe8915378f89903573eee0715d4092143c4e6c9173769178af80bc29c3"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_230813_1_jpg.rf.7476e47179e5626eb1dae94947d63ecc.txt",
+      "size": 79,
+      "sha256": "f15b3126939fe84d88b91a6a932fe4333f220d49f93fd9ae31641df8a0d31e35"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_230815_jpg.rf.e33bbe6f2cbe33baa5df9d78b12e8ff3.txt",
+      "size": 79,
+      "sha256": "56c27b3e2c82fddc27d5e9792a6736a60cf34390135c355b9a545aae59c3087d"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_230821_1_jpg.rf.89e9f0260ce520e031d42a8303137089.txt",
+      "size": 73,
+      "sha256": "874a49a3f683fc7563c205466ce789fbbc0fe2d06a6352254fd42336ac28ef73"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_230827_jpg.rf.9a8644527cf59c24a31f2c1e3b4ea3df.txt",
+      "size": 79,
+      "sha256": "971c947f46a0b9a4d5274cf2ef191bc2f465850e43f124d4aaec2035ce4287c0"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_230835_1_jpg.rf.78bc9584cde36a60887e51004af74a2d.txt",
+      "size": 79,
+      "sha256": "cb721385cb704cf119f08d192091e84808641ddcfa7229ce7d22f4da6e23ece6"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_230854_jpg.rf.9c314eeda637c0dad4f5bd468e63aab5.txt",
+      "size": 75,
+      "sha256": "7f9be792231a48c569de0b9845062508c08f3589eb9ea2e8a6c4cf7fc5ccfa1f"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_230903_jpg.rf.a9b7287aa11fac499dfd7ca29aa0deef.txt",
+      "size": 75,
+      "sha256": "77eff06e4d672afe4d26123298fc028c306b231d2ce3d72fc81f35c7be63a7f5"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_230931_jpg.rf.509ffd53ecb557d345b1a8a2f5209d16.txt",
+      "size": 74,
+      "sha256": "5ae0887b1cf4a65ea1de377d7053d0ad91cd557703748859c6985cbe67dd936d"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_230933_1_jpg.rf.3f6180d0eafd9fbe45146868a29db733.txt",
+      "size": 72,
+      "sha256": "6d251c509dfbcc21fd17cb935f93f1252aabb75fa59ec1428876dd6af389f81b"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_230938_jpg.rf.b91df5902019d0f975281f7edc4e3536.txt",
+      "size": 81,
+      "sha256": "8cbd08ad93e15e9a725356b526575f9d3d4e42a196bf38096ffd94c6f1c36fa0"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_230958_jpg.rf.3ff6f850517b140bf05487bad41f4856.txt",
+      "size": 79,
+      "sha256": "0741ca620caeb15c26563c55e4a5564709de837d48fc417a3981c964c389e0fa"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_231001_jpg.rf.7d12e708419aa7d24fa12367919b1773.txt",
+      "size": 81,
+      "sha256": "30dd2a5ec256a88c630db778d99cdd3169f031f3d227fa4f882ab2e7b314e7f1"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_231007_jpg.rf.a259e4afd2671043dd2b5456f54a9969.txt",
+      "size": 81,
+      "sha256": "f6052c5ee7caea21f57a5d1edc5870befc2c01be41162182c4f8a9d49c4b83ad"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_231016_1_jpg.rf.e0532c96badf0153ba5cd901938cfe64.txt",
+      "size": 79,
+      "sha256": "d5c8009495df74b45698f05b3f236db55fe93613c62e88d4e79e88a3d02ad6b3"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_231023_jpg.rf.b7e0470728ee2c7f32c5449ca7a5ebc8.txt",
+      "size": 78,
+      "sha256": "3a5a7063ed1f99b7bbfc3aea16e01a54b11f1c0f9c29415178d3a2904349546d"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_231026_1_jpg.rf.704c7620ee3d47cdaf574daa82eb82ad.txt",
+      "size": 74,
+      "sha256": "3ed50d029d370ddfc1f6de584f984e44dc0ae614ede712a48da23654444f0e11"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_231027_jpg.rf.7ec416e4c92466fa1d067f07ea2a3bdd.txt",
+      "size": 79,
+      "sha256": "a002353c1a28f837150597a41c4a88bf2541c072c5b6612fcf56485cdd9bd015"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_231032_jpg.rf.6c242755da7f4bfc18e5981b795dd799.txt",
+      "size": 81,
+      "sha256": "7cc750f2fbeb40a49cb681b0f54de7fae7d860654fec5b2cdff94dc723b7d8f7"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_231041_jpg.rf.346f5a63c08aad57e0c7a85c28d464a2.txt",
+      "size": 69,
+      "sha256": "2d6c3fcd66459ba0c0e77b620f6e53448c3e8ae5b7de034e8cefa644efe247e7"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_231042_jpg.rf.7ad16f08586ce4a58be881bfa013f4d4.txt",
+      "size": 72,
+      "sha256": "d8826b5a30a62e9977dddb3fb3a593b1617c1d03337a19042b99a94a89fa514b"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_231124_1_jpg.rf.15f6be87893a7f3e91d86d821962f40f.txt",
+      "size": 73,
+      "sha256": "dd7678ffa6482247d48ac9e3a51d9872d3714bf417ab6806c4c99e7d4e5495a3"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_231125_jpg.rf.712cf5e8bb04d06029470cfebfd9db8a.txt",
+      "size": 82,
+      "sha256": "71e61916ddf614e1cee146a2dd21f2d0a62eed89408ebe8bbe9de37e419c8359"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_231134_jpg.rf.76bc5a7c35544dbfd4c168ab5ec537e3.txt",
+      "size": 62,
+      "sha256": "27adcdd93134223a202ecc04747634e10e13e85716c986643147a27f42948fa7"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_231135_jpg.rf.5eab8abfbf6ce0006e47452bb4e351aa.txt",
+      "size": 73,
+      "sha256": "69d3b4beb0004a5f177deedb7cf49eed791bb1e84c8fb1e5ea511df5778bd81a"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_231136_1_jpg.rf.dfd740b56687c8a262b0ca3521ea517e.txt",
+      "size": 75,
+      "sha256": "c7a1b224a9de84d29e570dda310dad566c594e1aba450b564909e3512a402d60"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_231153_jpg.rf.c0581636936ffd3f551a62ae4e3aadb3.txt",
+      "size": 83,
+      "sha256": "89951347bfc9f37a5f5d33e3e05fc88d7f10e3846c7450d83aafefc667de5969"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_231201_1_jpg.rf.3ee4562ffda16d4de26bfe881d3c0a8b.txt",
+      "size": 83,
+      "sha256": "ce1e37f58c604d840ed81884c60ca3dce85e9dc1b74110f7bccb9f1a1c6d3bfa"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_231201_jpg.rf.44bc2d8fc2946f343332124c030baa7e.txt",
+      "size": 83,
+      "sha256": "afec56c1c7c8014cf9bff16d18a50675ec85a6cb4801d52538f2010e0201fb31"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_231211_1_jpg.rf.81b7eb1b4bb750b87e50a18ac5a90583.txt",
+      "size": 74,
+      "sha256": "a53d69b3c1bc5666e3613ec3b3fe9e3db0744718a0b1e68c53bb0647505e0c29"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_231220_1_jpg.rf.32d046cd028697cf3c99f250db87866d.txt",
+      "size": 54,
+      "sha256": "db595af2e0f664e17f4def53a54d5f2fc7712bd370a910c3e8ece5e8c3e0ed89"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_231221_1_jpg.rf.187ee67700b833c74c2c876f9f8165c7.txt",
+      "size": 63,
+      "sha256": "bef96c92be1a283cb91029a3853973a1a36ad6d22c20a9df067b23ea7b32b1f6"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_231238_1_jpg.rf.6b34d7600d1352cab6f4fa768e169697.txt",
+      "size": 71,
+      "sha256": "6c8b423c1a246edaa8596be813f750052a06e1d0f54c7615dc309519b7f1182b"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_231240_jpg.rf.0be8aa7a50a7759b7663c4d15fee22ee.txt",
+      "size": 81,
+      "sha256": "5b4f0643b1f96dfda194600daf42bd5404de3ef63294f200202682c40799a6c5"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_231241_jpg.rf.d6ccb4191c62c428828b1cebbd503123.txt",
+      "size": 76,
+      "sha256": "592e15f977f089a51ebaf93bc8d127c4175616f22f208598f6efc0f823b21ece"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_231254_jpg.rf.b3dfdd482b858b6fb25f930221870e93.txt",
+      "size": 80,
+      "sha256": "edaa00c490886be0ebab5577ec004c2361a6fab3a26c361ffa9e7ad1226d8f68"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_231335_1_jpg.rf.ecd1de70506fa76d1d0531ffc12d592d.txt",
+      "size": 75,
+      "sha256": "4e311b534368275f309a066261f17e650bfdb99762f05dbefeae0d121eddbad7"
+    },
+    {
+      "path": "bangladeshi_ewaste/labels/valid/IMG_20250822_231353_1_jpg.rf.3d1f9a724e4d806c8d4b9ef932ea6c04.txt",
+      "size": 79,
+      "sha256": "e6e685fcf22f207327c8fece734f5640a1e1ba35b6309a7a078554f6f3f1c6b4"
+    },
+    {
+      "path": "bangladeshi_ewaste/manifest.json",
+      "size": 1163,
+      "sha256": "e7380ccddbb982dfd3cc53264d752d8bc18766cb20888c0b1467b8b2192c3782"
+    },
+    {
+      "path": "bangladeshi_ewaste/metadata.jsonl",
+      "size": 494058,
+      "sha256": "b3976a1ef01216bfea49da57695a0187495ada48bc47026ba5a899be3aec42d9"
+    }
+  ],
+  "image_count": 2157,
+  "label_format": "yolo_normalized_jsonl",
+  "transform_version": "detection_yolo_v1.1.0",
+  "license": "CC BY 4.0",
+  "attribution": "Tanzila Afrin; Azizul Abedin Azmi, Custom Bangladeshi E-Waste Image Dataset for Object Detection and Recognition, Mendeley Data v1, DOI 10.17632/77383kmdnw.1, CC BY 4.0.",
+  "source": {
+    "url": "https://data.mendeley.com/datasets/77383kmdnw/1",
+    "version": "1",
+    "sha256": "f73b30286225c208e98b34f81eb5ffef7baf79e883039d2087e8db53f6ee284e"
+  },
+  "annotation_conversion": {
+    "source_bbox_rows_preserved": 752,
+    "source_polygon_rows_converted_to_bbox": 1407,
+    "polygon_method": "axis_aligned_enclosing_rectangle; polygon boundary shape is discarded"
+  },
+  "class_count": 12,
+  "classes": [
+    "Battery_Waste",
+    "Glass_Waste",
+    "Keyboard",
+    "Light_Bulb",
+    "Medical_Waste",
+    "Metal_Waste",
+    "Mobile",
+    "Mouse",
+    "Organic_Waste",
+    "PCB",
+    "Paper_Waste",
+    "Plastic_Waste"
+  ],
+  "annotation_count": 2159
+}

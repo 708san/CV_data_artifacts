@@ -39,7 +39,7 @@ reports/        実体監査の要約
 
 ## 準備中の候補
 
-`recyclable_waste` v0.1.0は、Mendeley Data v1の989画像を全件SHA-256照合・デコードし、完全一致重複を除いた977画像で共通形式artifactを準備しました。元画像にGPS情報が含まれていたため、派生画像はEXIF等を除去しています。全画像の人手によるプライバシー・権利確認が残っているため、`registry/datasets.json`とReleaseには登録していません。詳細は監査reportとライセンス記録を参照してください。
+`recyclable_waste` v0.1.1 is published and registered. It contains 976 images after exact duplicate removal and exclusion of a paper image showing political campaign material and a person's portrait. Source license, attribution, privacy checks, and limitations are in its license record and audit report.
 
 `pistachio_image_dataset` v0.1.0 has passed full artifact-manifest verification. The Mendeley v1 page displays CC BY 4.0, and the related 2022 article states that its authors created the study images with their computer-vision system. Redistribution is approved with attribution and the two requested citations; the article itself is not included. Fixed Release asset `pistachio_image_dataset-v0.1.0` is published and its URL/SHA-256 are in `registry/datasets.json`. The exact license basis and review limits are recorded in the license file and audit report.
 
@@ -48,3 +48,7 @@ reports/        実体監査の要約
 `food_waste_bangladesh` v0.1.1 is published as a fixed Release asset and registered in `registry/datasets.json`. It contains 633 images after excluding 11 images showing partial people and one image with a QR-code-like mark. Incidental product and venue marks remain visible on some tableware; the artifact states that they do not imply endorsement. The labels describe collection contexts and do not measure waste quantities. See the license record and full audit report for scope and limitations.
 
 `road_traversing_knowledge` v0.1.0 contains 701 paired road images and class-ID masks from Mendeley Data v1. Source PNG pixels and the official train/validation split are preserved. The dataset is suitable for an educational road-environment segmentation task; see its license record for the third-party-content caveat and geographic limits.
+
+`geoset_ennea` v0.1.0 is published and registered with 136 images, 1,188 bounding-box annotations, and 9 classes. The source archive was fully audited; only original photographs were retained, and scenes were split by group. See the audit and license record for scope and caveats.
+
+`bangladeshi_ewaste` v0.1.0 contains 2,157 images across 12 classes. It is prepared as a fixed, reproducible object-detection artifact from the Mendeley v1 CC BY 4.0 source. See its license record and audit report for limitations.

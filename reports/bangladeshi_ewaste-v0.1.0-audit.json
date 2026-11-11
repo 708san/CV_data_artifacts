@@ -1,0 +1,42 @@
+{
+  "dataset_id": "bangladeshi_ewaste",
+  "source_version": "Mendeley Data v1",
+  "source_url": "https://data.mendeley.com/datasets/77383kmdnw/1",
+  "source_license": "CC BY 4.0 displayed on official page and source archive README",
+  "source_archive": {
+    "file_id": "ad031b3c-13e5-4913-8cdd-71dccfab980f",
+    "size": 72987704,
+    "sha256": "f73b30286225c208e98b34f81eb5ffef7baf79e883039d2087e8db53f6ee284e"
+  },
+  "artifact_version": "0.1.0",
+  "artifact_file": "bangladeshi_ewaste-v0.1.0.zip",
+  "artifact_size": 71712360,
+  "artifact_sha256": "70f1bc03d605922370611a7b326d1647fd2bddf030e2acb95c60f55edb6eb6f3",
+  "image_count": 2157,
+  "annotation_count": 2159,
+  "classes": [
+    "Battery_Waste",
+    "Glass_Waste",
+    "Keyboard",
+    "Light_Bulb",
+    "Medical_Waste",
+    "Metal_Waste",
+    "Mobile",
+    "Mouse",
+    "Organic_Waste",
+    "PCB",
+    "Paper_Waste",
+    "Plastic_Waste"
+  ],
+  "transform_version": "detection_yolo_v1.1.0",
+  "annotation_conversion": {
+    "source_bbox_rows_preserved": 752,
+    "source_polygon_rows_converted_to_bbox": 1407,
+    "polygon_method": "axis_aligned_enclosing_rectangle; polygon boundary shape is discarded"
+  },
+  "visual_review": "All 2,157 images screened on contact sheets; no people observed, labels broadly match depicted items; product marks remain visible.",
+  "student_use": "Introductory e-waste and small-electronics image detection to motivate local collection research. Not for medical waste/safety decisions, brand recommendations, or Japan municipal sorting decisions.",
+  "license_review": "CC BY 4.0 permits redistribution with attribution and change notice. Third-party marks are not separately licensed or endorsed.",
+  "verification": "Source SHA-256 matched; ZIP CRC passed; paired image/label and image decoding checks passed; source audit found no exact duplicate images, malformed labels, or unsafe archive paths.",
+  "reproduction": "Verify source archive SHA-256, safely extract, run transforms/detection_yolo_v1.py with the pinned parameters, add artifact README.md and LICENSE.md, and ZIP the bangladeshi_ewaste directory."
+}
