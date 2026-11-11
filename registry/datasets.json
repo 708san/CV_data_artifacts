@@ -230,6 +230,28 @@
       "transform_version": "detection_coco_to_yolo_center_v1",
       "manifest_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/manifests/fabricspotdefect-v0.1.0.json",
       "audit_report_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/reports/fabricspotdefect-v1-audit.json"
+    },
+    {
+      "dataset_id": "bdroadsigns",
+      "artifact_version": "0.1.0",
+      "artifact_url": "https://github.com/708san/CV_data_artifacts/releases/download/bdroadsigns-v0.1.0/bdroadsigns-v0.1.0.zip",
+      "artifact_sha256": "33ab933d0a4f2e93104330ba0a22890ff47576e1a88e16810660c1afa146a20a",
+      "source_url": "https://data.mendeley.com/datasets/rnkd74xdtr/1",
+      "source_version": "1; outer Traffic Dataset.zip, Compress Dataset subset",
+      "source_sha256": "72efd61218343b6869b9bd415537137c978b9bfa3a91872e71e565fb8999f087",
+      "license": "CC BY 4.0",
+      "rights_status": "approved_for_redistribution",
+      "attribution": "Tawhid Ahmed Komol; Pulak Deb Nath; Rinvi Jaman Riti (2025), BDRoadSigns: An Image-Based Dataset of Bangladeshi Traffic Signs for Supervised Classification Models, Mendeley Data v1, DOI 10.17632/rnkd74xdtr.1, CC BY 4.0.",
+      "modifications": [
+        "Selected the 5,136-image Compress Dataset variant only; excluded the separate Raw Dataset copy.",
+        "Normalized class folder and identifier names; retained all JPEG pixels and 480x640 dimensions.",
+        "Created deterministic per-class train/validation/test splits with seed 42 (3592/766/778).",
+        "Mendeley page per-class counts sum to 5,135; the compressed variant has one additional RoundAbout image and all 5,136 were retained.",
+        "Included attribution, changes, educational task limits, and non-endorsement in LICENSE.md."
+      ],
+      "transform_version": "classification_v1.0.0",
+      "manifest_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/manifests/bdroadsigns-v0.1.0.json",
+      "audit_report_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/reports/bdroadsigns-v1-audit.json"
     }
   ]
 }

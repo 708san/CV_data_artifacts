@@ -1,0 +1,71 @@
+{
+  "dataset_id": "bdroadsigns",
+  "source_version": "Mendeley Data v1",
+  "source_url": "https://data.mendeley.com/datasets/rnkd74xdtr/1",
+  "rights_and_task_review": {
+    "license": "CC BY 4.0",
+    "license_evidence": "Official Mendeley v1 page",
+    "content_origin": "Authors report smartphone capture in Bangladesh.",
+    "student_task": "Explore sign recognition and clarity through a classroom quiz/prototype; compare which sign categories are easy to recognize.",
+    "task_limits": [
+      "Bangladeshi signs and settings are not Japanese traffic rules.",
+      "Not for real navigation, driving, or safety decisions."
+    ],
+    "initial_review_completed_before_source_archive_download": true
+  },
+  "source_archive": {
+    "outer_bytes": 624168598,
+    "outer_sha256": "72efd61218343b6869b9bd415537137c978b9bfa3a91872e71e565fb8999f087",
+    "outer_entries": 1,
+    "outer_crc": "passed",
+    "inner_bytes": 625468909,
+    "inner_sha256": "9e60702e9da73e9c1296ab1687f36036543e66813210929ed8ae06da21f3430b",
+    "inner_entries": 10310,
+    "inner_files": 10271,
+    "inner_uncompressed_bytes": 624196396,
+    "inner_crc": "passed",
+    "unsafe_paths_or_symlinks": 0
+  },
+  "variants": {
+    "Raw Dataset": {
+      "images": 5135,
+      "bytes": 432784554
+    },
+    "Compress Dataset": {
+      "images": 5136,
+      "bytes": 191411842
+    }
+  },
+  "published_page_per_class_total": 5135,
+  "compressed_variant_roundabout_count": 284,
+  "published_page_roundabout_count": 283,
+  "selected_variant": "Compress Dataset only; Raw Dataset excluded",
+  "images": {
+    "count": 5136,
+    "classes": 18,
+    "dimensions": "480x640 for all 5,136 images",
+    "decoded": 5136,
+    "exact_duplicate_files": 0,
+    "sample_visual_review": {
+      "count": 18,
+      "scope": "one image per class",
+      "result": "Signs and category folders corresponded in the reviewed samples; some public-road background activity is present. This is not a full manual image review."
+    }
+  },
+  "splits": {
+    "train": 3592,
+    "val": 766,
+    "test": 778,
+    "method": "deterministic per-class shuffled split, seed 42, approximately 70/15/15"
+  },
+  "prepared_artifact": {
+    "version": "0.1.0",
+    "bytes": 191037362,
+    "sha256": "33ab933d0a4f2e93104330ba0a22890ff47576e1a88e16810660c1afa146a20a",
+    "images": 5136,
+    "class_count": 18,
+    "image_pixels_changed": false,
+    "release_status": "published"
+  },
+  "release_url": "https://github.com/708san/CV_data_artifacts/releases/tag/bdroadsigns-v0.1.0"
+}
