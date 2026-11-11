@@ -1,0 +1,95 @@
+{
+  "manifest_version": "1.0.0",
+  "dataset_id": "japan_ocr_receipts",
+  "artifact_version": "0.1.0",
+  "files": [
+    {
+      "path": "japan_ocr_receipts/LICENSE.txt",
+      "size": 492,
+      "sha256": "fed758495e2de1e423288f64d67d0369e38c8b28453d9327cbdb5a42097def7b"
+    },
+    {
+      "path": "japan_ocr_receipts/README.md",
+      "size": 1450,
+      "sha256": "e325f6dc262692a44635dede9f0b56a2a1db89f20c711e79c824aee08c30f4a4"
+    },
+    {
+      "path": "japan_ocr_receipts/images/eval/CASE-000010.png",
+      "size": 66070,
+      "sha256": "54f59880cc82c258f4dca1d23bb935b7949e1fa5e1f25020f7a30dc5f1b3f92f"
+    },
+    {
+      "path": "japan_ocr_receipts/images/eval/CASE-000014.png",
+      "size": 44639,
+      "sha256": "ef94246ddb8f1983ba3776e4860be5b324781bdd3dbe40aafc32f9976c4813cd"
+    },
+    {
+      "path": "japan_ocr_receipts/images/eval/CASE-000015.png",
+      "size": 31500,
+      "sha256": "85f3c05674322d9e4fbc3747363fb59fefb2e497c505368cfc2766a26608462c"
+    },
+    {
+      "path": "japan_ocr_receipts/images/eval/CASE-000029.png",
+      "size": 153861,
+      "sha256": "46623582193ce9ffa23b7df8b6a16c328f7c030cbd332a0e12bba8a8674e8f26"
+    },
+    {
+      "path": "japan_ocr_receipts/images/eval/CASE-000032.png",
+      "size": 52712,
+      "sha256": "ac518eed1b41184f753bc13382fc4cffbce75a8cb0f07a153a8831d8fdf86acd"
+    },
+    {
+      "path": "japan_ocr_receipts/images/eval/CASE-000033.png",
+      "size": 17998,
+      "sha256": "d202dcc32e4bbf64d7bb10ab32e9b0758bd478f6aa38d24c5f846fa2d44a7b5e"
+    },
+    {
+      "path": "japan_ocr_receipts/images/eval/CASE-000045.png",
+      "size": 152711,
+      "sha256": "e2837eb5c7d337d7a1bd1618e0a456217017ce6c1f48e08237ed8dc21d30cdc6"
+    },
+    {
+      "path": "japan_ocr_receipts/images/eval/CASE-000049.png",
+      "size": 68233,
+      "sha256": "13ccc677d849bbdb38537b1d1e7c24d75245dc673a54eb6cbf96e6cb3985c4a4"
+    },
+    {
+      "path": "japan_ocr_receipts/images/eval/CASE-000051.png",
+      "size": 150599,
+      "sha256": "a6ab4cacef5add2670075f707830d505e221288e8915e5c8719492e4f30704ee"
+    },
+    {
+      "path": "japan_ocr_receipts/images/eval/CASE-000062.png",
+      "size": 167116,
+      "sha256": "7bbb9b395fb08524443562850c15b562dcc72db70f6d4384d8bf552668f342a2"
+    },
+    {
+      "path": "japan_ocr_receipts/labels.csv",
+      "size": 6383,
+      "sha256": "1fe07917920d7dd31a78280cbac981431ed87034822182867305868bbd35fff9"
+    },
+    {
+      "path": "japan_ocr_receipts/manifest.json",
+      "size": 1250,
+      "sha256": "10528f5d181d3bfb20e9062c7d41b180ce94ddc9c3f7f85e6bf1a93c0bbb8d1f"
+    },
+    {
+      "path": "japan_ocr_receipts/metadata.jsonl",
+      "size": 6128,
+      "sha256": "83988988b6cfb27c5b52384b8700a5280e4bdfba743dab33aa7e4eb615b599af"
+    }
+  ],
+  "image_count": 10,
+  "split_counts": {
+    "eval": 10
+  },
+  "label_format": "structured_ocr_csv_and_jsonl",
+  "transform_version": "prepare_japan_ocr_receipts_v1",
+  "license": "CC BY 4.0",
+  "attribution": "K10124, Japan OCR Mini Benchmark, Alpha10 approved payload, revision c82efda5b823494424e6bc6e9ae7577396ded908, CC BY 4.0.",
+  "source": {
+    "url": "https://huggingface.co/datasets/K10124/japan-ocr-mini-benchmark/tree/c82efda5b823494424e6bc6e9ae7577396ded908/alpha10",
+    "version": "c82efda5b823494424e6bc6e9ae7577396ded908",
+    "sha256": "57102d17d35d4a6c8dbc67a59004189b0593b39e1db86c74b623f8959b45ccd3"
+  }
+}
