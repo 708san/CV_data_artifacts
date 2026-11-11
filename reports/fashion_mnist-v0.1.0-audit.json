@@ -1,0 +1,102 @@
+{
+  "dataset_id": "fashion_mnist",
+  "artifact_version": "0.1.0",
+  "checked_at": "2026-11-11",
+  "source": {
+    "url": "https://github.com/zalandoresearch/fashion-mnist/tree/b2617bb6d3ffa2e429640350f613e3291e10b141",
+    "commit": "b2617bb6d3ffa2e429640350f613e3291e10b141",
+    "license": "MIT as declared in official README License section and LICENSE file",
+    "files": [
+      {
+        "filename": "train-images-idx3-ubyte.gz",
+        "size": 26421880,
+        "sha256": "3aede38d61863908ad78613f6a32ed271626dd12800ba2636569512369268a84"
+      },
+      {
+        "filename": "train-labels-idx1-ubyte.gz",
+        "size": 29515,
+        "sha256": "a04f17134ac03560a47e3764e11b92fc97de4d1bfaf8ba1a3aa29af54cc90845"
+      },
+      {
+        "filename": "t10k-images-idx3-ubyte.gz",
+        "size": 4422102,
+        "sha256": "346e55b948d973a97e58d2351dde16a484bd415d4595297633bb08f03db6a073"
+      },
+      {
+        "filename": "t10k-labels-idx1-ubyte.gz",
+        "size": 5148,
+        "sha256": "67da17c76eaffca5446c3361aaab5c3cd6d1c2608764d35dfb1850b086bf8dd5"
+      }
+    ],
+    "aggregate_source_sha256": "1fc4d066c3c335d5c1e6187c8a4b55d796c98dc89fa849a1624eaa5ad10a8866",
+    "aggregate_method": "SHA-256 over sorted filename UTF-8 bytes + NUL + complete compressed file bytes for each of the four files"
+  },
+  "content": {
+    "image_count": 70000,
+    "shape": [
+      28,
+      28
+    ],
+    "channels": 1,
+    "class_count": 10,
+    "official_splits": {
+      "train": 60000,
+      "test": 10000
+    },
+    "prepared_splits": {
+      "train": 54000,
+      "val": 6000,
+      "test": 10000
+    },
+    "per_class": {
+      "official_train": 6000,
+      "official_test": 1000
+    }
+  },
+  "classes": [
+    "T-shirt/top",
+    "Trouser",
+    "Pullover",
+    "Dress",
+    "Coat",
+    "Sandal",
+    "Shirt",
+    "Sneaker",
+    "Bag",
+    "Ankle boot"
+  ],
+  "checks": {
+    "source_file_sizes_and_sha256": "all four exact matches before gzip decompression",
+    "idx_headers": "image magic 2051, label magic 2049, expected item counts and 28x28 dimensions",
+    "labels": "all IDs in range 0-9; balanced official counts verified",
+    "exact_pixel_duplicates": 0,
+    "cross_split_duplicate_groups": 0,
+    "visual_review": "Contact sheet sample: 8 training images from each of 10 classes (80 total); sampled items broadly match assigned class. No people observed. Some garment graphics/product marks are visible; this was not full manual review of every image.",
+    "pixel_transform": "none; raw grayscale pixel bytes copied losslessly into PGM P5 payloads",
+    "prepared_manifest": "70,005 package paths with per-file SHA-256 and size; validator passed",
+    "package": "ZIP CRC passed; 70,005 members; 45,813,814 bytes; SHA-256 7b62741950bb9784980c9703806df874a1f1c3930dcc8a84477e2c6b5c6e871f",
+    "external_manifest_sha256": "7131b6e180476fa6edfef0404e67a1f824cb1edc0131b8f780663484608f9516"
+  },
+  "student_use": {
+    "decision": "suitable_as_introductory_classification_benchmark_with_limits",
+    "project": "Explore whether broad clothing categories could help organize a simple second-hand clothing catalog, then explain why tiny grayscale benchmark images do not establish real-world performance.",
+    "limits": [
+      "Not photographs of arbitrary clothes taken in everyday settings.",
+      "Does not label color, size, garment condition, brand, fit, or reuse suitability.",
+      "Predictions must not determine real donation, resale, or disposal decisions without separately collected and evaluated local images."
+    ]
+  },
+  "rights_review": {
+    "status": "approved_for_redistribution_with_mit_notice",
+    "basis": "The fixed official repository identifies Fashion-MNIST as Zalando article images and declares MIT in its README License section; matching LICENSE file is included in the pinned commit.",
+    "attribution_and_notice": "Complete MIT copyright and permission notice is included in the artifact LICENSE.md.",
+    "third_party_scope": "The source license does not independently clear rights in any depicted marks or designs; project use is limited to broad garment-category education and does not imply endorsement."
+  },
+  "artifact": {
+    "filename": "fashion_mnist-v0.1.0.zip",
+    "size": 45813814,
+    "sha256": "7b62741950bb9784980c9703806df874a1f1c3930dcc8a84477e2c6b5c6e871f",
+    "manifest_path": "manifests/fashion_mnist-v0.1.0.json",
+    "file_count": 70005
+  }
+}

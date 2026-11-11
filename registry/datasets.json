@@ -146,6 +146,26 @@
       "transform_version": "detection_yolo_v1.1.0",
       "manifest_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/manifests/bangladeshi_ewaste-v0.1.0.json",
       "audit_report_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/reports/bangladeshi_ewaste-v0.1.0-audit.json"
+    },
+    {
+      "dataset_id": "fashion_mnist",
+      "artifact_version": "0.1.0",
+      "artifact_url": "https://github.com/708san/CV_data_artifacts/releases/download/fashion-mnist-v0.1.0/fashion_mnist-v0.1.0.zip",
+      "artifact_sha256": "7b62741950bb9784980c9703806df874a1f1c3930dcc8a84477e2c6b5c6e871f",
+      "source_url": "https://github.com/zalandoresearch/fashion-mnist/tree/b2617bb6d3ffa2e429640350f613e3291e10b141",
+      "source_version": "b2617bb6d3ffa2e429640350f613e3291e10b141",
+      "source_sha256": "1fc4d066c3c335d5c1e6187c8a4b55d796c98dc89fa849a1624eaa5ad10a8866",
+      "license": "MIT",
+      "rights_status": "approved_for_redistribution",
+      "attribution": "Zalando SE (2017), Fashion-MNIST; Han Xiao, Kashif Rasul, and Roland Vollgraf, Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms, official repository commit b2617bb6d3ffa2e429640350f613e3291e10b141, MIT License.",
+      "modifications": [
+        "Converted each 28x28 grayscale IDX pixel array to PGM P5 without changing pixel values.",
+        "Split the official 60,000-image training partition by class into 54,000 train and 6,000 validation images; preserved the official 10,000-image test partition.",
+        "Added Japanese documentation, source-file inventory, package manifest, and limitations."
+      ],
+      "transform_version": "classification_v1.0.0; fashion_idx_to_pgm_v1.0.0",
+      "manifest_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/manifests/fashion_mnist-v0.1.0.json",
+      "audit_report_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/reports/fashion_mnist-v0.1.0-audit.json"
     }
   ]
 }

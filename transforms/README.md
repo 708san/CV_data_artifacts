@@ -56,3 +56,5 @@ python transforms/classification_v1.py \
 
 
 classification_source_v1.pyは、検査済みクラス別フォルダを決定的な層化分割へ整え、クラス内完全一致重複を除外して入力manifestと除外記録を作成します。classification_v1.pyは、その入力をCV_dataの共通形式へ変換します。
+
+`prepare_fashion_mnist_v1.py`は、4つのSHA-256固定IDX gzipファイルを検証し、画像値を保ったままPGMへ変換します。公式train内でクラスごとのvalidation splitを作り、公式testを保ちます。全ファイルのmanifestと固定時刻のZIPを生成します。

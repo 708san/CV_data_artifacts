@@ -54,3 +54,5 @@ reports/        実体監査の要約
 `bangladeshi_ewaste` v0.1.0 contains 2,157 images across 12 classes. It is prepared as a fixed, reproducible object-detection artifact from the Mendeley v1 CC BY 4.0 source. See its license record and audit report for limitations.
 
 `pust_cafeteria_food` v0.1.0 is prepared as a 691-image, 16-class educational object-detection artifact from Mendeley Data v2. It is not yet registered or available from the library; release publication is pending. See its license record and audit report for the source, transformations, and limitations.
+
+`fashion_mnist` v0.1.0 contains 70,000 28×28 grayscale garment-category images under the source repository’s declared MIT license. The artifact preserves grayscale pixel values, separates a deterministic validation split from official training data, and retains the official test split. It is an introductory benchmark and does not classify real-world garment condition, size, brand, or reuse suitability. See the license record, source manifest, and audit report.
