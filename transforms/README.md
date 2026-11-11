@@ -22,6 +22,8 @@
 
 検出・分割については、形式を先に固定し、実装済みとは案内しません。各artifactのmanifestで`label_format`と`transform_version`を明示します。検出変換はYOLO矩形を保ち、YOLO polygonは軸に平行な外接矩形へ変換します。polygonの輪郭情報は残らないため、派生物manifestに入力形式別件数と変換規則を記録します。
 
+`structured_ocr_csv_and_jsonl`は、画像とJSON形式の構造化見本を対応させる小規模OCR/文書項目抽出用形式です。全文文字起こしがないデータを文字認識の正解ラベルとして扱わず、manifestとREADMEに照合可能な項目と限界を記載します。
+
 `classification_v1.py`は、固定版を安全に展開した画像分類データを、CV_dataの共通形式へ変換します。
 
 `detection_yolo_v1.py`は、`classes.json`または`nc`・`names`を含む単純な`data.yaml`、ならびにYOLO bbox / polygonラベルを受け取ります。polygon行は座標の最小値・最大値から軸平行なbboxへ変換し、変換元形式をJSONLとmanifestへ残します。bbox注釈の座標・クラスは維持します。これはbbox形式の学習用artifactであり、元のpolygon輪郭を保持したsegmentationデータではありません。
