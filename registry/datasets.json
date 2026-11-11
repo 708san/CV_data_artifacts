@@ -85,6 +85,26 @@
       "transform_version": "source_png_preserved; directory_layout_v1; official_train_validation_split",
       "manifest_url": "https://github.com/708san/CV_data_artifacts/blob/main/manifests/road_traversing_knowledge-v0.1.0.json",
       "audit_report_url": "https://github.com/708san/CV_data_artifacts/blob/main/reports/road_traversing_knowledge-v1-full-audit.json"
+    },
+    {
+      "dataset_id": "geoset_ennea",
+      "artifact_version": "0.1.0",
+      "artifact_url": "https://github.com/708san/CV_data_artifacts/releases/download/geoset-ennea-v0.1.0/geoset_ennea-v0.1.0.zip",
+      "artifact_sha256": "6185c0f8e631ec36913b6c229d4fbd51463d2a4fea1084f3c3e8021244ecd6e3",
+      "source_url": "https://data.mendeley.com/datasets/fg97mhsdbr/1",
+      "source_version": "Mendeley Data v1; selected fixed-file subset",
+      "source_sha256": "9b9374f6029832caf545f6fcc09ae3cd32412122903aff366dfd7a8f2285542c",
+      "license": "CC BY 4.0",
+      "rights_status": "approved_for_redistribution",
+      "attribution": "Sakhawat Hossain; Md Sadman Haque; Sadia Islam (2025), GeoSetEnnea: A Multi-Class Image Dataset for Object Detection of Geometric Tools, Mendeley Data v1, DOI: 10.17632/fg97mhsdbr.1.",
+      "modifications": [
+        "Excluded augmented images, screenshot captures, unmatched representations, and alternate duplicate encodings.",
+        "Split 136 original photographs by near-duplicate scene groups; copied pixels and retained normalized bounding boxes unchanged.",
+        "Added Japanese educational documentation, license notice, manifests, and JSONL annotations."
+      ],
+      "transform_version": "geoset_ennea_v1.0.0 + detection_yolo_v1.1.0",
+      "manifest_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/manifests/geoset_ennea-v0.1.0.json",
+      "audit_report_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/reports/geoset_ennea-v1-audit.json"
     }
   ]
 }

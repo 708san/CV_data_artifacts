@@ -1,0 +1,1407 @@
+{
+  "manifest_version": "1.0.0",
+  "dataset_id": "geoset_ennea",
+  "artifact_version": "0.1.0",
+  "files": [
+    {
+      "path": "geoset_ennea/LICENSE.md",
+      "size": 1033,
+      "sha256": "2175cce4a7ee1658234d6e0bac10952d48255876751f476850c1dfcf7d48312b"
+    },
+    {
+      "path": "geoset_ennea/README.md",
+      "size": 1100,
+      "sha256": "aae57b12f2b631f28002cb865b0e76dae5e9e75c41f8a8fc84f7234b05bfc95b"
+    },
+    {
+      "path": "geoset_ennea/annotations.jsonl",
+      "size": 195757,
+      "sha256": "a1257a9ec2aa5f7283799117b644573d3199295932cc1c919f96eef6e1db247f"
+    },
+    {
+      "path": "geoset_ennea/classes.json",
+      "size": 188,
+      "sha256": "855fbe69667fc1bcaeb63aa99dc46fbc58466c9aed5f2d08f7db34def3ce568f"
+    },
+    {
+      "path": "geoset_ennea/images/test/IMG_1236_jpg.rf.b4ce760c556053bf074c82d259178a93.jpg",
+      "size": 88405,
+      "sha256": "a64a0e68f8472b886f00a46a9ace19733b4ffe66092ac55d406c1281f7405779"
+    },
+    {
+      "path": "geoset_ennea/images/test/IMG_1239_jpg.rf.07b476c5282d8dc21b125b505ab6c45b.jpg",
+      "size": 83031,
+      "sha256": "1c7cdec15bdc832b72b2ae6620715e01d954b887c7d7766c087bef4a7c9cb22d"
+    },
+    {
+      "path": "geoset_ennea/images/test/IMG_1240_jpg.rf.5a17a572aed1e94bf9c6ba4e36e03d5c.jpg",
+      "size": 82929,
+      "sha256": "25db8c9f863c276da0e388b990a96f7100fbb09b71c1587fef61a98bdf63ea20"
+    },
+    {
+      "path": "geoset_ennea/images/test/IMG_1241_jpg.rf.01f3538a21fae591f6b68c50379fa770.jpg",
+      "size": 82459,
+      "sha256": "5790bd087819f28e57f24f7613845c0a76741875dc1e7a2192b2c6e5a90b4a2e"
+    },
+    {
+      "path": "geoset_ennea/images/test/IMG_1242_jpg.rf.3ff44c39d7e2d2d07368f2375062ee59.jpg",
+      "size": 81348,
+      "sha256": "bc17431df3e785bdecc6d1386ccc4c9cfbd83ccf02d1eb0969f1e25688bc3e3b"
+    },
+    {
+      "path": "geoset_ennea/images/test/IMG_1247_jpg.rf.d8a94912a4e73989596bfa5d001d7caa.jpg",
+      "size": 92413,
+      "sha256": "8543186583c3d31f9fcce2e019daa548c8a8473983aa78d62add8695bc5f0c02"
+    },
+    {
+      "path": "geoset_ennea/images/test/IMG_20250604_144224_jpg.rf.45089b6d187863cd307aa4e4cffbd19a.jpg",
+      "size": 41288,
+      "sha256": "8d26152e8d81030029c6d97d54c47849d0429c38912ec0cdc7bb2f9fde34af7f"
+    },
+    {
+      "path": "geoset_ennea/images/test/IMG_20250604_144225_jpg.rf.190f80f97f548a864ad721ecf846f99c.jpg",
+      "size": 41348,
+      "sha256": "1df85fc872b45f150e53205bd9089bb554d8f027dfd5b7bd5d14bb3a10be15f6"
+    },
+    {
+      "path": "geoset_ennea/images/test/IMG_20250604_144226_jpg.rf.5e10c619df4fe6b0f1788341322aa3b8.jpg",
+      "size": 41755,
+      "sha256": "572ebb5f19c486b701f2b2b0897eb2896d2f67af22d6a3375b7dcfa995d82133"
+    },
+    {
+      "path": "geoset_ennea/images/test/IMG_20250604_144227__01_jpg.rf.04a7f83ffa32045a112bfac638394bbd.jpg",
+      "size": 41637,
+      "sha256": "935d3cc86a7324f487aa073858224c23e32f4b42f665726c2c8632f3a7276bd6"
+    },
+    {
+      "path": "geoset_ennea/images/test/IMG_20250604_144227_jpg.rf.67738241ec8f4b84bccaa5a8b3af5ae2.jpg",
+      "size": 40664,
+      "sha256": "710bb3a15195875bdd4bdf890597e335e63a82d34a73e09c2e198374bd1de427"
+    },
+    {
+      "path": "geoset_ennea/images/test/IMG_20250604_144228_jpg.rf.be124c86cb8b849f2cb23c7c78e28b33.jpg",
+      "size": 40970,
+      "sha256": "af7c6d7c34847728b11d48d2ea9a07b8d9871285a6c01aa40b3817b5c0956390"
+    },
+    {
+      "path": "geoset_ennea/images/test/IMG_20250604_144229_jpg.rf.dd729223497aadc9463208b63aef2bc7.jpg",
+      "size": 41530,
+      "sha256": "2c0434c48a0b6de1f00991c017a4f2a31bf1571b73c2824b9fec5d4fc1c81f78"
+    },
+    {
+      "path": "geoset_ennea/images/test/IMG_20250604_144235_jpg.rf.f26c7e3af29fe4d9251ca6e823354770.jpg",
+      "size": 43218,
+      "sha256": "7370b37aab124e70b5950293aa6a6f7c28fbb4aefbf4e55133b3a52312c8a0e9"
+    },
+    {
+      "path": "geoset_ennea/images/test/IMG_20250604_144236_jpg.rf.c28d2680dc04d2565034519eb0410e2f.jpg",
+      "size": 44718,
+      "sha256": "7b79aadb37d07c040d95fb60b1e5b460727a2d4126c392396bf3efc01b154280"
+    },
+    {
+      "path": "geoset_ennea/images/test/IMG_20250604_144237_jpg.rf.7c34c09653666992e137601c473fbf0c.jpg",
+      "size": 44583,
+      "sha256": "c05811863a8ccf2d0e5c29d2f6461bee70d23e88410cb49ee468d3731ac2c661"
+    },
+    {
+      "path": "geoset_ennea/images/test/IMG_20250604_144238__01_jpg.rf.1a1688a50be4e9ba721821a719551c4f.jpg",
+      "size": 44010,
+      "sha256": "a03ca10f075d8037614dc8c4872637cd6f5c820d64558c67cbe32b1aa67fb8de"
+    },
+    {
+      "path": "geoset_ennea/images/test/IMG_20250604_144238_jpg.rf.a9f7d1721987a8ef079d6ce70c2bf4a8.jpg",
+      "size": 44511,
+      "sha256": "f3e689cf91c9a33cf39351f48efc884bd7ce0e1d735fef534f65f0cfb074973c"
+    },
+    {
+      "path": "geoset_ennea/images/test/IMG_20250604_144239_jpg.rf.cb7d7f66966c1fb2175ec5e68fbcdc89.jpg",
+      "size": 45062,
+      "sha256": "7077e6c98a076494b13569ad4cb902b5e11ae6b7777b8c10636f065196e38041"
+    },
+    {
+      "path": "geoset_ennea/images/test/IMG_20250604_144240_jpg.rf.7ce8ab766a281e7009abb2d5b6885fcc.jpg",
+      "size": 44201,
+      "sha256": "57ec9d08b5c79f3f35b1cf6f6e7de1c6a6ffb7cc8096df353b8bbf4545dc516f"
+    },
+    {
+      "path": "geoset_ennea/images/test/IMG_20250604_144308__01_jpg.rf.3bdc49d132bda936be1392f0194b1efc.jpg",
+      "size": 41724,
+      "sha256": "734e817491829226aac3063d9b04560cf8980176c7460c1d59d9af70674f7d6b"
+    },
+    {
+      "path": "geoset_ennea/images/test/IMG_20250604_144308_jpg.rf.19e9fee726a3d966ff470fc2544a6437.jpg",
+      "size": 41219,
+      "sha256": "d61caa2c1753f530fd75e36f9cedec826aafd8bad361da286fcd404638804ba3"
+    },
+    {
+      "path": "geoset_ennea/images/test/IMG_20250604_144309_jpg.rf.8d4c173336a36468877b125af68c4866.jpg",
+      "size": 41522,
+      "sha256": "ec215164a464795e00a08705b7370ea8ff116cfa9bff40993b3bde9bbca47132"
+    },
+    {
+      "path": "geoset_ennea/images/test/IMG_20250604_144310_jpg.rf.de0ac657fc50b4372525c1f999d5a58e.jpg",
+      "size": 41893,
+      "sha256": "1461ea3b94d37fa36a46c643c7315c2ecb800c2718004be18f51bba19e8c0b36"
+    },
+    {
+      "path": "geoset_ennea/images/test/IMG_20250604_144311_jpg.rf.61f06bd28a30d346dc3cc32869a4b286.jpg",
+      "size": 42298,
+      "sha256": "5e4c3ba1dbd9a248d8f32226fdcc2f44f517ff074d376d5eee81411e10a08623"
+    },
+    {
+      "path": "geoset_ennea/images/test/IMG_20250604_144320_jpg.rf.0806441dcb83666b83af61a3bc975508.jpg",
+      "size": 46289,
+      "sha256": "4c9c84acf59ed439fc5a6ed3943a07a37dcddd5d784dc1c8abf3fee55beb8be6"
+    },
+    {
+      "path": "geoset_ennea/images/test/IMG_20250604_145114_jpg.rf.2b48ede6427c3a01903292ae77a70cad.jpg",
+      "size": 44640,
+      "sha256": "89e97af2509674889df6f2aa7c98c660821853e588db6301e78cb737a8f77b94"
+    },
+    {
+      "path": "geoset_ennea/images/test/IMG_20250604_145157_jpg.rf.cf81dccd2cb918e0780a56ffb5ac81f4.jpg",
+      "size": 40806,
+      "sha256": "a0560559d4b9ec031bd3b110549ac92cf64fba5052f95b36e1e7331bfa3791fe"
+    },
+    {
+      "path": "geoset_ennea/images/test/IMG_20250605_122107_jpg.rf.28168fdfa9a65aa4a80c408809193751.jpg",
+      "size": 50958,
+      "sha256": "5923240d67bd309e4f2ed6c9ce7f3eafdf01ee15a49aa329440ab0d3b4fedb0e"
+    },
+    {
+      "path": "geoset_ennea/images/test/IMG_20250605_123036_jpg.rf.5ecee8e6023bcd11cf7a906184ab8ad9.jpg",
+      "size": 67523,
+      "sha256": "137341425be108d1da975a9a681555cc39fbe6163fbd19bec9130ff6f0af16ef"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_1233_jpg.rf.a78e5ce0cd538af50bc4639f3ca01038.jpg",
+      "size": 69513,
+      "sha256": "7f988a55b53dc699eabdea8ba769ddb948144df57d1fb7e67afd5339a7da9917"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_1234_jpg.rf.3e023bb6a896d30e4267bd5ad3cedd49.jpg",
+      "size": 89981,
+      "sha256": "9e1cbd443744739e9dbfec89189d071054dd6456909d08c81cc6bea63ee287d5"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_1235_jpg.rf.438324fb7ea55b9ca0ca7bac5f095ce6.jpg",
+      "size": 86620,
+      "sha256": "25ea1d0b0eed4576184e090c927b902510abd39478e812f2350f0adc657bf820"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_1243_jpg.rf.263f79a7a22755197936d02b6d087226.jpg",
+      "size": 83378,
+      "sha256": "e5f8d5c6686f8cfbffcbcdacac87cc3d245404eaca882af97316d9510b045c4d"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_1244_jpg.rf.2bc09ad7f9b7353f96a99f441778cac9.jpg",
+      "size": 91605,
+      "sha256": "4bc5b6139e42682386acf2938164d6c77bc5b511f59b399919fb930a7e0474bb"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_1245_jpg.rf.679b79754a406c4bd4f04edaea95661a.jpg",
+      "size": 93050,
+      "sha256": "9b62bf67c5479d5b0dc19336307e4573b2d1feec119c5c7f2af0e3e56f17a96b"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_1246_jpg.rf.8df100c7632fe4e953bc22ead85279f3.jpg",
+      "size": 86366,
+      "sha256": "831fe88d237638c7add28e3344d1f9ebdd6c5d7095d208fbd2c22d9a8cf88ff8"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_1248_jpg.rf.cb01665574ac04823f143318bca04617.jpg",
+      "size": 86618,
+      "sha256": "f8b602930af756494d34670a6e68275fcb762a261439f453764ca6b0a4c87a3d"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_1249_jpg.rf.91754c063f377de1c2540cae8617dce3.jpg",
+      "size": 89668,
+      "sha256": "f1276f1245371afcfe39e619fd945df8357ab1ad9b667ca455fe6d865d6321f5"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_1250_jpg.rf.6a9013e8661e0d664cbbba0599a16dd1.jpg",
+      "size": 87005,
+      "sha256": "4d8aa59ba016dd6644522a280ba97c4e579318f7e542876bb3f321e444b3c0ed"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_1251_jpg.rf.dd1982665877f336fb02d6a6fcd0a300.jpg",
+      "size": 83057,
+      "sha256": "162978bcbfcbf7027ee5013b2bcbc9b97432b53ec96299a726ce0c9296e44264"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_1252_jpg.rf.ba696b43e6a64520e8ad453ab021ba52.jpg",
+      "size": 83586,
+      "sha256": "41a359e6229ea8b399c3a835e60817ad0e5b544a4ed0751e37c27f06caa729a5"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_1253_jpg.rf.f1356a836d5ff17327e10f50ccab0c4d.jpg",
+      "size": 83189,
+      "sha256": "bb00296d52a3cb98320ae1b0896388f03849bd469fc7e8698c25e9525c423655"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_1254_jpg.rf.6fb3484419421bb81f8d884fa0ddbe2d.jpg",
+      "size": 83212,
+      "sha256": "8319088dda5c3f691c43815825477b343cb5e7da175f898039e3ae36a40cbede"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_1255_jpg.rf.717f1d05cd6192573b253ff380e15f26.jpg",
+      "size": 83126,
+      "sha256": "c0751acb5f44e07911de63bb358d47bfb6c5076467e034ffd502a0d7aeb08354"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_1256_jpg.rf.953a1f92405573ea63a0925f2488ffbf.jpg",
+      "size": 100245,
+      "sha256": "00510da6e0f1aae1faed7f0b57fa29c8d1c81cfa586c0e5a30c4bbcd24349630"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_1257_jpg.rf.02b541b1a488f9444488afda39c61cad.jpg",
+      "size": 101261,
+      "sha256": "1d8b72b9a23ab5e3ab63ca12e9d6c3d487bfa0a26631ba4309c6f559d5619eb6"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_1258_jpg.rf.5802fd11a7a3cd91f4ac78593b0a9aa2.jpg",
+      "size": 100856,
+      "sha256": "e0df3dc37e6052b61f748f6a162b54cdb9d537df1af90a4df539a52a5c73f403"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_1259_jpg.rf.72163f9eeae998534c1b556641883b3e.jpg",
+      "size": 103103,
+      "sha256": "16bc0b317b37a55e388db763b71e84965b9c11757e5fbcde9a47154bad7767ca"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_1260_jpg.rf.69b9a924b688242aeb29ad6023b17a93.jpg",
+      "size": 104092,
+      "sha256": "174cffe11580f7f2147358cee68eb99b2c797184ae3efc0aa78598219b46193c"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_1261_jpg.rf.ab1b1f2852ad0f9d3a6faa836f41408b.jpg",
+      "size": 100253,
+      "sha256": "4946e684168fe9820b559d71dc7115ebf12593b74b941681dee6408a179c99f5"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_1262_jpg.rf.9e279b3f41b6e562add518f9aca9a879.jpg",
+      "size": 98591,
+      "sha256": "18789139ff98832eb3c24f480ed5ac7d6833255979d262ce328a7374f470e974"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250604_144207_jpg.rf.ae9ae5e2bca0fb739ef2bc499fbd7030.jpg",
+      "size": 39724,
+      "sha256": "dafb8b0291876a6ccc58f80894b9dd4c59b5cc6401489ce6f9ddfe70f5b4f895"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250604_144208_jpg.rf.09484cd2c3d20e0f787a35a811d29b1e.jpg",
+      "size": 39952,
+      "sha256": "962b75e8e254dbac0fb77cb44c749f68f40ec1def470c7b9aedc1af4c5896e34"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250604_144209_jpg.rf.1102417482190b52bcc75d00a1d1d959.jpg",
+      "size": 37575,
+      "sha256": "fdffb2839fd6bb8af70926a5298a9a62d5037b5e33efbd6b498096dc91915be0"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250604_144210_jpg.rf.0399957bb6c21bbde43365d7348fdd98.jpg",
+      "size": 38371,
+      "sha256": "b77b04954d4480266da03f6c20905b696c586c8fd812d8321910072b3c4d8849"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250604_144211_jpg.rf.4c75bedbcb85f167b9cd54944e31c179.jpg",
+      "size": 38887,
+      "sha256": "89b1e974e09ff6e06fba6a54443a6dd1589d17719f13919a578da20ed2a2f888"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250604_144212_jpg.rf.67e6ade153c8a4f5d307dd32a1c13a42.jpg",
+      "size": 39435,
+      "sha256": "93fb313bf5b3ca33798c526d153ea34c5047dbff84ba8a3fa25321120e59677e"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250604_144214_jpg.rf.f00529fb1bfc59f9399373f7884fdebd.jpg",
+      "size": 39505,
+      "sha256": "6094a5827e59d4e22ebcaf6aa5c88b6dda0e1f1e0cfbe3d81aebcbfe9e077b85"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250604_144215_jpg.rf.11113420edc26622a3948a6c3dba2f85.jpg",
+      "size": 39269,
+      "sha256": "7e60499de4ad60af98cdbeb6612b62812ca7632ac6c05633c601cad62e0e9d80"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250604_144216_jpg.rf.02fa12f119c705c4470948d95538d3c8.jpg",
+      "size": 38344,
+      "sha256": "05794cee0b9ae44182f63a8fc5be487cfcd62511af63b581e668c71e3182bc36"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250604_144314_jpg.rf.cdf85375a85396b8cf85b762c8c52c71.jpg",
+      "size": 41374,
+      "sha256": "7fed85db935045434041ba564710905e408e8d4080c7d9120772f2d1c84ab3d3"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250604_144315_jpg.rf.dfacda2702bdf8a289c314792e08ee13.jpg",
+      "size": 43132,
+      "sha256": "701a5ba43d35d090ab6e4106de42f5fcbaf3a7732788621e77dee74c76a7e0c4"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250604_144316_jpg.rf.a430a86a8812d74ef62469eef106aee9.jpg",
+      "size": 43281,
+      "sha256": "eae44062c04216283f7974816f909f85f4ff7ea4efeee1d02cd72da9037df0b8"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250604_144317_jpg.rf.a81734e2712b75e4ff003cba09a183f1.jpg",
+      "size": 43915,
+      "sha256": "1567589739f7b3137e4bdc729459cb9e02a5deb1e62adef97553950911f07229"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250604_144318_jpg.rf.36e2fc0e7cb5ff22ef00a08aba81ce8f.jpg",
+      "size": 44289,
+      "sha256": "e96a88b2bd9ead3533cdb8d680fc95f68579689a964d773a6ad87683ed2b335a"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250604_145102_jpg.rf.adfe76935ff684271c2e52c4646aecc2.jpg",
+      "size": 43857,
+      "sha256": "70b9239f312bee3dba9cbfe367a2a741c3b04f435177b96f37d9de611513e3b8"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250604_145104_jpg.rf.2cf662d9be3082cdad252bd4b5cc618c.jpg",
+      "size": 44696,
+      "sha256": "552f6c201bbad6638c9dadb4ec03190aa04f3d39d5eb8a2b3e08948403506023"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250604_145107_jpg.rf.3ebe146134f59b70af4b84b2392652ea.jpg",
+      "size": 37605,
+      "sha256": "453aa9cd38c8b65a556c2ed41431bdb75a5bbb3bf22f217a20fee85e5341fa40"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250604_145108_jpg.rf.fd9c8784137c4029c4b3f8fbd6d76048.jpg",
+      "size": 39298,
+      "sha256": "cb6a3dfefe5d3e7d2753110c126f8bda4bb930fe766e0a8f58a50f6f7cf53549"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250604_145110_jpg.rf.e4da4b7c1e26d3dd7208676895ebcae6.jpg",
+      "size": 37126,
+      "sha256": "1399b47ae4ebf46d1a0d1fdf60d813a260e79cf603dce3567478fe14a8a83143"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250604_145112_jpg.rf.c193aba8990c1f6e95cbb3be4808fe83.jpg",
+      "size": 37845,
+      "sha256": "518937a60fa14d290acac303455bb17a2e3fae7b46da89bd8da4251deb9a81d1"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250604_145115_jpg.rf.82097f08aa582f07e88ad19d572b6343.jpg",
+      "size": 37832,
+      "sha256": "e4da258f294c1525a2db994435c0a0190b32906dbed109ad8416939352572076"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250604_145116_jpg.rf.41c7fd8cbb71e7a47bc54fc1dee8734b.jpg",
+      "size": 44373,
+      "sha256": "22d4e6e0260b39bee3b28b8f13bf8558290b1ab1fda1491228b8ed6eaad161c9"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250604_145118_jpg.rf.caa4354376197d39758591e25c2ca737.jpg",
+      "size": 40863,
+      "sha256": "5a8c72bf8a59fb695b3eeb56d4c502fd79725bb71ca19c1082599094b8f5ae0b"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250604_145119_jpg.rf.3e4d88d3186ed4169bdf8a4c68dbe40a.jpg",
+      "size": 40793,
+      "sha256": "32b53c839202bfd8bd27ec0ae30f15cead6555ebf6505158ea678a535953da21"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250604_145120_jpg.rf.4bc1b8a1c5f91490ca838cae428223f2.jpg",
+      "size": 41667,
+      "sha256": "4ea2803552518d73bfb654c4a343b4527808f56cbd3cc68f551383f968b12e26"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250604_145124_jpg.rf.3ac124bc30d3703d81a924114ca52fb3.jpg",
+      "size": 43474,
+      "sha256": "ecbabfa3e04781f0af12ee0d627c1687966e2db04f40e0d510f25eeb5c1b5662"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250604_145125_jpg.rf.bd1fa69f6a0ab1a0a25a6ab8a881cbd5.jpg",
+      "size": 45676,
+      "sha256": "8a50f6b052d844152ac3998d877a7eadce44c79a8ffd3763edffc239f7fdab3a"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250604_145139_jpg.rf.3f48ab7bc3c94d10f7c5fb1f6f320635.jpg",
+      "size": 34004,
+      "sha256": "8c3d42364c80df03dc77b0911a642d36b85b093ff6d8355f8fb101bffffd8c33"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250604_145140_jpg.rf.b756cd8ba6568ee20a5070337a1b21f8.jpg",
+      "size": 37095,
+      "sha256": "ca63ec002c8809e189428b7c0ecc3fb7f0785d1272750767735fb2cf8112a704"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250604_145141_jpg.rf.c946d30b7e727c072333850378a058a7.jpg",
+      "size": 39808,
+      "sha256": "9558e2897a57bee7b43fbf21c1898f34c92fbd17efe1af652c419664cf9363d3"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250604_145144_jpg.rf.8fb6f6d394e36292163611bb204044b3.jpg",
+      "size": 43288,
+      "sha256": "324a1258f411326885f09974be815355567d5e70535c393b897767d42fd08c3f"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250604_145145_jpg.rf.41a690e818d1a578a1b5ee899d88a01f.jpg",
+      "size": 45439,
+      "sha256": "16beeec2e775730c63a5dfbb2d028ddbbb0a3afef31865bc33e7a68edee25346"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250604_145200_jpg.rf.608ea0478400991517e8e467cd2149ea.jpg",
+      "size": 38551,
+      "sha256": "d82daf0e8bd1d202176ff9f3c34250b4ce4084a2e1650b38a96169fe086509e4"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250604_145201_jpg.rf.ad85bc83533c27848bb06f658f813c02.jpg",
+      "size": 38193,
+      "sha256": "db81551dff854893e0fc7a7f73f63aec2350299ec2482a912875e0e7641dfa3d"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250604_145202_jpg.rf.866993c951c44bb6b010de7edcb5874d.jpg",
+      "size": 41893,
+      "sha256": "ba10c2256a5e3fc72824001a1cd247911642737a8869f82c303946c637152fd6"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250604_145532_jpg.rf.0f331e10a4a04fb0cdf423cf75f327ba.jpg",
+      "size": 49709,
+      "sha256": "249b8475e01f9c94731125d2ab243f6c3d4becda60010c62b84fed99d469cf4c"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250605_115935_jpg.rf.e0e576aa7966ea9e52139f46efca48d1.jpg",
+      "size": 43760,
+      "sha256": "c9bc758a455cf47dc297855be273903dfcf634fc818f87a301f6b68b89812ede"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250605_115937_jpg.rf.d24e014efae0b46343f9417658e85446.jpg",
+      "size": 43152,
+      "sha256": "196da67f5023a17a771e7b2c7739a02795d8789b762ad20fc8dc50bd1c27abb6"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250605_115941_jpg.rf.f3327ceaf4a8a2fbfa8b6fa9bee20d04.jpg",
+      "size": 42805,
+      "sha256": "be49c6f077ac59c2cd5f81bf1aadb9f6e157baca7b767349d4c3f7eec95617a1"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250605_120004_jpg.rf.5ae156d8cacdc0d008198159ef7ebde5.jpg",
+      "size": 37464,
+      "sha256": "263cceeb647efb51e609606e99d6a6f9638c8f1aacf395e3537c80b3169924d3"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250605_120018_jpg.rf.09a33153356d190e821622e21788a931.jpg",
+      "size": 38203,
+      "sha256": "dfc0d1b075e5945c3b0f47a9ef5939a5b238ba390d253e10a958ff3ab9feba94"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250605_120022_jpg.rf.640ee5b6f72a79d745202df63cea7cde.jpg",
+      "size": 38769,
+      "sha256": "3395460b5c086eec7d78e7519ff5190fc948020537357749eaf95b6ec4b36a64"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250605_120023_jpg.rf.f0dd0744072ec69fd48346364e7a1776.jpg",
+      "size": 39549,
+      "sha256": "465039649b59c2c875e23c0a363c7aa4c9eff0225d8b2b7386e220d4e7fa8ca0"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250605_120025_jpg.rf.8c83289bcd2730f6a8b011dfeeb326ef.jpg",
+      "size": 41895,
+      "sha256": "7fb1be8dacd48260051067c4a2c1251d11ca5db40c07b890d2f03198d06886f1"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250605_121936_jpg.rf.8f7ed982cca35131e6105e728ae0adc2.jpg",
+      "size": 44523,
+      "sha256": "340dc68150b1de935cd67a4fb9f14dc36c237a34858d8da979a202ce3dbfed95"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250605_121938_jpg.rf.cf27e231adc197578d9065ccd5073b22.jpg",
+      "size": 46930,
+      "sha256": "2eb2b0ae3334eacf6c3455152c29c9231865f2754efe73d27967aceb513c4efc"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250605_121940_jpg.rf.37a2887db21bfea0e586d8b088e5a419.jpg",
+      "size": 44701,
+      "sha256": "158896ee70b8c7f7b9e94830261454e6cb136420a7cf24b3266441f5d785d35f"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250605_122029_jpg.rf.08b8bcaaea99e516698a051789f13e90.jpg",
+      "size": 50077,
+      "sha256": "dbcfb22158fecf23a49b694a730ad67752036392d3decf63889d4e93fd9b088a"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250605_122031_jpg.rf.5434b016a008154f8ff6981f67d4ed7b.jpg",
+      "size": 49793,
+      "sha256": "519b7da3a45a11c8bbc6bad69c7035db94760608cfce5a8b290ef899db5d471b"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250605_122047_jpg.rf.f3e0aba91b87880397feb73f4d6bc946.jpg",
+      "size": 51304,
+      "sha256": "84a3a4fada85242c13550a789d0f5e92d73e1b9dcb3df7569a555f65e26ff180"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250605_122730_jpg.rf.ab781843dbfe5f6494753d8d2964e922.jpg",
+      "size": 62838,
+      "sha256": "aef0427f6345624c93c4f38e4a9ddfe221d223bed64066fae96a17cb20dffc3d"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250605_122732_jpg.rf.fbe6afa3876d17d4c41200ae70ad6e1d.jpg",
+      "size": 63171,
+      "sha256": "d8fad2cacd6826201493a175153fa451424c0ee5a6a10ba86483f429d218dd41"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250605_122734_jpg.rf.917eea143db3f316b6959a306ae5869e.jpg",
+      "size": 63723,
+      "sha256": "f37ead1b4fcecf6dcbc9a45b81789a4adb9f6149f44676978f3cf808bc693a5e"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250605_122755_jpg.rf.80456df93f7b0874fe8122adae291778.jpg",
+      "size": 62932,
+      "sha256": "8d19cfa3f4e3e3f0d19c82068b8a0db23fcd3b2871af39bc10af3a2666c0767d"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250605_122758_jpg.rf.1aa913cd906d90d488296ec74c550462.jpg",
+      "size": 60575,
+      "sha256": "6588f0a06690da816ca4b0525403479679bcc1c7c694dd701d5ae49109a662d6"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250605_123003_jpg.rf.b8df0d819695ad9347327c3703fc7d71.jpg",
+      "size": 68392,
+      "sha256": "e882472bdec45815ecd671992cf5613ebf26c605a4b606e18a8fe1419e262d25"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250605_123005_jpg.rf.d172f839c88cb4a2b6f24688a7fff4a5.jpg",
+      "size": 67913,
+      "sha256": "afc0a675e22893f9485eb5f4e19d3c0629c5decbb3e767801d881af71077034b"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250605_123038_jpg.rf.24972ef23d9f0c74d9f9bbc426ebe612.jpg",
+      "size": 67363,
+      "sha256": "661b52ef8079a38dfc57a1baae6bc4d76838d245acff22332f85c14b7f548bf4"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250605_124611_jpg.rf.633bb4b6a742b9b341ad144d474bf2d8.jpg",
+      "size": 55472,
+      "sha256": "5751e56bab30eada7b88ffe7f97aaaebc2cc72000c1b52882c3cbf30e06b38f7"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250605_124614_jpg.rf.74e362a61fbec92645b7598b67b079c5.jpg",
+      "size": 55250,
+      "sha256": "a87b9561a77b53edb6312829a76928d50659f7e7ea85aa0b5efff6b6245ec97c"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250605_124616_jpg.rf.02f601af051ce48ae750b5628302bfcf.jpg",
+      "size": 52323,
+      "sha256": "c57cf588c35d7be213a3b1b4e970cd2b50186cc1c9beddb731d788dc3825af2b"
+    },
+    {
+      "path": "geoset_ennea/images/train/IMG_20250605_124630_jpg.rf.b06c3dc07c50707f53df07addcc73afa.jpg",
+      "size": 60091,
+      "sha256": "2dbef95c311071a4eb1b3f7df4601f261dfb4c415f6bdb4e1be8bd29e6a97e38"
+    },
+    {
+      "path": "geoset_ennea/images/val/IMG_1237_jpg.rf.2ff86a1d2e50f2e8aafde09c0c50dc3b.jpg",
+      "size": 88997,
+      "sha256": "d9236a08e27cbb116965c5884a80c7b53c056ebd56ae50c13ca8514f440b5d69"
+    },
+    {
+      "path": "geoset_ennea/images/val/IMG_1238_jpg.rf.6cb60407f7aeaf86006b0a31083443b3.jpg",
+      "size": 88086,
+      "sha256": "17097c17e52ca81dbf9bb1690dd3f2717f88f7de891247a2ec08e831afb55bd8"
+    },
+    {
+      "path": "geoset_ennea/images/val/IMG_20250604_144202_jpg.rf.a89e669c2dba74849145fc1c72ad7c3e.jpg",
+      "size": 40027,
+      "sha256": "3f462f0fe1b70b76f3bfceadf0de972d0563e4d6f9eafa162f76956fa7cc0493"
+    },
+    {
+      "path": "geoset_ennea/images/val/IMG_20250604_144205_jpg.rf.4ca23a82f46e1cd647dc7a5fcce939c6.jpg",
+      "size": 38958,
+      "sha256": "dcca7a443ceb723a32580a7672e7a2f802e433b81c435c64accb6fbcabfb8b68"
+    },
+    {
+      "path": "geoset_ennea/images/val/IMG_20250604_144245_jpg.rf.2348094a79ec4d58e6a20738b035b291.jpg",
+      "size": 42904,
+      "sha256": "2c093a1c4dc2c06a72e76d42e189c3c6733db986ea9f45b056b172cf96f71232"
+    },
+    {
+      "path": "geoset_ennea/images/val/IMG_20250604_144246_jpg.rf.35b76e9fd2a25ee1160c11126d412ae1.jpg",
+      "size": 43489,
+      "sha256": "ef958d7646b67d55722ffbe32b89561b68c9219192e1e0e535d8715fe5e6e684"
+    },
+    {
+      "path": "geoset_ennea/images/val/IMG_20250604_144247_jpg.rf.c3160a60d4bbea8d906f6bf7005b1485.jpg",
+      "size": 43326,
+      "sha256": "f0f728eb90adcf9885ca583ec08820f82d29ba3b7ef09d95c79c3465f0b95207"
+    },
+    {
+      "path": "geoset_ennea/images/val/IMG_20250604_144248_jpg.rf.c40e470248d77c48cbaf3a9ff97fb3ba.jpg",
+      "size": 43378,
+      "sha256": "45fecc5b390ec6eb38fa3a0b0e4d9533784a0c2bbdd0d39e0ee9641c669230d1"
+    },
+    {
+      "path": "geoset_ennea/images/val/IMG_20250604_144249__01_jpg.rf.9cfb269f3af38c1d12ba3d1db6832b74.jpg",
+      "size": 43275,
+      "sha256": "5014fdcdf616b5a50debf4bf036f5c7ce52f7182ed1a7d9ee1a221409da5b778"
+    },
+    {
+      "path": "geoset_ennea/images/val/IMG_20250604_144249_jpg.rf.303076963bee85289f999e5e9fa784a2.jpg",
+      "size": 42823,
+      "sha256": "07c433fe6b65fc741599a4d434d1e1f3fc90c366101164bb458e96f6edbbb4a6"
+    },
+    {
+      "path": "geoset_ennea/images/val/IMG_20250604_144250_jpg.rf.0ccf303c463a6467371fa97664f98208.jpg",
+      "size": 43007,
+      "sha256": "8b39f7407914d2d5c8b7af31ed14e66a4dba39c245e8c937e6113586f7dab159"
+    },
+    {
+      "path": "geoset_ennea/images/val/IMG_20250604_144251_jpg.rf.bb19e9aed7719dc54a4d09616d88db25.jpg",
+      "size": 43232,
+      "sha256": "144fd7b94f1d1d90d68831a082e847e841ea1b99b3c64f619237c1ed7ce347af"
+    },
+    {
+      "path": "geoset_ennea/images/val/IMG_20250604_144252_jpg.rf.0bb2cf41f9d78540df8de5d91b8f7ae5.jpg",
+      "size": 43070,
+      "sha256": "a0616a819b2367934692364f26fe8bea0d8f39888f5e9d89da41c68a2d1dd6cd"
+    },
+    {
+      "path": "geoset_ennea/images/val/IMG_20250604_144253_jpg.rf.b8b48f65807f166385b2815db41e4147.jpg",
+      "size": 43752,
+      "sha256": "bc35f6d86352c3bab86839e70d47a235490b072d02faa0f3cf5c814dd4e34282"
+    },
+    {
+      "path": "geoset_ennea/images/val/IMG_20250604_145113_jpg.rf.fcd7c6b1d62a8748460a810786331df6.jpg",
+      "size": 37022,
+      "sha256": "c471279db9ac8212247548ae68fe9cc7c23be6ba9ad3baa62200ba761102e49a"
+    },
+    {
+      "path": "geoset_ennea/images/val/IMG_20250604_145146_jpg.rf.f5400e1f97b41cbe07b09cd5d3c87e54.jpg",
+      "size": 47491,
+      "sha256": "0c8b44f0e3c563efbdd481cac27ef7c8a17500f6a59a6cf025a2167c330ed18d"
+    },
+    {
+      "path": "geoset_ennea/images/val/IMG_20250604_145149_jpg.rf.5be5fb34d5a68bbed3f875f937e8782e.jpg",
+      "size": 43660,
+      "sha256": "b095162f9eb45654c5436e3764edf2e026533703e41ac4df997bc0afeb5df99d"
+    },
+    {
+      "path": "geoset_ennea/images/val/IMG_20250605_115932_jpg.rf.34d73bd24b967bce5c32b018633873bb.jpg",
+      "size": 43810,
+      "sha256": "d49e1a511faf4fe600f2197d133865c2f02f73a17d3ddbd6920d2158261b9b2b"
+    },
+    {
+      "path": "geoset_ennea/images/val/IMG_20250605_115933_jpg.rf.a9176c929cefdb2f6c2c0452487efa67.jpg",
+      "size": 41505,
+      "sha256": "46ff5f11b5f33421806a9970ff224b7d1558202475d6b137f7666b4fc477ddf7"
+    },
+    {
+      "path": "geoset_ennea/images/val/IMG_20250605_120006_jpg.rf.efbbf829404afccc1fbb3a17e1f7a4dc.jpg",
+      "size": 38989,
+      "sha256": "792b1b57f93a6bd69e5f6b724dbcb8a28491798e1ee753397c136b6eaf58e7fd"
+    },
+    {
+      "path": "geoset_ennea/images/val/IMG_20250605_122757_jpg.rf.84d00ed939ebada4e52a75ededc4cc4e.jpg",
+      "size": 60371,
+      "sha256": "eab6a0af67762e351789870f6637af5140c3fcd4849fc0019102a83a3a25bd00"
+    },
+    {
+      "path": "geoset_ennea/images/val/IMG_20250605_124628_jpg.rf.a2f970f1152dee86c6f5f4051320fef6.jpg",
+      "size": 59639,
+      "sha256": "c55a1ef160bb0612d2e83476c8a48fece17346837b9164b26055b785c2a474d0"
+    },
+    {
+      "path": "geoset_ennea/labels/test/IMG_1236_jpg.rf.b4ce760c556053bf074c82d259178a93.txt",
+      "size": 545,
+      "sha256": "d4a553c1df918f56fd95c562984e8a20080016f317215b3102da6743eaa3afb3"
+    },
+    {
+      "path": "geoset_ennea/labels/test/IMG_1239_jpg.rf.07b476c5282d8dc21b125b505ab6c45b.txt",
+      "size": 564,
+      "sha256": "7676f281996289157d18bd3cb10eddfda74e2210da9565b5c5ff90a56d971214"
+    },
+    {
+      "path": "geoset_ennea/labels/test/IMG_1240_jpg.rf.5a17a572aed1e94bf9c6ba4e36e03d5c.txt",
+      "size": 562,
+      "sha256": "18a8584edb7795aa037096d6aaacc6c2f6ae1699b4b2d1640ad2aa12ef992ae8"
+    },
+    {
+      "path": "geoset_ennea/labels/test/IMG_1241_jpg.rf.01f3538a21fae591f6b68c50379fa770.txt",
+      "size": 518,
+      "sha256": "28972c7bbbba6f4276bc53b39fa0e869f350ae2ff2345712c9cbedecdbef2e18"
+    },
+    {
+      "path": "geoset_ennea/labels/test/IMG_1242_jpg.rf.3ff44c39d7e2d2d07368f2375062ee59.txt",
+      "size": 618,
+      "sha256": "f589a2ce58b3715b2e727c46751816ca88c7df9885ae855378a8f19b04c373f3"
+    },
+    {
+      "path": "geoset_ennea/labels/test/IMG_1247_jpg.rf.d8a94912a4e73989596bfa5d001d7caa.txt",
+      "size": 620,
+      "sha256": "d0b81e1d7ab34fde2b15e235a1fce40a7e1d83b954f1cabf0abaa353ea3ceadc"
+    },
+    {
+      "path": "geoset_ennea/labels/test/IMG_20250604_144224_jpg.rf.45089b6d187863cd307aa4e4cffbd19a.txt",
+      "size": 719,
+      "sha256": "c287b627fda7cb49d6501d09506550d85e5f3212d47e098cdc405fb287847a48"
+    },
+    {
+      "path": "geoset_ennea/labels/test/IMG_20250604_144225_jpg.rf.190f80f97f548a864ad721ecf846f99c.txt",
+      "size": 691,
+      "sha256": "d26e10e5844ceb068d7337f603d02d7499d92be92fdd406cde7ee333a5b28a91"
+    },
+    {
+      "path": "geoset_ennea/labels/test/IMG_20250604_144226_jpg.rf.5e10c619df4fe6b0f1788341322aa3b8.txt",
+      "size": 691,
+      "sha256": "ab6dbeb6fdd75a7e745194b8505460a9e652d50d407e43dd6539047962ce02ad"
+    },
+    {
+      "path": "geoset_ennea/labels/test/IMG_20250604_144227__01_jpg.rf.04a7f83ffa32045a112bfac638394bbd.txt",
+      "size": 653,
+      "sha256": "b7fb3e8a1c6b32b2e0e1456fe51bb2a6375f373395c6e7134403b4af3a49a9ab"
+    },
+    {
+      "path": "geoset_ennea/labels/test/IMG_20250604_144227_jpg.rf.67738241ec8f4b84bccaa5a8b3af5ae2.txt",
+      "size": 660,
+      "sha256": "12144097b2e2427b896a23c77ad7571c7fc548cecc37c441cc12b5dbf65307f3"
+    },
+    {
+      "path": "geoset_ennea/labels/test/IMG_20250604_144228_jpg.rf.be124c86cb8b849f2cb23c7c78e28b33.txt",
+      "size": 664,
+      "sha256": "ca5aa4ad1f1720142e49a6b3f8e9e8e3b24a681b9fefb482657a37590ccf4be1"
+    },
+    {
+      "path": "geoset_ennea/labels/test/IMG_20250604_144229_jpg.rf.dd729223497aadc9463208b63aef2bc7.txt",
+      "size": 714,
+      "sha256": "470ab2522e9a9d7d52202cda793c968183cc418b8474799731f044df625fa23d"
+    },
+    {
+      "path": "geoset_ennea/labels/test/IMG_20250604_144235_jpg.rf.f26c7e3af29fe4d9251ca6e823354770.txt",
+      "size": 664,
+      "sha256": "53dba64c5cc2b8ea7f8c19a984d6fd6ab3c24e88f1440581e856dd77f8d38d36"
+    },
+    {
+      "path": "geoset_ennea/labels/test/IMG_20250604_144236_jpg.rf.c28d2680dc04d2565034519eb0410e2f.txt",
+      "size": 630,
+      "sha256": "4ff3ae30230d6fe5219241d1d5de4b80cef768cc0d5c12705b3b009472dc73bc"
+    },
+    {
+      "path": "geoset_ennea/labels/test/IMG_20250604_144237_jpg.rf.7c34c09653666992e137601c473fbf0c.txt",
+      "size": 679,
+      "sha256": "4589903dc4c57d53e9f07cc1a5f74568e0a3e2758f6742bc2dc996b0c4ddf8a0"
+    },
+    {
+      "path": "geoset_ennea/labels/test/IMG_20250604_144238__01_jpg.rf.1a1688a50be4e9ba721821a719551c4f.txt",
+      "size": 705,
+      "sha256": "800aafe660e47f8688ca35cfdd0c033aedd7165efe8cf535e13be92cfa05d4da"
+    },
+    {
+      "path": "geoset_ennea/labels/test/IMG_20250604_144238_jpg.rf.a9f7d1721987a8ef079d6ce70c2bf4a8.txt",
+      "size": 679,
+      "sha256": "971efa1916a787f6e8763f626f0a88fc63e9e3ec5cdbe9b1ee0abbe54a92f36d"
+    },
+    {
+      "path": "geoset_ennea/labels/test/IMG_20250604_144239_jpg.rf.cb7d7f66966c1fb2175ec5e68fbcdc89.txt",
+      "size": 651,
+      "sha256": "25daa742eded5e357f496e6e566eac82688c52ad0d6e200a604ead08a3864627"
+    },
+    {
+      "path": "geoset_ennea/labels/test/IMG_20250604_144240_jpg.rf.7ce8ab766a281e7009abb2d5b6885fcc.txt",
+      "size": 629,
+      "sha256": "6b22d127fc128317c6847b88a768491b841363d34f1a8b56de082072797e9343"
+    },
+    {
+      "path": "geoset_ennea/labels/test/IMG_20250604_144308__01_jpg.rf.3bdc49d132bda936be1392f0194b1efc.txt",
+      "size": 665,
+      "sha256": "521c8f565fd6fdc84bca6aa36c30574738a928a37965eec6b9af5bd5681511d6"
+    },
+    {
+      "path": "geoset_ennea/labels/test/IMG_20250604_144308_jpg.rf.19e9fee726a3d966ff470fc2544a6437.txt",
+      "size": 656,
+      "sha256": "cf7d2087827041c6f0ba21da5c59d0821d19899ebb272721ce7a416df6ed81d9"
+    },
+    {
+      "path": "geoset_ennea/labels/test/IMG_20250604_144309_jpg.rf.8d4c173336a36468877b125af68c4866.txt",
+      "size": 726,
+      "sha256": "0fa2fe0d04abad0565e20a02e38cb6a3aa2acb3bff43d52a2268061d8891b4ea"
+    },
+    {
+      "path": "geoset_ennea/labels/test/IMG_20250604_144310_jpg.rf.de0ac657fc50b4372525c1f999d5a58e.txt",
+      "size": 644,
+      "sha256": "a9b45bf6c2d93dc438ab799fd93f5eb9684ea9555d6828e6123b8e9ffabfa578"
+    },
+    {
+      "path": "geoset_ennea/labels/test/IMG_20250604_144311_jpg.rf.61f06bd28a30d346dc3cc32869a4b286.txt",
+      "size": 718,
+      "sha256": "05ecc56e9f2b4d52e2be04db7764beca132352ce9291be63cf36054920d13eb9"
+    },
+    {
+      "path": "geoset_ennea/labels/test/IMG_20250604_144320_jpg.rf.0806441dcb83666b83af61a3bc975508.txt",
+      "size": 649,
+      "sha256": "9b39ae918b0f3edf99fe3ecfa05043f85fb9dda0ba87c0b1c78f03f07691006b"
+    },
+    {
+      "path": "geoset_ennea/labels/test/IMG_20250604_145114_jpg.rf.2b48ede6427c3a01903292ae77a70cad.txt",
+      "size": 663,
+      "sha256": "29a8c196d9beab78b99132561afd60ce6895dadbc350c1e71342d70fb1d1dd8f"
+    },
+    {
+      "path": "geoset_ennea/labels/test/IMG_20250604_145157_jpg.rf.cf81dccd2cb918e0780a56ffb5ac81f4.txt",
+      "size": 582,
+      "sha256": "60fab1ce45bc18b68c6980e5d036a7b0b0e82302b62d882aa064052f5b592f3b"
+    },
+    {
+      "path": "geoset_ennea/labels/test/IMG_20250605_122107_jpg.rf.28168fdfa9a65aa4a80c408809193751.txt",
+      "size": 636,
+      "sha256": "b8c946f601e16ee6fec5f07dc031b4685c60cd1ae60d708bb065bb1b41890c58"
+    },
+    {
+      "path": "geoset_ennea/labels/test/IMG_20250605_123036_jpg.rf.5ecee8e6023bcd11cf7a906184ab8ad9.txt",
+      "size": 642,
+      "sha256": "f89981d99833b04ba6b90cb77097fd3e6b8f0c97632fe6aab1709b32decab0c2"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_1233_jpg.rf.a78e5ce0cd538af50bc4639f3ca01038.txt",
+      "size": 476,
+      "sha256": "66d51c7fccc4978a0aeddfad86069006bd542c6159e04b5f5034170ca93a1e3d"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_1234_jpg.rf.3e023bb6a896d30e4267bd5ad3cedd49.txt",
+      "size": 563,
+      "sha256": "42994d1df38188b45a5baa710838fb891d012bf1b1ae3fbcb738cc7063a94f21"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_1235_jpg.rf.438324fb7ea55b9ca0ca7bac5f095ce6.txt",
+      "size": 588,
+      "sha256": "be2bc75548e73c3dfa427f89997cf6a0792cf60124e06297c23aa703206a7314"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_1243_jpg.rf.263f79a7a22755197936d02b6d087226.txt",
+      "size": 608,
+      "sha256": "f34175c8a577d1328b793df432255fe038c4e8781c01abc72616bbce33961088"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_1244_jpg.rf.2bc09ad7f9b7353f96a99f441778cac9.txt",
+      "size": 550,
+      "sha256": "9a6e8f8545fa190b2ee732660a3108bda41c76b3a04166e9140962ac7f4da454"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_1245_jpg.rf.679b79754a406c4bd4f04edaea95661a.txt",
+      "size": 596,
+      "sha256": "e892b9324c78eca5c343235a27678de9dddfc14877327fa44bf2ead2394a7a02"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_1246_jpg.rf.8df100c7632fe4e953bc22ead85279f3.txt",
+      "size": 603,
+      "sha256": "4826fd574349d22259926e098335e68b648c861435844ebf6879c8bf73058218"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_1248_jpg.rf.cb01665574ac04823f143318bca04617.txt",
+      "size": 592,
+      "sha256": "96662de32c23bdbd7426bff121ca15a4e4e2b5257faf72f8029f8c19fb138d7a"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_1249_jpg.rf.91754c063f377de1c2540cae8617dce3.txt",
+      "size": 590,
+      "sha256": "b9741107b6b9cf357b07225cccd0887842c659c0faa064bec3ec63ba01c943e9"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_1250_jpg.rf.6a9013e8661e0d664cbbba0599a16dd1.txt",
+      "size": 574,
+      "sha256": "f5b836d80301319db63beacad217992b1212753ca0ab4a870506ed15554f8e1a"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_1251_jpg.rf.dd1982665877f336fb02d6a6fcd0a300.txt",
+      "size": 617,
+      "sha256": "312f2ef9a2b5e202e7d22c8c29f832cac1e7006b294d841ad3ba92eda149508b"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_1252_jpg.rf.ba696b43e6a64520e8ad453ab021ba52.txt",
+      "size": 608,
+      "sha256": "ed45003b6c48a188852876cd300fd316e1297fd76f3db53d15bea3b15029b880"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_1253_jpg.rf.f1356a836d5ff17327e10f50ccab0c4d.txt",
+      "size": 606,
+      "sha256": "7048329748eba42b898422c799b6ca3cceb93dd587b6207bf542b4c30184490c"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_1254_jpg.rf.6fb3484419421bb81f8d884fa0ddbe2d.txt",
+      "size": 589,
+      "sha256": "7a50ab0c5f37fe5c613fff99558dfd5f92bdc50c62bbba93892ca036c4b03287"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_1255_jpg.rf.717f1d05cd6192573b253ff380e15f26.txt",
+      "size": 576,
+      "sha256": "3769260c98eb0304b0a062042431c3afa7e40c8dafd961d3645c905c4c22ef01"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_1256_jpg.rf.953a1f92405573ea63a0925f2488ffbf.txt",
+      "size": 609,
+      "sha256": "50dabc1d589f1e86aa589cf84778101c711dfed2a6c541f8cacaabbcdc32c83d"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_1257_jpg.rf.02b541b1a488f9444488afda39c61cad.txt",
+      "size": 574,
+      "sha256": "fe987abb7df64b0fb4dff531e28957d8a0b6342dcfbf40df2b39e25169555bed"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_1258_jpg.rf.5802fd11a7a3cd91f4ac78593b0a9aa2.txt",
+      "size": 608,
+      "sha256": "cdacb60397a707db2eaad59d45949eed53f73e68e2887063b97472f0ce7915a6"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_1259_jpg.rf.72163f9eeae998534c1b556641883b3e.txt",
+      "size": 557,
+      "sha256": "f7513b3b5468af1290f90301c23e7fc4be8ae9d6e2fe3e27bf8e8cd3a9a4be18"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_1260_jpg.rf.69b9a924b688242aeb29ad6023b17a93.txt",
+      "size": 656,
+      "sha256": "5f760bff442dd072042f13c28658ba94fb421d07a774f3925c3edb460335ab8d"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_1261_jpg.rf.ab1b1f2852ad0f9d3a6faa836f41408b.txt",
+      "size": 546,
+      "sha256": "6917bef3d8ebbb48b59bb0feafb77fa45d2ff97679715f4072801c93b3f48ae7"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_1262_jpg.rf.9e279b3f41b6e562add518f9aca9a879.txt",
+      "size": 598,
+      "sha256": "7976ebba87854aa14c66dc186a1d3464bb2ee5ba349e6584b20f443eef873282"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250604_144207_jpg.rf.ae9ae5e2bca0fb739ef2bc499fbd7030.txt",
+      "size": 698,
+      "sha256": "8fee64a73a74a583e25ed8fd9f3c672fa5f907f1307357b25c8ff8d701877222"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250604_144208_jpg.rf.09484cd2c3d20e0f787a35a811d29b1e.txt",
+      "size": 717,
+      "sha256": "e6b12ae499770faea2ffd21eb27de600f76bbed91ae991338e4447b0f9b10b93"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250604_144209_jpg.rf.1102417482190b52bcc75d00a1d1d959.txt",
+      "size": 680,
+      "sha256": "29cbe65e480cd4448212b0b0a1635dfc083e0a5a70fb11aba2418b10f497926a"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250604_144210_jpg.rf.0399957bb6c21bbde43365d7348fdd98.txt",
+      "size": 651,
+      "sha256": "8daa24d88ef07c15ec15556ffe075c999c1a41fa95f8c67e7090bc1599f7cbd1"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250604_144211_jpg.rf.4c75bedbcb85f167b9cd54944e31c179.txt",
+      "size": 686,
+      "sha256": "73207ac6e556dddcbb76d866d13fc321e8644a540d14888e38f19cb29cc70318"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250604_144212_jpg.rf.67e6ade153c8a4f5d307dd32a1c13a42.txt",
+      "size": 717,
+      "sha256": "0644f1e64a7418457694b019971261b7f90323e70e9da1e2567229aa4c3caaf3"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250604_144214_jpg.rf.f00529fb1bfc59f9399373f7884fdebd.txt",
+      "size": 653,
+      "sha256": "f4befae7e09066bc67d8b2cfeb5900f421b801256ab9f332e2441fb583b894a6"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250604_144215_jpg.rf.11113420edc26622a3948a6c3dba2f85.txt",
+      "size": 670,
+      "sha256": "ac23e33b4bf5c89e257e72acc85d05eb5ec1acc7ab25204bd436166f8f9deef7"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250604_144216_jpg.rf.02fa12f119c705c4470948d95538d3c8.txt",
+      "size": 681,
+      "sha256": "810faafeb7bbb05b8d11d5f15587866885230c544089456596f68f267b36318c"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250604_144314_jpg.rf.cdf85375a85396b8cf85b762c8c52c71.txt",
+      "size": 649,
+      "sha256": "c0876b32621911f589faf4d156e2c134b67ff0662a4f4c0de3889359067521d7"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250604_144315_jpg.rf.dfacda2702bdf8a289c314792e08ee13.txt",
+      "size": 572,
+      "sha256": "8b4ba5612c98317de5f90abb4e5bca5806aa29696ecf8d768e4275f651fb0f16"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250604_144316_jpg.rf.a430a86a8812d74ef62469eef106aee9.txt",
+      "size": 652,
+      "sha256": "df699e6d55dd47d354d5e20192f9ece9849d953f8441129581568784870a7283"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250604_144317_jpg.rf.a81734e2712b75e4ff003cba09a183f1.txt",
+      "size": 658,
+      "sha256": "83d67c986541cbde8716e1b1e9b57f987defabaa0e87ec649441643d50586ca7"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250604_144318_jpg.rf.36e2fc0e7cb5ff22ef00a08aba81ce8f.txt",
+      "size": 660,
+      "sha256": "bd921a481ef592dd4584da45ffcba4eba05e011558e63ab6c3ac27d3fae55a20"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250604_145102_jpg.rf.adfe76935ff684271c2e52c4646aecc2.txt",
+      "size": 652,
+      "sha256": "ccc18c2a83cbc0103aba4d9c3563437a6c3c1fe60c15a71f18ca3f2cfeed1a08"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250604_145104_jpg.rf.2cf662d9be3082cdad252bd4b5cc618c.txt",
+      "size": 626,
+      "sha256": "6355fae6a22ceae8f349435ea34a5863aedded60fe6643e2fe8fa30d4bf4fedb"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250604_145107_jpg.rf.3ebe146134f59b70af4b84b2392652ea.txt",
+      "size": 615,
+      "sha256": "e03d57d1cb52a1ac48cba88b15f30321c233856e301d2c98e82629d3f7411264"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250604_145108_jpg.rf.fd9c8784137c4029c4b3f8fbd6d76048.txt",
+      "size": 699,
+      "sha256": "4252de3d9e8e3d88de809014bbac470ee952d56cf1f2dcab51a643586e6727d1"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250604_145110_jpg.rf.e4da4b7c1e26d3dd7208676895ebcae6.txt",
+      "size": 688,
+      "sha256": "efe55cd033ef2fa2445cde61c45707621790126db6c75712ef2a04024c640c0f"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250604_145112_jpg.rf.c193aba8990c1f6e95cbb3be4808fe83.txt",
+      "size": 618,
+      "sha256": "b85ab145837431a50719bc14743791e5f403e2bc77293e3c4e6f1d8e96379d5f"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250604_145115_jpg.rf.82097f08aa582f07e88ad19d572b6343.txt",
+      "size": 642,
+      "sha256": "e4cb316c8a7011aab7ab9d6020fd86d9d6814d55427892783419e5362397af68"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250604_145116_jpg.rf.41c7fd8cbb71e7a47bc54fc1dee8734b.txt",
+      "size": 655,
+      "sha256": "32e5e6117180c11d50faa1ec85bbcd1bdddcbb55ce870bb69069fc1d979d3904"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250604_145118_jpg.rf.caa4354376197d39758591e25c2ca737.txt",
+      "size": 664,
+      "sha256": "bc0e35f1b217d5e3c9c29e5c3294761b408a3253c94911ade51e0441bb7e3083"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250604_145119_jpg.rf.3e4d88d3186ed4169bdf8a4c68dbe40a.txt",
+      "size": 628,
+      "sha256": "634d657f5b2dba5a8d456a5cf37f21e239f6124e33a62e639a4b9dac43a71f01"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250604_145120_jpg.rf.4bc1b8a1c5f91490ca838cae428223f2.txt",
+      "size": 683,
+      "sha256": "9adab69fe88b39b24328ae723527ae2d03177fac5c88355a329be4a8ae69371c"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250604_145124_jpg.rf.3ac124bc30d3703d81a924114ca52fb3.txt",
+      "size": 635,
+      "sha256": "571ef3bfb81b6d4fbb3113c48cbe2857fd07dc65bc137745a85dcc0024a6aa6b"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250604_145125_jpg.rf.bd1fa69f6a0ab1a0a25a6ab8a881cbd5.txt",
+      "size": 649,
+      "sha256": "6dc5d5c042ed60c9a87e5088040b2fe5b1c7bb170b00b89092a94e5991ad2a03"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250604_145139_jpg.rf.3f48ab7bc3c94d10f7c5fb1f6f320635.txt",
+      "size": 621,
+      "sha256": "13516a70879c385256e7624420fa5898f0182b66e8db1651020d628fb4227efd"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250604_145140_jpg.rf.b756cd8ba6568ee20a5070337a1b21f8.txt",
+      "size": 652,
+      "sha256": "d58c44cf1912dd0e69a7d7ed843596345d98091188a88138b1c2f859da2bb814"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250604_145141_jpg.rf.c946d30b7e727c072333850378a058a7.txt",
+      "size": 652,
+      "sha256": "8c6da2a593ad56c48e9fd70760783efbe0da8b07e50d7f25ff2e769c8c2d7297"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250604_145144_jpg.rf.8fb6f6d394e36292163611bb204044b3.txt",
+      "size": 649,
+      "sha256": "e36bae44ff1f226ac1f5758e9840570d2f8c18af37c17a3d247dd52e41a17faa"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250604_145145_jpg.rf.41a690e818d1a578a1b5ee899d88a01f.txt",
+      "size": 620,
+      "sha256": "09904e440c90cb6af5285f3a121c90e128fb8eefe12cbbd72fd2786002be01d7"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250604_145200_jpg.rf.608ea0478400991517e8e467cd2149ea.txt",
+      "size": 638,
+      "sha256": "657287339a52c3eb3f056d192f7387fff3c92314f84065348e1065d504172278"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250604_145201_jpg.rf.ad85bc83533c27848bb06f658f813c02.txt",
+      "size": 596,
+      "sha256": "bcbdf5d2cf0e2c4da40b41840809565776d8ac3c313d2e532fb1f7165f044ff5"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250604_145202_jpg.rf.866993c951c44bb6b010de7edcb5874d.txt",
+      "size": 597,
+      "sha256": "d10811755ea420358f381b54c6cc881b63b490d7261bed2a032e6585378d0a41"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250604_145532_jpg.rf.0f331e10a4a04fb0cdf423cf75f327ba.txt",
+      "size": 689,
+      "sha256": "e63ad7702d08e40600fa1587e1d830d4ce4337ae92422acd0a0c50aeca7de889"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250605_115935_jpg.rf.e0e576aa7966ea9e52139f46efca48d1.txt",
+      "size": 685,
+      "sha256": "404074eb47c714995c15d3d841251f0ce83e7c3765e34d95750b7928843818c7"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250605_115937_jpg.rf.d24e014efae0b46343f9417658e85446.txt",
+      "size": 669,
+      "sha256": "e6814d4eec9c6f37be7ead6705344e20aacd1c0557d309b185c9566f59b919d0"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250605_115941_jpg.rf.f3327ceaf4a8a2fbfa8b6fa9bee20d04.txt",
+      "size": 646,
+      "sha256": "c52cdc1da26d32e708e01f9fa5ad6cb331f036bacc5900b651836dabcfaf81c6"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250605_120004_jpg.rf.5ae156d8cacdc0d008198159ef7ebde5.txt",
+      "size": 663,
+      "sha256": "5b4023c835186a6654120700ad746658cc13255eb02c11574a3a230efb35f16e"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250605_120018_jpg.rf.09a33153356d190e821622e21788a931.txt",
+      "size": 693,
+      "sha256": "74d65f6b0047422d23d260ccc82852ea0f5f20e3a4cd6b21827c5e590120cb80"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250605_120022_jpg.rf.640ee5b6f72a79d745202df63cea7cde.txt",
+      "size": 706,
+      "sha256": "34842ee8fd4d7f74fc2dfe9de4cd46b6af9d48f5fea5577c68512be2b31b95b0"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250605_120023_jpg.rf.f0dd0744072ec69fd48346364e7a1776.txt",
+      "size": 681,
+      "sha256": "1cc525bae2cecf1fd08bf2a52e5286c5bd15ddbefc89d028fa8f9e8cc76f3cb0"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250605_120025_jpg.rf.8c83289bcd2730f6a8b011dfeeb326ef.txt",
+      "size": 649,
+      "sha256": "3d4d5dedb9d85759e9cb3cea0be163d1ed806e81e861fde3bce4aa9dc3c11755"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250605_121936_jpg.rf.8f7ed982cca35131e6105e728ae0adc2.txt",
+      "size": 667,
+      "sha256": "270dadcc4b9fd7f07c118b9a2b018d9bdc3fffec82bd32c9e2a25327ebf497d6"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250605_121938_jpg.rf.cf27e231adc197578d9065ccd5073b22.txt",
+      "size": 677,
+      "sha256": "0647bd707329a93b6ab276ddfce057deff75e5631a0fc97c892411656e0d9bae"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250605_121940_jpg.rf.37a2887db21bfea0e586d8b088e5a419.txt",
+      "size": 667,
+      "sha256": "ed460e1389b448c5cdf0caca03ef303eba88771308ffaad335396bc933aaab8a"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250605_122029_jpg.rf.08b8bcaaea99e516698a051789f13e90.txt",
+      "size": 688,
+      "sha256": "d91c74ffc547adfe7f8611ba37a44998c0ebc6c469b42223f1cc47022a2ca854"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250605_122031_jpg.rf.5434b016a008154f8ff6981f67d4ed7b.txt",
+      "size": 633,
+      "sha256": "cfa6f651805f918f3d6a5362159ede09f1fc1c3632e0d9b7a43a6bff670c7f32"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250605_122047_jpg.rf.f3e0aba91b87880397feb73f4d6bc946.txt",
+      "size": 638,
+      "sha256": "3480fcd084a6259f30667ec23864b11a7a7902309b41062fb8aea28295d8c716"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250605_122730_jpg.rf.ab781843dbfe5f6494753d8d2964e922.txt",
+      "size": 633,
+      "sha256": "61e0f89f695d857bbb19fdb1802dfe99de34720929a753b97cf8222182d95ba7"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250605_122732_jpg.rf.fbe6afa3876d17d4c41200ae70ad6e1d.txt",
+      "size": 687,
+      "sha256": "0d989833b6e01db0e60e415c7ab1d06333cb8a5fee5932f62fe094f078bfb2ba"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250605_122734_jpg.rf.917eea143db3f316b6959a306ae5869e.txt",
+      "size": 681,
+      "sha256": "21e6881ee60b8012589e40c76b03e7ce2ccded76f6f7f979c62bba0d969ac23b"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250605_122755_jpg.rf.80456df93f7b0874fe8122adae291778.txt",
+      "size": 653,
+      "sha256": "fe3a97c98078abfcc4301f56d887c959916738ffbf35fedf4da81ecaa8ed217d"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250605_122758_jpg.rf.1aa913cd906d90d488296ec74c550462.txt",
+      "size": 685,
+      "sha256": "6e30ee94d01cc84e4062581857df4227b545b922019a76d2cebd6560d6216f65"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250605_123003_jpg.rf.b8df0d819695ad9347327c3703fc7d71.txt",
+      "size": 680,
+      "sha256": "a0734e7a18a70014527bf63869de2ecc46ed0562746aa8497768ff41d7ef6875"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250605_123005_jpg.rf.d172f839c88cb4a2b6f24688a7fff4a5.txt",
+      "size": 626,
+      "sha256": "33ae3dda695e77970a556398174807d39397b25f1b2a08cd22c5aaa7b15e2a8d"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250605_123038_jpg.rf.24972ef23d9f0c74d9f9bbc426ebe612.txt",
+      "size": 621,
+      "sha256": "bea2f9f84f3f3cb714dc33464ed64e755a02d83a94f4c0c4b29b9962376be3ac"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250605_124611_jpg.rf.633bb4b6a742b9b341ad144d474bf2d8.txt",
+      "size": 662,
+      "sha256": "d095797802eed74e8515c578a9a756382d7eb84df5657504a42279513820bf01"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250605_124614_jpg.rf.74e362a61fbec92645b7598b67b079c5.txt",
+      "size": 661,
+      "sha256": "4da3f5b049f2ff0e22b982ea3a27e7b651efb9f4f4707b67f95079665b965312"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250605_124616_jpg.rf.02f601af051ce48ae750b5628302bfcf.txt",
+      "size": 665,
+      "sha256": "2607cd8874c68f7ae9fbb4749c0198b9786c833749ef42a18075bc24635a7c70"
+    },
+    {
+      "path": "geoset_ennea/labels/train/IMG_20250605_124630_jpg.rf.b06c3dc07c50707f53df07addcc73afa.txt",
+      "size": 700,
+      "sha256": "9e698917ca7b7b8bb5bf0b6ba266c07da038a9ffb14952729684cf1d13f07109"
+    },
+    {
+      "path": "geoset_ennea/labels/val/IMG_1237_jpg.rf.2ff86a1d2e50f2e8aafde09c0c50dc3b.txt",
+      "size": 444,
+      "sha256": "d87b8bf715ac7a8b88bbc306fa22aab107740c8e298143e2c7e5e7a5af4f9c7b"
+    },
+    {
+      "path": "geoset_ennea/labels/val/IMG_1238_jpg.rf.6cb60407f7aeaf86006b0a31083443b3.txt",
+      "size": 552,
+      "sha256": "6ba4f5d43998d0060dd69a5a9418b9df2c99dd6c5ed95604764bf8a1e60b266d"
+    },
+    {
+      "path": "geoset_ennea/labels/val/IMG_20250604_144202_jpg.rf.a89e669c2dba74849145fc1c72ad7c3e.txt",
+      "size": 665,
+      "sha256": "5da2cba3325c068689dab918528e4fe871bc4bfc1635902bf0ce1c0350fb8bd1"
+    },
+    {
+      "path": "geoset_ennea/labels/val/IMG_20250604_144205_jpg.rf.4ca23a82f46e1cd647dc7a5fcce939c6.txt",
+      "size": 711,
+      "sha256": "40df7bebd4c6c9cd594e141da6a7cc9c42bde0cc4722efd9726636fad2ef21b0"
+    },
+    {
+      "path": "geoset_ennea/labels/val/IMG_20250604_144245_jpg.rf.2348094a79ec4d58e6a20738b035b291.txt",
+      "size": 660,
+      "sha256": "e9133e5552d3f027a20f5e3f0bc59ccb0b6b7a25440c4a866da43e30abb2385c"
+    },
+    {
+      "path": "geoset_ennea/labels/val/IMG_20250604_144246_jpg.rf.35b76e9fd2a25ee1160c11126d412ae1.txt",
+      "size": 756,
+      "sha256": "720f94777da282e7ef69f5ba00ed2c0ca2201b43ae473105316c34b92263b317"
+    },
+    {
+      "path": "geoset_ennea/labels/val/IMG_20250604_144247_jpg.rf.c3160a60d4bbea8d906f6bf7005b1485.txt",
+      "size": 655,
+      "sha256": "7d9569fd3a90bcb30aad89d2a7122a807d581000cc6dd143a15b465fa68b63b8"
+    },
+    {
+      "path": "geoset_ennea/labels/val/IMG_20250604_144248_jpg.rf.c40e470248d77c48cbaf3a9ff97fb3ba.txt",
+      "size": 653,
+      "sha256": "608ae7dec626af5c27527b638b2c19ff5447bf0895f8a91a90cd4b9e3df6dc3d"
+    },
+    {
+      "path": "geoset_ennea/labels/val/IMG_20250604_144249__01_jpg.rf.9cfb269f3af38c1d12ba3d1db6832b74.txt",
+      "size": 685,
+      "sha256": "e1b3ea35c885d5b663e094173928ea1f352b7298f75a44ec34d14e25b417762e"
+    },
+    {
+      "path": "geoset_ennea/labels/val/IMG_20250604_144249_jpg.rf.303076963bee85289f999e5e9fa784a2.txt",
+      "size": 672,
+      "sha256": "3a3926fe73daa5ade41007d629641fda753e30754b28024065499f8cbce1ebbc"
+    },
+    {
+      "path": "geoset_ennea/labels/val/IMG_20250604_144250_jpg.rf.0ccf303c463a6467371fa97664f98208.txt",
+      "size": 709,
+      "sha256": "cefdba29847eea8d546a2dac1bdc69c3799dfa217c79476bc7325c921b053ea7"
+    },
+    {
+      "path": "geoset_ennea/labels/val/IMG_20250604_144251_jpg.rf.bb19e9aed7719dc54a4d09616d88db25.txt",
+      "size": 624,
+      "sha256": "abec4abec2b88060cecccc5c778de5c472709282dd86abdac62e7b91a6756302"
+    },
+    {
+      "path": "geoset_ennea/labels/val/IMG_20250604_144252_jpg.rf.0bb2cf41f9d78540df8de5d91b8f7ae5.txt",
+      "size": 670,
+      "sha256": "fd2b50a49e029afd7b6184190b877fd684b41074ef819a557e26921338bf84be"
+    },
+    {
+      "path": "geoset_ennea/labels/val/IMG_20250604_144253_jpg.rf.b8b48f65807f166385b2815db41e4147.txt",
+      "size": 694,
+      "sha256": "1f23cc33ad08b19efd4fb663b7f43f8b208adf1ed7d710d3918c4edd1179f72c"
+    },
+    {
+      "path": "geoset_ennea/labels/val/IMG_20250604_145113_jpg.rf.fcd7c6b1d62a8748460a810786331df6.txt",
+      "size": 710,
+      "sha256": "fbbc44defc480a83ff4f385d1598e480940d2a1e69735d637bd9f59f82b76b0b"
+    },
+    {
+      "path": "geoset_ennea/labels/val/IMG_20250604_145146_jpg.rf.f5400e1f97b41cbe07b09cd5d3c87e54.txt",
+      "size": 663,
+      "sha256": "3db8963943f0bba8ef640eda56cecbb3e0d47fbbd18d4bd3d3e63ba523ed720e"
+    },
+    {
+      "path": "geoset_ennea/labels/val/IMG_20250604_145149_jpg.rf.5be5fb34d5a68bbed3f875f937e8782e.txt",
+      "size": 657,
+      "sha256": "74545f076f6618f894c90ea5350e2f16b66be962ea71d715d324e796eea7df13"
+    },
+    {
+      "path": "geoset_ennea/labels/val/IMG_20250605_115932_jpg.rf.34d73bd24b967bce5c32b018633873bb.txt",
+      "size": 692,
+      "sha256": "73b132cbf69df5d7afe21bfbf157d3c53dd9b5dcf249f6476eb6d64512cada0e"
+    },
+    {
+      "path": "geoset_ennea/labels/val/IMG_20250605_115933_jpg.rf.a9176c929cefdb2f6c2c0452487efa67.txt",
+      "size": 721,
+      "sha256": "d32d8ac6bbd24820534a6a15caa54a9e6ba8cc9a1e7e55877aacedb415b7342d"
+    },
+    {
+      "path": "geoset_ennea/labels/val/IMG_20250605_120006_jpg.rf.efbbf829404afccc1fbb3a17e1f7a4dc.txt",
+      "size": 665,
+      "sha256": "9d75ee3460add4322f72865c1b852c851397faa2cd11b92955dd387daa743b89"
+    },
+    {
+      "path": "geoset_ennea/labels/val/IMG_20250605_122757_jpg.rf.84d00ed939ebada4e52a75ededc4cc4e.txt",
+      "size": 663,
+      "sha256": "09097bc55c6babb21151fea27b2b2cb8643d0448ccf5b3cc38c46a61bea0e2a4"
+    },
+    {
+      "path": "geoset_ennea/labels/val/IMG_20250605_124628_jpg.rf.a2f970f1152dee86c6f5f4051320fef6.txt",
+      "size": 671,
+      "sha256": "a1af174c8926482c25dd62de02164dba2007fb0f4bd9a0b4f8eb86aec19932c6"
+    },
+    {
+      "path": "geoset_ennea/manifest.json",
+      "size": 1169,
+      "sha256": "fd83d845eda790d23e6345ed9ce889a8d317cc6b9ae59de3a0267142b3d12eab"
+    },
+    {
+      "path": "geoset_ennea/metadata.jsonl",
+      "size": 30296,
+      "sha256": "a899afc51ea0cb897361adcfbf76f8914a5c3754688aadcc14890b36c6432c1c"
+    }
+  ],
+  "image_count": 136,
+  "label_format": "yolo_normalized_jsonl",
+  "transform_version": "geoset_ennea_v1.0.0 + detection_yolo_v1.1.0",
+  "license": "CC BY 4.0",
+  "attribution": "Sakhawat Hossain; Md Sadman Haque; Sadia Islam (2025), GeoSetEnnea: A Multi-Class Image Dataset for Object Detection of Geometric Tools, Mendeley Data v1, DOI: 10.17632/fg97mhsdbr.1.",
+  "source": {
+    "url": "https://data.mendeley.com/datasets/fg97mhsdbr/1",
+    "version": "Mendeley Data v1; selected fixed-file subset",
+    "sha256": "9b9374f6029832caf545f6fcc09ae3cd32412122903aff366dfd7a8f2285542c"
+  }
+}
