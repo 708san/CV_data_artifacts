@@ -1,0 +1,66 @@
+{
+  "dataset_id": "fabricspotdefect",
+  "source_version": "Mendeley Data v1",
+  "source_url": "https://data.mendeley.com/datasets/6574nhzm8x/1",
+  "source_archive": {
+    "bytes": 941581889,
+    "sha256": "2e4fd58488734fe3b888c0c3633ca4d68da76f3a96f1e9bba08ec710645d6ab2",
+    "zip_entries": 7921,
+    "regular_files": 7921,
+    "uncompressed_bytes": 944595824,
+    "crc_check": "passed",
+    "path_traversal_or_symlinks": 0
+  },
+  "rights_and_task_review": {
+    "license": "CC BY 4.0",
+    "license_evidence": "Mendeley Data v1 landing page",
+    "content_origin": "Authors describe everyday home fabrics captured with smartphones.",
+    "student_task": "Locate visible marks on clothing to support pre-wash care and compare how marks are noticed across fabrics.",
+    "task_limits": [
+      "Does not establish whether an item is clean, wearable, safe, or successfully cleaned.",
+      "Does not establish textile quality."
+    ],
+    "patterned_textiles": "Included in the source dataset and not treated as a disqualifying factor."
+  },
+  "original_images": {
+    "count": 1014,
+    "splits": {
+      "train": 643,
+      "valid": 219,
+      "test": 152
+    },
+    "decoded": 1014,
+    "exact_duplicate_files": 0,
+    "sample_visual_review": {
+      "count": 9,
+      "result": "Textile images and spot annotations were consistent in sampled images; sample review is not a manual review of every image."
+    }
+  },
+  "annotations": {
+    "archived_original_coco_annotations": 3288,
+    "source_landing_page_claim": 3286,
+    "source_article_claim": 3288,
+    "categories": {
+      "spot": 3288
+    },
+    "empty_annotation_images": {
+      "train": 36,
+      "valid": 0,
+      "test": 0
+    },
+    "edge_overruns": 29,
+    "maximum_overrun_pixels": 0.5,
+    "transformation": "Map category id 1 to common class id 0; convert COCO xywh to normalized center xywh; clip edge-overrun boxes to image bounds."
+  },
+  "prepared_artifact": {
+    "version": "0.1.0",
+    "bytes": 744311786,
+    "sha256": "b40dca04e3879e92533face725d4e12bbfe9ba85e41b1c7ef59e290f1421943d",
+    "images": 1014,
+    "annotations": 3288,
+    "augmented_images_included": false,
+    "image_pixels_or_dimensions_changed": false,
+    "release_status": "published",
+    "attribution_file": "ATTRIBUTION.txt"
+  }
+}

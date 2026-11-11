@@ -208,6 +208,28 @@
       "transform_version": "chakmalipi_v1.0.0",
       "manifest_url": "https://github.com/708san/CV_data_artifacts/blob/chakmalipi-v0.1.0/manifests/chakmalipi-v0.1.0.json",
       "audit_report_url": "https://github.com/708san/CV_data_artifacts/blob/chakmalipi-v0.1.0/reports/chakmalipi-v0.1.0-audit.json"
+    },
+    {
+      "dataset_id": "fabricspotdefect",
+      "artifact_version": "0.1.0",
+      "artifact_url": "https://github.com/708san/CV_data_artifacts/releases/download/fabricspotdefect-v0.1.0/fabricspotdefect-v0.1.0.zip",
+      "artifact_sha256": "b40dca04e3879e92533face725d4e12bbfe9ba85e41b1c7ef59e290f1421943d",
+      "source_url": "https://data.mendeley.com/datasets/6574nhzm8x/1",
+      "source_version": "1",
+      "source_sha256": "2e4fd58488734fe3b888c0c3633ca4d68da76f3a96f1e9bba08ec710645d6ab2",
+      "license": "CC BY 4.0",
+      "rights_status": "approved_for_redistribution",
+      "attribution": "Sumaya; Farzana Islam; Md. Fahad Monir; Ashraful Islam (2024), FabricSpotDefect: An Annotated Dataset for Identifying Spot Defects in Different Fabric Types, Mendeley Data v1, DOI: 10.17632/6574nhzm8x.1, CC BY 4.0.",
+      "modifications": [
+        "Excluded augmented images; retained original image pixels and dimensions.",
+        "Converted 3,288 COCO bounding boxes to normalized center coordinates and mapped source category id 1 (spot) to common class id 0.",
+        "Clipped 29 boxes extending past image edges by no more than 0.5 pixel.",
+        "Preserved official train/valid/test splits (643/219/152).",
+        "Included attribution, changes, task limits, and non-endorsement in the artifact."
+      ],
+      "transform_version": "detection_coco_to_yolo_center_v1",
+      "manifest_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/manifests/fabricspotdefect-v0.1.0.json",
+      "audit_report_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/reports/fabricspotdefect-v1-audit.json"
     }
   ]
 }
