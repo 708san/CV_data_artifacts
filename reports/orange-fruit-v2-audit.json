@@ -1,0 +1,67 @@
+{
+  "dataset_id": "orange_fruit",
+  "source_version": "Mendeley Data v2",
+  "source_url": "https://data.mendeley.com/datasets/zk4hzhtcdd/2",
+  "rights_and_task_review": {
+    "license": "CC BY 4.0",
+    "license_evidence": "Official Mendeley v2 record",
+    "content_origin": "Record says 15,000 images were acquired with standard smartphone cameras in Bangladesh under variable real-world conditions.",
+    "student_task": "Explore visual category classification and how backgrounds, lighting, and viewpoints affect a produce-sorting or food-waste discussion prototype.",
+    "task_limits": [
+      "Visual labels do not establish freshness, edibility, food safety, or plant disease.",
+      "The Bangladesh capture setting does not represent all oranges or produce sold in Japan."
+    ],
+    "initial_review_completed_before_source_archive_download": true
+  },
+  "source_archive": {
+    "outer_bytes": 110185722,
+    "outer_sha256": "b486ee40af7316c4603d3d8354a636a7bc859c500beb126b3577ef79bf3f75e7",
+    "outer_entries": 1,
+    "outer_crc": "passed",
+    "inner_bytes": 112489867,
+    "inner_sha256": "03d43104a0c6eda6681c23415bec8fe404ff6c919d44de35b247bb9b72105251",
+    "inner_entries": 15000,
+    "inner_uncompressed_bytes": 111642109,
+    "inner_crc": "passed",
+    "unsafe_paths_or_symlinks": 0
+  },
+  "images": {
+    "count": 15000,
+    "classes": {
+      "blackspotted_orange": 3000,
+      "cankered_orange": 3000,
+      "fresh_orange": 3000,
+      "green_orange": 3000,
+      "rotten_orange": 3000
+    },
+    "dimensions": "224x224 for all images",
+    "decoded": 15000,
+    "exact_duplicate_files": 0,
+    "sample_visual_review": {
+      "count": 5,
+      "scope": "one image per class",
+      "result": "Reviewed samples corresponded broadly to the folder categories. Backgrounds and capture conditions vary; they were retained as part of the dataset. This is not a full manual image review."
+    }
+  },
+  "splits": {
+    "train": 10500,
+    "val": 2250,
+    "test": 2250,
+    "per_class": {
+      "train": 2100,
+      "val": 450,
+      "test": 450
+    },
+    "method": "deterministic per-class shuffle, seed 42, 70/15/15"
+  },
+  "prepared_artifact": {
+    "version": "0.1.0",
+    "bytes": 112621346,
+    "sha256": "69408ee9184638215c1f0e459b1a5e11a9ec853b4ce815ac6071a174294f8115",
+    "images": 15000,
+    "class_count": 5,
+    "image_pixels_changed": false,
+    "release_status": "published"
+  },
+  "release_url": "https://github.com/708san/CV_data_artifacts/releases/tag/orange-fruit-v0.1.0"
+}
