@@ -166,6 +166,27 @@
       "transform_version": "classification_v1.0.0; fashion_idx_to_pgm_v1.0.0",
       "manifest_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/manifests/fashion_mnist-v0.1.0.json",
       "audit_report_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/reports/fashion_mnist-v0.1.0-audit.json"
+    },
+    {
+      "dataset_id": "pust_cafeteria_food",
+      "artifact_version": "0.1.0",
+      "artifact_url": "https://github.com/708san/CV_data_artifacts/releases/download/pust-cafeteria-food-v0.1.0/pust_cafeteria_food-v0.1.0.zip",
+      "artifact_sha256": "97def37fae5a2368f4d0ea7bc4cffc0d299173b7581f49ad97bb43d08f496b4f",
+      "source_url": "https://data.mendeley.com/datasets/fn6yhzjz83/2",
+      "source_version": "Mendeley Data v2",
+      "source_sha256": "f2f85952807a2d64d50b958c9355829cb5cad8636d611b2b9d7357e7267250a1",
+      "license": "CC BY 4.0",
+      "rights_status": "approved_for_redistribution",
+      "attribution": "Marufa Yeasmin; Md. Razu Ahmed; Protiva Rani Kundu; Jannatul Mauya; Md. Shamim Reza (2026), PUST Cafeteria Food Image Dataset, Mendeley Data v2, DOI: 10.17632/fn6yhzjz83.2, CC BY 4.0.",
+      "modifications": [
+        "Selected images marked original and excluded 1,008 training augmentations and 29 background-removed images.",
+        "Preserved image pixels and original image-level train/validation/test assignments.",
+        "Converted 2,510 polygon annotations to axis-aligned bounding boxes and clipped 904 out-of-bounds coordinates in 561 annotations.",
+        "Added Japanese educational documentation, attribution, modification notice, and use limitations."
+      ],
+      "transform_version": "detection_yolo_v1.1.0",
+      "manifest_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/manifests/pust_cafeteria_food-v0.1.0.json",
+      "audit_report_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/reports/pust_cafeteria_food-v0.1.0-audit.json"
     }
   ]
 }
