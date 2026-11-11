@@ -293,6 +293,26 @@
       "transform_version": "prepare_japan_ocr_receipts_v1",
       "manifest_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/manifests/japan_ocr_receipts-v0.1.0.json",
       "audit_report_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/reports/japan_ocr_receipts-v0.1.0-audit.json"
+    },
+    {
+      "dataset_id": "fresh_rotten_fruits",
+      "artifact_version": "0.1.0",
+      "artifact_url": "https://github.com/708san/CV_data_artifacts/releases/download/fresh-rotten-fruits-v0.1.0/fresh_rotten_fruits-v0.1.0.zip",
+      "artifact_sha256": "1ca92043fbb0ebbf86ddac5fec2c264e39151ab0d9def1b618002772d9b182eb",
+      "source_url": "https://data.mendeley.com/datasets/bdd69gyhv8/1",
+      "source_version": "1",
+      "source_sha256": "f89d67d4c4b24810bcd8406db877db6b1ac9834cea0b0cb56d65acebe59e66ff",
+      "license": "CC BY 4.0",
+      "rights_status": "approved_for_redistribution",
+      "attribution": "Nusrat Sultana, Musfika Jahan, and Mohammad Shorif Uddin (2022), Fresh and Rotten Fruits Dataset for Machine-Based Evaluation of Fruit Quality, Mendeley Data v1, DOI: 10.17632/bdd69gyhv8.1, CC BY 4.0.",
+      "modifications": [
+        "Excluded the augmented archive and 7 exact duplicate images.",
+        "Applied image orientation, resized the longest edge to 512 pixels, re-encoded JPEG at quality 86, and removed source metadata.",
+        "Added deterministic stratified train/validation/test splits (seed 42), labels.csv, and metadata.jsonl."
+      ],
+      "transform_version": "fresh_rotten_fruits_original_sanitize_resize_dedupe_split_v1",
+      "manifest_url": "https://github.com/708san/CV_data_artifacts/blob/main/manifests/fresh_rotten_fruits-v0.1.0.json",
+      "audit_report_url": "https://github.com/708san/CV_data_artifacts/blob/main/reports/fresh_rotten_fruits-v1-full-audit.json"
     }
   ]
 }
