@@ -78,5 +78,11 @@
       "photographs come from Portugal and do not represent Japanese municipal sorting rules",
       "predictions must not make actual sorting decisions"
     ]
+  },
+  "prepared_artifact": {
+    "filename": "recyclable_waste-v0.1.1.zip",
+    "size": 93564328,
+    "sha256": "71d71622b65c44d2748e296ff23e8ed49c2f3e4e788301f1d9128d34e0affd1f",
+    "verification": "ZIP CRC passed; all 981 packaged paths, sizes, and SHA-256 values match the external manifest."
   }
 }
