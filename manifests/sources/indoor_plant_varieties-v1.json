@@ -1,0 +1,23 @@
+{
+  "manifest_type": "source_file_inventory",
+  "manifest_version": "1.0.0",
+  "dataset_id": "indoor_plant_varieties",
+  "provider": "Mendeley Data",
+  "source_url": "https://data.mendeley.com/datasets/ct79299k27/1",
+  "source_version": "1",
+  "license_claim": "CC BY 4.0",
+  "file_count": 1,
+  "archive_count": 1,
+  "image_count": 1172,
+  "files": [
+    {
+      "path": "Orginal Data.zip",
+      "role": "source_archive",
+      "file_id": "be73f0a3-d478-4df1-b9d5-513e5879a8ef",
+      "filename": "Orginal Data.zip",
+      "size": 765167460,
+      "sha256": "c6e3839666e344ca4bb72fa9b09f36605fe8f972c088f0bba72c5dbe06bde2df",
+      "download_url": "https://data.mendeley.com/public-files/datasets/ct79299k27/files/be73f0a3-d478-4df1-b9d5-513e5879a8ef/file_downloaded"
+    }
+  ]
+}
