@@ -1,0 +1,695 @@
+{
+  "dataset_id": "agrifreshnet",
+  "artifact_version": "0.1.0",
+  "publication_status": "prepared_for_release_pending_merge",
+  "source_url": "https://data.mendeley.com/datasets/42m5tb7yv9/1",
+  "source_version": "1",
+  "source_archive_bytes": 347828971,
+  "source_archive_sha256": "6607a48bf2817f9dfc8d4a1c32ce663c1d8308b4b1251e9bf65f074fcac53f11",
+  "license": "CC BY 4.0",
+  "attribution": "Fouzia Risdin, Hafsha Salauddin, Tasniya aziza tufa, and Md Jakir Hossain (2026), “AgriFreshNET Freshness and Shelf-Life Image Dataset,” Mendeley Data v1, DOI: 10.17632/42m5tb7yv9.1, CC BY 4.0.",
+  "image_count": 14084,
+  "classes": [
+    "Fresh Banana(1-4)",
+    "Fresh Bittermelon(1-3)",
+    "Fresh Cucumber(1-6)",
+    "Fresh eggplant(1-4)",
+    "Fresh Orange(1-9)",
+    "Fresh Papaya(1-4)",
+    "Fresh pineapple(1-15)",
+    "Fresh Tomato(1-10)",
+    "Rotten banana(7-13)",
+    "Rotten Bittermelon(5-8)",
+    "Rotten Cucumber(12-20)",
+    "Rotten eggplant(8-15)",
+    "Rotten Orange(20-35)",
+    "Rotten Papaya(7-12)",
+    "Rotten Pineapple(25-35)",
+    "Rotten Tomato(24-35)",
+    "Semi fresh banana(4-7)",
+    "Semi Fresh Bittermelon ( 3-5)",
+    "Semi Fresh Cucumber(6-12)",
+    "Semi fresh Orange(9-20)",
+    "Semi Fresh Papaya(4-7)",
+    "Semi fresh Pineapple (15-25)",
+    "Semi fresh Tomato(10-24)",
+    "Semi_Fresh eggplant(4-8)"
+  ],
+  "class_counts": {
+    "Fresh Banana(1-4)": 582,
+    "Fresh Bittermelon(1-3)": 590,
+    "Fresh Cucumber(1-6)": 588,
+    "Fresh eggplant(1-4)": 590,
+    "Fresh Orange(1-9)": 573,
+    "Fresh Papaya(1-4)": 584,
+    "Fresh pineapple(1-15)": 590,
+    "Fresh Tomato(1-10)": 590,
+    "Rotten banana(7-13)": 590,
+    "Rotten Bittermelon(5-8)": 588,
+    "Rotten Cucumber(12-20)": 590,
+    "Rotten eggplant(8-15)": 590,
+    "Rotten Orange(20-35)": 586,
+    "Rotten Papaya(7-12)": 590,
+    "Rotten Pineapple(25-35)": 590,
+    "Rotten Tomato(24-35)": 590,
+    "Semi fresh banana(4-7)": 586,
+    "Semi Fresh Bittermelon ( 3-5)": 586,
+    "Semi Fresh Cucumber(6-12)": 590,
+    "Semi fresh Orange(9-20)": 569,
+    "Semi Fresh Papaya(4-7)": 588,
+    "Semi fresh Pineapple (15-25)": 588,
+    "Semi fresh Tomato(10-24)": 586,
+    "Semi_Fresh eggplant(4-8)": 590
+  },
+  "annotation_count": null,
+  "archive_bytes": 345815200,
+  "artifact_archive_sha256": "203ad9dd6a27971ee38b9f3751b50a27f04fae7202c6902d56709bba1c045ea4",
+  "label_format": "Classification; labels.csv columns image,label,split; class names preserved exactly from source",
+  "transform": "cvlesson-0.1.0: source RGB images byte-preserved; all images in exact-duplicate groups removed (76 files, 36 duplicate groups, including cross-label conflicts); augmented variants sharing base filename grouped into the same deterministic split, seed 42",
+  "student_use_case": "家庭や学食で先に現物確認する青果の候補を考え、食品ロス削減を補助する",
+  "limitations": "14,084 unique 512x512 RGB images across 24 author-labeled classes. Parenthetical days are source labels, not measured remaining life. Predictions do not determine edibility or food safety. Contact sheet visually sampled across all classes.",
+  "checks": {
+    "all_images_decoded": true,
+    "archive_crc": "passed",
+    "library_archive_structure_validation": "passed",
+    "library_manifest_and_label_validation": "passed",
+    "all_source_archive_sha256_verified": true
+  },
+  "inner_manifest": {
+    "case_id": "agrifreshnet",
+    "version": "v0.1.0",
+    "dataset_id": "agrifreshnet",
+    "artifact_version": "0.1.0",
+    "source_license": "CC BY 4.0",
+    "source_url": "https://data.mendeley.com/datasets/42m5tb7yv9/1",
+    "source_doi": "10.17632/42m5tb7yv9.1",
+    "source_archive_sha256": "6607a48bf2817f9dfc8d4a1c32ce663c1d8308b4b1251e9bf65f074fcac53f11",
+    "image_count": 14084,
+    "source_images_including_exact_duplicates": 14160,
+    "ambiguous_or_duplicate_images_excluded": 76,
+    "duplicate_hash_groups": [
+      {
+        "sha256": "bad82702a29bcb21c4ae9463deecc99b98f4576f878b377eb4dea178bf51e2f8",
+        "count": 3,
+        "classes": [
+          "Fresh Banana(1-4)"
+        ],
+        "files": [
+          "IMG_20251104_131700306_HDR_AE~2.jpg",
+          "IMG_20251104_131700306_HDR_AE~3.jpg",
+          "IMG_20251104_131700306_HDR_AE~4.jpg"
+        ]
+      },
+      {
+        "sha256": "7ecf51cdad3f7095ee0484950df974ee3cc44e85f7abb4d8135bc5e3aa0b0276",
+        "count": 5,
+        "classes": [
+          "Fresh Banana(1-4)"
+        ],
+        "files": [
+          "IMG_20251104_131713223_HDR_AE~2.jpg",
+          "IMG_20251104_131713223_HDR_AE~3.jpg",
+          "IMG_20251104_131713223_HDR_AE~4.jpg",
+          "IMG_20251104_131713223_HDR_AE~5.jpg",
+          "IMG_20251104_131713223_HDR_AE~6.jpg"
+        ]
+      },
+      {
+        "sha256": "33fd87560ee63eea1424f33dea5ffab0a56c4695dcf124877891d253af71027e",
+        "count": 2,
+        "classes": [
+          "Fresh Cucumber(1-6)"
+        ],
+        "files": [
+          "aug_365_IMG_20260204_152047.jpg",
+          "IMG_20260204_152047.jpg"
+        ]
+      },
+      {
+        "sha256": "64cfbba2c8f8634c58fe49e6c7dd3fcb47653ff929d687fa7d776504eac27c50",
+        "count": 2,
+        "classes": [
+          "Fresh Orange(1-9)",
+          "Semi fresh Orange(9-20)"
+        ],
+        "files": [
+          "IMG-20251122-WA0000.jpg",
+          "IMG-20251122-WA0000.jpg"
+        ]
+      },
+      {
+        "sha256": "58f97d9e13517d367669e8f83eafd48d919e7d09f80a4d68e1b220858df8eb10",
+        "count": 2,
+        "classes": [
+          "Fresh Orange(1-9)",
+          "Semi fresh Orange(9-20)"
+        ],
+        "files": [
+          "IMG-20251122-WA0001.jpg",
+          "IMG-20251122-WA0001.jpg"
+        ]
+      },
+      {
+        "sha256": "b61830948dd1379db8d8f62da0cdb2140c17857802c4de5844d2504059c69469",
+        "count": 2,
+        "classes": [
+          "Fresh Orange(1-9)",
+          "Semi fresh Orange(9-20)"
+        ],
+        "files": [
+          "IMG-20251122-WA0002.jpg",
+          "IMG-20251122-WA0002.jpg"
+        ]
+      },
+      {
+        "sha256": "2d58b390a0a331bd285d42c769757dd12c5fadd7ba90229e52939602e328529d",
+        "count": 2,
+        "classes": [
+          "Fresh Orange(1-9)",
+          "Semi fresh Orange(9-20)"
+        ],
+        "files": [
+          "IMG-20251122-WA0003.jpg",
+          "IMG-20251122-WA0003.jpg"
+        ]
+      },
+      {
+        "sha256": "e396ea1988267d6ab315bb35ae48f46297281d4f276e354a0e69d77815239050",
+        "count": 2,
+        "classes": [
+          "Fresh Orange(1-9)",
+          "Semi fresh Orange(9-20)"
+        ],
+        "files": [
+          "IMG-20251122-WA0004.jpg",
+          "IMG-20251122-WA0004.jpg"
+        ]
+      },
+      {
+        "sha256": "48bd1e90facc58649d8a061ab70d1fa80514d38c925f0f1265905d6847fbf8ab",
+        "count": 2,
+        "classes": [
+          "Fresh Orange(1-9)",
+          "Semi fresh Orange(9-20)"
+        ],
+        "files": [
+          "IMG-20251122-WA0005.jpg",
+          "IMG-20251122-WA0005.jpg"
+        ]
+      },
+      {
+        "sha256": "18f86cff504ee2f9ae93d7a1cb65d1bce7890a1086a7413125d29e55c44f9c3b",
+        "count": 2,
+        "classes": [
+          "Fresh Orange(1-9)",
+          "Semi fresh Orange(9-20)"
+        ],
+        "files": [
+          "IMG-20251122-WA0006.jpg",
+          "IMG-20251122-WA0006.jpg"
+        ]
+      },
+      {
+        "sha256": "89607f588d9d7498600d0ecaecc5968b3557f8f030391f7b814eb2d5571c101d",
+        "count": 2,
+        "classes": [
+          "Fresh Orange(1-9)",
+          "Semi fresh Orange(9-20)"
+        ],
+        "files": [
+          "IMG-20251122-WA0007.jpg",
+          "IMG-20251122-WA0007.jpg"
+        ]
+      },
+      {
+        "sha256": "ebadeb891782939be39f4414790e9e39140042c6cd92aeb33fd720806b474dd9",
+        "count": 2,
+        "classes": [
+          "Fresh Orange(1-9)",
+          "Semi fresh Orange(9-20)"
+        ],
+        "files": [
+          "IMG-20251122-WA0008.jpg",
+          "IMG-20251122-WA0008.jpg"
+        ]
+      },
+      {
+        "sha256": "46bc59e9e2053cef908b399d6f16d0d3b5513b240fa06ba70587f6b75d861939",
+        "count": 2,
+        "classes": [
+          "Fresh Orange(1-9)",
+          "Semi fresh Orange(9-20)"
+        ],
+        "files": [
+          "IMG-20251122-WA0009.jpg",
+          "IMG-20251122-WA0009.jpg"
+        ]
+      },
+      {
+        "sha256": "b3ef8f07d90a459dedd930ab1b4e77e7a5b6c288f624aea6c969ef123b63456f",
+        "count": 2,
+        "classes": [
+          "Fresh Orange(1-9)",
+          "Semi fresh Orange(9-20)"
+        ],
+        "files": [
+          "IMG-20251122-WA0010.jpg",
+          "IMG-20251122-WA0010.jpg"
+        ]
+      },
+      {
+        "sha256": "a60717cad9ee8b65623272e02e998472c5ee2175cacdf46bb10a32e079b70390",
+        "count": 2,
+        "classes": [
+          "Fresh Orange(1-9)",
+          "Semi fresh Orange(9-20)"
+        ],
+        "files": [
+          "IMG-20251122-WA0011.jpg",
+          "IMG-20251122-WA0011.jpg"
+        ]
+      },
+      {
+        "sha256": "df6259d2dd4225134d31249c62cb37cfeb3b3764b6c07f03e27dc8fa79927ca0",
+        "count": 2,
+        "classes": [
+          "Fresh Orange(1-9)",
+          "Semi fresh Orange(9-20)"
+        ],
+        "files": [
+          "IMG-20251122-WA0012.jpg",
+          "IMG-20251122-WA0012.jpg"
+        ]
+      },
+      {
+        "sha256": "44195c9f753965e04caaa1c975c7d75247339a5a602a80ca4b34113c5f7c9652",
+        "count": 2,
+        "classes": [
+          "Fresh Orange(1-9)",
+          "Semi fresh Orange(9-20)"
+        ],
+        "files": [
+          "IMG-20251122-WA0013.jpg",
+          "IMG-20251122-WA0013.jpg"
+        ]
+      },
+      {
+        "sha256": "179d432f8ea103f59d202ba7f77b4c959b01b653b2270d2eaa6af5e0d0177b6f",
+        "count": 2,
+        "classes": [
+          "Fresh Orange(1-9)",
+          "Semi fresh Orange(9-20)"
+        ],
+        "files": [
+          "IMG-20251122-WA0014.jpg",
+          "IMG-20251122-WA0014.jpg"
+        ]
+      },
+      {
+        "sha256": "f99e20a4df386fb0e6b5a5fef20ce1c1ba63061778b44832616a549815e972a5",
+        "count": 2,
+        "classes": [
+          "Fresh Orange(1-9)",
+          "Semi fresh Orange(9-20)"
+        ],
+        "files": [
+          "IMG-20251122-WA0015.jpg",
+          "IMG-20251122-WA0015.jpg"
+        ]
+      },
+      {
+        "sha256": "2991898a8ed1a22dce04bd24d45efbc782e4cb7b883d4c22458c4b83daf03ebe",
+        "count": 2,
+        "classes": [
+          "Fresh Orange(1-9)",
+          "Semi fresh Orange(9-20)"
+        ],
+        "files": [
+          "IMG_20251116_220609831_HDR.jpg",
+          "IMG_20251116_220609831_HDR.jpg"
+        ]
+      },
+      {
+        "sha256": "45e81105e499d72d53fca05d16c0c2fde502479983a732994eacb88ca136528d",
+        "count": 2,
+        "classes": [
+          "Fresh Papaya(1-4)"
+        ],
+        "files": [
+          "aug_124_IMG_20251123_012946.jpg",
+          "IMG_20251123_012946.jpg"
+        ]
+      },
+      {
+        "sha256": "aaa1bc0125c7f941dacf9bbfe5c73f63fce14f4237337591a27d7c09a2cc02fb",
+        "count": 2,
+        "classes": [
+          "Fresh Papaya(1-4)"
+        ],
+        "files": [
+          "aug_430_IMG_20260116_030551.jpg",
+          "IMG_20260116_030551.jpg"
+        ]
+      },
+      {
+        "sha256": "875f0b9f9158eaec71de8085e486d8fd19e24d424e0d4d1dfaf1a8a34b0adcb0",
+        "count": 2,
+        "classes": [
+          "Fresh Papaya(1-4)"
+        ],
+        "files": [
+          "aug_70_IMG_20251121_081111.jpg",
+          "IMG_20251121_081111.jpg"
+        ]
+      },
+      {
+        "sha256": "5aefc043ab81b70cd8f2a5f0ff6ca07dbddb4d2b41148d5478ee34fdcb516280",
+        "count": 2,
+        "classes": [
+          "Rotten Bittermelon(5-8)"
+        ],
+        "files": [
+          "aug_92_IMG_20260122_003428.jpg",
+          "IMG_20260122_003428.jpg"
+        ]
+      },
+      {
+        "sha256": "55c54b9a238c1739d4b0798663761112cb2b5ebf40ac1a9b73b924c9d1b059ad",
+        "count": 2,
+        "classes": [
+          "Rotten Orange(20-35)"
+        ],
+        "files": [
+          "aug_276_IMG-20251230-WA0034.jpg",
+          "IMG-20251230-WA0034.jpg"
+        ]
+      },
+      {
+        "sha256": "05fdd9b8f8bfcd17acf4f2c3dea7a44e3521ed12adc8a5b90c441a4e7667a71a",
+        "count": 2,
+        "classes": [
+          "Rotten Orange(20-35)"
+        ],
+        "files": [
+          "aug_98_IMG-20251114-WA0004.jpg",
+          "IMG-20251114-WA0004.jpg"
+        ]
+      },
+      {
+        "sha256": "0b5eccb1bf0a5d8e2c739e125d1651db08f2f84e5bc3b790618b3882cbb52c76",
+        "count": 2,
+        "classes": [
+          "Semi fresh banana(4-7)"
+        ],
+        "files": [
+          "aug_205_IMG_20251123_110010767_HDR_AE.jpg",
+          "IMG_20251123_110010767_HDR_AE.jpg"
+        ]
+      },
+      {
+        "sha256": "44da54ce89485f5da04dc02791bc5f4094903b02db43be85d06496cf9137c433",
+        "count": 2,
+        "classes": [
+          "Semi fresh banana(4-7)"
+        ],
+        "files": [
+          "IMG_20251107_113837338_HDR_AE(1).jpg",
+          "IMG_20251107_113837338_HDR_AE.jpg"
+        ]
+      },
+      {
+        "sha256": "7fd87a2cb5fde76353523df81676ef156d4aca6f9e1f85ad51f20bedca4f0ec2",
+        "count": 2,
+        "classes": [
+          "Semi Fresh Bittermelon ( 3-5)"
+        ],
+        "files": [
+          "aug_106_IMG_20260116_025922.jpg",
+          "IMG_20260116_025922.jpg"
+        ]
+      },
+      {
+        "sha256": "81708ca9210b4c43796795f6492dd2c6be61ef916d52f57685d96a94f0bf4262",
+        "count": 2,
+        "classes": [
+          "Semi Fresh Bittermelon ( 3-5)"
+        ],
+        "files": [
+          "aug_167_IMG_20251123_013340.jpg",
+          "IMG_20251123_013340.jpg"
+        ]
+      },
+      {
+        "sha256": "46c9c6f7109f13f3af2484559c7b640a5c6bccf9d1aa0e4900636112247a3c53",
+        "count": 2,
+        "classes": [
+          "Semi fresh Orange(9-20)"
+        ],
+        "files": [
+          "aug_159_IMG_20251113_124206908_HDR_AE.jpg",
+          "IMG_20251113_124206908_HDR_AE.jpg"
+        ]
+      },
+      {
+        "sha256": "48daa76d3337f3e170ec0a3a2b195c6a8de65d2539c088647c439a62043dc848",
+        "count": 2,
+        "classes": [
+          "Semi fresh Orange(9-20)"
+        ],
+        "files": [
+          "aug_23_IMG_20251201_133050303_HDR.jpg",
+          "IMG_20251201_133050303_HDR.jpg"
+        ]
+      },
+      {
+        "sha256": "e55ee6b5c2d9eefe68a7a8dba2f18e1105e2f7ac878f557b123b7ea51f694770",
+        "count": 2,
+        "classes": [
+          "Semi Fresh Papaya(4-7)"
+        ],
+        "files": [
+          "aug_348_IMG_20251031_164000.jpg",
+          "aug_467_IMG_20251031_164000.jpg"
+        ]
+      },
+      {
+        "sha256": "1bb95ecc048287bf2e7f53b7269e58e51d3cc3d0f3ca3e93f9e1cb8e21331380",
+        "count": 2,
+        "classes": [
+          "Semi fresh Pineapple (15-25)"
+        ],
+        "files": [
+          "aug_66_IMG-20251207-WA0024.jpg",
+          "IMG-20251207-WA0024.jpg"
+        ]
+      },
+      {
+        "sha256": "4927a598e0d180785227132b7500ac6f1ce4ae75f8fa2777f0fdca783682c01b",
+        "count": 2,
+        "classes": [
+          "Semi fresh Tomato(10-24)"
+        ],
+        "files": [
+          "IMG_20251201_185705406_HDR(1).jpg",
+          "IMG_20251201_185705406_HDR.jpg"
+        ]
+      },
+      {
+        "sha256": "dee6fd2c62b13ecc14da42dc979efb000f0cfb6760c34c6ccbb45e5a79078aaa",
+        "count": 2,
+        "classes": [
+          "Semi fresh Tomato(10-24)"
+        ],
+        "files": [
+          "IMG_20251201_185755067_HDR(1).jpg",
+          "IMG_20251201_185755067_HDR.jpg"
+        ]
+      }
+    ],
+    "classes": [
+      "Fresh Banana(1-4)",
+      "Fresh Bittermelon(1-3)",
+      "Fresh Cucumber(1-6)",
+      "Fresh eggplant(1-4)",
+      "Fresh Orange(1-9)",
+      "Fresh Papaya(1-4)",
+      "Fresh pineapple(1-15)",
+      "Fresh Tomato(1-10)",
+      "Rotten banana(7-13)",
+      "Rotten Bittermelon(5-8)",
+      "Rotten Cucumber(12-20)",
+      "Rotten eggplant(8-15)",
+      "Rotten Orange(20-35)",
+      "Rotten Papaya(7-12)",
+      "Rotten Pineapple(25-35)",
+      "Rotten Tomato(24-35)",
+      "Semi fresh banana(4-7)",
+      "Semi Fresh Bittermelon ( 3-5)",
+      "Semi Fresh Cucumber(6-12)",
+      "Semi fresh Orange(9-20)",
+      "Semi Fresh Papaya(4-7)",
+      "Semi fresh Pineapple (15-25)",
+      "Semi fresh Tomato(10-24)",
+      "Semi_Fresh eggplant(4-8)"
+    ],
+    "class_counts": {
+      "Fresh Banana(1-4)": 582,
+      "Fresh Bittermelon(1-3)": 590,
+      "Fresh Cucumber(1-6)": 588,
+      "Fresh eggplant(1-4)": 590,
+      "Fresh Orange(1-9)": 573,
+      "Fresh Papaya(1-4)": 584,
+      "Fresh pineapple(1-15)": 590,
+      "Fresh Tomato(1-10)": 590,
+      "Rotten banana(7-13)": 590,
+      "Rotten Bittermelon(5-8)": 588,
+      "Rotten Cucumber(12-20)": 590,
+      "Rotten eggplant(8-15)": 590,
+      "Rotten Orange(20-35)": 586,
+      "Rotten Papaya(7-12)": 590,
+      "Rotten Pineapple(25-35)": 590,
+      "Rotten Tomato(24-35)": 590,
+      "Semi fresh banana(4-7)": 586,
+      "Semi Fresh Bittermelon ( 3-5)": 586,
+      "Semi Fresh Cucumber(6-12)": 590,
+      "Semi fresh Orange(9-20)": 569,
+      "Semi Fresh Papaya(4-7)": 588,
+      "Semi fresh Pineapple (15-25)": 588,
+      "Semi fresh Tomato(10-24)": 586,
+      "Semi_Fresh eggplant(4-8)": 590
+    },
+    "split_counts_by_class": {
+      "Fresh Banana(1-4)": {
+        "train": 404,
+        "val": 93,
+        "test": 85
+      },
+      "Fresh Bittermelon(1-3)": {
+        "train": 408,
+        "val": 100,
+        "test": 82
+      },
+      "Fresh Cucumber(1-6)": {
+        "train": 422,
+        "val": 84,
+        "test": 82
+      },
+      "Fresh eggplant(1-4)": {
+        "train": 409,
+        "val": 88,
+        "test": 93
+      },
+      "Fresh Orange(1-9)": {
+        "train": 396,
+        "val": 96,
+        "test": 81
+      },
+      "Fresh Papaya(1-4)": {
+        "train": 409,
+        "val": 85,
+        "test": 90
+      },
+      "Fresh pineapple(1-15)": {
+        "train": 421,
+        "val": 90,
+        "test": 79
+      },
+      "Fresh Tomato(1-10)": {
+        "train": 413,
+        "val": 88,
+        "test": 89
+      },
+      "Rotten banana(7-13)": {
+        "train": 414,
+        "val": 89,
+        "test": 87
+      },
+      "Rotten Bittermelon(5-8)": {
+        "train": 405,
+        "val": 97,
+        "test": 86
+      },
+      "Rotten Cucumber(12-20)": {
+        "train": 425,
+        "val": 78,
+        "test": 87
+      },
+      "Rotten eggplant(8-15)": {
+        "train": 417,
+        "val": 92,
+        "test": 81
+      },
+      "Rotten Orange(20-35)": {
+        "train": 410,
+        "val": 82,
+        "test": 94
+      },
+      "Rotten Papaya(7-12)": {
+        "train": 401,
+        "val": 99,
+        "test": 90
+      },
+      "Rotten Pineapple(25-35)": {
+        "train": 403,
+        "val": 99,
+        "test": 88
+      },
+      "Rotten Tomato(24-35)": {
+        "train": 416,
+        "val": 86,
+        "test": 88
+      },
+      "Semi fresh banana(4-7)": {
+        "train": 387,
+        "val": 101,
+        "test": 98
+      },
+      "Semi Fresh Bittermelon ( 3-5)": {
+        "train": 414,
+        "val": 90,
+        "test": 82
+      },
+      "Semi Fresh Cucumber(6-12)": {
+        "train": 419,
+        "val": 86,
+        "test": 85
+      },
+      "Semi fresh Orange(9-20)": {
+        "train": 403,
+        "val": 86,
+        "test": 80
+      },
+      "Semi Fresh Papaya(4-7)": {
+        "train": 414,
+        "val": 82,
+        "test": 92
+      },
+      "Semi fresh Pineapple (15-25)": {
+        "train": 420,
+        "val": 84,
+        "test": 84
+      },
+      "Semi fresh Tomato(10-24)": {
+        "train": 414,
+        "val": 83,
+        "test": 89
+      },
+      "Semi_Fresh eggplant(4-8)": {
+        "train": 434,
+        "val": 77,
+        "test": 79
+      }
+    },
+    "split_strategy": "Augmented images sharing their original base filename stay in the same split. Deterministic hash ordering by class and base filename; approximately 70/15/15 groups; seed 42.",
+    "transformation": {
+      "pixels_modified": false,
+      "format": "Original JPEG/PNG bytes copied unchanged",
+      "class_names": "Source class directory names retained verbatim; parenthetical day values are source labels, not verified shelf life or safety measurements."
+    },
+    "visual_review": "Contact sheet reviewed across all 24 classes. Produce stages are visually distinguishable in the sample. Source contains 8,943 augmented and 5,217 non-augmented files before duplicate removal; model output is not a food safety or edibility determination.",
+    "decoded_images": 14084,
+    "decode_failures": 0,
+    "image_size": "512x512",
+    "image_mode": "RGB"
+  }
+}

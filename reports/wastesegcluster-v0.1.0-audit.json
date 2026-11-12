@@ -1,0 +1,84 @@
+{
+  "dataset_id": "wastesegcluster",
+  "artifact_version": "0.1.0",
+  "publication_status": "prepared_for_release_pending_merge",
+  "source_url": "https://data.mendeley.com/datasets/3wnf3n242s/4",
+  "source_version": "4",
+  "source_archive_bytes": 100414243,
+  "source_archive_sha256": "2f49ef8a3736ee44fbd451143c9b21e6d3745f6507bc624245c4a85e64197925",
+  "license": "CC BY 4.0",
+  "attribution": "Ratul, Rezaur Rahman; Moni, Kona; Das, Aranya Kishor; Sowdagor, Aditya; Ahmmed, Suman; Huda, Mohammad Nurul; and Ohidujjaman (2026), “WasteSegCluster: dataset of annotated waste images from urban water bodies in Bangladesh,” Mendeley Data v4, DOI: 10.17632/3wnf3n242s.4, CC BY 4.0.",
+  "image_count": 1947,
+  "classes": [
+    "Composite_Rubber_Textile",
+    "Organic",
+    "Paper",
+    "Plastic"
+  ],
+  "class_counts": {
+    "Composite_Rubber_Textile": 559,
+    "Plastic": 1893,
+    "Paper": 717,
+    "Organic": 731
+  },
+  "annotation_count": 3900,
+  "archive_bytes": 100808464,
+  "artifact_archive_sha256": "e5724fb933bc00fc5f8e5a0e987200cbc88d03e7aba6e68c2cceeedd9ccb6b5e",
+  "label_format": "YOLO normalized axis-aligned bounding boxes derived from source COCO bbox annotations; annotations.jsonl records boxes",
+  "transform": "cvlesson-0.1.0: source JPEG pixels unchanged; COCO boxes normalized; empty parent category omitted; source train/valid/test split retained",
+  "student_use_case": "水辺に見えるごみを検出して清掃場所の確認・活動計画を補助する",
+  "limitations": "Collected around Dhaka, Bangladesh. The package provides bounding boxes although source includes polygons. One image has no source annotations; empty labels mean no boxes supplied, not a confirmed clean scene. Not a measure of water quality or health risk. 50 images visually sampled.",
+  "checks": {
+    "all_images_decoded": true,
+    "archive_crc": "passed",
+    "library_archive_structure_validation": "passed",
+    "library_manifest_and_label_validation": "passed",
+    "all_source_archive_sha256_verified": true
+  },
+  "inner_manifest": {
+    "dataset_id": "wastesegcluster",
+    "artifact_version": "0.1.0",
+    "source_license": "CC BY 4.0",
+    "source_url": "https://data.mendeley.com/datasets/3wnf3n242s/4",
+    "source_doi": "10.17632/3wnf3n242s.4",
+    "source_archive_sha256": "2f49ef8a3736ee44fbd451143c9b21e6d3745f6507bc624245c4a85e64197925",
+    "image_count": 1947,
+    "annotation_count": 3900,
+    "classes": [
+      "Composite_Rubber_Textile",
+      "Organic",
+      "Paper",
+      "Plastic"
+    ],
+    "classes_ja": {
+      "Composite_Rubber_Textile": "複合材・ゴム・繊維",
+      "Organic": "有機ごみ",
+      "Paper": "紙",
+      "Plastic": "プラスチック"
+    },
+    "source_splits": {
+      "train": 1795,
+      "valid": 103,
+      "test": 49
+    },
+    "class_counts": {
+      "Composite_Rubber_Textile": 559,
+      "Plastic": 1893,
+      "Paper": 717,
+      "Organic": 731
+    },
+    "transformation": {
+      "image_pixels_modified": false,
+      "source_format": "COCO polygon and bbox",
+      "output_format": "normalized YOLO bbox; source COCO bbox values preserved through normalization",
+      "ignored_unused_category": "Organic-Paper-Rubber-yUNM-9Y5P-Teq0 (zero instances)"
+    },
+    "visual_review": "50 images sampled across the fixed archive. Waste is visible in waterway and bank scenes; no identifiable people were observed in the sample.",
+    "decoded_images": 1947,
+    "decode_failures": 0,
+    "exact_duplicate_images": 0,
+    "exif_keys": [],
+    "case_id": "wastesegcluster",
+    "version": "v0.1.0"
+  }
+}
