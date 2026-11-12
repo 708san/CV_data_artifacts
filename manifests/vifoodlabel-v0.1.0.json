@@ -1,0 +1,3042 @@
+{
+  "manifest_version": "1.0.0",
+  "dataset_id": "vifoodlabel",
+  "artifact_version": "0.1.0",
+  "files": [
+    {
+      "path": "vifoodlabel/LICENSE.md",
+      "size": 620,
+      "sha256": "77f322e4612bf9cd4d83af02a5bb370b77372a8982986ab9052f0b48c69d2397"
+    },
+    {
+      "path": "vifoodlabel/README.md",
+      "size": 826,
+      "sha256": "e17ae6c23111d4594f490efec20015c269ac7820e88d290ce3269df85fdd7f70"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0001.jpeg",
+      "size": 274005,
+      "sha256": "d8a7257ed165022be1a9692987e45ed73bec574ba21485ced16d6fe8a1072796"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0002.jpeg",
+      "size": 367196,
+      "sha256": "d3ae0bdec12514cb523749f5601b68c29f82cd45b0991ee944ba10e304675335"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0003.jpeg",
+      "size": 250382,
+      "sha256": "732398bf63c3a69daa51e5d9a04431b6111acf1b8f0d7b49439b9736a77514c3"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0004.jpeg",
+      "size": 267301,
+      "sha256": "2b5731ed9ee3d288fb5285d50607c5fea4319773feed921ca7b2f916124d84ec"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0005.jpeg",
+      "size": 372396,
+      "sha256": "393bdf8822f71e990ae012cbd4182452c551a56111e16dcfb50dbf2934ff2081"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0006.jpeg",
+      "size": 321112,
+      "sha256": "2ddd0b00359e2ca013795e67361afa22a5d6ab87efa57e624424682ac9611c0b"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0007.jpeg",
+      "size": 265900,
+      "sha256": "32783115bb132d72baddadbdbb830da42138345b81880af4ff28d27c23560f8c"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0008.jpeg",
+      "size": 300817,
+      "sha256": "696e5ab9b535f4cdb2020ad8f19a8a774478b95603a7d4d214cd733b9a8c470d"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0009.jpeg",
+      "size": 317190,
+      "sha256": "0435de6cb3af81cbb38c3f0c8d49e38273f9ea68bc901b13ff68e59800e3a99b"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0010.jpeg",
+      "size": 415995,
+      "sha256": "a85e0e08c58e886f6128e7e6054a10aa456b4246bb66763e7ce0fd2db76767fd"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0011.jpeg",
+      "size": 267673,
+      "sha256": "8a2200c9e3cd0cb884d4d76a9dcb82b2ef4921d3d8cff673a38feef2c2d8f413"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0012.jpeg",
+      "size": 282205,
+      "sha256": "c7b784f649e5fa707b52cc15352bef969011438b233c1ec1c2e1697fd34b6a87"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0013.jpeg",
+      "size": 391951,
+      "sha256": "81184912caf2b9c44ee97b504d999fccfb640736237240042d763dd4b74b3e45"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0014.jpeg",
+      "size": 297021,
+      "sha256": "dcf760f77fa7d549a7a852831c6e2adc48cabf41ab5a515866bcd56f2970c17d"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0015.jpeg",
+      "size": 290465,
+      "sha256": "38557fa4b443b742c8a5e5528ef19c51c6e9082cc51a5558271d520744f5a333"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0016.jpeg",
+      "size": 333837,
+      "sha256": "b76cae179c47ce4a05ec31c0153c80019b77e6231dff841b9d6cf2ad9b7df0a6"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0017.jpeg",
+      "size": 296381,
+      "sha256": "0ddfaa7fc7b3f59f1f300946adcc7b443513c3ec77c76cd5d28454093370c80d"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0018.jpeg",
+      "size": 302942,
+      "sha256": "a827722004aa9ce7c53d08c16fb9da3ba68b16666784d8dbc9546be853799ef0"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0019.jpeg",
+      "size": 258265,
+      "sha256": "e36cb5d2a6eabbc9836b81541236fd685b2e26cd606d70ff5a7f0fd7b9f77470"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0020.jpeg",
+      "size": 253493,
+      "sha256": "8a09cec8c9a931d5b38e8bf74f3c9092f0d94547478ed8c5a87259cab495bb4e"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0021.jpeg",
+      "size": 174359,
+      "sha256": "903a525352c7d2e158fcba47f2663c76d2060fcdbcbd96939f6a769fa113d750"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0022.jpeg",
+      "size": 319847,
+      "sha256": "c401e3077701c014cfb85be59ffe6f9fb28dd95440e136bd7e20f57a75c86235"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0023.jpeg",
+      "size": 234911,
+      "sha256": "601e7a29a57a07c53ba696425789274e8f0e9e0508d84e36184f031225251b46"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0024.jpeg",
+      "size": 404642,
+      "sha256": "f7187d775c5e5582b48d756e15a1c98985531d5279d155137e9870afbba7c6ea"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0025.jpeg",
+      "size": 385915,
+      "sha256": "876bb2742b6908a9dea22ee3805c63bdc13421d4f6dd017f6d28ae3027742e57"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0026.jpeg",
+      "size": 308508,
+      "sha256": "4205a04c63a52109cab5d228bec631641c049e1a3362f50507e973973c7c904b"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0027.jpeg",
+      "size": 377251,
+      "sha256": "2c9ebcc5f28782ee065f8da6065f164dd60f56ec6364d7b1a8803fb81d1b31c1"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0028.jpeg",
+      "size": 261162,
+      "sha256": "87ba3b72692da6b9e42831fe560c9756fa04075a18709d45d02450e525ef8f62"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0029.jpeg",
+      "size": 306046,
+      "sha256": "2342545e8ba3dc74fa5446079a6827b2708a7bc43f17aeccc5087f910a950783"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0030.jpeg",
+      "size": 330181,
+      "sha256": "602a496f91342bc0380250194d30d9d5c70c5827a29cee2d24a0c1d330d6e040"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0031.jpeg",
+      "size": 251647,
+      "sha256": "7b01c5469689300dbe51468acab58bcff2bbc7cf4242199405388d3ba1803d44"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0032.jpeg",
+      "size": 272504,
+      "sha256": "81cc2dd42b2c3438cdf20c83579f66516048d21093f584892ae18d806076b4d6"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0033.jpeg",
+      "size": 321188,
+      "sha256": "c77c0297cb26b7ab664148ac88470d4fe58ffad687493a1fb0c2a60729a1b751"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0034.jpeg",
+      "size": 278692,
+      "sha256": "03801a81b161bbda1f19809f7ae6c3be70a059721934770c8bb923289f5074d9"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0035.jpeg",
+      "size": 323392,
+      "sha256": "1df181515c228d3e362cfab365de9fe6c518f5c5c662bd800fa9e9851ad6695c"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0036.jpeg",
+      "size": 330990,
+      "sha256": "65e800190ef896962ee177bf82f03b120e7f50c52857c107d513ef5b00307c1f"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0037.jpeg",
+      "size": 373920,
+      "sha256": "47b13a9b86b82cb5b99b2677fc8d090623c99c16049770d61461f43c51cc9cd2"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0038.jpeg",
+      "size": 268028,
+      "sha256": "1285949cc0a7814fec2760ed6855a9b9c3b90d7cbe5a7a76e477463ebf6d987f"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0039.jpeg",
+      "size": 311059,
+      "sha256": "f9f2b5250e76e6802e8e9be4a1d674e38234eb085492cde1f41a02ce874d57cb"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0040.jpeg",
+      "size": 298706,
+      "sha256": "f5e8641d46c7e457251ea630f99a9fd7f86982446c0a8b7c105472f4727b9413"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0041.jpeg",
+      "size": 277150,
+      "sha256": "f839f2297c193ae04a542e9a6d0fbb636198e1ac1d27f0501d6ad40175750a7b"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0042.jpeg",
+      "size": 264545,
+      "sha256": "75660986151adc5733845f072e72b134fb9731800f748221427dda2fcbf3c97e"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0043.jpeg",
+      "size": 361525,
+      "sha256": "337ac8b53b6adb98d59f59c30e8c30d37cb245e6f9fd13643abf6b66e8c3695e"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0044.jpeg",
+      "size": 355720,
+      "sha256": "89a9850df25cd115a97ac36b71cf8cf2fa71bde127ee57bcbfaf7aac456bd338"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0045.jpeg",
+      "size": 292922,
+      "sha256": "6f4e26fe97494ae118cb9d89ea9feb40b2979ce917d5313d9262cfe3ed3c1529"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0046.jpeg",
+      "size": 376290,
+      "sha256": "71b0c8c8352f1c2dcf49e36d40eea060062c3e81a537fe096c48bc14feafa23f"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0047.jpeg",
+      "size": 264734,
+      "sha256": "9281ea926b766e6562e596486752d04e204ab3549e1ba501b09ca6f840b2e223"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0048.jpeg",
+      "size": 261031,
+      "sha256": "69345ffe1973c1e49a75da7b7c4d6f1e6e2ac63a48fbfd9bb995e53efbced297"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0049.jpeg",
+      "size": 238283,
+      "sha256": "9fc3d02e03dec9861ac5d35c0a171ea5e3dbb8f9d11729379244dd9ecfe0e013"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0050.jpeg",
+      "size": 338316,
+      "sha256": "29b376b97feef8c98d6935259001e41c027611a86910aea23fd648fe23a62e37"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0051.jpeg",
+      "size": 431733,
+      "sha256": "3dd1650e4dbc3ffd7bd2317a3b9a60b95395e264f6c7a445e8f9a413ef9d8f63"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0052.jpeg",
+      "size": 256677,
+      "sha256": "ec66d5dfb0d715abddccd748805b85d7db2f5047bda37b9b310d01f5633efca7"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0053.jpeg",
+      "size": 267721,
+      "sha256": "49b2e976cbc2ca2a6a855acd39ad6314715802c6ee70fa741b63d28b102470a7"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0054.jpeg",
+      "size": 233582,
+      "sha256": "0fc4b939c81de2db614c9d2373b6b925618663fb8cc56012805104f6cdf73f5f"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0055.jpeg",
+      "size": 464400,
+      "sha256": "37b075e92e341c10fd492086caba6c28eb484d0434a72460d8ef1368f9dbd594"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0056.jpeg",
+      "size": 312099,
+      "sha256": "2e3bd31af40302d6bdfe508123d5cac4de4dbac2f8aae89a7c17d71e34285fed"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0057.jpeg",
+      "size": 291416,
+      "sha256": "0471fdb32515848c9f7aa2625ffcc428bf0d7ac9c5554e7a131ee88e1538117c"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0058.jpeg",
+      "size": 323075,
+      "sha256": "87a3325b14a4771e06218f279ecaac89eeff7bfd75824159d9e061f4c4ca1ab8"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0059.jpeg",
+      "size": 311703,
+      "sha256": "e50937e950eb830430af2a79e832fcdea1126c9b094720e5b8faffe46b662825"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0060.jpeg",
+      "size": 274799,
+      "sha256": "f1eea8e66a2d6f9a0eb82372a0ee8d139d3a7e2da10f36b79da333f64c21aae6"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0061.jpeg",
+      "size": 313038,
+      "sha256": "e5ad94376cd5212df0fcd52fde695c3a11ce25d213e64efd83160afd2d2382e8"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0062.jpeg",
+      "size": 404899,
+      "sha256": "7dcf328c903f5b0ea4b9d998dddf49cea31dbedf28b75fd82a9ea9929ecd71e3"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0063.jpeg",
+      "size": 299095,
+      "sha256": "6a33f9c97d9458fdb96b1333b8e0be128ad806b0263b2123379e0a31fb8d5ae7"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0064.jpeg",
+      "size": 237986,
+      "sha256": "2ed6f2b6f5ce2bc2c8fba1be3cdcf7ac74f3c4ebf8090494091d00dc85c17eed"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0065.jpeg",
+      "size": 345438,
+      "sha256": "5e1f23ad3b036c8a8fe5aac8bc45981a53ebbd492203b33f4d5e87af5f1453a1"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0066.jpeg",
+      "size": 387974,
+      "sha256": "5bed4471a4d02be59ffba2036955253e9c9a4d48f10600393549ab41a5d25d49"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0067.jpeg",
+      "size": 295907,
+      "sha256": "3f0f6c36517375947b5f1481f817791bfdfbf35fe39d741a9ead8c6bd9615e3c"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0068.jpeg",
+      "size": 254952,
+      "sha256": "073c6fbaf330044a303e09d96a6b312cb407b05b838f080da94d6ce0366d0432"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0069.jpeg",
+      "size": 347271,
+      "sha256": "1591c1b5c9cc092cc538c85edc32d01b66f7aa55ad7fb6253069e82861e22add"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0070.jpeg",
+      "size": 313860,
+      "sha256": "7271aaa3e1acaedeca42de06e92809beff2e1588753d5d68d4105fa3a722261c"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0071.jpeg",
+      "size": 364462,
+      "sha256": "8fe2cee136a52dfbd22d3d81ed03a2eda480043ce8f93ef3193e79f8c089c2cc"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0072.jpeg",
+      "size": 201310,
+      "sha256": "0f014392b5210463ddcfa2a66479a0314ddf57a232ecd25142399609a3f850de"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0073.jpeg",
+      "size": 179182,
+      "sha256": "18187e0af09bf20acbb7225a04eeeb8ab1753dc4ba4e463bd605dce70890dfc0"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0074.jpeg",
+      "size": 247735,
+      "sha256": "25ba6c33bb2d9ef3a6c87a175ff08a87603cb6c43bc3a33c3c4e68f246860b28"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0075.jpeg",
+      "size": 278273,
+      "sha256": "d6a41ac7722fa2e3cd29545cb24109c756e60cb8581d4f9d5ba0f21501820f1b"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0076.jpeg",
+      "size": 290319,
+      "sha256": "e0627b501a29ea555377cff4cb4d97685c1208293bc60544d867531843643c5f"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0077.jpeg",
+      "size": 320030,
+      "sha256": "498e1cfdd9f335b828bcbb3fa8937a5a4eb26a92137ac6637bd663a16d7db1f8"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0078.jpeg",
+      "size": 304496,
+      "sha256": "8be48ff7c85abe5fc10294d9cacf4a968c6dc252e6184e6a8050c762b39d7e2e"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0079.jpeg",
+      "size": 252184,
+      "sha256": "f5d4575b610c7f4d8828786bc2e8a92593bfdc1070907bb359a0278ef1a74588"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0080.jpeg",
+      "size": 322717,
+      "sha256": "ad2d55a03639aa591a17ed149533bec9a4101df6c3fdf839bf1b03e49a7e8deb"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0081.jpeg",
+      "size": 277556,
+      "sha256": "0e078fe0f6d69249a8baa41649143d2f94b0442a7037463839aafccf2f5f54ed"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0082.jpeg",
+      "size": 332288,
+      "sha256": "a0755bcad3b932b38ad38a876f79a2bbee7856f2b3fc3a95f357ced58db17e79"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0083.jpeg",
+      "size": 270710,
+      "sha256": "27168334e11c7b10b404ee70db46a81f3cf4578c0c0fa159f39f280c55e9f231"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0084.jpeg",
+      "size": 225304,
+      "sha256": "46fe0af48a71d292c9e66d8ac17f333f45bea38c52db978f0490a5f92df9274a"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0085.jpeg",
+      "size": 318051,
+      "sha256": "94fa71b78e6d0cd18bce72fe0c2e5dfa0f14add86f07d360da956debfc539dbc"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0086.jpeg",
+      "size": 313117,
+      "sha256": "14b56157e928d1a10ca421dc3ee0db52a1f78295449adca14667e5e7afdb2af7"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0087.jpeg",
+      "size": 356390,
+      "sha256": "92628fb67eddcf30e6d613e7e9e0b3ca211997783bc3c2cac1658c4c3fa0e5eb"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0088.jpeg",
+      "size": 167746,
+      "sha256": "dab96096dba0802455b1b4642ba30f43bdc7ccedba08eb2c4df19036b1823fd2"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0089.jpeg",
+      "size": 285773,
+      "sha256": "2d40c29c87c478db7f1d4d3abe9d45191497f35c438de55e951c56888b3e03ae"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0090.jpeg",
+      "size": 300817,
+      "sha256": "696e5ab9b535f4cdb2020ad8f19a8a774478b95603a7d4d214cd733b9a8c470d"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0091.jpeg",
+      "size": 265326,
+      "sha256": "662e7a4512ca96c73713962f249634e57be2f038b530641fb4d8dc93237f2e26"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0092.jpeg",
+      "size": 256472,
+      "sha256": "3a63300c5596ee6766018a46cd04e987971ee3fd4b26ab79a2fec00e2bef9e93"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0093.jpeg",
+      "size": 289776,
+      "sha256": "1e58da0dd5bdf683e8dcfd7d612f7e9be37809a8bdcbd1e1c1d4ccf09ca2f904"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0094.jpeg",
+      "size": 378882,
+      "sha256": "cb7db9e214705a0dbbcfdc0354172575734448e8ba29649439e6043b67d47586"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0095.jpeg",
+      "size": 324765,
+      "sha256": "1edcfa2cdef19604c622a396f47bdb041de528757ffd991daab64804d0c813c1"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0096.jpeg",
+      "size": 274084,
+      "sha256": "f87751b2e6923f9b0ac029f366ee14cacad611225451cd719f756e1a16dd677e"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0097.jpeg",
+      "size": 337879,
+      "sha256": "8682981a1ef027ecbc4f0b82d8f681104b7cae469ea4d68e229cee34d1432a0a"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0098.jpeg",
+      "size": 280208,
+      "sha256": "d52f1e9f54ce16a0c5db9561f1b9e4b037ba5cd5dbfef4753639179dfa9d912a"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0099.jpeg",
+      "size": 341850,
+      "sha256": "9aa8ab4193a660b6533a391ad2ed2aa5db9980d8fed3c97e3c1aabebb56c7c77"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0100.jpeg",
+      "size": 396808,
+      "sha256": "d8185f4a510cbb19453d726cbdffcecabad95c1c3920151863a28915cc435df0"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0101.jpeg",
+      "size": 287042,
+      "sha256": "a89660bdf6cedb11c2d438a03459d13d3d2df02a79ceadb3b7096c8672015429"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0102.jpeg",
+      "size": 310600,
+      "sha256": "98fedc9ce966296526ca33e4404773621e0f2da1f0e511d7ffc5156c6bb45c34"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0103.jpeg",
+      "size": 318443,
+      "sha256": "f579b611c501d358c541d6c9f5e09402e536ad8e4ab0f8a39f6bb58160607165"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0104.jpeg",
+      "size": 372947,
+      "sha256": "847df077675dec39f25ea93fd3208cac4c1355cf819e8f53b692b094f52aa121"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0105.jpeg",
+      "size": 298913,
+      "sha256": "7909216d861efc6f0f7584bb3811831271a3eb6952698f50e4a652b544830722"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0106.jpeg",
+      "size": 273058,
+      "sha256": "e64c5fd08570bfc9eb21fd3b73836a5060a7e341f605d3ae7f805c6b31a93036"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0107.jpeg",
+      "size": 224803,
+      "sha256": "6b349710c65afd837730dcd8c1e8cc94245c8bb62f88619853d9f2f3c2228b10"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0108.jpeg",
+      "size": 329629,
+      "sha256": "b9d801bfd9d035074ac7bfa78066312d471bed987bfbaf5dd2545990683d113e"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0109.jpeg",
+      "size": 318396,
+      "sha256": "c6676282ea1e3cc0a84ee2a1a9b9f7059746df9fdd18d2ca879da99becff34f8"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0110.jpeg",
+      "size": 278579,
+      "sha256": "30790f3b470317151b23a701a18c67fe3767eaa3d8b2f7c7f7621d2c7e0a78e8"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0111.jpeg",
+      "size": 291316,
+      "sha256": "0ed616610e2472838416935d7f915739dd27f209b33fb92b32e1e24e1ad0ee71"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0112.jpeg",
+      "size": 293591,
+      "sha256": "9ab7b9f79b30df9ed0cab6d75d918ac02bf851b3bff5db244eea6237e0467baf"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0113.jpeg",
+      "size": 299884,
+      "sha256": "2caa7af5db2d40bfe2a8f9960699bb159d9339fd06980ba75a4513f5d82271f1"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0114.jpeg",
+      "size": 378863,
+      "sha256": "2a29668262ca88e33d3714b8c9c76b8d03a0bf5acbcb2719488cd4feff4fce77"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0115.jpeg",
+      "size": 277265,
+      "sha256": "fc12ba3e5618045fa13ed24a2845bb1e6b5badf57cd735940a3ca09c255e3a12"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0116.jpeg",
+      "size": 297431,
+      "sha256": "032c2730ed2ece54cf10ac3766b6a7d26ee913b54949ea918ff947836dc7ee5c"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0117.jpeg",
+      "size": 341053,
+      "sha256": "6ed74012b3a1dfe35ee87067ad3bb2d7d54f4df7fc98e4d4c49402d19dd8753e"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0118.jpeg",
+      "size": 310980,
+      "sha256": "87ceb04431000655460d573d846a8730616b970994cc225dc4be5cfd0e7a2438"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0119.jpeg",
+      "size": 453796,
+      "sha256": "dc6a36c9a06dc45d741345f53a5afc19df8538ed2a2e701f465da196b725340f"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0120.jpeg",
+      "size": 330909,
+      "sha256": "f3ec97f1feb1eef4f8d6220197c2c096a9e04f2e7ef084d9ae2821ae7e1fde10"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0121.jpeg",
+      "size": 323295,
+      "sha256": "e478e4aafde27fa34ee2d9ab4bfe2e6e5fb7d7563b7b1dd7b8456c1ede70a16e"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0122.jpeg",
+      "size": 286642,
+      "sha256": "e40f35a3a93c778669236814ef1d2ca1753c56673adcfe9aff29eb3cfbc72180"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0123.jpeg",
+      "size": 330181,
+      "sha256": "602a496f91342bc0380250194d30d9d5c70c5827a29cee2d24a0c1d330d6e040"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0124.jpeg",
+      "size": 263101,
+      "sha256": "4b535824ba2d784b949571141c6365acf4b3242d9e8e153806148b6d2d247f5c"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0125.jpeg",
+      "size": 323178,
+      "sha256": "11b54bd3103372261247becd240fc1215596a15ab15355ec9d9389a20c93cd2c"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0126.jpeg",
+      "size": 263919,
+      "sha256": "4a5de9bb2cd6286700465b6dd6aa5f6e64cbe2bf0d74f9d08cd642386cb397cc"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0127.jpeg",
+      "size": 280136,
+      "sha256": "748c319823e07e66972518acc476966a892e32cb718f5a6c0aa7bc04e8a71e84"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0128.jpeg",
+      "size": 310524,
+      "sha256": "cb1e4d242042d46f7b2a3c984a1fb4ea8257a7097bced286e931fe0c3984d241"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0129.jpeg",
+      "size": 339252,
+      "sha256": "c9556d81104a117dc727ff1ea1b02be1d90bafad8992985bb13f93b8d750c67c"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0130.jpeg",
+      "size": 279842,
+      "sha256": "d04316c024878521d175407c6a88ad36e0ed27e9c13f4584403d97372dd30fe9"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0131.jpeg",
+      "size": 277144,
+      "sha256": "60a908ba7a54d2408ec2cf7bae0cb4a2ed84f147e8eff37f01bfede73af57643"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0132.jpeg",
+      "size": 351154,
+      "sha256": "0edad650cc75611cf939cc0da871c7c370bc79b4080a97b9ed23bad50738e74d"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0133.jpeg",
+      "size": 414059,
+      "sha256": "0b0a5262f9d5e3c4145e1eaf8e7ae588d6dbc0479c5d597d54b5ca2ff8203ddf"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0134.jpeg",
+      "size": 328806,
+      "sha256": "c9f8654b89cb3d71ee7bcbcb34bdf2aa93af99eb34c16f1eae0453b7b53323f8"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0135.jpeg",
+      "size": 415504,
+      "sha256": "c56d9d2f666e90e9cd54c935580a8e51d498b357ad9cbf699a7b2226c45b4495"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0136.jpeg",
+      "size": 306509,
+      "sha256": "6799ff2f3ed3fc725bac4615d5f79aad8c67424e6a07aca72d2e8f962d7902b4"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0137.jpeg",
+      "size": 337717,
+      "sha256": "5ef029f7a2bb5082ac061cec7d359ad83035ed8b13f346b36dfb84faa4278c6c"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0138.jpeg",
+      "size": 308745,
+      "sha256": "9827fc381d8e9afd723c5fc6b3e536310e91fd460d510066246d8bbfbd4d16b5"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0139.jpeg",
+      "size": 286506,
+      "sha256": "613e95569a1224bd097cd002b4aba38a732913099debe32fe477f7b1b7a601a5"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0140.jpeg",
+      "size": 316164,
+      "sha256": "a0450116a09aa0b73fa433b4c0855fbb01d9151df84aeeadfcf61d5a319afcea"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0141.jpeg",
+      "size": 232276,
+      "sha256": "5b284e3f8e17a00a71a3cee0450ada9a72cd33b93e736f411e6a2eb405c81126"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0142.jpeg",
+      "size": 189864,
+      "sha256": "63e5e62043130e7d795c6125fdef38125adae241df3bace19c187108e446beab"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0143.jpeg",
+      "size": 377064,
+      "sha256": "f33ae09d9b34546f8c06aec7df2fc9b11e687b59cf985d928d43981638fdaefe"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0144.jpeg",
+      "size": 312755,
+      "sha256": "6a00e9ef5e31dbbd9728f9c46dce1a2afcf62695bf16f4519f44fd5349df635e"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0145.jpeg",
+      "size": 414382,
+      "sha256": "1d4faf57d313df7a8482dfefe99f7ca272d527ee2690c8125fc00b21fc51e621"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0146.jpeg",
+      "size": 319138,
+      "sha256": "e243d6c6cd3adc06cd29b6ea8f18a06e32b220a3a369b997652ef58ec2717ef5"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0147.jpeg",
+      "size": 271012,
+      "sha256": "df96df7cbef456c751279b8a2c6043b388be75de0aa98b8d45893d0d76e92b71"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0148.jpeg",
+      "size": 276746,
+      "sha256": "1ca3bb428511425a8c467f5b2498d9172f14a1d4eeab0c9f1028c43f80696890"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0149.jpeg",
+      "size": 292129,
+      "sha256": "80581f0721fbcb161a556a47280f83df18dfc81f3733e1f48a790e09c2988547"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0150.jpeg",
+      "size": 456360,
+      "sha256": "a268ab17501a5aca74e5d3f63a6d355b431792838f2e5052574267797d1b9598"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0151.jpeg",
+      "size": 304013,
+      "sha256": "5db5afc7b46f66cb71b3534039e2a85793f9bfad7c3f30e8d4ed668d26c44773"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0152.jpeg",
+      "size": 293457,
+      "sha256": "9536a96bb238f03aa9f13f2adc0db91ccee1c9fe3a19cbdbec911699ea2a7919"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0153.jpeg",
+      "size": 365272,
+      "sha256": "21243b06fd5b103fd88720c40bc2dbf1bf0705245bd79464337063b4ce5d00a5"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0154.jpeg",
+      "size": 307605,
+      "sha256": "81f94802157704e7853a898827dd3a08339bac4c2a0aaae545cc72f95a039270"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0155.jpeg",
+      "size": 462760,
+      "sha256": "db05c6ff3831d83a4e0c50316c481fd69bf6e7aa5268291fec7e9a5efe531e47"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0156.jpeg",
+      "size": 331158,
+      "sha256": "ba5f53d16cb9928767c086cb334b6d920d791f8a22bcacaca4cfb8c6781f7ee0"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0157.jpeg",
+      "size": 338455,
+      "sha256": "a9fccf715bf6469ff4f3d452316525a91dede860c72590481f8c52aa1f8e1edd"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0158.jpeg",
+      "size": 309523,
+      "sha256": "9cb434ba433a55fe9b61620600a6ba7e8ac58cc04a0de77d49264b5aafe8b118"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0159.jpeg",
+      "size": 263907,
+      "sha256": "052ba9625acf2592cdb39d95a7774f22b245b46569c9853e2a525910acf63300"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0160.jpeg",
+      "size": 302026,
+      "sha256": "9b778f61626ad293634ad34fd4bf46dd5e4bcf14e01b491c79b7f728e16423b2"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0161.jpeg",
+      "size": 283105,
+      "sha256": "f84182fa8348d2a48d4de61570dcf7d60eeecab2e8a1c8695b70eb8d20622db2"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0162.jpeg",
+      "size": 368204,
+      "sha256": "aff60711ceb928df2a4bdd5fc61c59c281dadd638a7e01f30e8c0a3e96945ba6"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0163.jpeg",
+      "size": 314119,
+      "sha256": "d3f203eb54d7e2b93361cdb64a0d3ffaad92759fc07752dd6877bdf6a8ca3e0d"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0164.jpeg",
+      "size": 287189,
+      "sha256": "fc5024b92b81e3f504c7f68a29d35c4c5a83068fedda04a10bcc7eb1e24b0c63"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0165.jpeg",
+      "size": 346658,
+      "sha256": "a08ef38c3279d41f779294eecbe78f126501124e909382c44c8cfdb5327abcbe"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0166.jpeg",
+      "size": 377398,
+      "sha256": "27460f4c057e163b61d0aac1074cebe5cee8fee70e21b7aa839f41e7f025fad2"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0167.jpeg",
+      "size": 275564,
+      "sha256": "4498c5fdab563b4f8b5f2a195f713441cae6d45807b65c33f116122f72524f63"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0168.jpeg",
+      "size": 303954,
+      "sha256": "1e753d368c57a0d7a14f5779e2d929c7ac670dbd64c0c7fad4b08733c160540f"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0169.jpeg",
+      "size": 427347,
+      "sha256": "0e2a2bb448fa16578ad69d1ac54c371087f4cef75df4f7391a191a5bfaf3b8d0"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0170.jpeg",
+      "size": 419145,
+      "sha256": "2329c1f0c183e3efdcbb699a5d09985e9f780b78ae0cba61f4ec78f94c00e2ba"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0171.jpeg",
+      "size": 326471,
+      "sha256": "3cbd6c74c83fd92f0ec497450acc32290f6045192399d58285d4130c63f7f1e0"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0172.jpeg",
+      "size": 286910,
+      "sha256": "98ab18f5686dcc687ba1c057a9d1e0f98cbbdf0904018f90318740a0d18a3bdb"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0173.jpeg",
+      "size": 336844,
+      "sha256": "2911530663ba377a36d8fbb483aff50b88d9f073d468fb2714ed2bdc50e095df"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0174.jpeg",
+      "size": 253845,
+      "sha256": "56961d3d8998f96cafcffb015a88c8ace9cea33a35616bd66ab137d29f6c9266"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0175.jpeg",
+      "size": 289051,
+      "sha256": "e8255b0f9901c05a72ecd42757c15b42072490dc41c47a346dff15b7f30c5639"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0176.jpeg",
+      "size": 320482,
+      "sha256": "0f001388c9b8bb6d9e434b9851b882d3ffc63b33d5036e299509bd18ed053807"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0177.jpeg",
+      "size": 252292,
+      "sha256": "1b096b514451cd406b9c67f7fbe3f3ad73f40950c3dd8fe189a944886e919d26"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0178.jpeg",
+      "size": 270534,
+      "sha256": "d59bf417a606cd96834a76457ae543e4d14a827fab07b994f7ef227aa6030307"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0179.jpeg",
+      "size": 264862,
+      "sha256": "8a2845eb7cc97205adca31fea1aac814c06b6099737b44a8a724c3138d7cd5c9"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0180.jpeg",
+      "size": 358527,
+      "sha256": "0bfc3f1e54316a7687c775761e037a0bbbc9f51a8d79c8b47f19c22a7640382e"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0181.jpeg",
+      "size": 249681,
+      "sha256": "66255e8a38feb657c62930dcd2ce8ae5ac4e7755abd552c2fdef47cce0f33fe3"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0182.jpeg",
+      "size": 299718,
+      "sha256": "0cd541b552099e58390f97ea10988d934bffe430714072927a55bc953bb6fdcd"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0183.jpeg",
+      "size": 366570,
+      "sha256": "d505e5eaca4ceb478e7c9b33551cf9405f6ce6802c90d6a6d3d4e3ac5d1a0fcd"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0184.jpeg",
+      "size": 253315,
+      "sha256": "7931cbad3ff7efc46050f1b045ad8ba0737a086238b9234607f81c4ba8f857b0"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0185.jpeg",
+      "size": 330602,
+      "sha256": "f99e0f5bb7299e06347476de1997143fb9d48e780f8b0593960aae13a028fa8b"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0186.jpeg",
+      "size": 274998,
+      "sha256": "399cc631f3da5c3f30fcde43b6d8b1f00a38a73d376f4a97f49f2f6caf068a4a"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0187.jpeg",
+      "size": 306025,
+      "sha256": "91415b9a18aed27fcb0bb079eda59806b8624ccc8d82b85229401eb18b74ebc0"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0188.jpeg",
+      "size": 340229,
+      "sha256": "7e409ee323343c4135904a2796a18cc41db00f32317dcbe0f7fedb03d5b86248"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0189.jpeg",
+      "size": 293505,
+      "sha256": "ec4ca01e503d9da1d71463afe973c43584109f5836c03a5dd32ef7ed15959702"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0190.jpeg",
+      "size": 345797,
+      "sha256": "3b5750999358daf403b2d164e0e7014a5b06f02e17abf2ed121844a36ecd3db4"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0191.jpeg",
+      "size": 291074,
+      "sha256": "f6296a846a7f35ba89bf2b42b48f0ba3dab9aad2aaf76228d072baf279f60818"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0192.jpeg",
+      "size": 404642,
+      "sha256": "f7187d775c5e5582b48d756e15a1c98985531d5279d155137e9870afbba7c6ea"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0193.jpeg",
+      "size": 286462,
+      "sha256": "6ccf596bf0fe1267e534e2173bb0450e8af4f21d757d20db838723abd34918b2"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0194.jpeg",
+      "size": 274890,
+      "sha256": "541b7e7e99fb5dfe114fc1b12cc7d1c634014228111b3810146939010c9db7e1"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0195.jpeg",
+      "size": 226623,
+      "sha256": "fa1e0396446660b21d1fb5b18f3ab60e193cd9d774cbc779d311b45869ef0a70"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0196.jpeg",
+      "size": 276411,
+      "sha256": "796bbc79c604062d89adf1b9a596381b85112869a5f871d9db08b0bc28a9d874"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0197.jpeg",
+      "size": 318696,
+      "sha256": "fe77abd4e8367b77042b59260aa538f43f25c212b3275b90c4d0685565454962"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0198.jpeg",
+      "size": 369565,
+      "sha256": "9784ca599aab074758c72f0f8a228bcf2b9d10fbbbd8b1f01f292127ce77d349"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0199.jpeg",
+      "size": 248911,
+      "sha256": "00f634a344957978e3115af9db848e7ee1e280a7a934d084313f00f1ad36d53e"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0200.jpeg",
+      "size": 274234,
+      "sha256": "9941976c4973435a5417408c85b300af1d24d9af68bff664f1cce410eacf76ff"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0201.jpeg",
+      "size": 261334,
+      "sha256": "3a5c9c4a5807335daca27cb619e38d51f66b9cdb71c4ffd4e3620db1c3a14018"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0202.jpeg",
+      "size": 432962,
+      "sha256": "d83c1813a05910f92ccd895d1b031cc1d899c05708c51a9c7b8364721e0cdb0b"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0203.jpeg",
+      "size": 348762,
+      "sha256": "0498039448d8c5c82ef15214907938241a5c954ab0b3cc0ecc2d56218be6658b"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0204.jpeg",
+      "size": 275000,
+      "sha256": "7ee12fa88ae3fd52b1cfbe11cec236b616d1415fc215be9b41811be8b692cfd6"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0205.jpeg",
+      "size": 383971,
+      "sha256": "a5c96cd96592ce565933c669d6697ac6826b6403ef96125ed6e58a0f4774a9ba"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0206.jpeg",
+      "size": 427262,
+      "sha256": "d8492dde619a4d8a0c706ac4f29188ad7476b02f3600bf881a1df2d2ca165fea"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0207.jpeg",
+      "size": 364121,
+      "sha256": "ea8e874b02b153c63d97a3941a38656b273933ed6bca3968f19b99da9123052c"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0208.jpeg",
+      "size": 431946,
+      "sha256": "45c0831f0cfd8cc97cb2f2f96c7c0dc1d2c39390f2dc4da5272a16384b6198d7"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0209.jpeg",
+      "size": 435214,
+      "sha256": "30369b6e05dbb085271898b06c23f6d750bb171fc6be1cd76722fe3eb1813953"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0210.jpeg",
+      "size": 328665,
+      "sha256": "7a6784d62a2914c1fcb6cc75089fdc6ac61f663d616d66aaeaf74f05b521bd5e"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0211.jpeg",
+      "size": 402948,
+      "sha256": "81c381438bab7e3148fbc9670a271e3369b4ccf4c87aeedfb3112c1840e2dbb7"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0212.jpeg",
+      "size": 300217,
+      "sha256": "77cd57608a4a32e272fd2c0317031d7335c2f8f6c2ecffdf890b0f49a43003ca"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0213.jpeg",
+      "size": 352327,
+      "sha256": "6f4e6e7a820cbcf66f92d6c92d9e5f4f137c5ca4f8022cbb37d6388e0cc320fa"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0214.jpeg",
+      "size": 303194,
+      "sha256": "a75555acb7ea558d522f1ae0201708b14b8e04b5f72188c907a5e17ad9f8b827"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0215.jpeg",
+      "size": 318808,
+      "sha256": "4cc671354e153fbb4e2d58f62daef4326e30eed972c2470de707bae85748de8b"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0216.jpeg",
+      "size": 352002,
+      "sha256": "b81dcba4acde4f4cc0c8e2cb84323bac1a4e464ab3b48081d89091d82543ceca"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0217.jpeg",
+      "size": 271171,
+      "sha256": "808fb853b0d7ac805c91e65364b5f534ab015d592bcf5b5381fee9e95aa60a36"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0218.jpeg",
+      "size": 341171,
+      "sha256": "046a7010c3d43dc1f06fd8ebb3439d6ce142f28a78febdad23f97c29663a7e6a"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0219.jpeg",
+      "size": 369800,
+      "sha256": "2f1c1574ca64e971588cba72d28436a85b063f1472b6b611b5825d2d6efef5fb"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0220.jpeg",
+      "size": 346909,
+      "sha256": "8b5899a39f578a800c353918dd995c7e22c4bb54a5461c9693d5557ea7cfd8c7"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0221.jpeg",
+      "size": 362241,
+      "sha256": "6b1a25c36ff4cc00cf1b56074832d256775794ac1a00ac3bf8567d1018cd5dc6"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0222.jpeg",
+      "size": 286703,
+      "sha256": "111c6e5f9a0e28f5294e99a78478bcc5f22bef51cf038cb5d38a22d73ef3742b"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0223.jpeg",
+      "size": 300950,
+      "sha256": "4fb7cf1c094187d3e73d0690ca587e4b5c64c9a3f3d28be105d62b50e5def37b"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0224.jpeg",
+      "size": 318347,
+      "sha256": "4748d7ddab5279733d85f6e49f694c6fdd0bd1b29eb44e166942603193c89363"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0225.jpeg",
+      "size": 334565,
+      "sha256": "b9d53199e5c709ec4630721d8c8333b13ee866af6441911c37a35f468052b492"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0226.jpeg",
+      "size": 369334,
+      "sha256": "e51a23b2b7911049d65fd183f4360a5dd7ff5ccdf87b8f32441b4498d61f9344"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0227.jpeg",
+      "size": 312099,
+      "sha256": "2e3bd31af40302d6bdfe508123d5cac4de4dbac2f8aae89a7c17d71e34285fed"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0228.jpeg",
+      "size": 257377,
+      "sha256": "567e8354064be07277569cbcd0946d3371ca6baeeb531661f7700d85390437be"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0229.jpeg",
+      "size": 282581,
+      "sha256": "4ef368e6848fbfb92d8e62975b95981d5a56189a78dfc22626e9ad376b3ced85"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0230.jpeg",
+      "size": 191465,
+      "sha256": "78069e5db603af72d8a787ea68fe113613a793ec52f4180628629f14c7d62169"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0231.jpeg",
+      "size": 355010,
+      "sha256": "394fc020b5ac57df27fa0d11e5077cacf949fffd7793bd9ce15fa9c133191bbd"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0232.jpeg",
+      "size": 278128,
+      "sha256": "00e016cb8c76300800c4d1908c00fd0021fb3d14e4cad0426d04e61eb4f06556"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0233.jpeg",
+      "size": 276738,
+      "sha256": "d07cd91867ff59d43399b14e1144d4ca70cd9e6be42a469082843bef612fe51c"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0234.jpeg",
+      "size": 265606,
+      "sha256": "39ce3dee24553ee39873590f4b12e00a088ee927846978e0cb7b4bc10f680346"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0235.jpeg",
+      "size": 231230,
+      "sha256": "d74fa0957076d9c66c7b24840221b09c0a3fd4c0a936c2719a629c125333d8f3"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0236.jpeg",
+      "size": 282379,
+      "sha256": "de6eeaa7d5a50f2f3c72d21886f7c04389f1ca56c59248884cd1cd3dfd15b7ac"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0237.jpeg",
+      "size": 325591,
+      "sha256": "29d88d61365dadcaad47b17b8293600b0d506ff36b890ad59ff0665a46a31fea"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0238.jpeg",
+      "size": 296430,
+      "sha256": "7a743d9eb0879c3ec50f41fa08c52bfdc7d12f7894fc58e10cd9a83b231affde"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0239.jpeg",
+      "size": 234613,
+      "sha256": "b5a8b1a12ec20261e3b940eed17dce62b63d69642b72d98599c93f8d9dcc0fb4"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0240.jpeg",
+      "size": 357293,
+      "sha256": "8501d7eac046401a9e7105709f4643b9207580f289f420fb1d38b532cd4cb1a1"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0241.jpeg",
+      "size": 278057,
+      "sha256": "9821977c19c2e1e5cc713e00559093250593caeacb20c492660a95ca43627f76"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0242.jpeg",
+      "size": 262520,
+      "sha256": "7deadd99c5ead609c3095ec6441f82b9581c6a536b48d9cbf1379fc398785b53"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0243.jpeg",
+      "size": 233243,
+      "sha256": "959020a313741d880cb921ba592c5b0a3a72f0d0eda8989850e9cae2c1874b11"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0244.jpeg",
+      "size": 251160,
+      "sha256": "691f62ac6198c771d71a089b7fa4e58aeb368e334e88361259fcc0d04da1068e"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0245.jpeg",
+      "size": 311926,
+      "sha256": "fff7cc360febf377869f38c2ea4239f372b9d447791f86948d3e9e61273e17d6"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0246.jpeg",
+      "size": 245278,
+      "sha256": "898ae3434bc9faf3c14cf3c9128c6a76bfb19dfef065e4bb61ca4d742745cf55"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0247.jpeg",
+      "size": 282980,
+      "sha256": "83b131f76e1a5a6a04852ec0d8596922312597efc0e19e834a9d70450ada91c4"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0248.jpeg",
+      "size": 429344,
+      "sha256": "3e8316984a9ec1cae4c60796fd6bb6c61e23e36257c618fa1ba1f0ef929bc5a5"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0249.jpeg",
+      "size": 287404,
+      "sha256": "dedea86ad346acc15651920b0ca8ec7159601209741445975ac037476780ac1d"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0250.jpeg",
+      "size": 311042,
+      "sha256": "27f3a79722d0803ba04819b306f44953eb6feb84afef292610a0ea5b24e5a330"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0251.jpeg",
+      "size": 239811,
+      "sha256": "3320a09dbf9fc2d7090665a704684f97af213b654714d787bde4423120f0969e"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0252.jpeg",
+      "size": 251053,
+      "sha256": "faac5fc27d4cacb0f86776f2f3ebb70f317923d9285512e234f4d77471fae387"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0253.jpeg",
+      "size": 254765,
+      "sha256": "26ea61259436d233794ff490f9c8d9056c035ed3081773eab6ad0529a5327eec"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0254.jpeg",
+      "size": 365524,
+      "sha256": "1df79b60a91bc4dc11e5597e3f45705396a3445f234477903d5b82fe833e4988"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0255.jpeg",
+      "size": 334158,
+      "sha256": "fa4e901180cbd114adae56a7fd0b86fa30d3a14adb945f3700cd297cf5e8e3a8"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0256.jpeg",
+      "size": 395440,
+      "sha256": "454081e5c6d3e962dc73761d4d2f4be8f74ea0029ab18fb062893d5b50e7db01"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0257.jpeg",
+      "size": 258460,
+      "sha256": "676daeb469ea8cc7da6b97091f4720240b3ce6e3d5a9b067b68d10bfae439b56"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0258.jpeg",
+      "size": 263739,
+      "sha256": "e7903d047611ef1f29a4470d5ebf508f39d5026827d749965e9ed6442948e3e0"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0259.jpeg",
+      "size": 358109,
+      "sha256": "76d332b3339802180d35e99641f9ef4404f86768ca405fc76fd92dc933366a30"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0260.jpeg",
+      "size": 242470,
+      "sha256": "099e0d4de2e34333320c9e019ce3dd13ed7b76f4b0314f5243aa969b6a990d4b"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0261.jpeg",
+      "size": 254936,
+      "sha256": "66c6abc37e4dcdb1e0ae5ca0ac822f3a7605acba213af3b6ccbde09acc7826f5"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0262.jpeg",
+      "size": 377850,
+      "sha256": "7476cef929e39e00d47171bb738bc7e2b3b2052e3e4c1fd25f1b63cfec73f013"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0263.jpeg",
+      "size": 303139,
+      "sha256": "101eeed9b7934c76c9fee437397aeb71c048eb901e52e763b2cd59b4088450a5"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0264.jpeg",
+      "size": 316326,
+      "sha256": "c57a50b28eedceb08d8c558c9088e619e2b340c8d7eeb01b99edabbd87655387"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0265.jpeg",
+      "size": 328034,
+      "sha256": "da38d2a41e1751c14306450c6d770c27116b2dd66f6b51215c4e78459fe4eed8"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0266.jpeg",
+      "size": 296729,
+      "sha256": "fbf08877f0826439e74eec6b4e381d439fa74d79246c57bf1b4f5d1b8caf4126"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0267.jpeg",
+      "size": 460268,
+      "sha256": "f725fa936c9d23a7a44aa2af5de3bee1a4677cb3339ed71a022b36c72fdaaaf1"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0268.jpeg",
+      "size": 380970,
+      "sha256": "68f45f9e06cda2dee984751ad4ed14fcf9a36c365dc542429796f76fcab90044"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0269.jpeg",
+      "size": 334670,
+      "sha256": "bb9c211b4c2d2f71b27cc15aeb3760e85fd87f40701445a121fc6bb4885e2c38"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0270.jpeg",
+      "size": 228997,
+      "sha256": "fe9f6ba0a02abd374d16d3d3657fe4894742ed4d245584fc63270f1819808b6e"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0271.jpeg",
+      "size": 364721,
+      "sha256": "f7695193d5c4340f5a2a4867c9d4d68cf496b038399602b20526cdb66cc2125b"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0272.jpeg",
+      "size": 372102,
+      "sha256": "b1ea4a29e4cedcd5cc801a729dacdd2b69026ea83c2dbea0a06282377afd5142"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0273.jpeg",
+      "size": 284734,
+      "sha256": "8b5900bcb41f20532cce71e8b18b9ece813bb5fa0f94d2877031751c604d035c"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0274.jpeg",
+      "size": 321377,
+      "sha256": "ef78367f25f3177e0d44a47fef217b97e38147714853137bfe55d7889cf0080b"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0275.jpeg",
+      "size": 183840,
+      "sha256": "33dbe69f040579490fb2190a4e7e0827218af0253fecc877a1f33b10db174037"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0276.jpeg",
+      "size": 166774,
+      "sha256": "b519a9c4aaac585b29aad492b39593b7257fe275fbdbb5daf914d97520547fa9"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0277.jpeg",
+      "size": 460675,
+      "sha256": "8397ebab4c647c98de0669ac7d508bc885c0896472c05d316d6ac55ff944bd44"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0278.jpeg",
+      "size": 269982,
+      "sha256": "5c192b5938c3ef2e763dc2cac50b956d9f7ee8381ce04b5c1afbb3f119e498f4"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0279.jpeg",
+      "size": 379216,
+      "sha256": "69ecfa2b87d6e046b45de87c1230613e128ba36807e67672aeab807b8129280c"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0280.jpeg",
+      "size": 155892,
+      "sha256": "a679da15783b32d42c4c4d79f777099762c28e4034288f94c8e1e095a5e76a28"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0281.jpeg",
+      "size": 399394,
+      "sha256": "214462bec48802a0a26fe92c0bde4ef11337d2a968af123ee8266bb2f5e8ee2d"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0282.jpeg",
+      "size": 344126,
+      "sha256": "1d9785cc0b6bd691d1f1390cd079df91c481bac332e1fa3f366129e65f4126db"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0283.jpeg",
+      "size": 302833,
+      "sha256": "49f31c282a71bece92ff89d5c2ac41d4f1ae89345f6e421a6ae354ec38466873"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0284.jpeg",
+      "size": 324837,
+      "sha256": "a7229a5d3d90bbc82ebfbe4e500561e902a2350fd6b4a7f93311b04f366edfb9"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0285.jpeg",
+      "size": 251922,
+      "sha256": "105a0fd2a4c13a19dd75cc017b389fb8f4d96c7f1a53d76b0267e524123a4e02"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0286.jpeg",
+      "size": 308195,
+      "sha256": "8d2eecd29daa2e80b0a315e1f6c241f663f153b890312ab688b8664fa0e7065d"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0287.jpeg",
+      "size": 348077,
+      "sha256": "01cb9dbee119f2db5febb86e95de749af574db4ac7114566f0d0d928e81abc6b"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0288.jpeg",
+      "size": 271693,
+      "sha256": "3cb7842c853b04563c84e86df3356261d25bacf88e8a319fcc7b95fe63d9177e"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0289.jpeg",
+      "size": 384355,
+      "sha256": "19f70114d98ea08383277a877946c385ffae7ad85b79f2de44f5dbf4f8b28782"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0290.jpeg",
+      "size": 317676,
+      "sha256": "6540383782e3eae00c55eaa80bc38d93bc55152e2f36425e1b772a7bcb7ebe1a"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0291.jpeg",
+      "size": 309276,
+      "sha256": "cd76c5761b197921866696339e9f17bf016fbb4a8b5d46623f9b0542a45b9602"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0292.jpeg",
+      "size": 367491,
+      "sha256": "81c74dbf80cbc50fc6de21440180c4f53c766d99521f986dc4890505804e54fb"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0293.jpeg",
+      "size": 294306,
+      "sha256": "b9bf92a7b315c8b4514ecbc85fd2aa3e83e098a1773821b8b00c8e8854d2a22b"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0294.jpeg",
+      "size": 314158,
+      "sha256": "c31b422ce8783ad53323c6aa6b9f0609248ffdb3aa046c844a825cae66f7e730"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0295.jpeg",
+      "size": 345102,
+      "sha256": "8ef7d17fcedbef41ac28ede7450f83ad9fa79944f58d47af299630f444ee48c8"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0296.jpeg",
+      "size": 352697,
+      "sha256": "238f6b75648bd5c206e57c4f110bdf39108ccc063abb2ebdd8490ddc0d5c1b73"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0297.jpeg",
+      "size": 429222,
+      "sha256": "386ccd4617340746e4b19a92a67cd12f5d913aa0018f457e468c03b33d56c84c"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0298.jpeg",
+      "size": 318534,
+      "sha256": "c842019eb5399e06bfc04bd2064edade462461ca71691c3b660044e646771874"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0299.jpeg",
+      "size": 341255,
+      "sha256": "dc514e34ebda368f6d8e9bab76b51e5bad9f1c4bbe59f78cabd659dce0e3124b"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0300.jpeg",
+      "size": 294682,
+      "sha256": "ac30edb3bfa578e2ea38297a9e8d910a42c3fb9d223dd64a527e48f614c06731"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0301.jpeg",
+      "size": 303665,
+      "sha256": "4c6a5900dee1bb1cff997fa6ec3f756c20e954744e079ad47bd4a61caf97d600"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0302.jpeg",
+      "size": 421098,
+      "sha256": "ef199067e77675e5941bc211560088e4053d240b2a00267d6f11b7bab29b02c1"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0303.jpeg",
+      "size": 356978,
+      "sha256": "43aa2d37383100d7017cc7ad45fc561ab63030a2c1f0c0865eb3ba6d84f7ac68"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0304.jpeg",
+      "size": 220617,
+      "sha256": "158307c2cd3cbefb8025e9209276aef1fb4399cd8fe5cefb5b648ff6b077c44a"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0305.jpeg",
+      "size": 429311,
+      "sha256": "08344d1b6e35127febd525ef2d6b97a5e675274bd4e1e41d49fe7c3f99c217d4"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0306.jpeg",
+      "size": 313120,
+      "sha256": "f435da9be1d7940788518aca76aa6ffe6a150eb6464a42c86495171caef9dcaa"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0307.jpeg",
+      "size": 267721,
+      "sha256": "49b2e976cbc2ca2a6a855acd39ad6314715802c6ee70fa741b63d28b102470a7"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0308.jpeg",
+      "size": 336211,
+      "sha256": "c80c570a60e860a78f0e4d015e5459262320d84ecf4dcee1acb1930de9c074b7"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0309.jpeg",
+      "size": 411043,
+      "sha256": "367f7b3f84060b381d0d602c7ba958538e6f689fd506f5136b9d592f0ab5e94f"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0310.jpeg",
+      "size": 274948,
+      "sha256": "75972c88a63431d8dcfd33ed04fff949c67e627af3f72f83a0fdbd09ee2edd44"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0311.jpeg",
+      "size": 240604,
+      "sha256": "b019b562e2f5fb67473821420a8a0567cbe03949eb8e777f6c8e1f93888c3a14"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0312.jpeg",
+      "size": 330255,
+      "sha256": "b9a62b95a82b2dfb4b5651599357d777932d2d7522458a1b22bbbba5187e7735"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0313.jpeg",
+      "size": 287229,
+      "sha256": "5c7d5347aa5a4838d78cc9237b67f38b782f432977eb9294733ff2a7e7c8b789"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0314.jpeg",
+      "size": 238070,
+      "sha256": "c6bb73ee26320cee9f9e4715fd1b09f78eda74c2da714c6727723603a37c119c"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0315.jpeg",
+      "size": 316464,
+      "sha256": "c1d68e634b348a8f92485f82e94aa7cc411b88737e6f4b39da68d96152ad9b2b"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0316.jpeg",
+      "size": 414852,
+      "sha256": "f269d4e8fc9f610737788393474f4c3d768344d4035a21c15b43c519f012832f"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0317.jpeg",
+      "size": 380339,
+      "sha256": "7faf18e3db56878e6565bb899a912a20f77f6bdd51aa660f17bd51a165124bdd"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0318.jpeg",
+      "size": 298002,
+      "sha256": "1dd0ebbbb8dbcb603c6ba0e39f43f1c9efe737086a2a9349469723e47950ebfc"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0319.jpeg",
+      "size": 250262,
+      "sha256": "938dc1bbc01cda58bc38f02ed8bd84ee85b1f49e6e863157b71d9d6224510f18"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0320.jpeg",
+      "size": 226975,
+      "sha256": "2125118723b3552c3050c204d318552972a8afe7406a4c06cdc6ad2c22a4f677"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0321.jpeg",
+      "size": 321935,
+      "sha256": "64bc80526aa1d97d2240c750e58601b9d8e1bbe441c68e72f413f8564e2423cd"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0322.jpeg",
+      "size": 374562,
+      "sha256": "2bd3144f79dd1487035266658477abca6f7a7e47c440a6bbd8aa0982ed97adbe"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0323.jpeg",
+      "size": 380580,
+      "sha256": "433be198d06fab55e675345a7a01af48fe00c530f323d9a1ffa55662aaeef088"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0324.jpeg",
+      "size": 377111,
+      "sha256": "f8f10cff8d7d6d5b84bd9b28f80ea0be4bc52b07aefcaed9695a22712770d6df"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0325.jpeg",
+      "size": 229295,
+      "sha256": "f1b3b5438b32afdac64ba929704a78444c96125968a22abee96616c524e571e4"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0326.jpeg",
+      "size": 316642,
+      "sha256": "e894a21c546a18aac58fafd01d0dec943a1c2e293d32f3f4875b142c7ccb3403"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0327.jpeg",
+      "size": 376782,
+      "sha256": "f421d9abc9d72e4a5d31adcdab74972a05815cdf022da059b43275d1de423925"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0328.jpeg",
+      "size": 261175,
+      "sha256": "31d3d9736fc8fa8d93dc37ab299824723b17a5d4a9ee90caf8c1413a56de9c69"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0329.jpeg",
+      "size": 278090,
+      "sha256": "9492092dbd35f4382163949b7d29d7c4acc8217b17ad3dba4b848cbabddee88a"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0330.jpeg",
+      "size": 296346,
+      "sha256": "eb898d36057088f0e3503b40df6bc284f69bfc588238fe0a56f1d7ceb6805467"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0331.jpeg",
+      "size": 278809,
+      "sha256": "c663b4e5de4cce967792a8e30f3c95f7511ba764bcd2019c4a17789de90237bc"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0332.jpeg",
+      "size": 322056,
+      "sha256": "00cb94a483119273d8a9bc4d7bc089734c35ec997b0572e8d6c8ed910e414a81"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0333.jpeg",
+      "size": 301481,
+      "sha256": "aa1eeb88297bbefbf6ee24da884f46344289821d2ae671fb5bae5e55e39dccee"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0334.jpeg",
+      "size": 350124,
+      "sha256": "85ecf836679d0b91951210498be898f655078f7743d6108fa59cec084e6bab2c"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0335.jpeg",
+      "size": 274998,
+      "sha256": "399cc631f3da5c3f30fcde43b6d8b1f00a38a73d376f4a97f49f2f6caf068a4a"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0336.jpeg",
+      "size": 296280,
+      "sha256": "73dfee3818ffb3987e9dbfd0e5273f78af8928681311e88ba9d359286663ded4"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0337.jpeg",
+      "size": 310443,
+      "sha256": "f94e57c55f33d8ffb1e0fa003850a5f8e1c1dcd98a9b85d49cb2c33d89fdbc8b"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0338.jpeg",
+      "size": 308052,
+      "sha256": "dfff6e109eb9710be0699e6cf8a397a031c2e395dcee14f87178fac322004d93"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0339.jpeg",
+      "size": 360690,
+      "sha256": "b8c6919c2cc6f9f5249215701f06df42bf286f66f704407c7fba4f06b58a17a4"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0340.jpeg",
+      "size": 318847,
+      "sha256": "fa10c27bc7aa44bf8bdded70d881f84445ba39a3b4c18e1d4fb8cb70e2b43928"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0341.jpeg",
+      "size": 368790,
+      "sha256": "a72141c55fa075e4b3a418fc2662b0f115792910b5d3c98105bd439dec315349"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0342.jpeg",
+      "size": 231945,
+      "sha256": "25774737f2acead39aa8c85b7548d6478a7c74693c984903f00a7a1ce308218c"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0343.jpeg",
+      "size": 295898,
+      "sha256": "a06834749488396bc4eb4d01f88a7e94b1aa79f530b2e7a7c777946396c532a5"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0344.jpeg",
+      "size": 333979,
+      "sha256": "59ee5f7896c4d562046a600854af07a3d15976e01bbf5f8286eacc054631fd24"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0345.jpeg",
+      "size": 443339,
+      "sha256": "fecb12e1266910f4593891fa86497d15383a662accc6d9437110c58be7161da5"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0346.jpeg",
+      "size": 371437,
+      "sha256": "b7a357a4aa7ae04b725c70017b9efc5cc4835ed0fd21ef71a1ba829286a22fb4"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0347.jpeg",
+      "size": 413590,
+      "sha256": "97cb07c5ef5899e0526047036418ff52314c40951fc4f4697265d3d38a2b954c"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0348.jpeg",
+      "size": 290374,
+      "sha256": "c9362ef4b60b78ba01a95c1710eaa2f429841698ec098110662d032670e2345a"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0349.jpeg",
+      "size": 289141,
+      "sha256": "a0b96f5e7bcf5456f1f434297acfa89eb36596b8dca041d166df96ca14005a75"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0350.jpeg",
+      "size": 279974,
+      "sha256": "0ca182452b21cf40bab505d238ce890a60b509f6bff1c504e38640505cdd057a"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0351.jpeg",
+      "size": 279916,
+      "sha256": "b1dea3503777c90c8b280e963e7ea1b7b4fbb8c12e5619bac518f7b40835a35c"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0352.jpeg",
+      "size": 176780,
+      "sha256": "8ce27112ddd8acbe6a9fd420cc3e2d251cae5944f1583352a0d78df4d6ede4c2"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0353.jpeg",
+      "size": 304646,
+      "sha256": "55b58c05f30f47802bfbe46a874041d6945ed4c3e0d276223375f5e7fbcf122b"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0354.jpeg",
+      "size": 327657,
+      "sha256": "ec5a7e4fa388b40e30e5f48c1ac0c0bb2825cc2b4aba647da1480fa0f57688ab"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0355.jpeg",
+      "size": 335923,
+      "sha256": "2be348375cb11d27488284bfc52c52b3289fea7dc9d374f6d93e8a3a7b406f11"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0356.jpeg",
+      "size": 268297,
+      "sha256": "58526b96cbcc860a612f8d4a3f868698189e6a8a832b58f5d9289f3d6b1b7b0f"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0357.jpeg",
+      "size": 340289,
+      "sha256": "d2f073f7e2efe9433d668ab1b424ce804567f49ecd30205fddda266f96734bd5"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0358.jpeg",
+      "size": 305634,
+      "sha256": "f675130668c3fc49794de8989ee2f0c4eb936b22df950a115882aab00e2e1d3a"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0359.jpeg",
+      "size": 322261,
+      "sha256": "57e25dec1153b593fc9919e34474c9be51bf1d8ad163cb3a57c6605d9e9c2709"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0360.jpeg",
+      "size": 296130,
+      "sha256": "a0cb47aaff62bd4911985473ff971ee56845fac6a612dc298d1af1dfce083fe8"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0361.jpeg",
+      "size": 292136,
+      "sha256": "73b851f40fc632d241d54fc86046bc6cc97777f550f506792d7e7e43732b232a"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0362.jpeg",
+      "size": 377790,
+      "sha256": "04d5fdac684f469e74f2b2b3b11a431438ba97e86658b8004feec078f41b8762"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0363.jpeg",
+      "size": 348029,
+      "sha256": "f0d2f9860b310f947c433714f2523cd0c1bcd79a36052a181111a1642a84eba5"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0364.jpeg",
+      "size": 291289,
+      "sha256": "e924591e2a6b43e677242a747adab015e9b0ef3f07fcd697fa19c2448fbfa142"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0365.jpeg",
+      "size": 399125,
+      "sha256": "48c416c29cc2d8c4ad0696984f79b72e1869de01b41d35f81bf63a73d392d811"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0366.jpeg",
+      "size": 324851,
+      "sha256": "bddec4cab132f36e36480c1cb7973ff185c2abcc592126c4bd21f86719b12570"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0367.jpeg",
+      "size": 337508,
+      "sha256": "d0d283234011d0abe4107e780ed2d10ffede2ad49096ae384f6179d9f1665d3d"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0368.jpeg",
+      "size": 248579,
+      "sha256": "eec1687ed2441b77ee7fe3ce4b95e9924511b1c95083a2177918ae3b7ca4dd72"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0369.jpeg",
+      "size": 365143,
+      "sha256": "68522cc70dd7c6b05fb655ed8528baf2b8f215b6963e923c170311d3aeb2a7c1"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0370.jpeg",
+      "size": 367701,
+      "sha256": "f2432daf8dd06fad036b73f79d4515ab66ac174f0995dc1e5bc7f0fe131b04e3"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0371.jpeg",
+      "size": 324496,
+      "sha256": "2aaa5941b4027e5c9c034e9baa62e74ca3ba2ad73e0c2a7546c6270c82a8b487"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0372.jpeg",
+      "size": 307954,
+      "sha256": "6433d6c81e7b5da04803580959fc158f0787601036fded65fe5eb2191ae3e7d0"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0373.jpeg",
+      "size": 198210,
+      "sha256": "bf2a6e93ee4eaa1eea1c7817f5fb8ce36285a647970450c61d6ee2c3ffaf140f"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0374.jpeg",
+      "size": 336978,
+      "sha256": "fb4d3d8fcf34822327fdc5d22eef045ab35effa032df1687beb3601367b68c3c"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0375.jpeg",
+      "size": 349685,
+      "sha256": "fb6e78b50c09731435114a652dd6c3a93f1b99c9a4bdc6d4ece934286cd4895e"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0376.jpeg",
+      "size": 331957,
+      "sha256": "68aaae1873ac671bfc42b756e1cb4799d253af9fde9cc4b46509b25c75e91269"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0377.jpeg",
+      "size": 312038,
+      "sha256": "4b5a0e9fb4baee673f236e1c693da1d250b9fb26a82fc56c1c22449de4decb00"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0378.jpeg",
+      "size": 418402,
+      "sha256": "99346921d8b5c8f6897e9e928449c247537e1cbd9bc2e7344ce4fca50c68d39f"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0379.jpeg",
+      "size": 410152,
+      "sha256": "ad329ab999399a3058a4d8b1633b698f8bc2588ef0e83db4fc8812bd7c4064f1"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0380.jpeg",
+      "size": 265053,
+      "sha256": "796977f78e946dfa4de7779e00e2429c2d92fb35eada356a1b435def1542d441"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0381.jpeg",
+      "size": 350708,
+      "sha256": "42f97ca63b76592dfc3638839ef10476faf64b2d87bb6bbf890b6944e81c4325"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0382.jpeg",
+      "size": 315905,
+      "sha256": "c416cc8aa4212a5732f384c8818e3de37e8f52619a5db5a58a2a588a5ba1d5c0"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0383.jpeg",
+      "size": 267122,
+      "sha256": "9feb275c3b857b6877f3380054f036715f33b23b9787f7c846682bffd5689b9b"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0384.jpeg",
+      "size": 293149,
+      "sha256": "9d790659f87915a962e68d343a53ce4bb253506fab61bfbec486650b78573338"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0385.jpeg",
+      "size": 305564,
+      "sha256": "72ba4033c6314da80c6d2b98be1477aa053ef4171e7c2b5cc7b0bae27101b362"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0386.jpeg",
+      "size": 300788,
+      "sha256": "50b61e04c9c726abdba8378e184928b0f2ab5a6f2418e8be8cc0e8e2f6680b6b"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0387.jpeg",
+      "size": 346077,
+      "sha256": "6a3ba14ad74de85949d6531f9c13fab5e2add32e391c0a4597d5347c66881755"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0388.jpeg",
+      "size": 283042,
+      "sha256": "b35a61165b29b3c5bf72c768cfce1a523ff8249a65d092a4ab369a42a476c796"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0389.jpeg",
+      "size": 337697,
+      "sha256": "d6427523d6993a34c79309e3dd0793227b94f43a5ba219e4b8311cd59f62e920"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0390.jpeg",
+      "size": 371219,
+      "sha256": "2f873921722c0a59174391ac065cfd816fd078353083216062122e65b7b1ecf2"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0391.jpeg",
+      "size": 240178,
+      "sha256": "6447b9865b354b0d2d5c8d003681c90b1abd5aa7870b7e39c069e9cea75a10f4"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0392.jpeg",
+      "size": 282786,
+      "sha256": "193ddfd8f2f689966f1608d4f089ffe4c79f0815fee88d7abbc79b0f71821da7"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0393.jpeg",
+      "size": 275651,
+      "sha256": "73e868c78f20ce272d350a8f5535701fd90627ff48ab7a1102537709e428fafc"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0394.jpeg",
+      "size": 266259,
+      "sha256": "17cabdc4e0e5a9104f1666deb005a1b56cf9427f4bfc46c75d228b71b40a1924"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0395.jpeg",
+      "size": 202034,
+      "sha256": "b504e13a48cd36734685a77309c8a86cd8e284ebabf6036c5466d4600cc512dd"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0396.jpeg",
+      "size": 298975,
+      "sha256": "f74091e095eae2b879608af49cc66dbebf48b5f650564acc9ac2b05af63f6f59"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0397.jpeg",
+      "size": 402090,
+      "sha256": "f25608acbf5ec585f635981e0f26191dc6f97a30a987c0b3fa849d355f4d35c0"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0398.jpeg",
+      "size": 269916,
+      "sha256": "147c633aebf322f863a9d628963fca54ac0a6ed8a7f16d491308a205e8042e27"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0399.jpeg",
+      "size": 462084,
+      "sha256": "092df6e8fd8a79223e447feaeb7165563c31d198657b8c9a5a698ec19509fbbf"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0400.jpeg",
+      "size": 315817,
+      "sha256": "11ad150dc91b4e708c72e195a5b4988467160a10d01efeeb5fc6a933d09e3780"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0401.jpeg",
+      "size": 379168,
+      "sha256": "2a0cb6f5674224eba8d931985556ac022bf7974370fb64f2a85ea4a64c1538d1"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0402.jpeg",
+      "size": 376905,
+      "sha256": "1555d070e8d795889d419a429f767f00b47dade3e5e738f67f5bfbf5b13524a5"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0403.jpeg",
+      "size": 299884,
+      "sha256": "6fddfc870ece2e2d66d3cbabca48998fced14e5e9365a116294000c9b68afa79"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0404.jpeg",
+      "size": 311997,
+      "sha256": "194262ad55e7695878806b7ae6479bff228ca6dbcb3d97d664a98b8dbb3178ef"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0405.jpeg",
+      "size": 364231,
+      "sha256": "da9c07f6241d49b0d4826f4f7c23191e54a0b83c6f181a3d311f356e33cc4bd0"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0406.jpeg",
+      "size": 259220,
+      "sha256": "fc1a58849b9ea0882219c2c31be997a80616869e5044b7b7f3b03d04d51762a1"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0407.jpeg",
+      "size": 416045,
+      "sha256": "6b81312f4c46bf23af2eb2048952aa9ec0c3e4afe123d90af7b9e39d61264e6b"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0408.jpeg",
+      "size": 418496,
+      "sha256": "2bf4e28869cd81e357006dcf764a4dea43b8d42ebdfccb4e27498084e3657b10"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0409.jpeg",
+      "size": 474046,
+      "sha256": "3131cc52c5df71ed91ef25d9746205fbb0427ba0f99fdb2fa92c2ee11f8e9666"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0410.jpeg",
+      "size": 209844,
+      "sha256": "3993c55e9c31a382493e2fa092dcadf17b3df8b7f6c4cb9043d993d3493bf442"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0411.jpeg",
+      "size": 400020,
+      "sha256": "be2e1d3c3328ff47dd88d94aeb354edbe7d67a0e5613eddc02c30d403c56217c"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0412.jpeg",
+      "size": 290737,
+      "sha256": "c5b75490fed880aa0fb89331304a3dc8818d7df7001f7cbeee6120a60216b1e2"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0413.jpeg",
+      "size": 300004,
+      "sha256": "92b809ff44bb61b400d483eee5ee33e0c7e108a4942b0d78f8c08c5d3269df0c"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0414.jpeg",
+      "size": 296268,
+      "sha256": "4f59d4c83f901e7ffee6f4dab66ba8b6fb810ff65aff22fac8086c021e3b0615"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0415.jpeg",
+      "size": 283408,
+      "sha256": "2ed0d5b66d878e19bd3c72d5a75b3378ba6f0fb252ce98bb6826476621245034"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0416.jpeg",
+      "size": 233090,
+      "sha256": "f4eea35573740cc5112f06ea43ba2ba6418dd0f79d94fe71c25e926ce4806dbf"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0417.jpeg",
+      "size": 339331,
+      "sha256": "f9fed5b03f452ca611204e7d0e1ddcaf6795e1254df82d00dcb7efb1b9cf7331"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0418.jpeg",
+      "size": 295454,
+      "sha256": "dd8b7d7ccbb55821c8d6403ca8ac6b6ccb92172dc6061482f00fe2976acb0147"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0419.jpeg",
+      "size": 321198,
+      "sha256": "c0aa8d4ac4952cc79e5d0c9176f032a426ae8a699a701a7dc50279521457a73d"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0420.jpeg",
+      "size": 437873,
+      "sha256": "625104a6e3a30b908ed056f994997663f9ad0a0d122620bb2b3ae82c126c9d4d"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0421.jpeg",
+      "size": 324851,
+      "sha256": "bddec4cab132f36e36480c1cb7973ff185c2abcc592126c4bd21f86719b12570"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0422.jpeg",
+      "size": 234535,
+      "sha256": "c893f0c664fa5df3c87b5dd750007c28569b6ae56e13bb1db82452341edc6086"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0423.jpeg",
+      "size": 348552,
+      "sha256": "504bbad2d4ff07d5599de152c64cbb84e96148442a48d06562e2360eeb8d1529"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0424.jpeg",
+      "size": 330750,
+      "sha256": "93984146a190cd34eda6ae88b89bb710c13086d5dd57c2db0b2c94341930fa1e"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0425.jpeg",
+      "size": 298846,
+      "sha256": "49a5047d1d557ceac73c4827b2d2e5423f4f545def6d2ef0b736cf52adf5db36"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0426.jpeg",
+      "size": 271185,
+      "sha256": "3e0f920fe7a4c2ac052047fffa896dcf556b6146d76bdb4f892a3d59b685c950"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0427.jpeg",
+      "size": 307761,
+      "sha256": "06a6bdaecdf95eeb2983d38ae8c88967dc4bafece50c9d7dbc1d899459ca3779"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0428.jpeg",
+      "size": 309016,
+      "sha256": "51851939192de87a580f9007d67ba4943580e46dc750119979cf66fbaaf052ea"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0429.jpeg",
+      "size": 317769,
+      "sha256": "52973ace7f39353d736e4c022647bd8abd1b4a3845d27a659eed9750b81a9548"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0430.jpeg",
+      "size": 248045,
+      "sha256": "2c251787b34d9bd5673bbdad0bdf1a75e901845e825d1a14886d47dabc4dca8e"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0431.jpeg",
+      "size": 303855,
+      "sha256": "672b2c074323a42f4377c9e2a2cd40fe5e708d967450164f9326e26a80a3198b"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0432.jpeg",
+      "size": 359610,
+      "sha256": "16ea0322a581f4d4be6992ece8e37bcbc29c78f7ab1ad8ae8fbac3bba57396d5"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0433.jpeg",
+      "size": 334632,
+      "sha256": "90451bd4e96cdc0bee443bd91110054399453e0c4123b61831c84cf11e963a85"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0434.jpeg",
+      "size": 431164,
+      "sha256": "945fa85197885e659b8e5476f75cd18938df66baa3299ae5ecf768b33de574c8"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0435.jpeg",
+      "size": 291761,
+      "sha256": "27aa93698442355ebf656c9c9eb441a26d5056355169b553973f5862223a6e4c"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0436.jpeg",
+      "size": 296686,
+      "sha256": "a2bdb29c163335e0c08aa65f9270516963d9b9b569e40a776a9137e7f5f0718b"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0437.jpeg",
+      "size": 362764,
+      "sha256": "68ca9dedf7fed2edd3e350917572a095f365258b9806d2be72b26aa7d608e166"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0438.jpeg",
+      "size": 294314,
+      "sha256": "dc1e7c4461896cafb73a3772e9d74482cdab1c173c082ba85a1af22533b96ac8"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0439.jpeg",
+      "size": 299028,
+      "sha256": "f838d0a39ed1e0a36d2446bb1b3923192db79159eec816336a7a8688faaf3a87"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0440.jpeg",
+      "size": 372889,
+      "sha256": "0e72a7aec885edc4ae1b1e1f7dd768fd8af0fd837afe0137b872200debadc7e5"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0441.jpeg",
+      "size": 283999,
+      "sha256": "7447ecad034986a853e5c8196159529544728ccc2afccdcfddb1396b148d134e"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0442.jpeg",
+      "size": 256402,
+      "sha256": "4365b713220db489f01c83b89e44e1700f68394a710aa1617620b2faa0709d14"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0443.jpeg",
+      "size": 362708,
+      "sha256": "8505020885a27c931c81cebddd3be70d20b33142767d447eabbf1c5aca2e4ae3"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0444.jpeg",
+      "size": 329662,
+      "sha256": "c55962d363768b860a9a23bdfc15b6188ad6a4f6c1c1b5f04b963150677115e0"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0445.jpeg",
+      "size": 188163,
+      "sha256": "36c907c47579ffa5df20d6884b7f477713aa8f54094696605b72aa69c1b718a1"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0446.jpeg",
+      "size": 284467,
+      "sha256": "08c55f18423ce63b21cd5f3187cc987a6198c208e91b746672c903ffe134bf41"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0447.jpeg",
+      "size": 301540,
+      "sha256": "a484f62b777ad99d2fd1bdf88fb78634a8fdfcc69781876373743bc967af209a"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0448.jpeg",
+      "size": 329514,
+      "sha256": "bffb94cdc61ea57bd950892d37f40ea5d38b06a67184442ffdcaa8a351e309e8"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0449.jpeg",
+      "size": 186225,
+      "sha256": "ae1556a88263d18dd24b3fbe4e3a1723c93868c5e916c3712becf500052443c5"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0450.jpeg",
+      "size": 272577,
+      "sha256": "b79a7f6d133c656afc13f056f32cbdff3955df6c9e04ffb952e46db1e7b544e1"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0451.jpeg",
+      "size": 302173,
+      "sha256": "ff27f0602b9519c91e33d44c7eb10146402b4f0d773879496b5c5fdd31149585"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0452.jpeg",
+      "size": 314675,
+      "sha256": "5cc145c9f924d53e6c95f40cac1ddd47f25979b3b202021e1c1f880ab9e1f589"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0453.jpeg",
+      "size": 294619,
+      "sha256": "9e1e616e677475973d92da40f7c2a0a3c9ebcf7d125b8c3a1c839a38915e99ee"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0454.jpeg",
+      "size": 269118,
+      "sha256": "3f84be9e3a4d6f744576b9848ada62fe3af7cdc5f71a1fdfacaf9d464c999895"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0455.jpeg",
+      "size": 372114,
+      "sha256": "3b236a18660ad06e9558a03075e0cc639dcbb5435989b3425721515b5598bb41"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0456.jpeg",
+      "size": 240774,
+      "sha256": "1c82ad737e0d4d3f845aa31757074fe7f0c109ce4eb288f420b5213a063ffc6c"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0457.jpeg",
+      "size": 324552,
+      "sha256": "e7cc62b13ece354c7e6815351b24061daa33e74a24c67094695889d3018c5879"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0458.jpeg",
+      "size": 301046,
+      "sha256": "5f42de262f98c7a4ce9a11e9a285999580290e0826fa4af2b12ff9aa200dbc1c"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0459.jpeg",
+      "size": 271083,
+      "sha256": "856eec3e8e1f365cf78c25881a9bb120f1b782a8e8a5def37a1d2e726e9fca98"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0460.jpeg",
+      "size": 500896,
+      "sha256": "65b082957f9aceeb371ce4f77afbd97d44470d03a569c264a2a5f7be9176cc90"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0461.jpeg",
+      "size": 301609,
+      "sha256": "8b8b9c46560d09d412f26f15b21a273ee2f95f3d0ab2fe81e5d84622015c38dd"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0462.jpeg",
+      "size": 357873,
+      "sha256": "73c8515284fd578da5e6b9844680936a993b2ae7f47dde06fb7758919c541749"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0463.jpeg",
+      "size": 293564,
+      "sha256": "b28724d61060bea99d21eb9bb10c954950188ae10698256da4461fc212b343ea"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0464.jpeg",
+      "size": 346838,
+      "sha256": "8f654059ac6f05a588a8f3d9dcb679f946e9d98cad85fdcfc85928d5191ecbc5"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0465.jpeg",
+      "size": 330255,
+      "sha256": "b9a62b95a82b2dfb4b5651599357d777932d2d7522458a1b22bbbba5187e7735"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0466.jpeg",
+      "size": 342970,
+      "sha256": "b363838300bc38d54d53a5138fe3299fd1502d1d4f324f883f4600e844865e7f"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0467.jpeg",
+      "size": 319315,
+      "sha256": "e79492d8935527787a4721fa0cdab56398eb633825f12f68b480bbac629e3e35"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0468.jpeg",
+      "size": 276307,
+      "sha256": "06a2813236a89dde637eda759b181a40b077631c30d9b816e479933050dd8994"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0469.jpeg",
+      "size": 296932,
+      "sha256": "b74b057146906b67c2212867d2dc7096ac87e58ba70b37d3f88f58b1e8c3fcbe"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0470.jpeg",
+      "size": 244727,
+      "sha256": "8d6a42ee85dca4444c029bffbbde2418c57833c9a3ac4294c473842df8aa9742"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0471.jpeg",
+      "size": 274310,
+      "sha256": "2e6fd5cbd4cd6a89421f8fc8512daad3546867b9b3584a085335780a05594559"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0472.jpeg",
+      "size": 359827,
+      "sha256": "66725e50dcec18521cb6d4cfdcf1e25465aab4bc36028a55795d3c61bc0fa66f"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0473.jpeg",
+      "size": 312117,
+      "sha256": "686374ce607a88cad65d6f4b8e782037eba77346014dfcaab6285d7addfc01e2"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0474.jpeg",
+      "size": 305255,
+      "sha256": "6a67bbda6077e7ad9cbc0b58a2dd5e23e284eb41f8fd927f5fda8285cb0bbec0"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0475.jpeg",
+      "size": 312370,
+      "sha256": "5870a6813ad5f342bb4889b2a7a35732124d9c8d662f5bba5bc1edbce3836918"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0476.jpeg",
+      "size": 238696,
+      "sha256": "df3debc84ebfe2e5fa587f98d9b0b725034b030dbb2c9ff0d9f828b82c714a5f"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0477.jpeg",
+      "size": 281358,
+      "sha256": "4e7c357fb57eecaaad7051fc82618ce8136d5de4db7061a2ebcdf75da6714d7c"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0478.jpeg",
+      "size": 306922,
+      "sha256": "6a50883a1bb3730740733c0e412e0c46f7a608eaf6be9b9a0b08679f3778fa44"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0479.jpeg",
+      "size": 334774,
+      "sha256": "349bfafa6b8b4a8928eac6c00e84e300b968afe926fe645fb63b8ef9ae7fb56a"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0480.jpeg",
+      "size": 324504,
+      "sha256": "b1b72cfde5b10335190a046a7ce3deab900d635e09eabdf6791e8c7ef6ded59b"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0481.jpeg",
+      "size": 388588,
+      "sha256": "099654160f6c680cb48a45891e2415736dcd3b224956edf71112631dd667e631"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0482.jpeg",
+      "size": 357437,
+      "sha256": "e99d2e2362a19008f02b973e38bc39a3ae32c27350cdd4daf1e9a07aeaac4dc3"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0483.jpeg",
+      "size": 194762,
+      "sha256": "db8d04d1cce7f879ba44abc9c941b2f310dbd540687e418a76e5364d6f70cb9d"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0484.jpeg",
+      "size": 347921,
+      "sha256": "7bd71463400656cb8e4b5bfacf7c2c4be5cff72fa33882629a587b8b38749dad"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0485.jpeg",
+      "size": 313836,
+      "sha256": "e4f2cf3180ef14eb8e22f4d41a9940c127b93fe7d78dcabc85bd02e6b1297761"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0486.jpeg",
+      "size": 273960,
+      "sha256": "5a7fabf0d2a943fa2e7324a7b917544a47def3f583aa6eaff874ee7c09e88d94"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0487.jpeg",
+      "size": 305957,
+      "sha256": "2b7182aff1e9c4ec792a4a828c1c7c751dcebc241f8e33ebd382ad25a814613e"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0488.jpeg",
+      "size": 391969,
+      "sha256": "5eabe9faf334e0af86cc789c613a198513619b9410ac79a17397f375e003125a"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0489.jpeg",
+      "size": 388800,
+      "sha256": "e4b93b13481e908fde7f10761c3bae11d4bafc07264ebc8cf683b2eb9f8699d3"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0490.jpeg",
+      "size": 255869,
+      "sha256": "f9d62fc6045c18840189a47a28c5108350007c958779050e16e1a5c2dfaf98e5"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0491.jpeg",
+      "size": 269483,
+      "sha256": "9373eaa6f05bf2cef2270bbdafaf8abfd1bfde4d589198a297f6af63a8ccff05"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0492.jpeg",
+      "size": 201216,
+      "sha256": "0cc924cdd77a205e434f656b34999e1a64e72dea488173d5d2ac4d7540981a6e"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0493.jpeg",
+      "size": 239782,
+      "sha256": "5e01b2718026e36a15b26c229f824cdbeb879a8c28c9d54abdd09de5b2d08ee7"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0494.jpeg",
+      "size": 320824,
+      "sha256": "0d9de3ad4e85eb2f1bf3cb771931e40615a963cde943ae4e83989ba1ecd5ba50"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0495.jpeg",
+      "size": 318589,
+      "sha256": "f456bc79269d532555cc9e76636a515db787dbb5d9d3a1e2075476d406561fbf"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0496.jpeg",
+      "size": 413781,
+      "sha256": "02b1482383a0db104541bc6e12cce33a3b559ca4e5bec7ba793ff360bed680c7"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0497.jpeg",
+      "size": 278329,
+      "sha256": "0a31a3a10826b553a60ebe7fe89c4c1defdd6bc75391b90b69ae04d60dae6629"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0498.jpeg",
+      "size": 312564,
+      "sha256": "2be33f89fac3217b01a7661d14135495f1e859fd153ef202f559cb1fb18463ab"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0499.jpeg",
+      "size": 336199,
+      "sha256": "bdbb941af76a6f81a2b54e3d57a0d64ff8fc1e4a2aa004e1757ae70c3b201de9"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0500.jpeg",
+      "size": 276711,
+      "sha256": "747a712bdddf9aa29f802aa75f93d30377b947a2dd4a4fdfb975595e6824a461"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0501.jpeg",
+      "size": 274580,
+      "sha256": "4bf7d1a66e3a80606ca979a8c1e4430ea894cd377b8d4b2a714526847309782b"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0502.jpeg",
+      "size": 195005,
+      "sha256": "8bd918310a49ab2936c24e3ce147468afb5b5c9de32b8f3e3fdaca1f8effd937"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0503.jpeg",
+      "size": 313499,
+      "sha256": "50b5c3a8b1274c50f3e1ba642fff696f41d38f43725823aaf38b631fb452ea6a"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0504.jpeg",
+      "size": 264721,
+      "sha256": "96e6562e3b3db1060a4e73eb688384fd12a99aa814c8fb2e793635f49829cea3"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0505.jpeg",
+      "size": 311338,
+      "sha256": "fa0429199fa524b2f60fef9127d5b4aaf4762599d131ba2bb74ff86a35ec8bb7"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0506.jpeg",
+      "size": 266258,
+      "sha256": "70ac6c1fd706166ab838d63f8fec5bbe6e28135dc67819de7c04b6b90f9da736"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0507.jpeg",
+      "size": 261490,
+      "sha256": "4544c09ad90ce014e5d041ca47a5784943dd94e0e173df763375652521a8a361"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0508.jpeg",
+      "size": 259270,
+      "sha256": "1cd2d5b9b07c778f481add436cebc49dc72e89ab7b4425a691e8ddd3dc747e12"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0509.jpeg",
+      "size": 288933,
+      "sha256": "fe1df2ff48bcf8ec1576d80fc4775b569dcf7d6eb849b9c9e1f2b3052e59d493"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0510.jpeg",
+      "size": 316616,
+      "sha256": "4a989992c38f8f75f3d4d03f27b84714e2876c7c55970fd1211fe457fbd2266b"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0511.jpeg",
+      "size": 334948,
+      "sha256": "5f4ebcdd0c2f22df5b1870d31a59d566e8851156a08918753acc4b1a90ddcb38"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0512.jpeg",
+      "size": 343358,
+      "sha256": "74af654103b9fb84cdfa4b7758e89b2d10c19d1417eeae3122e87f76e7293f23"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0513.jpeg",
+      "size": 167261,
+      "sha256": "236d5b6dbf57f90c9972524ae898b986f5dd948fc5b9c5a54b4282fecb4ebacd"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0514.jpeg",
+      "size": 295575,
+      "sha256": "d33003be1d29277da7f0e92a149192f4382091d0dfe6bc10ee79d05aa8a55d2a"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0515.jpeg",
+      "size": 371580,
+      "sha256": "6df4405b7fec1888028a1823770fde8a045d0546b3fca5ff70569e53a735ac07"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0516.jpeg",
+      "size": 276151,
+      "sha256": "d2f3cbd76e87c3c5bc2d40ecdc8c98ff3b3ea31c90428dd739bed6122ce2bff2"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0517.jpeg",
+      "size": 291898,
+      "sha256": "152214ed73637d5640cf8392299698654ee30866fde1591ea01bf41972e5f12d"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0518.jpeg",
+      "size": 296637,
+      "sha256": "2fdddb7513376f28579fbe64d15e4c11e89246be7816fa05a39f26b5505b53fb"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0519.jpeg",
+      "size": 296869,
+      "sha256": "3da55028b686901aeb892cb1bf500173812777db44dd24f26970317717bf7744"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0520.jpeg",
+      "size": 389254,
+      "sha256": "052d83d8b73a15366fe0b6c4148d9b3efdc3c3bd9fef5a8bbb6fdc624596a903"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0521.jpeg",
+      "size": 279728,
+      "sha256": "d838c2d545e92ef0d25b8249c701d019b3a9ffe94bfaaa5715869798a881b51c"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0522.jpeg",
+      "size": 299573,
+      "sha256": "b20ce01a5fdd30ce90949bfe2f25ee7ebb5b24f45e66eac0a15a1f2bfd918ba1"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0523.jpeg",
+      "size": 443517,
+      "sha256": "71184706a83381cf4602a669e4e62604b4de7278d31df419cae8886c0725fffc"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0524.jpeg",
+      "size": 281710,
+      "sha256": "9e07b004d9dc023098a0da6bc9326895a1b8dea164988963d661a961c9a7de8f"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0525.jpeg",
+      "size": 339082,
+      "sha256": "23310824d7722acbb85ec93adc3f6f814ca78169273fbe574ae8984ce4046c73"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0526.jpeg",
+      "size": 288127,
+      "sha256": "8b0a2abdc97200c484b3f3197d81805312e6f82c2b98143edff8402a820f294b"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0527.jpeg",
+      "size": 391710,
+      "sha256": "caa73725295a75e80e1ed8ff033f113527d9260902585a023ca5e8235d77ffdd"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0528.jpeg",
+      "size": 320603,
+      "sha256": "c885be6840d6a4e214ac2a6c3e98bf29f7567a0f947fe8a96ec80d356e61586c"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0529.jpeg",
+      "size": 379331,
+      "sha256": "bc0d405feda19df094ae6c30f5704c3c1c9ba14c309ca289f253e2349c37a458"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0530.jpeg",
+      "size": 327919,
+      "sha256": "c30a16c1bea166627edc3ad685402d923b4cbf12f1f5fe4b7115f153425a0c63"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0531.jpeg",
+      "size": 352498,
+      "sha256": "5738fcbffbeee165261c61a9e81012b1fac3243e941016f48fe2ab62228ae8a6"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0532.jpeg",
+      "size": 272061,
+      "sha256": "d19bc97c83501ec22f22cdf4e60601c0757b76098802d81d3ca91302f598f044"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0533.jpeg",
+      "size": 363766,
+      "sha256": "8d3aace63099ec14a517a1d3e60000907b543b9bc7d6fc2ea877af37e30b6520"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0534.jpeg",
+      "size": 278273,
+      "sha256": "d6a41ac7722fa2e3cd29545cb24109c756e60cb8581d4f9d5ba0f21501820f1b"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0535.jpeg",
+      "size": 361314,
+      "sha256": "e9cc6e133801184de15a1e24e6014e4f459048e8b794c0172a20114ae6d8eb59"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0536.jpeg",
+      "size": 300409,
+      "sha256": "d480d90ae4026e5d8895952d618d925bd1cd632d84a963bce306a03ab1cc271c"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0537.jpeg",
+      "size": 183031,
+      "sha256": "1a86065ba57a9aa67bfe323d49a7e1e301d25fbf20ce058179b5fc85e60fa6e6"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0538.jpeg",
+      "size": 259105,
+      "sha256": "0672cc5a15207c3d0aaeb57d8029620e556cea45f6e0ebcafec657910a864829"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0539.jpeg",
+      "size": 346357,
+      "sha256": "6c38a529e50fa46aad540f70d419a8cdbe3a2086f02f1efa18fa288763fa6b0b"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0540.jpeg",
+      "size": 357875,
+      "sha256": "cc46faed9bf0e63d2000cd41d2a8b396b5de66c06c2947b9a4fa86a9a74fc9a1"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0541.jpeg",
+      "size": 313120,
+      "sha256": "f435da9be1d7940788518aca76aa6ffe6a150eb6464a42c86495171caef9dcaa"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0542.jpeg",
+      "size": 316984,
+      "sha256": "1c838988338aad396285d128c1cf094e0ef72775ca0553d8d2d050a8f09cb30e"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0543.jpeg",
+      "size": 222588,
+      "sha256": "6375b5e7e327ada6fc8b149b7ce6456588dd41827343a4b39412ff652502fcb2"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0544.jpeg",
+      "size": 301969,
+      "sha256": "00086f3256019ed03e115b7b8313b4186936888bcc0271fef4c811118b0df416"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0545.jpeg",
+      "size": 358345,
+      "sha256": "aac11de541bc333ec4d7341c2b76b3468a92c97a66805aab22a066d639f4e489"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0546.jpeg",
+      "size": 256843,
+      "sha256": "41aa801cffef692a6016bbb6b3cc4de4bfa654e3867030e9043ec3d3e9301270"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0547.jpeg",
+      "size": 338328,
+      "sha256": "a5ddfe92a260271d5c179607c64529777bb35f9482858e10eed9764b76570954"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0548.jpeg",
+      "size": 257771,
+      "sha256": "737a8896e596d0498d60cc38f8044238f88ea185d88689516838ff5da13b536c"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0549.jpeg",
+      "size": 347522,
+      "sha256": "fdf394d9868a6c34b283c2d28f5341bc0b90a0bbdd296d47adb67a4479e5b45c"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0550.jpeg",
+      "size": 242980,
+      "sha256": "88c9da62c82fe78c46e4cd54e25868119382622461cde0922a7c675c5178c435"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0551.jpeg",
+      "size": 209844,
+      "sha256": "3993c55e9c31a382493e2fa092dcadf17b3df8b7f6c4cb9043d993d3493bf442"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0552.jpeg",
+      "size": 253260,
+      "sha256": "5b244bb26b3b587989970352dc32b3832e9d1a0e4817227ff3814780975875a8"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0553.jpeg",
+      "size": 289688,
+      "sha256": "93df54e57844055bdfa33fea5149c2c1e09b65e6836bebbfca6196350748c307"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0554.jpeg",
+      "size": 251846,
+      "sha256": "782258adf306445190cedf164aea8a67ab588a16ce20c9d3ed88c3b68a69d477"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0555.jpeg",
+      "size": 258616,
+      "sha256": "bd0aa73f5bce2ae03158d3ac614ebee93b7bc7d467da8349a0526e074cf78248"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0556.jpeg",
+      "size": 373391,
+      "sha256": "9bb23e0ddfd95a9553ca8fd6a0db800c15dda6a9078fdbba6e9260f312979a4c"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0557.jpeg",
+      "size": 269012,
+      "sha256": "1a6d2b6b5badb2fb46db1f51ab3055afd770452168a31bb6255d617486218272"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0558.jpeg",
+      "size": 255869,
+      "sha256": "f9d62fc6045c18840189a47a28c5108350007c958779050e16e1a5c2dfaf98e5"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0559.jpeg",
+      "size": 300305,
+      "sha256": "b4d3c6c4b035054ed11ca782be26289d51ad96deec9a93ac6fa2d251bd14bd68"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0560.jpeg",
+      "size": 352309,
+      "sha256": "c72668f421e0cbaf126d2e961925d74ad24489dd789e538710e24d828be7d652"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0561.jpeg",
+      "size": 262021,
+      "sha256": "791b27cbc0ef1bea27d589fe6bf250e8e1013aa5c0e0b27dde3d855033c81b6b"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0562.jpeg",
+      "size": 277723,
+      "sha256": "f110f3d8079a7dd7eb8b9165f1a6315980cbb01e264d13c96fabbe2b91227d9b"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0563.jpeg",
+      "size": 343409,
+      "sha256": "17e0acf2288f36993921deb81c3396328c78712b9cb84cc34ad84605df2180dd"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0564.jpeg",
+      "size": 323122,
+      "sha256": "6fdf847346b889e37fe33afa8fd8e8ee179e60b1636bcc0f3aab53a6ea4a677b"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0565.jpeg",
+      "size": 296479,
+      "sha256": "ea95139f9c43a8c68b518b54b2409046a270559a4bf8fc6cc94d1e567e2b19a1"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0566.jpeg",
+      "size": 256424,
+      "sha256": "312c4be41d7cb684d453cd81aac7ab7dee808d46bbbc65f1be6c66b7118d5cb7"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0567.jpeg",
+      "size": 255040,
+      "sha256": "5df16a695a01fb5094b6fa050391c895e24e6dde1fe1e20ac37899580db9023f"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0568.jpeg",
+      "size": 324883,
+      "sha256": "29ef68425f27f07b69b957998fc953f20c31df7d0514d02abb94bfac77e1ba2b"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0569.jpeg",
+      "size": 243471,
+      "sha256": "906d8ad623bc6868dc2cf5be6ec84fc3bf6f8c1f24d6993177c440589fd5267a"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0570.jpeg",
+      "size": 255776,
+      "sha256": "163b62b5d69a8e9a546cc42373a5929007675b84dacd83fae02873393dca1ef7"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0571.jpeg",
+      "size": 259765,
+      "sha256": "205797dd2780373a9d03c36d67f70443ec2dc5bfb1c716e964e7860baa22bf32"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0572.jpeg",
+      "size": 346556,
+      "sha256": "cd8e014aa48c64f119ceeb0d2715c0c5f0025dc21277a4b02776984c824bd449"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0573.jpeg",
+      "size": 317044,
+      "sha256": "6ae82feef1607ee7c73e5d30987bdfb2e7153e1adcb03b7d741c16588397aac6"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0574.jpeg",
+      "size": 296885,
+      "sha256": "b0e8dc54f6dad5ef72f307fb8e8d90ee1796c560a4706323413448c9259b2c70"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0575.jpeg",
+      "size": 382762,
+      "sha256": "b9a0f5ab83e0bb5685d193ea909cf907ac4f55ae7b637712c1b3de5832aa8dd2"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0576.jpeg",
+      "size": 210785,
+      "sha256": "7ec56fdd743d8099f7a10c81586c3da3d711f82e35fc8b3202ef03fe0502ec21"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0577.jpeg",
+      "size": 311531,
+      "sha256": "62b49f11797c2f28dca9ce9a350f1319c07508fa8198e0e2d329edf1b1d9ec68"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0578.jpeg",
+      "size": 348349,
+      "sha256": "a079e3ea85f5f112f101e719947ec828000ddf2862103446f3ec97f58879fd33"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0579.jpeg",
+      "size": 318183,
+      "sha256": "5cccb1c2cde67c29188829ea580bd3539ebd4fdfc98774bfecea3a3f81d5c1a0"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0580.jpeg",
+      "size": 377251,
+      "sha256": "2c9ebcc5f28782ee065f8da6065f164dd60f56ec6364d7b1a8803fb81d1b31c1"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0581.jpeg",
+      "size": 325591,
+      "sha256": "29d88d61365dadcaad47b17b8293600b0d506ff36b890ad59ff0665a46a31fea"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0582.jpeg",
+      "size": 326956,
+      "sha256": "b558cc9648a1925aa833288040b7574ed7324f775d89fdeae1e01b8ab97d47d0"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0583.jpeg",
+      "size": 458555,
+      "sha256": "e1293e648df487dc768d296e7dd2e81b0376d88a417f73fc8ffd891f8ae32772"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0584.jpeg",
+      "size": 265556,
+      "sha256": "8b92fae453023e291eae2a47bda3a4e0749b552206381b957db5c28026516c25"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0585.jpeg",
+      "size": 289669,
+      "sha256": "0edabb5df36dcdf5eb5ebc6f8f517f94d44fe529112b7bd86cf640475df6e0dd"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0586.jpeg",
+      "size": 267724,
+      "sha256": "095bb5a115d4aa0ba379d2e3a63ed67b16a96a5f0a1ebd738ba41eba96733971"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0587.jpeg",
+      "size": 382747,
+      "sha256": "378eca3d485fc6e11fa027401cc75ef7fd5913b7bb2315091aa48ec86762a1c7"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0588.jpeg",
+      "size": 288308,
+      "sha256": "8036cd2278afe1f7bcbb349bf3ed005e4e2935b3405b0eee6df392de92599100"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0589.jpeg",
+      "size": 289491,
+      "sha256": "100b19ce28c031b98f006bcfddd3646e6079295c5e5a943476985d970c3669d4"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0590.jpeg",
+      "size": 331105,
+      "sha256": "6302e99e0e359d65cc4c653e7e6bf4083831b3ff47b638b050ef48b514b04125"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0591.jpeg",
+      "size": 326956,
+      "sha256": "b558cc9648a1925aa833288040b7574ed7324f775d89fdeae1e01b8ab97d47d0"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0592.jpeg",
+      "size": 373351,
+      "sha256": "118044856aca824d964b43dccd4ca43f375d9ffd8129be3ccc0dc76fdba7290f"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0593.jpeg",
+      "size": 314204,
+      "sha256": "deb73838b06bddb86881172cce84221af62b615dd623416fd7f0b9300de359f8"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0594.jpeg",
+      "size": 295756,
+      "sha256": "bb179ab29e1f2a16c9118bc93fb881bc6d8270965870eb31fcd6c956424f85f6"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0595.jpeg",
+      "size": 308932,
+      "sha256": "ce59c62d182904cf50f84b13e0c388dcd0320efe1962cd8a6b52a160482acee2"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0596.jpeg",
+      "size": 327512,
+      "sha256": "231843e7060b632da7e8446286ea6cab8baff613ab8f43c3a8e269a321637d28"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0597.jpeg",
+      "size": 259296,
+      "sha256": "f90cfb037f6199b0773419bde80aec3043b1c9bedbc0b2f26bbb63751adb18a2"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0598.jpeg",
+      "size": 474970,
+      "sha256": "850c52ab08cc96ee75cb1aef8449e5d029fc88599e22b331a76e0f578021f7d3"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0599.jpeg",
+      "size": 290051,
+      "sha256": "e44dec56824c9372cfcef3dbaafe663869fa56f8e83da436ccbd9d2062e37a00"
+    },
+    {
+      "path": "vifoodlabel/images/eval/0600.jpeg",
+      "size": 228592,
+      "sha256": "93b860ffe7627c054ec5d3035965d34e19d24cbe37b208278aee3f9fa5190f22"
+    },
+    {
+      "path": "vifoodlabel/labels.csv",
+      "size": 729945,
+      "sha256": "f841bd00947c4c9c5f5fad82d70fbf18ac66d0259e4144b5830e0775ffb1e937"
+    },
+    {
+      "path": "vifoodlabel/manifest.json",
+      "size": 76,
+      "sha256": "e3da657dd151fc5a493c2f9d5a5d0331254057d66b9f3f9350162fe3216aaff3"
+    },
+    {
+      "path": "vifoodlabel/metadata.jsonl",
+      "size": 729639,
+      "sha256": "6ea6bc6a22b282be1d7b657d4c4a1f90afe7fd60a130b6ad5128422ef334198c"
+    }
+  ],
+  "image_count": 600,
+  "label_format": "structured_ocr_csv_and_jsonl",
+  "transform_version": "vifoodlabel_source_images_and_json_preserved_eval_only_v1",
+  "license": "CC BY-NC 4.0",
+  "attribution": "Dung Huynh Thi Cam, Vu Nguyen Hong, Thien Tran Khai, and Hoa Dinh Minh (2026), “ViFoodLabel: A Vietnamese Food Product Label Dataset for Key Information Extraction,” Mendeley Data v2, DOI 10.17632/v97x4ys84h.2, CC BY-NC 4.0.",
+  "source": {
+    "url": "https://data.mendeley.com/datasets/v97x4ys84h/2",
+    "version": "Mendeley Data v2",
+    "sha256": "81686c12ac9ec32580d7fa712d33fbf1dfb4bacf0ddd6f9ab55edfaccbb027f5"
+  }
+}

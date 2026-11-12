@@ -1,0 +1,20 @@
+{
+  "manifest_type": "source_file_inventory",
+  "manifest_version": "1.0.0",
+  "dataset_id": "vifoodlabel",
+  "provider": "Dung Huynh Thi Cam et al.",
+  "source_url": "https://data.mendeley.com/datasets/v97x4ys84h/2",
+  "source_version": "Mendeley Data v2, DOI 10.17632/v97x4ys84h.2",
+  "license_claim": "CC BY-NC 4.0 displayed on the fixed Mendeley Data v2 page.",
+  "file_count": 1,
+  "files": [
+    {
+      "path": "ViFoodLabel-v2.zip",
+      "file_id": "mendeley-data-v97x4ys84h-v2",
+      "filename": "ViFoodLabel-v2.zip",
+      "size": 187642631,
+      "sha256": "81686c12ac9ec32580d7fa712d33fbf1dfb4bacf0ddd6f9ab55edfaccbb027f5",
+      "download_url": "https://data.mendeley.com/datasets/v97x4ys84h/2"
+    }
+  ]
+}

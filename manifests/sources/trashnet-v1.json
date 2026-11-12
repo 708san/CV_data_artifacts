@@ -1,0 +1,20 @@
+{
+  "manifest_type": "source_file_inventory",
+  "manifest_version": "1.0.0",
+  "dataset_id": "trashnet",
+  "provider": "Gary Thung and Mindy Yang",
+  "source_url": "https://github.com/garythung/trashnet/tree/6fa2b878c6c1b4304b91109070ce0edf9279bb31",
+  "source_version": "6fa2b878c6c1b4304b91109070ce0edf9279bb31",
+  "license_claim": "MIT License in fixed source repository LICENSE; README describes author-collected images.",
+  "file_count": 1,
+  "files": [
+    {
+      "path": "data/dataset-resized.zip",
+      "file_id": "github-blob-4184b4e9d359026a49e5d34ac2cead944f53be88",
+      "filename": "dataset-resized.zip",
+      "size": 42834870,
+      "sha256": "0bf472790f8b20e5c950d5b5012a9d38af0d3392efd65f8ce171334fc16b07c2",
+      "download_url": "https://raw.githubusercontent.com/garythung/trashnet/6fa2b878c6c1b4304b91109070ce0edf9279bb31/data/dataset-resized.zip"
+    }
+  ]
+}

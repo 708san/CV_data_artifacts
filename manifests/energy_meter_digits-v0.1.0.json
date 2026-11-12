@@ -1,0 +1,4939 @@
+{
+  "manifest_version": "1.0.0",
+  "dataset_id": "energy_meter_digits",
+  "artifact_version": "0.1.0",
+  "files": [
+    {
+      "path": "energy_meter_digits/LICENSE.md",
+      "size": 539,
+      "sha256": "953450cbb2cc2ea520aa73d43a698aadd65de63ce780d36df73c31083592f979"
+    },
+    {
+      "path": "energy_meter_digits/README.md",
+      "size": 1077,
+      "sha256": "c08415460de0f984b986be9ca3202c5b956be07e2c26fe2a183801c7173e6682"
+    },
+    {
+      "path": "energy_meter_digits/images/test/0/001_005.jpg",
+      "size": 13947,
+      "sha256": "fd150c694fcd7d1494fc1d300ef4399c1b1b187718c7060cc802a223498d5def"
+    },
+    {
+      "path": "energy_meter_digits/images/test/0/010_004.jpg",
+      "size": 10880,
+      "sha256": "f270cea2e2f6244ec6eb373fc0ced646fbf57fe5f0661aa2cf0c3cd7ade81fad"
+    },
+    {
+      "path": "energy_meter_digits/images/test/0/011_004.jpg",
+      "size": 11903,
+      "sha256": "6721d5d7f50748a462185768b0c17d0a1ca7b041145df73262a3df9726ffea7b"
+    },
+    {
+      "path": "energy_meter_digits/images/test/0/021_003.jpg",
+      "size": 19811,
+      "sha256": "4778754fb539e1c48141a52c8e54780115441d0df51d33a5647784829b143682"
+    },
+    {
+      "path": "energy_meter_digits/images/test/0/021_004.jpg",
+      "size": 20898,
+      "sha256": "cdbdd50b78d7fcb100e3968204fb99396c77fb010f026be5fc4946054202a46d"
+    },
+    {
+      "path": "energy_meter_digits/images/test/0/040_004.jpg",
+      "size": 12671,
+      "sha256": "a22f4d62cfbbc7aca69c2b0c9f8d6e2060ae55e653e7959b2043eaeb521630dc"
+    },
+    {
+      "path": "energy_meter_digits/images/test/0/050_005.jpg",
+      "size": 4868,
+      "sha256": "6b4b8958b57f99385c5e4d16569256fd17742c25f12c0b104b584e80020e424f"
+    },
+    {
+      "path": "energy_meter_digits/images/test/0/050_006.jpg",
+      "size": 4825,
+      "sha256": "6edfb3e442030a5806172dc4425519dc28aa531e38f7fa7a3f78fe0264074085"
+    },
+    {
+      "path": "energy_meter_digits/images/test/0/050_007.jpg",
+      "size": 5547,
+      "sha256": "92a82970634a6bad5ed6b3bea098864275d84dd44f390a2c6aabe49f8e1d5dea"
+    },
+    {
+      "path": "energy_meter_digits/images/test/0/051_003.jpg",
+      "size": 12753,
+      "sha256": "f6d4e284448d089c99c05ed8e38ad151780b9d00d9830fda30a89c12174781e3"
+    },
+    {
+      "path": "energy_meter_digits/images/test/0/051_004.jpg",
+      "size": 14360,
+      "sha256": "a8e04e4eb27a46ecd03c2e2a3f81af13909a8aa7462fe8f7d45fad67ed811ade"
+    },
+    {
+      "path": "energy_meter_digits/images/test/0/060_004.jpg",
+      "size": 12897,
+      "sha256": "dcbaef49212bd74ce447d89fbd8c98e7db1325b219001471cb1760a84c09a699"
+    },
+    {
+      "path": "energy_meter_digits/images/test/0/060_005.jpg",
+      "size": 12057,
+      "sha256": "36eea79516a968bb1acdba2975100a08b03b1ec5f521f323d334a0a0260de514"
+    },
+    {
+      "path": "energy_meter_digits/images/test/0/060_006.jpg",
+      "size": 8819,
+      "sha256": "97f5ba5ffd2bb67f5b2b704333e09f7bd63ef24d013f363317951f8172f9831c"
+    },
+    {
+      "path": "energy_meter_digits/images/test/0/070_005.jpg",
+      "size": 14243,
+      "sha256": "b19c63fe7936c3861c198e4c30aee9e30be4445bd130779987d4dbccf5e88df3"
+    },
+    {
+      "path": "energy_meter_digits/images/test/0/071_005.jpg",
+      "size": 14065,
+      "sha256": "3360ebaff0efd5ab81baac5182d20f2746cc280eb7fdd9e5e8e6dd2d04894170"
+    },
+    {
+      "path": "energy_meter_digits/images/test/0/080_003.jpg",
+      "size": 14876,
+      "sha256": "21d6dabfadfb61b242e57bfdd61db5ca5d241b7043ce93f51713996052b80369"
+    },
+    {
+      "path": "energy_meter_digits/images/test/0/080_004.jpg",
+      "size": 12987,
+      "sha256": "511e51a09b441c21d9c94186f441b7505d7dc1c1cd89e79e0c7e99477ad2498c"
+    },
+    {
+      "path": "energy_meter_digits/images/test/0/080_005.jpg",
+      "size": 10653,
+      "sha256": "8d4006f85e844705a426812519c76c8caa620aa5607ce8409fd9ede29d75bc20"
+    },
+    {
+      "path": "energy_meter_digits/images/test/0/080_006.jpg",
+      "size": 11155,
+      "sha256": "205f5c56ac08debb8e40da48fdc83b854e37b5e0ee87c5becd02404ab9d15341"
+    },
+    {
+      "path": "energy_meter_digits/images/test/0/081_003.jpg",
+      "size": 13979,
+      "sha256": "d16f4ce45ff30151394b27ab2d76106a02972252eb55ff445e7bffed36d3948c"
+    },
+    {
+      "path": "energy_meter_digits/images/test/0/081_004.jpg",
+      "size": 12223,
+      "sha256": "e3b91d581ecc2760173572e631ab173778be8750667f306a34248fd762922d8f"
+    },
+    {
+      "path": "energy_meter_digits/images/test/0/081_005.jpg",
+      "size": 11056,
+      "sha256": "8c0bac86b0ea13484d7e4fd1842fd1ab890adf619a52ac597df55810586c797a"
+    },
+    {
+      "path": "energy_meter_digits/images/test/0/081_006.jpg",
+      "size": 10477,
+      "sha256": "0b2c6d670347a9aa7a75b4c0ae801df024e3b1c1abee0277fb89cce0a03896a5"
+    },
+    {
+      "path": "energy_meter_digits/images/test/0/100_005.jpg",
+      "size": 11164,
+      "sha256": "e5b880d8a9288ed68c3fa2ef555353f2d0e3aa55008612d1100494e4b58183fc"
+    },
+    {
+      "path": "energy_meter_digits/images/test/0/101_005.jpg",
+      "size": 10740,
+      "sha256": "2b9a9d5010112249144cac38332443068c99f02c04a5cc6557c20c16111c4cc5"
+    },
+    {
+      "path": "energy_meter_digits/images/test/0/101_006.jpg",
+      "size": 8863,
+      "sha256": "5bdc2052f98689aba8901f2c8a16f276ad9792b87ecf360386565adb7e187dbd"
+    },
+    {
+      "path": "energy_meter_digits/images/test/0/101_007.jpg",
+      "size": 9369,
+      "sha256": "c91e14ab77d5ba3b759a933c1a7a35bc5050b9351ba38dda15fa4ed7bd0a37f2"
+    },
+    {
+      "path": "energy_meter_digits/images/test/0/110_004.jpg",
+      "size": 12041,
+      "sha256": "6fa41bc3f9f1dd276ef208afd58c71028b40f522d9e47a3e177207d84935765b"
+    },
+    {
+      "path": "energy_meter_digits/images/test/0/111_004.jpg",
+      "size": 14009,
+      "sha256": "43294fc3fee73985a1cbf1c5c55cb0f3405d92300e37629d0582acedf50c2ad3"
+    },
+    {
+      "path": "energy_meter_digits/images/test/0/111_005.jpg",
+      "size": 10591,
+      "sha256": "a342099e44c12716fa58aa2d08e1672c4610cb1137d95aebd4e2646d8965ccf0"
+    },
+    {
+      "path": "energy_meter_digits/images/test/0/111_006.jpg",
+      "size": 10886,
+      "sha256": "96df36c581ea273bbee918d23b7c6389705698110062b812eb8d59b4e06f2c3b"
+    },
+    {
+      "path": "energy_meter_digits/images/test/0/120_005.jpg",
+      "size": 10548,
+      "sha256": "37fa8f273a881aa4f9348f9e33e871003fb3b45958ca6913b1ec0a2fbc6ae972"
+    },
+    {
+      "path": "energy_meter_digits/images/test/0/120_006.jpg",
+      "size": 10471,
+      "sha256": "f6a5077b41958492a8b0f3d3d8a6de875b968cc22f26236ccd621e73241263b5"
+    },
+    {
+      "path": "energy_meter_digits/images/test/0/130_004.jpg",
+      "size": 16777,
+      "sha256": "46dc3dbd90f84dd5fe721663f6491d56fd18a0034a95ef20fff88b6ed9799be8"
+    },
+    {
+      "path": "energy_meter_digits/images/test/0/140_003.jpg",
+      "size": 53129,
+      "sha256": "7f466a3e373a01f80d9d9fdff92082b55e1dbc3d1f091c5a825aa724e4ec2b75"
+    },
+    {
+      "path": "energy_meter_digits/images/test/0/140_004.jpg",
+      "size": 43042,
+      "sha256": "93ea838f335ca0e7c7140744794134a35f8efaf7cb7eb0a990e295701ab2e98c"
+    },
+    {
+      "path": "energy_meter_digits/images/test/0/140_005.jpg",
+      "size": 29736,
+      "sha256": "2c6f65dce605524e5a7e31e9b0acc3f28ab516fcc503d2879ae9132d2b57afd7"
+    },
+    {
+      "path": "energy_meter_digits/images/test/0/140_006.jpg",
+      "size": 26904,
+      "sha256": "4c6f93a3d7cbe3b8413519f70b3ca51974e5442f6bb46bc5ba3da83912dd3ca3"
+    },
+    {
+      "path": "energy_meter_digits/images/test/0/141_005.jpg",
+      "size": 12835,
+      "sha256": "b79a1265a84b6649321e7414c536f450e6f84d295ecfcf6dbc1c21861bc3b328"
+    },
+    {
+      "path": "energy_meter_digits/images/test/0/160_005.jpg",
+      "size": 14267,
+      "sha256": "5618cc0abe4decfac66cf8e403bf742af353aed4872250ea1ca9eeae3911c098"
+    },
+    {
+      "path": "energy_meter_digits/images/test/0/160_006.jpg",
+      "size": 12470,
+      "sha256": "bf9e811a767e5dce7e92367ce69b8e436f14eac0064cd330057ba7f37205c024"
+    },
+    {
+      "path": "energy_meter_digits/images/test/0/161_004.jpg",
+      "size": 12742,
+      "sha256": "2431f200638b326184fcb3b359bb9e46f0eb9525c457260f3b2e0b5824277b4b"
+    },
+    {
+      "path": "energy_meter_digits/images/test/1/010_000.jpg",
+      "size": 5205,
+      "sha256": "099d5cedf845e29d257931247cd37f79f95bdb45492b48a36d04765f70df4da1"
+    },
+    {
+      "path": "energy_meter_digits/images/test/1/010_001.jpg",
+      "size": 4765,
+      "sha256": "4815aa2624335a33f1ffd31adc4c7b2496ce0871af2b694586a0e2f986133c51"
+    },
+    {
+      "path": "energy_meter_digits/images/test/1/031_000.jpg",
+      "size": 6411,
+      "sha256": "c018c0c920f14e9a90d8fafc657f5b0d9b174babb485fb3d6869171d66788aa2"
+    },
+    {
+      "path": "energy_meter_digits/images/test/1/050_000.jpg",
+      "size": 2621,
+      "sha256": "3ebd10531b349a4063853482fad795c5e22651cbce004419b267de5182643f02"
+    },
+    {
+      "path": "energy_meter_digits/images/test/1/060_000.jpg",
+      "size": 4636,
+      "sha256": "0a2e4dae24298a83485f6c3c5187806d7eafc5c0124ac537dab857b3898626cc"
+    },
+    {
+      "path": "energy_meter_digits/images/test/1/071_000.jpg",
+      "size": 5937,
+      "sha256": "2d5c07516980786a4783b284c582253ced48038c2fa4e74454dda5e4e75530a0"
+    },
+    {
+      "path": "energy_meter_digits/images/test/1/080_000.jpg",
+      "size": 4448,
+      "sha256": "f1fd1356d704d679f5747e00fc58fc4c85b5fb25d141af8cb7b044c7715d8fce"
+    },
+    {
+      "path": "energy_meter_digits/images/test/1/081_000.jpg",
+      "size": 4244,
+      "sha256": "8e215d229aba56316cfde6bea44729b92f3db2617323ee67051acee3ed56ecec"
+    },
+    {
+      "path": "energy_meter_digits/images/test/1/090_000.jpg",
+      "size": 6302,
+      "sha256": "bd62a316fc1db32ce99118d1401201c1d24fb3f3160dba9cbbaa5c86a06ca328"
+    },
+    {
+      "path": "energy_meter_digits/images/test/1/100_000.jpg",
+      "size": 8642,
+      "sha256": "01838cf173cc2f7b31928b186af0b0f19b5bd5d869e856feca586df98bdb2cba"
+    },
+    {
+      "path": "energy_meter_digits/images/test/1/100_001.jpg",
+      "size": 7656,
+      "sha256": "b87f34b8467feba143ae6b4a7b2c09592f96fa68291d82bdfeb96c98c9d494b1"
+    },
+    {
+      "path": "energy_meter_digits/images/test/1/110_000.jpg",
+      "size": 6918,
+      "sha256": "6c4b2b59bf678eacc75b4f6209e4f1665daca002fb0ff9af86b28c18e7226e7f"
+    },
+    {
+      "path": "energy_meter_digits/images/test/1/130_000.jpg",
+      "size": 7350,
+      "sha256": "2a932cbbea6289ebf5d5f8a21eec4af60f5e49b9cb6054004ae6fa383c3c2309"
+    },
+    {
+      "path": "energy_meter_digits/images/test/1/141_000.jpg",
+      "size": 9060,
+      "sha256": "7c7a87fa8fe61f146cb389491226e89f698a14b4bbd928c7edbd325703b38096"
+    },
+    {
+      "path": "energy_meter_digits/images/test/2/001_000.jpg",
+      "size": 10517,
+      "sha256": "2f564b5d36c0d763003ad6d25a26d86c0ff28aba7c0148f864cbebfb260cad7d"
+    },
+    {
+      "path": "energy_meter_digits/images/test/2/020_000.jpg",
+      "size": 13030,
+      "sha256": "9b28a8a76384dae7d195dfaecfcadd7d01fe851ce5da39617775353403ade741"
+    },
+    {
+      "path": "energy_meter_digits/images/test/2/020_001.jpg",
+      "size": 9591,
+      "sha256": "0106eb39e8f44d1d59620dfb90de4d8c1d4195ffce875646d408b21db596b642"
+    },
+    {
+      "path": "energy_meter_digits/images/test/2/021_000.jpg",
+      "size": 25455,
+      "sha256": "71c06639a25c2b3d19d0745354a2cd06399e6605dd202bca9276f598f6c7407b"
+    },
+    {
+      "path": "energy_meter_digits/images/test/2/041_000.jpg",
+      "size": 12807,
+      "sha256": "25bfdb5906fa63e8417a15bdb8084ab5ffc03318a4bdb7a97cbf2aba04d8e755"
+    },
+    {
+      "path": "energy_meter_digits/images/test/2/051_000.jpg",
+      "size": 12552,
+      "sha256": "989c7b71f5ffe79c2b7529ac1cc8833bdcc93166958b79037ada6713c4b4e30c"
+    },
+    {
+      "path": "energy_meter_digits/images/test/2/060_001.jpg",
+      "size": 9361,
+      "sha256": "4fdfb61e63ac38e1bc7668d08b74b9abe1fba34a18bf11d4e1186ef8dbdc47d0"
+    },
+    {
+      "path": "energy_meter_digits/images/test/2/061_000.jpg",
+      "size": 10427,
+      "sha256": "f0d9fe65040d3f1b66f7d4e48e6bfdda682290a7bd2384b4cce1725941141440"
+    },
+    {
+      "path": "energy_meter_digits/images/test/2/101_000.jpg",
+      "size": 7098,
+      "sha256": "ac1d16a84b32e901f551d54a5c50c9f6a6a2445acbc6d515b4808a2757fdf9d7"
+    },
+    {
+      "path": "energy_meter_digits/images/test/2/101_001.jpg",
+      "size": 7093,
+      "sha256": "cb8813b3f1770682564b78a3c1ba1d9b49b56ea459bf3f17de599f00f9581fbe"
+    },
+    {
+      "path": "energy_meter_digits/images/test/2/121_000.jpg",
+      "size": 14307,
+      "sha256": "4d4ce5784ad6d21d0f6987c9d5f01c39f022316c37139ecb9e0c993a39419bf7"
+    },
+    {
+      "path": "energy_meter_digits/images/test/2/130_001.jpg",
+      "size": 16762,
+      "sha256": "f992015acc5332fb2edc098aed911dd1412ad71ddb37f1f024af62f6bbb991de"
+    },
+    {
+      "path": "energy_meter_digits/images/test/2/131_000.jpg",
+      "size": 21058,
+      "sha256": "be8eacc8ebe34cd12a3ea34571bfd7c1a93d4c240f5498ecb591954d57b1ec35"
+    },
+    {
+      "path": "energy_meter_digits/images/test/2/131_001.jpg",
+      "size": 12435,
+      "sha256": "3601d45311b1ceeccec106aef4851978a91c8d3348ebe3f7336b1e22dd9c650f"
+    },
+    {
+      "path": "energy_meter_digits/images/test/2/141_001.jpg",
+      "size": 12149,
+      "sha256": "e6bb23bc0aef446f2302c22253260d2cdee0037ac343d55c7d2473fa84a77279"
+    },
+    {
+      "path": "energy_meter_digits/images/test/2/150_000.jpg",
+      "size": 22363,
+      "sha256": "f3a80952cbc42989119eef57e3a381dba6d680910d37c6bd2ec255cbd040c8f5"
+    },
+    {
+      "path": "energy_meter_digits/images/test/2/151_000.jpg",
+      "size": 19816,
+      "sha256": "d09bff40ec1d24f818e9ff69334dc09e6e0aa39ff3bc5664528385c457ce1c34"
+    },
+    {
+      "path": "energy_meter_digits/images/test/2/160_000.jpg",
+      "size": 12780,
+      "sha256": "a56681f06f3896805498f3884786d11610aa5ff69e7c0e6c89fc08c83a54c256"
+    },
+    {
+      "path": "energy_meter_digits/images/test/2/160_001.jpg",
+      "size": 4024,
+      "sha256": "d6ce9cca15bf819b1a4a2b4546c1c4ed61c47816a1131058a317109fbddf3c61"
+    },
+    {
+      "path": "energy_meter_digits/images/test/2/161_000.jpg",
+      "size": 12268,
+      "sha256": "fa3a682c5ed351cc333e946845639f6242371d39adb86146f17bc4bd9b75171c"
+    },
+    {
+      "path": "energy_meter_digits/images/test/3/001_001.jpg",
+      "size": 11176,
+      "sha256": "10aaf946a25c5666dc76f396a3f538bcd083f0a91b606b586de6d30aa138c56f"
+    },
+    {
+      "path": "energy_meter_digits/images/test/3/020_002.jpg",
+      "size": 9886,
+      "sha256": "102b287517783da0f4f3233a3eda4b378ef694f10a67c5c3b1d48758f31dbae0"
+    },
+    {
+      "path": "energy_meter_digits/images/test/3/030_000.jpg",
+      "size": 10611,
+      "sha256": "d086bb644d680e440e41dfcba94ded959fb5b006edf2bdee4048f1b6240e64b1"
+    },
+    {
+      "path": "energy_meter_digits/images/test/3/030_001.jpg",
+      "size": 9259,
+      "sha256": "cc81db2b43e5b8de298eaa470e67a10243c0eca7a281bfbf5b493c54accee529"
+    },
+    {
+      "path": "energy_meter_digits/images/test/3/030_002.jpg",
+      "size": 9332,
+      "sha256": "f66ad80105b009ad321cfb39d5ca1b7b69d1a79f07d4c001fc41e44830b0e715"
+    },
+    {
+      "path": "energy_meter_digits/images/test/3/031_001.jpg",
+      "size": 16165,
+      "sha256": "ff9719ed4370cf032781cfe19355fa39f747a7fb22d30eb58434575b60a45646"
+    },
+    {
+      "path": "energy_meter_digits/images/test/3/050_001.jpg",
+      "size": 4256,
+      "sha256": "34b71e9cd2a4767823218326f2ffb856fb48125b5b51278e1ed2f04b08ae3d61"
+    },
+    {
+      "path": "energy_meter_digits/images/test/3/061_001.jpg",
+      "size": 10232,
+      "sha256": "610f53e3805ddd618c9d2310047e4f7c8175a8656ec0a414a59cad2638d182fc"
+    },
+    {
+      "path": "energy_meter_digits/images/test/3/061_002.jpg",
+      "size": 9912,
+      "sha256": "db37090d8a836a56418b849e94afc8da2be102610033755098ce7f0f610a063f"
+    },
+    {
+      "path": "energy_meter_digits/images/test/3/070_000.jpg",
+      "size": 12098,
+      "sha256": "d3723d5561ffd0612cc9c98ff30946fde11bd2badd933fa88a81d05919158bee"
+    },
+    {
+      "path": "energy_meter_digits/images/test/3/080_001.jpg",
+      "size": 12243,
+      "sha256": "2b6c5a119c38005bf8739f43c0c032d0a6b5616597473b741b00354734799b64"
+    },
+    {
+      "path": "energy_meter_digits/images/test/3/080_002.jpg",
+      "size": 11366,
+      "sha256": "dbc5828100a991f0a30c6ab8e15c4b0d43e0f1bfe441bca73b20698bee897652"
+    },
+    {
+      "path": "energy_meter_digits/images/test/3/081_001.jpg",
+      "size": 11253,
+      "sha256": "7a723422b9ab24647178783ba2aa8a3c55c36705e6c6cce34d78c7251b9a1dd5"
+    },
+    {
+      "path": "energy_meter_digits/images/test/3/081_002.jpg",
+      "size": 10722,
+      "sha256": "3d06e1164e74632338a0b6102def3e1efb6e7301ddba6f011eadac6c7a5204f5"
+    },
+    {
+      "path": "energy_meter_digits/images/test/3/100_002.jpg",
+      "size": 14767,
+      "sha256": "456bb76b3074f84cefc69f34d77053bad67488c92eb1a251abe66f305d7f3d65"
+    },
+    {
+      "path": "energy_meter_digits/images/test/3/101_002.jpg",
+      "size": 7657,
+      "sha256": "8ab45e9f07ad3088482cccdb0eee9aabb44e7440b056b802141565d08554ce23"
+    },
+    {
+      "path": "energy_meter_digits/images/test/3/111_000.jpg",
+      "size": 9813,
+      "sha256": "f63eceb31899842058066746cb4a30ce26fc01ee9aacd3f0f2b28e8af2e9777a"
+    },
+    {
+      "path": "energy_meter_digits/images/test/3/121_001.jpg",
+      "size": 15111,
+      "sha256": "acfd6ecd95b5d1e2a0f58341174fce65329b54aec0cf86d0b1d884962751453b"
+    },
+    {
+      "path": "energy_meter_digits/images/test/3/131_002.jpg",
+      "size": 12169,
+      "sha256": "905830d1c985a32a83dfff4b06c910cbccccc1d60ec5bd8593ba2723141f4cf5"
+    },
+    {
+      "path": "energy_meter_digits/images/test/3/150_001.jpg",
+      "size": 23586,
+      "sha256": "3073e5b1de30b9a15b640d1c5038588107248ff4bccbaa8d805842241c56d1c5"
+    },
+    {
+      "path": "energy_meter_digits/images/test/3/150_002.jpg",
+      "size": 22557,
+      "sha256": "c2247e28c4aee020896f5d5ef14f9491fb60d3ee6edf6929759c0c0e4dfa17e7"
+    },
+    {
+      "path": "energy_meter_digits/images/test/3/151_001.jpg",
+      "size": 22858,
+      "sha256": "42c777c8cf9d8739934835db5e11e57ff31bbae1ea036cdcbd25a0dd11b20bbc"
+    },
+    {
+      "path": "energy_meter_digits/images/test/3/151_002.jpg",
+      "size": 22807,
+      "sha256": "3db19bd18e2f71f2eb6eb210b1ea97dc620486f1511dd2169aa921484af7b7e5"
+    },
+    {
+      "path": "energy_meter_digits/images/test/3/160_002.jpg",
+      "size": 9241,
+      "sha256": "b6541ba4bdd3f01b3233cf95ef4771a1bca734ee78006bdabeb467e7d9fcb958"
+    },
+    {
+      "path": "energy_meter_digits/images/test/3/161_001.jpg",
+      "size": 12005,
+      "sha256": "f36c6002b9c41dfcc63031317149960c228674a4537f03091e381c5216bb88ed"
+    },
+    {
+      "path": "energy_meter_digits/images/test/4/010_002.jpg",
+      "size": 8299,
+      "sha256": "c0d8a53a2ca378e291aa79986d6446c266edb8f36bdd57227dcc8e8f9f73a6b9"
+    },
+    {
+      "path": "energy_meter_digits/images/test/4/011_000.jpg",
+      "size": 9441,
+      "sha256": "dcb82383f016d64e5a22a7c633b8b1a9aa8d2d2a0169ace00c02797a7935f588"
+    },
+    {
+      "path": "energy_meter_digits/images/test/4/011_001.jpg",
+      "size": 8770,
+      "sha256": "915969c194e1ac8831619607b1901d15b003245f9a60850050e4386f6e57df21"
+    },
+    {
+      "path": "energy_meter_digits/images/test/4/040_000.jpg",
+      "size": 10837,
+      "sha256": "a66b4dc38f09941bc8538b0b34b80dae2102a47998514e4c8edfbb98aaf4c106"
+    },
+    {
+      "path": "energy_meter_digits/images/test/4/041_001.jpg",
+      "size": 13248,
+      "sha256": "67b4e4f01c144fdf3a7b7c7fef9aa8780800a29f4d29daa9263a8b6d85c2fdce"
+    },
+    {
+      "path": "energy_meter_digits/images/test/4/041_002.jpg",
+      "size": 12804,
+      "sha256": "beb01934bb6a5fbc6198a10a301bd742de66029374e38a710635cc8104f3660d"
+    },
+    {
+      "path": "energy_meter_digits/images/test/4/050_002.jpg",
+      "size": 4494,
+      "sha256": "7862ba3c6c0fca5510c514e1a8349f0f2b547ff93ca5b337350fbb7163da8582"
+    },
+    {
+      "path": "energy_meter_digits/images/test/4/050_003.jpg",
+      "size": 4785,
+      "sha256": "8655150f4ace16f09ba53477ff2ed19a0d408068d7385aae3cb859be1b152fbe"
+    },
+    {
+      "path": "energy_meter_digits/images/test/4/060_002.jpg",
+      "size": 8731,
+      "sha256": "495c38cd0a2ed2db477cb9b92a51234a8285ec3a0bd0adf5e20923f1b5cedf29"
+    },
+    {
+      "path": "energy_meter_digits/images/test/4/071_001.jpg",
+      "size": 11985,
+      "sha256": "11db2214785dc3b813a79bd4235ee6d316b1b3de16ed409cbaedca60aef0ad84"
+    },
+    {
+      "path": "energy_meter_digits/images/test/4/090_001.jpg",
+      "size": 13402,
+      "sha256": "c56084069195d85a49e1ff02d776d9a8be8efcf7ac9c2bfa8abfce5406b0211a"
+    },
+    {
+      "path": "energy_meter_digits/images/test/4/090_002.jpg",
+      "size": 11205,
+      "sha256": "78dd53ccadab5c1debffaf3b8e6ef84a7aed887eaaf23685dfa1f5c32537be20"
+    },
+    {
+      "path": "energy_meter_digits/images/test/4/090_003.jpg",
+      "size": 9457,
+      "sha256": "4fafa2d30c5eecfdfdc9c24bde4e2af4acfb4ec386c9d23384c723ef71a22b0b"
+    },
+    {
+      "path": "energy_meter_digits/images/test/4/100_003.jpg",
+      "size": 12408,
+      "sha256": "170895c0cf05e4c55a1259909fe22bdc8a7d5efe1f62144561a19b0d54c3c054"
+    },
+    {
+      "path": "energy_meter_digits/images/test/4/111_001.jpg",
+      "size": 8015,
+      "sha256": "eb7e1c77b4b254f93ffaca752d17ae96c31caecec554750be1f3ee013f9934c5"
+    },
+    {
+      "path": "energy_meter_digits/images/test/4/121_002.jpg",
+      "size": 12294,
+      "sha256": "edd12505b6de3d8e73fb3f146126cf4d6b6e302eeccddd5e6aa396f8acbdaf8a"
+    },
+    {
+      "path": "energy_meter_digits/images/test/4/140_000.jpg",
+      "size": 28294,
+      "sha256": "f99581bd80638c4e237dc7bb70a13380365aa31673a28f8ef680488c3c3b7e3a"
+    },
+    {
+      "path": "energy_meter_digits/images/test/5/001_002.jpg",
+      "size": 11553,
+      "sha256": "9e34f6a0ae38160a1a2329f9c03335f5770dd76f95a57d213c2c3fe13c8c1cdf"
+    },
+    {
+      "path": "energy_meter_digits/images/test/5/001_003.jpg",
+      "size": 10990,
+      "sha256": "0e2f04e1c7a0cedf3f4cc83cfc85d9a64b579a9ec3b356876ebe276eb5c8f8f1"
+    },
+    {
+      "path": "energy_meter_digits/images/test/5/011_002.jpg",
+      "size": 10734,
+      "sha256": "7b87c207cfe589f3d4ca30811f3179647aafc18c8237a913bdfd1e9b5d8bce0b"
+    },
+    {
+      "path": "energy_meter_digits/images/test/5/031_002.jpg",
+      "size": 17155,
+      "sha256": "53d81c5e5461dc9429d346a3b15694f2ef1b52f4f4dbeb55ad64ab6a6ca6136c"
+    },
+    {
+      "path": "energy_meter_digits/images/test/5/040_001.jpg",
+      "size": 10032,
+      "sha256": "e5401a6b889dfafbf55f107cf6bf49baeb7d7565e234b4cddeea32948317e61d"
+    },
+    {
+      "path": "energy_meter_digits/images/test/5/051_001.jpg",
+      "size": 11660,
+      "sha256": "25e5731a96d1712031aa39030e65f4acf2854b966317c73fe773b09ac799b479"
+    },
+    {
+      "path": "energy_meter_digits/images/test/5/060_003.jpg",
+      "size": 7516,
+      "sha256": "4b07b10586b0e80f2c6ef7484c700d1e2edb1e40600e30a43e220cd3beddc136"
+    },
+    {
+      "path": "energy_meter_digits/images/test/5/070_001.jpg",
+      "size": 12444,
+      "sha256": "7768522dfa250c0e99c20a8ebb673ab81c3a7561b3f3847e4d496f014b378c57"
+    },
+    {
+      "path": "energy_meter_digits/images/test/5/070_002.jpg",
+      "size": 11563,
+      "sha256": "80703d49a80448aa05f0821ae3fb853c67c49c84dcbde1894022417afa7db8b9"
+    },
+    {
+      "path": "energy_meter_digits/images/test/5/091_000.jpg",
+      "size": 11342,
+      "sha256": "9e5cecbb08bc124260af5cdfb473b2d24dea3437952cadc94e1822334199f20a"
+    },
+    {
+      "path": "energy_meter_digits/images/test/5/091_001.jpg",
+      "size": 11399,
+      "sha256": "d3365d811a2072c37991117936399ca8dcd66cc3c27f1faa19a0dad3a4c95cb2"
+    },
+    {
+      "path": "energy_meter_digits/images/test/5/100_004.jpg",
+      "size": 13319,
+      "sha256": "1b51e29b4c4291133df7beaf414b2758f2ea7b9d13aa96604ad2bff7b47a3c03"
+    },
+    {
+      "path": "energy_meter_digits/images/test/5/110_001.jpg",
+      "size": 12357,
+      "sha256": "02c40ea189804ae61eaf3a0763eccd5b4363b1773f05836ca3d630a4079738f3"
+    },
+    {
+      "path": "energy_meter_digits/images/test/5/130_002.jpg",
+      "size": 11139,
+      "sha256": "db8530592923c302ac791d8d4601af0a2facb7089015903cfabdda20362a0419"
+    },
+    {
+      "path": "energy_meter_digits/images/test/5/150_003.jpg",
+      "size": 29590,
+      "sha256": "1469f59793d41f45da96211e85d892d6ca24c764256a7e506134b624f8f21d39"
+    },
+    {
+      "path": "energy_meter_digits/images/test/5/151_003.jpg",
+      "size": 26439,
+      "sha256": "d403ae5393916db88140d918d09bd7c6863ef8f0544411dbbc5f8a05e8ea2845"
+    },
+    {
+      "path": "energy_meter_digits/images/test/5/161_002.jpg",
+      "size": 14933,
+      "sha256": "ef05f6d0ac2f190f72b0e44bdcf527c0364968f42c5be8d4b127bb8c839cb347"
+    },
+    {
+      "path": "energy_meter_digits/images/test/6/031_003.jpg",
+      "size": 13493,
+      "sha256": "3711f1eea2f9f9a968b642e7beea49f06e8c05a4f7a77c8833dcab1a2bcb3d4f"
+    },
+    {
+      "path": "energy_meter_digits/images/test/6/050_004.jpg",
+      "size": 5031,
+      "sha256": "c66da7a93a6ce03a8d86a97787c0ea8e584f674c80fa159130b83328285d41f6"
+    },
+    {
+      "path": "energy_meter_digits/images/test/6/070_003.jpg",
+      "size": 12632,
+      "sha256": "e541e9c45e15175da57f96beea698574b30c662d066e0812381cb452dc8372a8"
+    },
+    {
+      "path": "energy_meter_digits/images/test/6/071_002.jpg",
+      "size": 14387,
+      "sha256": "8454da0561a53fbdf472373424ff87188f4646ba0fa1d71ded789d5252fe6039"
+    },
+    {
+      "path": "energy_meter_digits/images/test/6/120_000.jpg",
+      "size": 7350,
+      "sha256": "dfcb1bca4433b24afcad991f2de98d6e5bc97a347a1bc018ce319f76910e6b8d"
+    },
+    {
+      "path": "energy_meter_digits/images/test/6/120_001.jpg",
+      "size": 8265,
+      "sha256": "25ed411f179842908035e6e4bee9a349ff4b3b93c13971482023f9d5533afd9a"
+    },
+    {
+      "path": "energy_meter_digits/images/test/6/120_002.jpg",
+      "size": 8302,
+      "sha256": "c2d03c0c4b7aed5620aab04cc4528b2c11605c21d6b7d11173ec8d295959f7cc"
+    },
+    {
+      "path": "energy_meter_digits/images/test/6/121_003.jpg",
+      "size": 18819,
+      "sha256": "98540c48a0aa4a169f2a69a1ca188202b0feba30730f99000ca97cfeca02f58b"
+    },
+    {
+      "path": "energy_meter_digits/images/test/6/140_001.jpg",
+      "size": 24753,
+      "sha256": "43a31fafe2d6558500437e180bbd32c325eceb9e11177cbb43e8c897d7b4c167"
+    },
+    {
+      "path": "energy_meter_digits/images/test/6/160_003.jpg",
+      "size": 10247,
+      "sha256": "cc3a6e46a7fa630bda68d94487191ab70196b7131850f98d95cf1c6da9d1bf16"
+    },
+    {
+      "path": "energy_meter_digits/images/test/7/010_003.jpg",
+      "size": 7932,
+      "sha256": "cfe0ff89ec0976eb555271e9716b02f2efab5597f3e73f877c9387cd0153f016"
+    },
+    {
+      "path": "energy_meter_digits/images/test/7/020_003.jpg",
+      "size": 8419,
+      "sha256": "d3b21b5a788944dfecc3ef79f113e0c114ba634aff62fdf971160bfc036b7fc9"
+    },
+    {
+      "path": "energy_meter_digits/images/test/7/020_004.jpg",
+      "size": 8330,
+      "sha256": "d353534b1d6aaf52fa21cf3cea5f8880dd907a06d6b6dc46a4fbba30cb02df77"
+    },
+    {
+      "path": "energy_meter_digits/images/test/7/031_004.jpg",
+      "size": 11170,
+      "sha256": "8722aadd241fcc479eab71c538978f49877d96e0a8823083b4a75a94357c6c32"
+    },
+    {
+      "path": "energy_meter_digits/images/test/7/041_003.jpg",
+      "size": 13871,
+      "sha256": "e5e3ca6c6149240474ab03853f23a8ed147780f386fe0472cdd8683dde502f02"
+    },
+    {
+      "path": "energy_meter_digits/images/test/7/061_003.jpg",
+      "size": 7751,
+      "sha256": "6ab90d565ef1586287f699d97536cb7bb26c5b9bd7b19281e529cf548c784b1b"
+    },
+    {
+      "path": "energy_meter_digits/images/test/7/070_004.jpg",
+      "size": 10051,
+      "sha256": "3629cba68de12ecab2cbeeb93398e5b0c312631be896bdaf6a34cfd819f69a54"
+    },
+    {
+      "path": "energy_meter_digits/images/test/7/071_003.jpg",
+      "size": 9843,
+      "sha256": "6630a69378d2326a8c9b9b3ccf1e054edfb67c5648c8e67172bc6871c8c3c052"
+    },
+    {
+      "path": "energy_meter_digits/images/test/7/090_004.jpg",
+      "size": 8542,
+      "sha256": "501ae58177c0b9780749f42ef8a54ef4ad5ef2d78236aab67e888bfb1bef50ab"
+    },
+    {
+      "path": "energy_meter_digits/images/test/7/101_003.jpg",
+      "size": 5707,
+      "sha256": "30163d65a218cec82a0d796ad143a3c4e7a241205d00c2a68b8640575d13fb89"
+    },
+    {
+      "path": "energy_meter_digits/images/test/7/110_002.jpg",
+      "size": 8589,
+      "sha256": "c2050b1d6d9c94a8ebcb5d897e4144452fd90ce13e1057828b5f7d218a1d1a0a"
+    },
+    {
+      "path": "energy_meter_digits/images/test/7/111_002.jpg",
+      "size": 6846,
+      "sha256": "50746457dadb70dd9109457e45cb10423a33640a7b4ae78c05c0c148a223ceeb"
+    },
+    {
+      "path": "energy_meter_digits/images/test/7/120_003.jpg",
+      "size": 6465,
+      "sha256": "9af49adecb453e97f85ad663d44c6c6397e5cc99817737f267b1fa8bb6312171"
+    },
+    {
+      "path": "energy_meter_digits/images/test/7/131_003.jpg",
+      "size": 9624,
+      "sha256": "3f501aa2917014f82e4bc5d29fe0e436e13ed03435d75cd746cc50259dab3a8f"
+    },
+    {
+      "path": "energy_meter_digits/images/test/7/131_004.jpg",
+      "size": 10949,
+      "sha256": "5f555cb5fee9eba8f8b6f0b02d62e157c261b26ef56dd92738db67005a184627"
+    },
+    {
+      "path": "energy_meter_digits/images/test/7/141_002.jpg",
+      "size": 9358,
+      "sha256": "781f81e2bf0c2401a13e8cb505e84c2ec4e409f82e29ed85750bab11a63dc93d"
+    },
+    {
+      "path": "energy_meter_digits/images/test/7/150_004.jpg",
+      "size": 20336,
+      "sha256": "fee817824d1e3df0a0a27aa943ae93d705676774557214ede254db7c5278b0dc"
+    },
+    {
+      "path": "energy_meter_digits/images/test/7/151_004.jpg",
+      "size": 20380,
+      "sha256": "5b1ae3e29a1a4f7e6d6f93a58efd6642d09fa5d650b2b87c04379bebb26de22f"
+    },
+    {
+      "path": "energy_meter_digits/images/test/8/021_001.jpg",
+      "size": 17142,
+      "sha256": "dd9429c2c224a4ca6acecbd4e94aa04adf2ea5d7e73fdf60a0d693d1f10662b4"
+    },
+    {
+      "path": "energy_meter_digits/images/test/8/021_002.jpg",
+      "size": 19134,
+      "sha256": "f654e5df09a2523f827914430f15e17844e426e1ebdd0fa5021e6c81c27c8600"
+    },
+    {
+      "path": "energy_meter_digits/images/test/8/061_004.jpg",
+      "size": 12661,
+      "sha256": "17b08431b18370e780b78b22110071d3cdf49b1829c52116b581a1e6897addc4"
+    },
+    {
+      "path": "energy_meter_digits/images/test/8/091_002.jpg",
+      "size": 14756,
+      "sha256": "f7816fc73e31fad4e1ac08b61236bb51f0782ea346d72d27b20eae27bd3b49c0"
+    },
+    {
+      "path": "energy_meter_digits/images/test/8/120_004.jpg",
+      "size": 3510,
+      "sha256": "bd1270495f3286f624e3ef06ebb8b55d5d793746b751394897da35d6ba9f8671"
+    },
+    {
+      "path": "energy_meter_digits/images/test/8/121_004.jpg",
+      "size": 16443,
+      "sha256": "9322da9672c49d341c4cc81f2a76c36bb1a54f786015fda15a0c39165eb5312a"
+    },
+    {
+      "path": "energy_meter_digits/images/test/8/130_003.jpg",
+      "size": 13816,
+      "sha256": "46e6afa9bcaed717e439ff15e9ceb9fbcccc10450db32ac05609db22ed9d0f59"
+    },
+    {
+      "path": "energy_meter_digits/images/test/8/140_002.jpg",
+      "size": 25887,
+      "sha256": "9a6830c3485e7c277c39be526c46f9726144fbef9914815fe6c4f6de030e2e4e"
+    },
+    {
+      "path": "energy_meter_digits/images/test/8/141_003.jpg",
+      "size": 13217,
+      "sha256": "25935a8ac69c81272250140d55081e82db4945f53060bf44ed6c8ab3b4c162fa"
+    },
+    {
+      "path": "energy_meter_digits/images/test/9/001_004.jpg",
+      "size": 12352,
+      "sha256": "0bb8b770d35b799d35e8e6c9ab6ccdcf701128109b4950d5e08dd2a158ec0b25"
+    },
+    {
+      "path": "energy_meter_digits/images/test/9/011_003.jpg",
+      "size": 10924,
+      "sha256": "cbb8941b3ad8f256921c9721f10b59001f0dea8e4ef5e7cf55b19fabf8657d1f"
+    },
+    {
+      "path": "energy_meter_digits/images/test/9/030_003.jpg",
+      "size": 10846,
+      "sha256": "47e60aebe08032316975e1f851aaf828f4c41040e768a7e6f4805ad92e79495b"
+    },
+    {
+      "path": "energy_meter_digits/images/test/9/030_004.jpg",
+      "size": 8842,
+      "sha256": "9d15534e71934c1a6061aedd82f45191953e3951d04b995351128ecb4339445d"
+    },
+    {
+      "path": "energy_meter_digits/images/test/9/040_002.jpg",
+      "size": 10007,
+      "sha256": "7eca77e57cfe1cb747652eb05901e8b2ea4a6d5f537db638c03eedd57280c078"
+    },
+    {
+      "path": "energy_meter_digits/images/test/9/040_003.jpg",
+      "size": 10060,
+      "sha256": "6eac8554f2d8b670ce08ccdf0120376980b457883c6c4948dae01e49d826b298"
+    },
+    {
+      "path": "energy_meter_digits/images/test/9/041_004.jpg",
+      "size": 13255,
+      "sha256": "e8d19cdef4cd5442c7fe33883253e174ae862c58dc4f5fac985ca85e84d0954d"
+    },
+    {
+      "path": "energy_meter_digits/images/test/9/051_002.jpg",
+      "size": 13367,
+      "sha256": "feb2571a48af03ea633bfb941964338fd0f3f1d13f2c75a58bdd915175b83689"
+    },
+    {
+      "path": "energy_meter_digits/images/test/9/071_004.jpg",
+      "size": 12480,
+      "sha256": "5119d5abc93bb16039261bab0f19a9159ed880a2b8b0a59816ad05f7d01b01d4"
+    },
+    {
+      "path": "energy_meter_digits/images/test/9/091_003.jpg",
+      "size": 14487,
+      "sha256": "9c25b259c99952ed55a610e6278573aa0ba613c764d062d65c1bf5eccc95da75"
+    },
+    {
+      "path": "energy_meter_digits/images/test/9/101_004.jpg",
+      "size": 8155,
+      "sha256": "4552e6e0117c9ac733696f046112edbe86e4ba9e8c55ea1f85cf0d9fe2dd903f"
+    },
+    {
+      "path": "energy_meter_digits/images/test/9/110_003.jpg",
+      "size": 12010,
+      "sha256": "5a7563347068adcd3c0e39fac9751f6ecaedf43f0af0b5a2561d80912d763c87"
+    },
+    {
+      "path": "energy_meter_digits/images/test/9/111_003.jpg",
+      "size": 12203,
+      "sha256": "601c416274019fc3f37dfda9b3795d52f7a9f8507beff65a01697b5217cb1bd5"
+    },
+    {
+      "path": "energy_meter_digits/images/test/9/141_004.jpg",
+      "size": 13946,
+      "sha256": "f4c79fb379a260942c9dea4f1a140ec7f1917d53b7d8176e32c83fe8166a65d0"
+    },
+    {
+      "path": "energy_meter_digits/images/test/9/160_004.jpg",
+      "size": 11777,
+      "sha256": "4fe771a5d191d7e4c282eb1d649d57d872664bcea2030609cea6a38e9fe43beb"
+    },
+    {
+      "path": "energy_meter_digits/images/test/9/161_003.jpg",
+      "size": 12114,
+      "sha256": "5eea7665de17a972129b16277a11fad88c8b816ede617916c2863477563a1b22"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/004_004.jpg",
+      "size": 17439,
+      "sha256": "223bc67f318829eeb95f53e7154d384b64abfa2a85b179261ab3adbf1771e00c"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/004_005.jpg",
+      "size": 12728,
+      "sha256": "5b07db6ee4375c4903d96b031cae68008783857e3b5c81123024ae2536d817c6"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/005_003.jpg",
+      "size": 12960,
+      "sha256": "cc0e62071faa6dce98eac18df1bb5dc932f268eeabb96f1149cc448370ba4bd6"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/005_004.jpg",
+      "size": 13520,
+      "sha256": "a77b72308fd2b8cf2cd4752e2c38846887ec70b3b57a4f107df5b1048acaaf51"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/005_005.jpg",
+      "size": 11619,
+      "sha256": "0a64ef57556f63471950e22dd8cce6bbae3a34ba51c8290af8795efad60c977b"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/005_006.jpg",
+      "size": 11516,
+      "sha256": "0fdf0d261cbab6c00d2136481d3c56d0ae9476ee079dc586ab6e3f096d3a2b26"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/006_005.jpg",
+      "size": 10783,
+      "sha256": "70d1f6cc0816e8618965cea43f0aac0ca769702aa17abd15e0316ef36779e014"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/006_006.jpg",
+      "size": 11204,
+      "sha256": "875b0acdcfcb367322d3fc1d56db54a77c591a055c462683394bf12de3cd0532"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/007_005.jpg",
+      "size": 20576,
+      "sha256": "6290ad679e35aec8b302c93c8a35fe20e714619026c9a5b8384d915d16a382ca"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/007_006.jpg",
+      "size": 18087,
+      "sha256": "553b27617209233a78f0947fa9e0a96d2a8f3f24442e529e288f225a13d07f71"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/014_004.jpg",
+      "size": 12684,
+      "sha256": "1af88522e1e3190d2775d315b4492225921418478a07ee68c0326ad6c74a0e03"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/014_005.jpg",
+      "size": 11561,
+      "sha256": "2f330bf1cd8cbd5a03f876f7438784125d4f82b189a5b88da1ccd5151e96ca33"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/014_006.jpg",
+      "size": 11127,
+      "sha256": "8f18a5adb8426e49086a2a32209a5d074410343027a567351388194244b835da"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/015_004.jpg",
+      "size": 9466,
+      "sha256": "d6c637501807ced80ff0ff74c81fc25b3daed111859d1435938558a701abb8ec"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/015_005.jpg",
+      "size": 9037,
+      "sha256": "8261c6aa0c02bf09dc6fd96145fe2d768d202a0db03cb19e6f19d5e199ae91e9"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/018_004.jpg",
+      "size": 10570,
+      "sha256": "4ac4f401ed6524acd17abe6fa6ac6f34f8abd3b3265c39c2de79978824d81615"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/024_004.jpg",
+      "size": 13614,
+      "sha256": "e6b600d2d77fa4a33a7bf655905f503ea30cee9bb6c83489265c4f43b310331f"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/025_004.jpg",
+      "size": 12667,
+      "sha256": "b9411080226fbae8a53cc26ae6c25fc9782936f535e24665d28fb0650c2bb40b"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/028_004.jpg",
+      "size": 10454,
+      "sha256": "3e7f69c5e78cbbaf028c857258bf8e0c274866ba87a1127e3e7da335f7aac7c8"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/029_004.jpg",
+      "size": 21682,
+      "sha256": "789d1ca11f711897af47bae02be4c6d581239fb15f850e72efbb838260d42c5a"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/029_005.jpg",
+      "size": 16607,
+      "sha256": "23734abae888c47f48c88f07709a71f14841f3f3e649a7dd2ceaf3796de9b693"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/029_006.jpg",
+      "size": 12964,
+      "sha256": "fb060d7b20009fcd8c14d60ab419d34ffa90d7c432460284386d53044c5d681e"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/035_004.jpg",
+      "size": 9673,
+      "sha256": "e279fe943c88a7138c7989e4ca4f80dfc91a04bdbb562b7eb501b4d472636636"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/036_003.jpg",
+      "size": 24197,
+      "sha256": "cafca47874b8b0d077f7cb3aea44a202cf9d21b41f00c722c0f191b0b0f5339c"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/036_004.jpg",
+      "size": 23239,
+      "sha256": "583cc8dd5ec02e7a189e7bd3b3a8d16bf4dbc653e3f864175d6677ee930dd549"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/037_004.jpg",
+      "size": 28836,
+      "sha256": "77e69492b9d2e792dadaa01844290a9c901c65271980b7746df221e6fa1390e4"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/037_005.jpg",
+      "size": 25342,
+      "sha256": "de621f2d12c82455d1157144b4545c35f15e54cbce256c12be975609506ec38a"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/038_003.jpg",
+      "size": 30926,
+      "sha256": "df442220fe10f081b740230f3cd3468c775134d1e3b14bda88fb707163640676"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/038_004.jpg",
+      "size": 23000,
+      "sha256": "de1c2e8f9e887457e930144f3e85baf87a1b5616ae94e214a70ad8e42ed0e22c"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/038_005.jpg",
+      "size": 19509,
+      "sha256": "7884a3a80c64a1509f23052d518cc7f41898c3cc2d6f6b8ef9a763536a88df0f"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/038_006.jpg",
+      "size": 19698,
+      "sha256": "5a01c7f97b8edea6068b2c7d73a6561446fb640b00c6d0ec7b664750cbe920ed"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/044_003.jpg",
+      "size": 34052,
+      "sha256": "d6fdd88b21899cd05ab4b6909c321337070fa95e661ec5e9294bb7b92f0e8d0b"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/044_004.jpg",
+      "size": 21562,
+      "sha256": "a20c17b276bf2f250ba02d1432f7944ca7580c460ec54569cbbc8ede54499426"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/044_005.jpg",
+      "size": 19638,
+      "sha256": "e9f760ddb20790fcc7c7ad7c2507b2375b4e0bb98779c8684c7ce050fd7126a2"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/044_006.jpg",
+      "size": 13886,
+      "sha256": "cff06abeb0660206c31013488d1487bcd35aff38c9db2dc25b762254f9df4e31"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/048_004.jpg",
+      "size": 12280,
+      "sha256": "0e2f78a8478639cd3ee6a270d4b1e673203d8229d3dfbae133962ef6ebbdd390"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/048_005.jpg",
+      "size": 10574,
+      "sha256": "988b18c68287202a82679b29672fe7d4585f9380b7eed8d8bbde64528cd784da"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/048_006.jpg",
+      "size": 10454,
+      "sha256": "2803f4ccfe09b604043922f738e579b6b83620ed7829c813977067ca8bc52383"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/049_004.jpg",
+      "size": 10539,
+      "sha256": "dbf7c4d9dba0f391e37150512234adc84f0fda9c2d67abad9c6d7055e34462fb"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/049_005.jpg",
+      "size": 9466,
+      "sha256": "7eb0d1f417c2d2f31c2ba7d8a561beede3965e7b03a74749f1f47a520dd86297"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/049_006.jpg",
+      "size": 8847,
+      "sha256": "636aa397a65cc0e9aa992f944d608baaafeb5f590df5030087913d45ab11437a"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/054_003.jpg",
+      "size": 14245,
+      "sha256": "41a513ea8e358f182c9d15a0307320cf885384ef5c53725437855333b28b0e58"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/054_004.jpg",
+      "size": 13553,
+      "sha256": "b8e898af02be79c32787993bd936f045e225aaf36c4ec682a9d56d60a649eae8"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/054_005.jpg",
+      "size": 12829,
+      "sha256": "152a3566b78794ecebf17048093d4c821d6b64f6fbd7c90fea830142280ed01c"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/054_006.jpg",
+      "size": 11188,
+      "sha256": "4f7ae0a612da1766950ec3451036565ce5cbf9dff7abe632764d2e0ce5628e47"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/055_005.jpg",
+      "size": 12200,
+      "sha256": "c578f2e021b78da5108871e7e420b9e905b851cdf27783456f81330a9aa62ac2"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/056_003.jpg",
+      "size": 17257,
+      "sha256": "1f0a9d51baaf4990bf79a165d106cc9be020ff34c01fc7622d41ec2d19236da1"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/056_004.jpg",
+      "size": 15942,
+      "sha256": "d796d1f02e332420e387ce15d4c00baa9139f387e954a66f598a03d8045be45f"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/056_005.jpg",
+      "size": 14487,
+      "sha256": "a1fcc5390d56c0984b6c6989e6ebad32442e60e6c3af6dbe4d0ca32648a84933"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/056_006.jpg",
+      "size": 11361,
+      "sha256": "dbe470e3d552d2fa8348e90a7781d51e38d1d20db7057cf73b2ce90da1b47255"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/057_005.jpg",
+      "size": 10773,
+      "sha256": "8fa6fe1d272411130141a12b9053436d9c77772673be0ed418ea5090534e212f"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/057_006.jpg",
+      "size": 9506,
+      "sha256": "cc1022e2976f6a3b459965bbce6f0dc8fc33abb141b50627f45e1952e8116d8c"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/057_007.jpg",
+      "size": 9048,
+      "sha256": "249e11cb3b6840e2b131c51a2c7d1d5ea05762c67836c2a618ac22600e414e87"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/058_005.jpg",
+      "size": 10841,
+      "sha256": "b293e60b2095bb67a080642871c521bc32b35e7df09140401183304111353e67"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/058_006.jpg",
+      "size": 10654,
+      "sha256": "165778acb26d9c5209df11d98c5c70e955d8897adc06aa63fe7ad8b11e9120e1"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/059_005.jpg",
+      "size": 12506,
+      "sha256": "c8b2178b235d67185bbea9191892c7c9ee166e2715dc7188d0397ebdb064c2d1"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/059_006.jpg",
+      "size": 11331,
+      "sha256": "7d539ee90e9f58171198074f1adff1a9de3f16b3124d263cf9293366f3f4bc9f"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/064_005.jpg",
+      "size": 10088,
+      "sha256": "8d4a64b3e82e0d42d0907269d5f65af89aa5c21c5ca9c3931c691060de482911"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/064_006.jpg",
+      "size": 9844,
+      "sha256": "2bd105cb4df7527c89f26cd182ce9a25221a51f29372834e99ea1b53156477a5"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/065_004.jpg",
+      "size": 13364,
+      "sha256": "54041828f1f71cc33c6667f4b1e70caa17c99fb54447628dad40d3d3ec6cb56b"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/068_003.jpg",
+      "size": 12643,
+      "sha256": "ebb51922202467dd02259179ad4b9ceab5471b1e5619a1488d43b54b7fa8fab1"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/068_004.jpg",
+      "size": 12190,
+      "sha256": "54f2f0eb3ce433ebf224f81060ec58c681b0798de158357aa8baf869eeb36390"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/068_005.jpg",
+      "size": 10688,
+      "sha256": "d3a180abe076d17767d85176ab7ed6544d5d71fbf26c8db1db057ca496ea1eaf"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/069_005.jpg",
+      "size": 12344,
+      "sha256": "12b1595ca8658cb35b32d34fe948ca1313cfcbfaa57eef45678e2d62a3c1b5f8"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/069_006.jpg",
+      "size": 11587,
+      "sha256": "c0f95232c1875a1514193e5e6ef881ff39d861c1d701511c10e8301343e53535"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/074_004.jpg",
+      "size": 34290,
+      "sha256": "eee1aaeb105ae63f07d6fab6a8410dbaf2e5357e547c78955d2bbf41808a731c"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/074_005.jpg",
+      "size": 30629,
+      "sha256": "dde15373cc6aa0360628bed09d61f64bd7c0d072ed92ca193b0bcf18927e588b"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/074_006.jpg",
+      "size": 28137,
+      "sha256": "8fa4e937b21db38ce6aa5ff09fdee73230a376a7d96038c29dc1920f56ee6f10"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/075_005.jpg",
+      "size": 15701,
+      "sha256": "b594923c70747b3faece9439defb5ca6f93ee76c29a15ba11ebfe7dc895bad40"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/076_005.jpg",
+      "size": 14254,
+      "sha256": "5afe76fc8900fb6a39fe15dcb6568af21f19ead7b6e5216c1bea3db9eac09883"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/076_006.jpg",
+      "size": 11633,
+      "sha256": "94b03082d9f0ba8c77de1a76afa4ae5ce7487416e9df0d2631a907253dfe2dce"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/077_004.jpg",
+      "size": 35946,
+      "sha256": "5cc8ffb0682efe40c4236f85c5558a6de56ebff650172dd65c3f25b0f71e7d26"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/077_005.jpg",
+      "size": 30936,
+      "sha256": "53d0dc2695384f8a6e6f9f2760b1e9b6ee638fdad4da8a925830f85ada9ab60b"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/077_006.jpg",
+      "size": 27235,
+      "sha256": "e5da9074f0b311513508df8a91000a65c4ce9ac6317e1752a7809fc92f732388"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/078_003.jpg",
+      "size": 18673,
+      "sha256": "4db5f9ab4eee77a8e4f8f6ef95f2e7945b87798488457c3fdf18f423892d0eec"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/078_004.jpg",
+      "size": 19050,
+      "sha256": "10905041ca0bc1051f0732c1e030aaf384a6fbe254f744684d8dab38d4c749e7"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/078_005.jpg",
+      "size": 16234,
+      "sha256": "7e374cbd72b86ece3198d1a1dd83703965b76978775cb8eb212eae55a8428177"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/079_005.jpg",
+      "size": 26401,
+      "sha256": "49c62ae8eb12cf1ecd90088de54965b50a5972d81c48b973d5ac4f2ee6989bea"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/084_004.jpg",
+      "size": 10231,
+      "sha256": "d34d3d0c3b1da4ef289cfa6ce900a104282d03fabda7425edd63ed9926c9fd63"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/085_004.jpg",
+      "size": 9321,
+      "sha256": "4990f740539b00adb0de6d330caac86f791cba21ab24d7be4be3c8e0de08497c"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/087_003.jpg",
+      "size": 11365,
+      "sha256": "20a448a226bfaf9f4d6460fde0288894ea990059820c3536a701d16ccf28543b"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/088_004.jpg",
+      "size": 12085,
+      "sha256": "74677ee018bfec3c2437f82b543aa1596464a20d1288ca6baa77e4e29ff71821"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/094_004.jpg",
+      "size": 7471,
+      "sha256": "bd2cf7236faee9b26dc53f35ff3a8f273fa8cf5fe4fb2327d5cccea53c1213d9"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/094_005.jpg",
+      "size": 6955,
+      "sha256": "db82896c811a6e6232a0158c221c3b83e219343b5ef867cc4e3aa317a9fcddf5"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/094_006.jpg",
+      "size": 8362,
+      "sha256": "47b0d6b7bbd3d6333371d0b8864c459ad937c9520797072192e31ec8d637bc7f"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/095_005.jpg",
+      "size": 20821,
+      "sha256": "6882a42bb9f00b2e37bbb67ca2589ae3ca56f433004dbacd339048b6eb2bdda8"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/095_006.jpg",
+      "size": 15116,
+      "sha256": "8f0b2efdd6cd7657b5e3259e67ce0f2b5d65851d620fed9f45823325e0251457"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/096_005.jpg",
+      "size": 5103,
+      "sha256": "88b978b4caff07050cc201112f28dd9eeec5e22b267f16f96d5a13de0d6390ca"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/098_004.jpg",
+      "size": 11312,
+      "sha256": "9a9a4295d6f682ed6d6a07252b52e27ab1cf552c8f15eaad5709bb74af18ed93"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/098_005.jpg",
+      "size": 9403,
+      "sha256": "0f9e79fb3d4a35da7ab704d4aec0a30be61a993e1436a14e9a61a72529c84628"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/098_006.jpg",
+      "size": 9560,
+      "sha256": "4795a629642464bc0c56721f67304c69d5ec7d21a25c7a1580dfd9ba6c28185b"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/099_004.jpg",
+      "size": 4755,
+      "sha256": "76f216f43fd36000adda27c86fe2dc019a09f9535cdeb4cf7dc3cac0649fa357"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/099_005.jpg",
+      "size": 4940,
+      "sha256": "588c4c91c4cd7049aed679a576012332ee340f0ecc093a2e402add7760e939da"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/105_005.jpg",
+      "size": 17295,
+      "sha256": "bea7685d05e9ac1f67f9f8a865bd0b5b84221628517f80abc3834a9d2c8e0577"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/105_006.jpg",
+      "size": 13106,
+      "sha256": "996e5a2a45f728e44a0319f0064e87fe33e4e4b6eb40d6696f969c1088e761e7"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/105_007.jpg",
+      "size": 13494,
+      "sha256": "fa1f71f95acffe893e7e9e288c1833dc5c8d3884264c10483c9130253646bf8f"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/106_003.jpg",
+      "size": 12218,
+      "sha256": "9191e86280394cc7cc06ba5b980389a97dcfa76eda8d634c022e70250713d906"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/106_004.jpg",
+      "size": 12947,
+      "sha256": "384680c25b0902175731ad7718f1ef623d5303e75bc0053c82c0340c46844525"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/106_005.jpg",
+      "size": 11958,
+      "sha256": "b6f0a9a4f3d773302194cedf2579e301f267809cbc579714bceca2f2c412b888"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/107_004.jpg",
+      "size": 16155,
+      "sha256": "f5f4b9d6565bee615507c92c3b809d59bbb50e596b68ade54f5e6836aa289326"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/109_004.jpg",
+      "size": 15796,
+      "sha256": "09631741bcf5333ac52feded1d92540c38982f76f9983697b4566632515385e8"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/109_005.jpg",
+      "size": 12894,
+      "sha256": "9b3693952a7d00b1077d26ddf065af81a72034b6dcc9ce27f1fdec6375dbf99a"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/109_006.jpg",
+      "size": 9102,
+      "sha256": "8fbd8eb076be9dfd44614c236b1c591ecc2d72218e38007f1e6f6489a8a1a58c"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/109_007.jpg",
+      "size": 10557,
+      "sha256": "7a5ac87d077b584f062a4a5f4e78de1ca544604287e8171afa02786f0a160ec0"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/114_005.jpg",
+      "size": 14371,
+      "sha256": "b0afb6daa11bbca6d847a620b602e72bfeb7daa9bf225bed633ce2a58f19ce70"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/114_006.jpg",
+      "size": 11605,
+      "sha256": "68b4836538da017a08ae72f655fb5eb76421c9c08058b7ff020797a9fd2d21f7"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/115_003.jpg",
+      "size": 13965,
+      "sha256": "f7cfbcb01395e8aea50988655286ed24457b58755c7f619e5128ec06cddfe585"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/115_004.jpg",
+      "size": 12279,
+      "sha256": "0dec2d92049a4b90e2a10654e5d9a978ec64d467163829e9cf3aa1ad1cc501e5"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/115_005.jpg",
+      "size": 11070,
+      "sha256": "0ba71abccafd14a7bd1dca7e98fdcb28c3b13d0a25b741451e83d6a37fd958a9"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/116_004.jpg",
+      "size": 19213,
+      "sha256": "f79598497f5f1a94e453f77bd93674fadad71399f1d58d964870de8211d5637d"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/116_005.jpg",
+      "size": 11651,
+      "sha256": "8e0e303435f866ebf8942fdb461de69902ee5d3b33f3b955733e16a7a78fc7f3"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/116_006.jpg",
+      "size": 12201,
+      "sha256": "d70ddef4acf507d9d33e68b3874fa8fe3aada4903ba24b6f9d1b58bd19854df4"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/117_005.jpg",
+      "size": 13290,
+      "sha256": "ef58d5b811283518d60f3d367363504a8015fbe439cb769047bdb0f6cb634d67"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/118_004.jpg",
+      "size": 10965,
+      "sha256": "610334e95edc891f12416c11d27baf0fd83b9ddcb6403051c36ef343e3131a5d"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/118_005.jpg",
+      "size": 14001,
+      "sha256": "d57d66e24de2ed88268b047322f68b9e12476428b437fcebf54d1086874e810a"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/118_006.jpg",
+      "size": 16268,
+      "sha256": "d0498ed8b6644be1b3753961e0b828eeea5ebeee5cc417ece90e4d09cd92bbcc"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/119_004.jpg",
+      "size": 16624,
+      "sha256": "f9c12119269bb9d7c432f45766deac28a6fa4e96f8af6b31ccb353eac6fabcf4"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/119_005.jpg",
+      "size": 17939,
+      "sha256": "29e5438851c50e96832dd7b04078c154a5334db856a6a49edf2c8adf3831dab0"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/125_004.jpg",
+      "size": 13113,
+      "sha256": "9e94a7b02edb8def05075514e11465149e1292b1f39a64d288e50ff8ce8c414d"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/128_003.jpg",
+      "size": 12263,
+      "sha256": "881288f16572c5689e7c80baf448bf564226ad4cf17694fa77f52ba292f994ea"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/135_003.jpg",
+      "size": 14917,
+      "sha256": "3b2d03978ce6ef60469149f7103c30c3db5da414a597e0d2bc95ea3d4b7c0f14"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/135_004.jpg",
+      "size": 11232,
+      "sha256": "0b4e7e26e77d01961f3c9919b4a6cec0c832a3e91dcc3e83708dfe00fece4aa7"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/136_004.jpg",
+      "size": 13727,
+      "sha256": "5148e796ac7eb8d5d10c66b3420e3e77bf63573ec3bed8970112119eff0245e6"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/139_003.jpg",
+      "size": 22577,
+      "sha256": "fb91703314c19aa9cc51c26ce3316f3c08438c3a9ec0621d970e6a2f4b30a083"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/139_004.jpg",
+      "size": 18546,
+      "sha256": "a21f48ea4aa7d0a3a3ec1e239ec6bd53e31310f57e91271f106cf7dfdf5b3fdf"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/144_005.jpg",
+      "size": 16011,
+      "sha256": "fdee477b152cf4deca786926f2b486d727abde1a01f15e8744dfd8c60c10fc2b"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/144_006.jpg",
+      "size": 12798,
+      "sha256": "6da4083208b3e07118ab088356c344ed95b3b7e5dff3f400ab1e0a457f4cbdc8"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/145_005.jpg",
+      "size": 10360,
+      "sha256": "f787fcc1206f82a4d2cbde7c7af4436747682f242bd8d2532def9dbc522ab68f"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/145_006.jpg",
+      "size": 7959,
+      "sha256": "774326c1c94d834446deca93ebdc3cb9f2382ad327ee4e4840d4e02d35b2c45e"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/146_004.jpg",
+      "size": 9614,
+      "sha256": "9787bd931cea9ea74f52ba17750b4982338a14d4ad0167881e04ebc7c7fc1185"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/146_005.jpg",
+      "size": 7611,
+      "sha256": "a7b05789b4b23f79354a1e949dcc519dfe14b9c973ef9cc9c8f70a2738bb70b9"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/146_006.jpg",
+      "size": 8615,
+      "sha256": "d286b8c98d54a146a2c902e984f3aff86089bb571fe4b3d49f7ed6e4b4ccaac3"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/147_004.jpg",
+      "size": 10796,
+      "sha256": "692d7f080a75854c8af26cbb62a31c1b2540f9eb47898cc1ce0d276b6b6d2073"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/147_005.jpg",
+      "size": 9800,
+      "sha256": "7ca2545f3c4fffd7eaeddb2e6a8e9e15bf57dfcdf950f265e7b0faf88f950206"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/147_006.jpg",
+      "size": 10101,
+      "sha256": "a163cbb6df3bb05158a9b8a9fee533b8ed391cf9f5de62646baef8cc834d739b"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/148_004.jpg",
+      "size": 6781,
+      "sha256": "ffaf5ba9406a6f40b6349aee2e423d78725a2f0082c2768daaefeaaa0db7d4cd"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/148_005.jpg",
+      "size": 5939,
+      "sha256": "8f30545b3af1dd8bd243fc0d904d59041aac15898050e60258970456ecf7dc67"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/148_006.jpg",
+      "size": 6334,
+      "sha256": "79218df30f60b650d95cce6e189384ba6954a20e95d908b0937eae5c60b3ed77"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/149_005.jpg",
+      "size": 6559,
+      "sha256": "99342ab9321622cf58c2db1d93b685893e5711019e1f81531f9a007bf8c5a364"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/156_004.jpg",
+      "size": 15565,
+      "sha256": "4593c71a773278804e0caeebb7d0ee20d543bcb73c10c994b1e684bcb15aef2c"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/157_004.jpg",
+      "size": 25117,
+      "sha256": "d96834b9f3a9870f1c32829ff83951da3f4be8f80c0e513d28aef18477e94ae2"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/157_005.jpg",
+      "size": 22891,
+      "sha256": "680da2a5ba66f7eb7d3824457e3e4acd8170756dec9493a5ec656308016e6832"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/158_004.jpg",
+      "size": 28754,
+      "sha256": "7cc06aa940b3563b3a9a34b23321498b6eb19109499dd1a41f8c77ae0c2dfefc"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/158_005.jpg",
+      "size": 23981,
+      "sha256": "f1ba7d6a95555e01779122190745ae4c4b918c845e028e024d4791a5c111b271"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/159_003.jpg",
+      "size": 13819,
+      "sha256": "793505e4d63e71f534f2adff048726afd117ab29b866621f228cd9648d0f1069"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/159_004.jpg",
+      "size": 14378,
+      "sha256": "dce91338afd30381b00730b9f25b3dbe632a583b822e5780736f85555fb69e1a"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/164_005.jpg",
+      "size": 11788,
+      "sha256": "d793e83d0d5e5d74a12932aeb97496ea7d59be67b9e768f0bcfeebdb634f3165"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/164_006.jpg",
+      "size": 10474,
+      "sha256": "49838eb5e574d995c1ebd2b34fccd22241c13f41e46e4c0b6948ebc16789892b"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/165_005.jpg",
+      "size": 9494,
+      "sha256": "bc9648b2bc7fb6e3bc944c1fee2d07fdab473bb712e33c257ea7a0a25e0b8177"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/165_006.jpg",
+      "size": 9215,
+      "sha256": "7f6c206e0044360254220a312fc8a787f9840d2a42585d3ab2333ed6526dbf0b"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/166_004.jpg",
+      "size": 9857,
+      "sha256": "c9cf65ad5a2b4b8497b918916c5b94dd7b04a02846b9306107e35f3bc45cc1c3"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/166_005.jpg",
+      "size": 10011,
+      "sha256": "8dc8003e6905e8adf982c967efdac74040709dcece1194dff498a681c9ce30e1"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/167_003.jpg",
+      "size": 21292,
+      "sha256": "a4bff408bfece1752169216c83c06db3957d03f87422e56adbc2c8f30700381b"
+    },
+    {
+      "path": "energy_meter_digits/images/train/0/169_004.jpg",
+      "size": 11300,
+      "sha256": "d5414fcc59f9d1068f4c6c9f96c04c1031e8e85e992ba2ff8bfa1df8ed2bb5af"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/007_000.jpg",
+      "size": 9216,
+      "sha256": "3efa22560aab9aaf1da187e7b44a8597c0f737719e1a542f680a7ad349cb7aef"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/008_000.jpg",
+      "size": 6585,
+      "sha256": "9fb1837e6a702ddb14d45181b5a3705da7ea2d1e88ba1272c6af523d8ce00235"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/008_001.jpg",
+      "size": 6404,
+      "sha256": "d9707efcde40481c8ead01256dba33ffb2205c7f1efe022e9bd75edcb204f8e6"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/009_000.jpg",
+      "size": 5098,
+      "sha256": "4597c135860e7fec634f4b0aaaf5c08a6896564a13ea209bc15527875cdd1eea"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/014_000.jpg",
+      "size": 4998,
+      "sha256": "c9e6ef9ec4b70de7a00a46c3801e3e048142d41cfdfb0e88cf37d93e11dabc39"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/015_000.jpg",
+      "size": 4094,
+      "sha256": "c3c5ba3f8d93b5f26b4fc1d7c7ca573cdb425273fe6dfc971644fa177a2a2df9"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/015_001.jpg",
+      "size": 4349,
+      "sha256": "1474191354f7ad0a2799b871d40ced93d4c66b8204a8c02ea410b6e2388e2757"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/019_000.jpg",
+      "size": 10441,
+      "sha256": "21f5e42b59536f22879875a1523d47ae0588bb810e247858d914a0c5464f0a4c"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/019_001.jpg",
+      "size": 7013,
+      "sha256": "4efb27d5298722e7fae041f26bc051ed7b58f4c244a5c60b9046dd2296d5525e"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/024_000.jpg",
+      "size": 8756,
+      "sha256": "34fe62e9ffe5fe660ca493418b2e0ee09601707e44918e4c8f94283cc77155ba"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/027_000.jpg",
+      "size": 7472,
+      "sha256": "5f7bf73be345760315b5a9060b7ff8d865b8ba7b46990fecce2ab1de68db423c"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/034_000.jpg",
+      "size": 4572,
+      "sha256": "52243aeb1cb4675cb8e5c66e35ea0081a95ae1d72c06a3d2bdfa912acc6ca157"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/034_001.jpg",
+      "size": 4192,
+      "sha256": "0a0f849f2a70e608bd04329708c1092aca7187cffe1acfcf769635e4b3bf1ab6"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/036_000.jpg",
+      "size": 15794,
+      "sha256": "3085bdad72d264a3d0d695b0972a5909a6284f6221e376df4c06dc4ce3708622"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/037_000.jpg",
+      "size": 9684,
+      "sha256": "8110a4a2cb5015f47832480cf098f42ca0adb92bdc90c44f36ab2a8184c11063"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/045_000.jpg",
+      "size": 15279,
+      "sha256": "90af15aa7aeda848f7612b71df5576752d0c149dc6cdc6a1b64516f7173edeb8"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/046_000.jpg",
+      "size": 4927,
+      "sha256": "8d63a6d3d6538a689e91caff10658ccd14b028436260d028e03249d429c086a6"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/047_000.jpg",
+      "size": 7949,
+      "sha256": "bac670176a375f10d7e2a8316bdad7a31c7a9b98589cad7f6dc7f15fe7b74598"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/047_001.jpg",
+      "size": 7701,
+      "sha256": "89672b94e55fe46e58bd7a2df9d35a14f56d7b3115427bd9af8b23a59923a4c9"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/049_000.jpg",
+      "size": 4268,
+      "sha256": "34e04a5835a614d8fec66ea1215254b22436e281b10a09c8ff6e4b988b2d146e"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/054_000.jpg",
+      "size": 6336,
+      "sha256": "e16ac99941de742ecd21211d68c49297524986f02ef455195bdbef1d1f836f09"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/055_000.jpg",
+      "size": 5828,
+      "sha256": "ad374b1281f53456335b9f2c2c3e2d7dc8785500f2a44bc142b2c73fa4d83613"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/055_001.jpg",
+      "size": 5847,
+      "sha256": "55b0b5fda33bd73c8cb15439e02de57833ec00a2688f1064307bc3219ab9aee7"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/058_000.jpg",
+      "size": 5014,
+      "sha256": "ed1a3db679953be106cc3f6e9b8e093ecc03bfadf9e421c93add0b1bb6cd5951"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/066_000.jpg",
+      "size": 6724,
+      "sha256": "c9de53e0f5c3649ed020a27ccab2194358da088928a2ff1c1aa58a9679b16524"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/067_000.jpg",
+      "size": 5367,
+      "sha256": "ab9cfdbd7af24245aa4edb6e1ac0ce2acd70737db6f60eda2c787c6eb322e27d"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/067_001.jpg",
+      "size": 6113,
+      "sha256": "4c0b464d2edfafe6c47a382a0d5acc26f3dffce2afb2486e58bdf636752a1a7e"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/075_000.jpg",
+      "size": 5734,
+      "sha256": "6bfe34f9f001703dab4eace66b5b79c63af6fc4f08641aa16e4689fd136eda68"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/075_001.jpg",
+      "size": 5517,
+      "sha256": "8aac5593900a5a4d2d3fbc44f4494d91605fdd3af77970aa3f0efb5db1c1aab6"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/076_000.jpg",
+      "size": 6886,
+      "sha256": "63e8ff31b67ee0ee9c9faf39547204eba031c8aafdc1956659ffdee60d299f5a"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/076_001.jpg",
+      "size": 6555,
+      "sha256": "47497e5cebf98f10911624a9e7f200525a3d40deb690488e85f1f89d24547e8f"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/084_000.jpg",
+      "size": 4231,
+      "sha256": "57899fc634b058e3c182fd0fec1efb0bff33a74548ffba011c0fae0f48128858"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/084_001.jpg",
+      "size": 4743,
+      "sha256": "c32766c0de06cf7b1d56c6350735663773f7976a358b26c21d9f37337cbede00"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/086_000.jpg",
+      "size": 8191,
+      "sha256": "c091561230324f13b189837ca6e8aef7c36172c78de5a549b8153fa13017323b"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/088_000.jpg",
+      "size": 5730,
+      "sha256": "3cbaf007c5859efb65abadbbc54289f5f7380b9d1ccee86a8ad06b26913a349a"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/095_000.jpg",
+      "size": 7280,
+      "sha256": "84a2ed4947a5d78b3befa3ed813c5370a09132b8c06466890d106c08e6d342fc"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/098_000.jpg",
+      "size": 4982,
+      "sha256": "2cea3cda9d7d8828b7fa2cdc5ef18c48bfbeb5938f130c828b4afe93724860da"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/099_000.jpg",
+      "size": 2355,
+      "sha256": "fbdc72b5fbf6ffeb3f3ef198c5030e642e938443bfc49336d16403d64c830c6b"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/104_000.jpg",
+      "size": 8357,
+      "sha256": "20b29e83d81d2083156c09af738bca43b6c86b4a11ead72e07cf5a9985b89078"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/105_000.jpg",
+      "size": 5020,
+      "sha256": "af3ecb9600b99f8f9cc36ec2cf7a0436301751d37706120a8a09aeea9ea95ebb"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/109_000.jpg",
+      "size": 5414,
+      "sha256": "e022715b9ec5015498969a007ac88c8d24f39d36c467361d889d809b339b16dc"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/114_000.jpg",
+      "size": 5647,
+      "sha256": "fcb785565e29a27fc24390b0bd636fcb84a7f400085d6797f9a983d7b446f6aa"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/117_000.jpg",
+      "size": 4860,
+      "sha256": "dd2fe63c358ea248037648e796c337fa4d19d15eb398fc1b22bbe4510671bb4d"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/117_001.jpg",
+      "size": 5438,
+      "sha256": "d59841c2b3e84fde9562e79f087d596441fd7b0c79d9f2fdf23fef74e0f7c8b0"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/118_000.jpg",
+      "size": 6230,
+      "sha256": "6e0224fe97ddf704ef597826b946e0002cafcd4691c17f4804d3713256bc2905"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/119_000.jpg",
+      "size": 9765,
+      "sha256": "c1c97b85be27f1ea9008573e878df7e1349ce2299358606767476f4a2c0bc426"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/119_001.jpg",
+      "size": 6842,
+      "sha256": "b085b4c9b5ee618fe17607f47c0aa8b7a32a968c71e9bd1fcf8c4ad37b9eb738"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/126_000.jpg",
+      "size": 7642,
+      "sha256": "688a42351424297dc9e2c32575110c61baeba395662959db6152fd8f82a002f7"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/127_000.jpg",
+      "size": 9273,
+      "sha256": "9ee3699618766bb77b9d446cd2e1da80aeb7453697c1c061d1391fb35342c9d9"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/127_001.jpg",
+      "size": 6968,
+      "sha256": "6886cd636a90bed8bbb8b75ef39b89ac910da9f254772b5aa3349129f65fb493"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/129_000.jpg",
+      "size": 4664,
+      "sha256": "55f1f88bfb63bb9284dd78dfd7177e8017582cf147d5cdb34943bc50bab3defa"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/129_001.jpg",
+      "size": 4374,
+      "sha256": "3dbc8da66b92caa37360264d2535527bab36dd227904735cd3dde787117fbfd5"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/134_000.jpg",
+      "size": 6545,
+      "sha256": "37cc3f00c40e09c6446aa14e28e7ab3338beae00956105e111e47fec8b04a46f"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/135_000.jpg",
+      "size": 9348,
+      "sha256": "7d2f725be4bb1b972838cd3448305751d405c36e803fe64b0c45af5112d43071"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/137_000.jpg",
+      "size": 8104,
+      "sha256": "83f41e7f9d0fa435af1a1896133378b0580fec9b2ac7718788cc0d3c3b415448"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/139_000.jpg",
+      "size": 13035,
+      "sha256": "68ad03bab0a38e0bf835e2759d3d67f45a16ed7a8659af8bc75e89a020df16e5"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/144_000.jpg",
+      "size": 7353,
+      "sha256": "80fc2287a1e3e1c716a56f4453482f0835a94e7ce821189a760a711d3aee31d0"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/145_000.jpg",
+      "size": 5081,
+      "sha256": "d07b043ffcf6a67c19b00138e57ef45d73947677c1bada74e5f1b40d3681d101"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/147_000.jpg",
+      "size": 4560,
+      "sha256": "3706d3311e9bb164bfa27d79e42c9a339d297ed384482622e488e03f980621fc"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/154_000.jpg",
+      "size": 8518,
+      "sha256": "fc73626544366baef18a29f192385e4c9c97ba77b6b64cbb09d622f812559873"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/155_000.jpg",
+      "size": 7981,
+      "sha256": "20afdbd399149f0828f38983f16ab394adbd89b6160e9cdeb92b9fcb595a4426"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/156_000.jpg",
+      "size": 12507,
+      "sha256": "6902b34b6f89946e623f40a9be29808692be587f055071707474092b057480ec"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/157_000.jpg",
+      "size": 13078,
+      "sha256": "5f5a5559f3f196820e4ecb5a4a0359ed6ac56ab86ad00de3312fda980d496933"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/166_000.jpg",
+      "size": 4728,
+      "sha256": "344d8c225eb9c12f4652b12d537166bca2225c9391c8fc097fac3a3b5cf07be2"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/166_001.jpg",
+      "size": 4524,
+      "sha256": "7f077b6284d33edb9ad7f00723370816f75e26bdccfc2231625f107e6d3fcb3d"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/167_000.jpg",
+      "size": 8081,
+      "sha256": "e8357390521884c1026f2fac629e99dcdd6e2ed2525b330204c8948cf86e8786"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/168_000.jpg",
+      "size": 6418,
+      "sha256": "b6af2fcd761c588f6b4183d71ca746df084d8e62fcbc598157f0ff46d5e14484"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/168_001.jpg",
+      "size": 5155,
+      "sha256": "72613607d6cbe56427a3628e724793b7787662b1c4f25a5bcf6c9285cd7cfcd9"
+    },
+    {
+      "path": "energy_meter_digits/images/train/1/169_000.jpg",
+      "size": 6738,
+      "sha256": "f4ae8bc54e9d4c857e1f85762f5329a63e2ebe401799364b72c0d0e5dc50098b"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/004_000.jpg",
+      "size": 12560,
+      "sha256": "3379ab3437736b8a87d423e835b6c051f3c6073af7703148a550e7dae3eb485e"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/005_000.jpg",
+      "size": 11434,
+      "sha256": "20386f487a8bfd21271dc13ff527d3f2c1a4e2926492ee54aab4119d31742223"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/006_000.jpg",
+      "size": 9559,
+      "sha256": "4c57d4e811e10f6c9c53c85f3cb74cec48708a701995a05bf5c9de55ceca1531"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/009_001.jpg",
+      "size": 9278,
+      "sha256": "4bfff75d385aa2aa063bcae3ba17043263338f986a51c9cf86d4edcf5e6395d3"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/009_002.jpg",
+      "size": 8873,
+      "sha256": "615242e841ac81b3138faf01f450070a849c159f97f545ea8bc0fb32614ce7f5"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/009_003.jpg",
+      "size": 9939,
+      "sha256": "8e5b4e9e55fa4ea8ca6a8f8f2b3a39ec6d29d5f2f9a9f8132101ad2cbb422e33"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/014_001.jpg",
+      "size": 10816,
+      "sha256": "ee1b3983a2b57ca36f08f88b0c189d26f8a98842aa7804e4203a3a9563688b61"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/015_002.jpg",
+      "size": 8697,
+      "sha256": "94e7a4613f87df8744a71a806bc4dc99c3b0292e695cac73d945609af087ac82"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/016_000.jpg",
+      "size": 11465,
+      "sha256": "25a1ce40a7d89c744fd1609e61484324f4e1f39176e172c59f1f5b63c41f55f7"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/018_000.jpg",
+      "size": 10568,
+      "sha256": "361b24e424c60b19d76cce0b77a1b0ef87f99eaeda9d7e092486f5c6b31c93ad"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/028_000.jpg",
+      "size": 11837,
+      "sha256": "5bfdf1b3cbdadbf0fc018fe531d45b86310a75824f29da53d37dd71414e3752e"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/028_001.jpg",
+      "size": 10185,
+      "sha256": "599278cdfb0ff3989aa60bd75de1a7646364129be4a41d94d92fef8b20810571"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/029_000.jpg",
+      "size": 14968,
+      "sha256": "94de96d61e8ba737aa897061b1ad794261bc554f47555ccf3beb3f8034548ae1"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/029_001.jpg",
+      "size": 15176,
+      "sha256": "624b8eb4a907e5fc96c5e85cc53ccd26d9948f73809ae4f9f6ce76113030533e"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/029_002.jpg",
+      "size": 13351,
+      "sha256": "de39dc9a8fd5d23b0206692f4280a87c1694adbf32b3f99ba7efb51173e294fa"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/034_002.jpg",
+      "size": 12296,
+      "sha256": "5ece5550b8f15b5118b9e891264985b68f70b1be4bc385fba3bfa4bf6033c218"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/034_003.jpg",
+      "size": 9784,
+      "sha256": "55b804b4d50645cc681ca70210406f4edfe3fcfbe5f67ab7868d9e30b06550dc"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/036_001.jpg",
+      "size": 23788,
+      "sha256": "afc46696a437df15632e83ba13148c5221fe97a83b03188010620f46698ed443"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/039_000.jpg",
+      "size": 23104,
+      "sha256": "f93f4a387dd537d2f09fd31e9a1c91788dff353f2c859dda095894e73c6083de"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/047_002.jpg",
+      "size": 13476,
+      "sha256": "02fbac9b9e3cdce8722bf364b071d266cf63ba83d3e59f2bc94069430f7c398e"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/056_000.jpg",
+      "size": 12457,
+      "sha256": "0c6c2472652ff4b5d3ba3dcb095e3f111754129da7f007c291b544920dcf5b5e"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/057_000.jpg",
+      "size": 6660,
+      "sha256": "1deb0d59b43fab0abae321cda37ec86e284cc2489ce1cf1dd9d983bd9c86258a"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/057_001.jpg",
+      "size": 6680,
+      "sha256": "71a1a681ddefd003b5c388942d4cf7ed32cf33279b3e76c4688c903188483e63"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/058_001.jpg",
+      "size": 9680,
+      "sha256": "81772c42cec5e429297c2bb1d5562bb84d48cef23746da0d40e897a507e3cdb4"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/064_000.jpg",
+      "size": 8834,
+      "sha256": "f1dad5a5f0838f19089ff9c902ab74cf7811bd9e5b1bdc872a5ed0b1533eaf4c"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/065_000.jpg",
+      "size": 13720,
+      "sha256": "0018b416b7a8701f2d8de99e1dd8fb62ee6b726329fd66e0d4343aee27856ceb"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/066_001.jpg",
+      "size": 12358,
+      "sha256": "f1833f1bdffa12610f6d3941d2267c56019e18198a706e1e5db88d2262ce7ede"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/074_000.jpg",
+      "size": 23279,
+      "sha256": "ba8a61f89532c0f4bf46865241d924fd2630a8d4601d34aee863dab4386544c2"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/077_000.jpg",
+      "size": 15197,
+      "sha256": "f5fd5625659320c1cc3cbe6cce058b250f5b8475a9958430bb89c862be110a81"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/085_000.jpg",
+      "size": 9351,
+      "sha256": "a7f2f641b53ed10dfe461c778f1158ce2bf317e4436f18679269402808c9240f"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/086_001.jpg",
+      "size": 13293,
+      "sha256": "9ab33a0e4a4136df2a29d266dc76a71b866818a9701a9e31ad4379a12c67292a"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/086_002.jpg",
+      "size": 13158,
+      "sha256": "5a29c802002627ecce8d0afa8fc34d0ab53bd4fe455ef431b786e25352148306"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/087_000.jpg",
+      "size": 9177,
+      "sha256": "9c50596fa5c1dd373742040df3c8edc361f99c28e77463b3dcbcb7859ebf4d84"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/088_001.jpg",
+      "size": 12207,
+      "sha256": "dd14d49f947a18a316a9e222fca54680410a5ce1a2e7803bbe433d61b763cbb5"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/096_000.jpg",
+      "size": 4914,
+      "sha256": "e3cd83b7907b4d9ee93421ce6f36dfc2dc18f6252176f438ba88a7b626ffea01"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/104_001.jpg",
+      "size": 15066,
+      "sha256": "c7f25b10af1c178f1d8bf06886b9b0e5df6be9f7c71dfcf1bd48ce8c4c4155c0"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/109_001.jpg",
+      "size": 9564,
+      "sha256": "7aebd14b01a73a3da2d01ad516b70c4e569244cb21cfb65a29b4634937d9b887"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/116_000.jpg",
+      "size": 14525,
+      "sha256": "f520f55c8607f134209ea8dda87f4b8ddcff6b73a66e519285d40990bfaeba3e"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/117_002.jpg",
+      "size": 13529,
+      "sha256": "614f98e170032a7fe459883a963e1045ac12313c587416af59f000a492577ad5"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/118_001.jpg",
+      "size": 12769,
+      "sha256": "11d17e068ec8f5ed4c3a29630d20b836525452b75453ab10e3d51fdc3e945ecb"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/119_002.jpg",
+      "size": 14766,
+      "sha256": "9c4faeb55e4341222dec42c52e9468f4ef7fe5d4b0477f68f4ef8ac805036daa"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/125_000.jpg",
+      "size": 14181,
+      "sha256": "4f5e0ccfcbfd0d51b94194c1604ff399477873eb3a162a0180544409a2fa77f9"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/126_001.jpg",
+      "size": 11413,
+      "sha256": "b20b073c8fa3c993350563072788cf8b26e46ed0efe780e9bc9d57f44c97a729"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/126_002.jpg",
+      "size": 11598,
+      "sha256": "9e48b33498a937f68df33fc74153c32da26d77a7c961dfa0a2611e04845c6f34"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/127_002.jpg",
+      "size": 10171,
+      "sha256": "bd50dd31a48a0cb6994c48d1656053f069f0610ed152ff0e55424d115d94a334"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/128_000.jpg",
+      "size": 9582,
+      "sha256": "c79f024302147dd6a7dec400990b4ee528bf3cf280201e1eee0a28925e7b5141"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/136_000.jpg",
+      "size": 19633,
+      "sha256": "c190294298b4281d1c33fa45755823d77e21eac97275fa3655fdb328da799674"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/137_001.jpg",
+      "size": 11845,
+      "sha256": "c6421e259aa21d2871e0da649b62fa8fb6ef2246f09129e547a521c9c65960f2"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/139_001.jpg",
+      "size": 20884,
+      "sha256": "1222c3907fbdd1d8d561d57341e076a629e6ccde003845a4fcd6c263c407cef5"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/149_000.jpg",
+      "size": 6134,
+      "sha256": "598980e3f270fb5dc6ce20f4d6fdc37e972142f17c81a964f8f7c83cc7e5d6de"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/154_001.jpg",
+      "size": 13998,
+      "sha256": "5eb7db489686116280f3677d4983468a5c621a7673094b949cabad30c482d0e2"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/155_001.jpg",
+      "size": 18095,
+      "sha256": "6673fff24d60b7c250203b1a5daa8acc0ef2e88db31fe665e7b4fe38cb1cef08"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/156_001.jpg",
+      "size": 17193,
+      "sha256": "d507fb499775fef0a94f663722433e308fa93b6edf05c1af425d5915a0a43538"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/158_000.jpg",
+      "size": 21773,
+      "sha256": "e281359f51e14c3021c41fbbc183f541402d61fa1f81f56164e6f3dabee3f532"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/159_000.jpg",
+      "size": 16495,
+      "sha256": "8868db8fe298693157d65bd01d3a0033bec22c8db4f973aa1e29dbe695e1d4d6"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/165_000.jpg",
+      "size": 8946,
+      "sha256": "03d452f02949941ae8210f3811d89a84be70f9193a98492bd285319880748668"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/165_001.jpg",
+      "size": 7032,
+      "sha256": "2a3cc57f6bae6a2d78a7a63791c77e8779a93ebda95b059c233f362d86f98c64"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/166_002.jpg",
+      "size": 8562,
+      "sha256": "0c4dcd7bb9aea14f1a895e136cf462db1cc5b0ce47675c9aaf0677556cd9f8ad"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/167_001.jpg",
+      "size": 21168,
+      "sha256": "8db4c54233838b0328ff5fccf40d74f3ec74745acd284e37bb594fe656cd7532"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/168_002.jpg",
+      "size": 9052,
+      "sha256": "b23efc977d4f9e1f27333174b275184b6e44e4d199aca87fe884ed76c2036e3b"
+    },
+    {
+      "path": "energy_meter_digits/images/train/2/169_001.jpg",
+      "size": 11984,
+      "sha256": "a3a88e8d3568c862cb9bbe065fd3407064963b4168b35e98879491dec126fd7a"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/004_001.jpg",
+      "size": 12645,
+      "sha256": "46c5c5d959af91e66dd2880aacfd7281764f395adbdd8f8b4b83f4862b1d9a82"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/005_001.jpg",
+      "size": 9635,
+      "sha256": "5c7d3d2d9e422cb2de42300a845609a50a30de78108b37eeff4ac9facae81c5f"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/006_001.jpg",
+      "size": 8310,
+      "sha256": "5b2fc395d12c3b6de8e2a767ce9e785db286afdc8aa01c9ba76d744db5ee8d47"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/007_001.jpg",
+      "size": 17355,
+      "sha256": "680487714b0bb586a1c229ca949fecdb0abf92c2821e6c2e8710b239f651a2cf"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/014_002.jpg",
+      "size": 8719,
+      "sha256": "f15c876f602f4b4ac9a4e547a80f3b4d4df12741777b45019671593171ecd595"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/016_001.jpg",
+      "size": 11769,
+      "sha256": "364f656f71e8476f380089b6160db664a70008a3f1f4bcb6a7255efa9dd43594"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/017_000.jpg",
+      "size": 11771,
+      "sha256": "c247ae4f6d8948f9f48fc9d6afdb04456be51bcb2be5a725fc64a88104b7c662"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/017_001.jpg",
+      "size": 11763,
+      "sha256": "3e5197c1823abd9982f693d722e01f7f0a429735359fc81241e196274f92bfd7"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/018_001.jpg",
+      "size": 10614,
+      "sha256": "aa8fd77d7d30b4d8491e8c52cbd393200fe59a72c2b4c5d836b99264c5451a1e"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/019_002.jpg",
+      "size": 12485,
+      "sha256": "449f4e0128b8f153d2652affd041999e8c7e36c2a814464f65ed8e3a2cbb2c40"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/024_001.jpg",
+      "size": 13429,
+      "sha256": "4a5797979c28fcae1cff6747a15485d61e534f1031e408ab5c2a229e940af26e"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/026_000.jpg",
+      "size": 9828,
+      "sha256": "46c381b22096502eab74f58cf809aaaaf3db1d79f9d8eab4e2877e81b2b557e7"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/027_001.jpg",
+      "size": 14485,
+      "sha256": "3fa5a057c2af24e8276eb03ea5de7e85e866fcd09f21d6a9dc19b02eddc1be5b"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/027_002.jpg",
+      "size": 13440,
+      "sha256": "0edbd72e77692236db41bd1e979773a2371fabf5f00862beb50488a95272ee88"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/039_001.jpg",
+      "size": 16026,
+      "sha256": "60dfccb5c6b965590b4a2de91be0dc517943ee114779c40a8ce4144143cbdda5"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/039_002.jpg",
+      "size": 14093,
+      "sha256": "780ec1f4bb6af78beacc7b4dda7adbd88f05e49f8ebfdce732f5be931de5b65b"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/039_003.jpg",
+      "size": 12449,
+      "sha256": "a286702334f7b378c8d79e88ab2e049eb5f37cc85b31d8b88fc606243030a753"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/044_000.jpg",
+      "size": 15719,
+      "sha256": "c8686c95b166b8c25113d1b8fd4711b63e244ae45b6de71739f583f4162feecd"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/045_001.jpg",
+      "size": 23124,
+      "sha256": "59301248856a45b3b0774df96f6998b9075574965af3603dd6380b55be11732c"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/045_002.jpg",
+      "size": 21222,
+      "sha256": "d7e6081b4595632b391b7c7f2461787421ac0c8aba015c39021969de6ad2d9ae"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/046_001.jpg",
+      "size": 9392,
+      "sha256": "16d3517bfa13af88be4a77982511415eddb1572fbe16e72061b6c069e10e363f"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/047_003.jpg",
+      "size": 13725,
+      "sha256": "ed5e05ccd17be4e868f908427ee951afe3cd324621e020724750a6b707b1b305"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/048_000.jpg",
+      "size": 8321,
+      "sha256": "c0a2bf5af6f32fa472f5462f5f8a941cb6cb90a6edf1718249b731f1d4552ebb"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/048_001.jpg",
+      "size": 8218,
+      "sha256": "04e12afd52c8e469c7495c803bdc746fddfbf64747ce3ceaa4f71e1cfeb64201"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/049_001.jpg",
+      "size": 3175,
+      "sha256": "82dc9bddd7eea1eb0962eafd0d3d3dce7a80631fff5b82784e50eb082bbaf8e8"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/054_001.jpg",
+      "size": 10673,
+      "sha256": "746a236c94deb90a4f04df948583b0cfda9739e52a30b4f9635eefcb40101f2b"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/055_002.jpg",
+      "size": 11622,
+      "sha256": "712d6897923945f6b0c0af03b233b26fda5c0ead194d9b9baa685d692b580811"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/056_001.jpg",
+      "size": 10557,
+      "sha256": "047c2c34db72f8d7c2a8dd3bab27a4ba7826a02e0b1faa5a2192e40674855f50"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/057_002.jpg",
+      "size": 7917,
+      "sha256": "f8751e471d8fc4534e46d5acaa9efa84fcb349e85ab138fcdfb03ca138755e5b"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/059_000.jpg",
+      "size": 9536,
+      "sha256": "7f9f95994be54a80f9b1c6811399709d90e3cb8218a306e161f1a54b43c5550d"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/064_001.jpg",
+      "size": 7641,
+      "sha256": "5b0e3c488cce460078e3c2ead274af376f2e24ab4a4a1802536e7c78ff33700b"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/065_001.jpg",
+      "size": 11893,
+      "sha256": "b0cbcaa2c92ed274ec008dffa052e4c0aa56b2b85303404ed8d93f5ac37fe57a"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/066_002.jpg",
+      "size": 12863,
+      "sha256": "e801e123aa0ce8f09deb5bc5dbdf225e2150b9fbe3ad4892fd7b3945175a0b27"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/067_002.jpg",
+      "size": 12983,
+      "sha256": "7bed5e3a6846e9b1d3abac614fe94d45ac3df70cdf1195b09726a31c2b905bb6"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/068_000.jpg",
+      "size": 10249,
+      "sha256": "268b81e644002fcbd21781faed29e5836fdf7bee2b947e50120d2a656aa6a34c"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/076_002.jpg",
+      "size": 9711,
+      "sha256": "684e4a7cba7a608367437b2b819cc3434c5d098e155c784e7295e301cf322101"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/078_000.jpg",
+      "size": 14975,
+      "sha256": "47c0772189f19eac40a0bc14cf334ccadfe051718bf1f749ece5928f67fe9b09"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/079_000.jpg",
+      "size": 20563,
+      "sha256": "e6717074d1dc1bcfdd28b2e3d825f083049e881212f214a6fc1346d0186d78ef"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/085_001.jpg",
+      "size": 9913,
+      "sha256": "fd88b0a6510edf25280a7a29da8d53182a48f9212c977345944471e68378616d"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/087_001.jpg",
+      "size": 11338,
+      "sha256": "8bd212849d0b4efa6eca045b4c88ce4bc334bd6367cfc654cf38fe22eb89e2c4"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/094_000.jpg",
+      "size": 6465,
+      "sha256": "867c8adef3245e7bf13a52576d1802ab628620c67e1aabbed68280218382dbbb"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/094_001.jpg",
+      "size": 6825,
+      "sha256": "3a6fbeaf030276d9386626b5356cb28c75bbe0c991d20d8f2b35796f3f0ad1ea"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/095_001.jpg",
+      "size": 12606,
+      "sha256": "0b5210b33d9e3d35589be7f390fd270ec0733e496c2e86028342512a2d35408f"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/096_001.jpg",
+      "size": 5846,
+      "sha256": "c16d95119731f8c17be38bf1aa979a4299694599a33a56184f087078566e785f"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/098_001.jpg",
+      "size": 3346,
+      "sha256": "96e114a14fb9667d3bee9e111d04dd55ede39c9b71907ea44197865c6f911c3c"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/099_001.jpg",
+      "size": 4351,
+      "sha256": "5ba60db32f8da1c4b8df1be93c61bfcdb7ad8868d179df1c6edbb100f96dd156"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/106_000.jpg",
+      "size": 10182,
+      "sha256": "d407d7ef157e06ad2ef9bd0ad9283f4da73e551715150c58ce77a88bfc48f7da"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/115_000.jpg",
+      "size": 11116,
+      "sha256": "6298a934c4d58293dcd08e29a6ec97f79616cf58974caeed42650506cd70aa83"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/118_002.jpg",
+      "size": 12471,
+      "sha256": "18f793b98ec85a9ecd9d2986342000fc136b082440f24798c10930afb35ab4ee"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/124_000.jpg",
+      "size": 12991,
+      "sha256": "97bca26748faa591364cf5bfc9dafd62f027854f54f0e55d80cc82cfd58b8785"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/124_001.jpg",
+      "size": 11906,
+      "sha256": "7cefd5c2fb8c7990f4fab9db2f70d92014a7c355e5a7910c9a7f9f187dd95087"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/125_001.jpg",
+      "size": 13509,
+      "sha256": "fd7082eb760002e9232c6c580fe68075e22f46d5f7d3680c1bea6f05dc469ae2"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/128_001.jpg",
+      "size": 11645,
+      "sha256": "2e91f5f5bcfbcc4489b3c10e189aafa594a35fc1fb4550acdbbda55b15d7295b"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/129_002.jpg",
+      "size": 8267,
+      "sha256": "a2df02258c14894d62eacdc0b68b6a18a15119d479518b3b97605e0a4a2be436"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/136_001.jpg",
+      "size": 12192,
+      "sha256": "60df29a6acd3cd81a9a4d3e40b9ba8484da27e2b1a52cd1f2b5f0bc9bc6a1793"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/144_001.jpg",
+      "size": 11101,
+      "sha256": "c6b7503860cddb8b107b4ab96b7a43f87188696a288b5437fc051e6f1245a22a"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/145_001.jpg",
+      "size": 8302,
+      "sha256": "3b868b4913435866e696cda2286860de067e65bffed812d3e4db46378b76d466"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/146_000.jpg",
+      "size": 7869,
+      "sha256": "b6e5ad37532a88d7dd938e5fb41974c99739aa792c51adee3d6ed5a51afc3169"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/146_001.jpg",
+      "size": 8971,
+      "sha256": "6a3fe5f5168d1acb67d4ae200837429fb960e08f8fb1379a348cfd020ccf7736"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/147_001.jpg",
+      "size": 3001,
+      "sha256": "68bcb7576aab2e6bb9e581ddf1c4149041409dc28a61c6787abb0fa4b21272d8"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/148_000.jpg",
+      "size": 5753,
+      "sha256": "525d6c431591f28a656d24a53563d36c1493e9754265a3599b9803924f6e5bd2"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/148_001.jpg",
+      "size": 5419,
+      "sha256": "7be87aca627f8f319dfee49035a05b1387d543a00c78e4f5f78e62eecddda1d7"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/149_001.jpg",
+      "size": 7032,
+      "sha256": "111da89f599f07150e95ea32607095ca3bfccb488d904d5fcec85e5e5e100f8f"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/154_002.jpg",
+      "size": 14802,
+      "sha256": "17b98655e6088f7438acf2c934979cac2a09638ffaa21f1763b31736add65055"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/154_003.jpg",
+      "size": 13803,
+      "sha256": "caec40dd5f2a2541383eb06ee7fcddd6fd513fd1247fada152dca57d9b9ed695"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/156_002.jpg",
+      "size": 17633,
+      "sha256": "d99045c01de55115e3f928f414d955e9c7cab211a674f37eec40aa191820b20f"
+    },
+    {
+      "path": "energy_meter_digits/images/train/3/165_002.jpg",
+      "size": 8443,
+      "sha256": "440027ae387d3ed2094b91157be39759b68af3baae07a8379bd7ca54013787ab"
+    },
+    {
+      "path": "energy_meter_digits/images/train/4/006_002.jpg",
+      "size": 9026,
+      "sha256": "bd52d9771108d1e6b4dd1dc6faa43a941f01e531776d9cbac8abdfd1917444e2"
+    },
+    {
+      "path": "energy_meter_digits/images/train/4/006_003.jpg",
+      "size": 9113,
+      "sha256": "aa3f2be2fe69629c1b924846d837145f88c7df08f050e8991e4e5d7bb4082e31"
+    },
+    {
+      "path": "energy_meter_digits/images/train/4/009_004.jpg",
+      "size": 8765,
+      "sha256": "341d8cf9909153c38c2f9e54c3e9eed864bab7f7cd5cc299e788b9c345b7aa66"
+    },
+    {
+      "path": "energy_meter_digits/images/train/4/016_002.jpg",
+      "size": 10774,
+      "sha256": "4adb72459a86d427f4aa07364d29c307f48dd83e394d80b40ad9612677507483"
+    },
+    {
+      "path": "energy_meter_digits/images/train/4/025_000.jpg",
+      "size": 11517,
+      "sha256": "70d07e88213d72d5d3026fdfd4aa735af6e490eb148b92e9e1d5cb2c9c73ee2c"
+    },
+    {
+      "path": "energy_meter_digits/images/train/4/026_001.jpg",
+      "size": 8817,
+      "sha256": "2d21a018e599199a973b483f980e9a4c4d3682198f229b264372c5e5bc684d4f"
+    },
+    {
+      "path": "energy_meter_digits/images/train/4/029_003.jpg",
+      "size": 13839,
+      "sha256": "6f82fe632e9202c54af9844cb89bd2f3beaf148d99f9727a2a3de1ab6e0ed4bb"
+    },
+    {
+      "path": "energy_meter_digits/images/train/4/037_001.jpg",
+      "size": 22865,
+      "sha256": "975b8a50ee8442a7786898e46d4b9d8ab5dc5115cb331b980b3b2bb3ee22439d"
+    },
+    {
+      "path": "energy_meter_digits/images/train/4/037_002.jpg",
+      "size": 18071,
+      "sha256": "22d826c2cfebb4b6f67cf009094b071f440a6b0ff833bb5363bf6006dd729bff"
+    },
+    {
+      "path": "energy_meter_digits/images/train/4/037_003.jpg",
+      "size": 20668,
+      "sha256": "06182f9ae918c7b242a3d358a1530846ac388a6fff30f76dcfaa708533e855f9"
+    },
+    {
+      "path": "energy_meter_digits/images/train/4/038_000.jpg",
+      "size": 19258,
+      "sha256": "e0b92c1bfbf6bdc5468446117b138a252cba8f095527a71c8ec7b349e3dc0f05"
+    },
+    {
+      "path": "energy_meter_digits/images/train/4/044_001.jpg",
+      "size": 13587,
+      "sha256": "2e9cc0bee431b2115036635756b73c231fb636adad669db7a86c5cf7936866fe"
+    },
+    {
+      "path": "energy_meter_digits/images/train/4/046_002.jpg",
+      "size": 9228,
+      "sha256": "e9df2bb4805c158e9e916afc559754e72732d6c6a3af4de9f481685643bd367e"
+    },
+    {
+      "path": "energy_meter_digits/images/train/4/048_002.jpg",
+      "size": 10141,
+      "sha256": "98fc8de7254565a890e4e0a71f9a24a64cbd4de7c54de2ce08c9fd700985c69a"
+    },
+    {
+      "path": "energy_meter_digits/images/train/4/055_003.jpg",
+      "size": 9551,
+      "sha256": "f41b7ca0a4ad295959c1fa7f9af17e181878e60496d995396865f225747ca06d"
+    },
+    {
+      "path": "energy_meter_digits/images/train/4/064_002.jpg",
+      "size": 7474,
+      "sha256": "8a6253b57161268f5700133408520a6fcece9fb97f223cabe25446bb160da3ab"
+    },
+    {
+      "path": "energy_meter_digits/images/train/4/064_003.jpg",
+      "size": 7491,
+      "sha256": "041d9f9f022307142f63d79336166d80ce338fc2833dc14ef183eede7095ada3"
+    },
+    {
+      "path": "energy_meter_digits/images/train/4/066_003.jpg",
+      "size": 11406,
+      "sha256": "b5c5447699588a4bad235aef0de518d90d2c1e87848e183b6de7541342f21ba3"
+    },
+    {
+      "path": "energy_meter_digits/images/train/4/074_001.jpg",
+      "size": 24374,
+      "sha256": "7180ea0119fb67e1721da83209bcb62cd610b84c452aa13375222a60cee1f81d"
+    },
+    {
+      "path": "energy_meter_digits/images/train/4/075_002.jpg",
+      "size": 10089,
+      "sha256": "eb9bf1cb714bbb99257c477047a61f710c1e9666e134e7b928000262795fda79"
+    },
+    {
+      "path": "energy_meter_digits/images/train/4/075_003.jpg",
+      "size": 11491,
+      "sha256": "c55d4248b7ff8326b9b346b0f0e013987e03a6045ffb04dde90c751f808b9ca9"
+    },
+    {
+      "path": "energy_meter_digits/images/train/4/077_001.jpg",
+      "size": 15735,
+      "sha256": "b5c99ed92caa12c1346ccc55a6d0d85a592399de6ae3fddb947b58bf5ad3a659"
+    },
+    {
+      "path": "energy_meter_digits/images/train/4/085_002.jpg",
+      "size": 8414,
+      "sha256": "3e5c8405770e74420b3156bdcdd0f0592f3f71a333ce421e750b1b579f55da3d"
+    },
+    {
+      "path": "energy_meter_digits/images/train/4/094_002.jpg",
+      "size": 5872,
+      "sha256": "5c603ddbd987b686ca472064d6a5b9ec134969449d07d1046aba990ccdf3bc83"
+    },
+    {
+      "path": "energy_meter_digits/images/train/4/096_002.jpg",
+      "size": 4998,
+      "sha256": "7a6ef88212710d6908acf89b0c13c9d25fa003d6dc6b55c99ed5d83d0f52ad64"
+    },
+    {
+      "path": "energy_meter_digits/images/train/4/099_002.jpg",
+      "size": 4097,
+      "sha256": "7841f3cc856894b751883f7b8adb3e719753ffc1c99607c84f1ad0ed80e6ad6d"
+    },
+    {
+      "path": "energy_meter_digits/images/train/4/105_001.jpg",
+      "size": 7946,
+      "sha256": "9cdb6dfc724880f2e23c7a12cd70ce59356a934e92519be7477245977e0382eb"
+    },
+    {
+      "path": "energy_meter_digits/images/train/4/107_000.jpg",
+      "size": 13363,
+      "sha256": "05e19cfa97c240d7a8fac798c5d63ea5b4b7d1f6cdd6b30366b10f3a0f1e4ec7"
+    },
+    {
+      "path": "energy_meter_digits/images/train/4/107_001.jpg",
+      "size": 11643,
+      "sha256": "06b3b81734e560b4f13083390695af34a549061ce3037b3112904bb0e1c07dd2"
+    },
+    {
+      "path": "energy_meter_digits/images/train/4/114_001.jpg",
+      "size": 8247,
+      "sha256": "2f3d95e740384522c0ab2def927d41fe5cb7b5c4cb0a1da2732a3bad71fd2206"
+    },
+    {
+      "path": "energy_meter_digits/images/train/4/116_001.jpg",
+      "size": 8866,
+      "sha256": "6ecaba1dd2e98b84a0c8d08edab3d3712f7fc6226e492790f7987b7550ade8b3"
+    },
+    {
+      "path": "energy_meter_digits/images/train/4/117_003.jpg",
+      "size": 9600,
+      "sha256": "b8dea05c3f57c5a2d8186f1ed7242eb059493478e9d996fcb433c05ba0352eb6"
+    },
+    {
+      "path": "energy_meter_digits/images/train/4/117_004.jpg",
+      "size": 9855,
+      "sha256": "f91b0a681aa1e9d6a14db7a745a7d8f6d0d9cbc26ca939b1cb8509ee4b30ac51"
+    },
+    {
+      "path": "energy_meter_digits/images/train/4/127_003.jpg",
+      "size": 9684,
+      "sha256": "220bcb3c5cf32dff32b1fc89429fb9be09df1cf015e462eb12565bd6ac7fc47c"
+    },
+    {
+      "path": "energy_meter_digits/images/train/4/134_001.jpg",
+      "size": 12597,
+      "sha256": "ebd9f4962cd01457c85e0b2e982794775b7396b8018c11f47ec1344287f5e9b3"
+    },
+    {
+      "path": "energy_meter_digits/images/train/4/134_002.jpg",
+      "size": 11723,
+      "sha256": "3e51f3639b69a9dda301734e5b1a19d73cd7ee3f6af4e1833bbe72b1305353ed"
+    },
+    {
+      "path": "energy_meter_digits/images/train/4/134_003.jpg",
+      "size": 9743,
+      "sha256": "6055b69e1aa187938223724268f49ad75e9cf9470a4b3fd10b2637293cafadcb"
+    },
+    {
+      "path": "energy_meter_digits/images/train/4/138_000.jpg",
+      "size": 8344,
+      "sha256": "e18dff3a71b88eebbbf568b3e5f3b6bf2f23a62b5ca41fc2bdbb46e122e3d5b7"
+    },
+    {
+      "path": "energy_meter_digits/images/train/4/146_002.jpg",
+      "size": 6430,
+      "sha256": "626559060cdc4eb6aaaf11eeeb56f3880fffca661508812ea30d2ca15b08bdeb"
+    },
+    {
+      "path": "energy_meter_digits/images/train/4/148_002.jpg",
+      "size": 5253,
+      "sha256": "04509cc1d068510b51ec391f10b09fd3dad25877ce5ebfd4bfab41dfdf5fdf83"
+    },
+    {
+      "path": "energy_meter_digits/images/train/4/149_002.jpg",
+      "size": 5737,
+      "sha256": "e9e42c946f3e21150523a9b1ddaee36994687dc681c0b6a955eb7e989e7f405a"
+    },
+    {
+      "path": "energy_meter_digits/images/train/4/154_004.jpg",
+      "size": 14338,
+      "sha256": "f90b15dc6b835e6b10a0eaf1ca96e742d5bf22dde8134f090286d5c718906580"
+    },
+    {
+      "path": "energy_meter_digits/images/train/4/157_001.jpg",
+      "size": 21321,
+      "sha256": "5070370f5ce581fe2f04a509c2941451d52e81d1ea694ab43995613eb3224ec8"
+    },
+    {
+      "path": "energy_meter_digits/images/train/4/157_002.jpg",
+      "size": 22039,
+      "sha256": "f395f4e60fb157363770ab139824adb4fabe23adbb9f1a9997d8c28801c339ea"
+    },
+    {
+      "path": "energy_meter_digits/images/train/4/157_003.jpg",
+      "size": 29502,
+      "sha256": "0442084051fe818fc3059acb8d6f616f64710dd97bbed49e845d50e00754ec8d"
+    },
+    {
+      "path": "energy_meter_digits/images/train/4/158_001.jpg",
+      "size": 17563,
+      "sha256": "608b1c1dc7f88884c40abe0f5503b684d21e302f7bd2cc9cfb9f72ae368d9e02"
+    },
+    {
+      "path": "energy_meter_digits/images/train/4/164_000.jpg",
+      "size": 8442,
+      "sha256": "d8c736453666ecd6a46df2c68b064b990070ae19cbd74d0addf17e9f487a4b51"
+    },
+    {
+      "path": "energy_meter_digits/images/train/4/164_001.jpg",
+      "size": 8156,
+      "sha256": "5413878d8810d6307f51e5571271dc53a0712868ed799e0911d0684da856d7ca"
+    },
+    {
+      "path": "energy_meter_digits/images/train/4/164_002.jpg",
+      "size": 6684,
+      "sha256": "12a9ca9fd9af23a4eeabd50ea8732bed61f8d33f0a363a5914948acb52ecd519"
+    },
+    {
+      "path": "energy_meter_digits/images/train/4/165_003.jpg",
+      "size": 7456,
+      "sha256": "1c2144f0e019ba3c6314eb02305f8ef3501fb31533f7a5aefca303a3d5974a01"
+    },
+    {
+      "path": "energy_meter_digits/images/train/4/168_003.jpg",
+      "size": 9831,
+      "sha256": "ea189bba8d66369c689c5397cab3c6243fcd3661c413919c02b6685dc16ea5a6"
+    },
+    {
+      "path": "energy_meter_digits/images/train/5/004_002.jpg",
+      "size": 12265,
+      "sha256": "0ddd8470f40b70b1c86ccddcf7408585f85eb66412eccd4670f740318ee0509f"
+    },
+    {
+      "path": "energy_meter_digits/images/train/5/006_004.jpg",
+      "size": 9547,
+      "sha256": "2e1393b1dec5efc8d61cefb2b115bab403b96d2ffdc43459ca03dcc6a6d58e8a"
+    },
+    {
+      "path": "energy_meter_digits/images/train/5/007_002.jpg",
+      "size": 13735,
+      "sha256": "eafb9856a0b79fb63c144d96a3e6bf5dff240157009de830a6fddbaea8990a53"
+    },
+    {
+      "path": "energy_meter_digits/images/train/5/019_003.jpg",
+      "size": 13012,
+      "sha256": "c99f723191d041413cea21d70e0ad8729ab6e6b217a949c5079148200463ee4c"
+    },
+    {
+      "path": "energy_meter_digits/images/train/5/024_002.jpg",
+      "size": 12966,
+      "sha256": "1ecedae8a6034c9dff0784a776f02cc840da16069dca6bbc6ea3e685a423ddb1"
+    },
+    {
+      "path": "energy_meter_digits/images/train/5/025_001.jpg",
+      "size": 13157,
+      "sha256": "4e660b67cac4ffc68018a7c7c68c19b985c6411bd99329898f0bb10dab0e32b2"
+    },
+    {
+      "path": "energy_meter_digits/images/train/5/025_002.jpg",
+      "size": 10770,
+      "sha256": "1e2bb805340f5e26e69615bd60d7be5ea955f7aea6291298de5ff7047488401c"
+    },
+    {
+      "path": "energy_meter_digits/images/train/5/026_002.jpg",
+      "size": 12491,
+      "sha256": "0fb2e37518ba22d7f984dddef26b2b8527ae1d5c492780b2d3e2eda8875172c1"
+    },
+    {
+      "path": "energy_meter_digits/images/train/5/026_003.jpg",
+      "size": 11242,
+      "sha256": "6ac1f87d6739206c6a7aba71c69c63c4d86895480e7a6361bd67600ff49b9117"
+    },
+    {
+      "path": "energy_meter_digits/images/train/5/028_002.jpg",
+      "size": 9483,
+      "sha256": "294bcd1cf46ce530b8d33783147cb97f48fefec405d908e31f0dfd11edd43d65"
+    },
+    {
+      "path": "energy_meter_digits/images/train/5/036_002.jpg",
+      "size": 21098,
+      "sha256": "3724b7cb34ddceec760931abec1c1b47216b4357be9cc7eb9ebc81753cc87f66"
+    },
+    {
+      "path": "energy_meter_digits/images/train/5/047_004.jpg",
+      "size": 14822,
+      "sha256": "d7a919772b158ac07311455bb9aa4cfb8abcae01f662db789edcf006e0245284"
+    },
+    {
+      "path": "energy_meter_digits/images/train/5/055_004.jpg",
+      "size": 11648,
+      "sha256": "856bffe3fdc6df5f883280c1c4ba1ee343384a61c3243505028b5f611c4cb03d"
+    },
+    {
+      "path": "energy_meter_digits/images/train/5/058_002.jpg",
+      "size": 9491,
+      "sha256": "a5f64c17d826dafedcf7bdaa3558bcacaecd34732d15995d3e9539e71c60e531"
+    },
+    {
+      "path": "energy_meter_digits/images/train/5/059_001.jpg",
+      "size": 9497,
+      "sha256": "93b826bf238448fe7306a92bdbb47181e60e93d35debde6e353193fade962478"
+    },
+    {
+      "path": "energy_meter_digits/images/train/5/059_002.jpg",
+      "size": 9704,
+      "sha256": "b6c80af6cb19612195abbfbdb7818b0d91775b9d9c50526d00bf62edb59d28fa"
+    },
+    {
+      "path": "energy_meter_digits/images/train/5/064_004.jpg",
+      "size": 8032,
+      "sha256": "ade7ed673a84405bf20e2895b4377db295bbe76a670dab6eb160458d49424775"
+    },
+    {
+      "path": "energy_meter_digits/images/train/5/065_002.jpg",
+      "size": 14001,
+      "sha256": "7de7f3229afa240eaea7040347ef56dce9c7743833728206d6f80f8cb0f4230a"
+    },
+    {
+      "path": "energy_meter_digits/images/train/5/074_002.jpg",
+      "size": 26876,
+      "sha256": "198e71c01eafda420039f14d828ff40bd4ae5e53606a32716457ba3d1d55d306"
+    },
+    {
+      "path": "energy_meter_digits/images/train/5/077_002.jpg",
+      "size": 21309,
+      "sha256": "c5d90676493495fd347a28376af3c0381e7abe359647fa8ad1f0c28b304b96c9"
+    },
+    {
+      "path": "energy_meter_digits/images/train/5/084_002.jpg",
+      "size": 10485,
+      "sha256": "0ce61e76c164ce3bdff4876d7fb7ada269d294d49dbd9f32acf4763d9285e30f"
+    },
+    {
+      "path": "energy_meter_digits/images/train/5/088_002.jpg",
+      "size": 9198,
+      "sha256": "5abf69d81affa9eb52cb36069500530101e261bf8b280e3ce76011ffda41a1b9"
+    },
+    {
+      "path": "energy_meter_digits/images/train/5/095_002.jpg",
+      "size": 14542,
+      "sha256": "c564faaa8b92ec87e65c933e50a49c7854ebf9612a4a1b0ed954bb2203d90509"
+    },
+    {
+      "path": "energy_meter_digits/images/train/5/105_002.jpg",
+      "size": 8424,
+      "sha256": "154f48e20835e45be3a000ab1e162948583fc2408df9790f178175038cff4743"
+    },
+    {
+      "path": "energy_meter_digits/images/train/5/107_002.jpg",
+      "size": 14241,
+      "sha256": "440bd8a767717b603d9c95fd9318fca399356c0f829642267e1856c760dd4efb"
+    },
+    {
+      "path": "energy_meter_digits/images/train/5/109_002.jpg",
+      "size": 9327,
+      "sha256": "f1f8977f0f0662c7603f7d10d1fe7ec72efc09a84c89e7d3fb028d458b8f17c5"
+    },
+    {
+      "path": "energy_meter_digits/images/train/5/114_002.jpg",
+      "size": 8746,
+      "sha256": "b5da88f1358e9bf9c572fa2f3ebeac2e3a330dfba99d492f5641754eb95a4bd7"
+    },
+    {
+      "path": "energy_meter_digits/images/train/5/116_002.jpg",
+      "size": 12253,
+      "sha256": "dad1bc8de9117a62f7557738e7aac194d18e1b5317a8763b00c470332cf6d62f"
+    },
+    {
+      "path": "energy_meter_digits/images/train/5/129_003.jpg",
+      "size": 7395,
+      "sha256": "bbbb494c446d361272c835266aa1c5f8926907bcee90c2dc9b9af29a3afae2b2"
+    },
+    {
+      "path": "energy_meter_digits/images/train/5/138_001.jpg",
+      "size": 9452,
+      "sha256": "07d484e107a43fe8114c37c38626e6063a9f39248a09428a29e7e243d0df3ea4"
+    },
+    {
+      "path": "energy_meter_digits/images/train/5/139_002.jpg",
+      "size": 20424,
+      "sha256": "a15dc00298b82a382b8a63ac2cf51b5e09e964779432272b45c74751f3bbe740"
+    },
+    {
+      "path": "energy_meter_digits/images/train/5/144_002.jpg",
+      "size": 9723,
+      "sha256": "f59bd6767fbc9e40c31f4a8283a89aafee9c76f6a1ab6bbeecc18fd7a257eca5"
+    },
+    {
+      "path": "energy_meter_digits/images/train/5/145_002.jpg",
+      "size": 7976,
+      "sha256": "64537d93cb7be76fe37305998cf0e1da23824394fb28155e3c2229aaf5a5f4eb"
+    },
+    {
+      "path": "energy_meter_digits/images/train/5/155_002.jpg",
+      "size": 13578,
+      "sha256": "8cf103c33767421adf4ba7f26a2908cbe8c5979d7fc55c6fa5e88a154cb551fe"
+    },
+    {
+      "path": "energy_meter_digits/images/train/5/156_003.jpg",
+      "size": 14158,
+      "sha256": "ce5aeca970190c6a9278b5e92e621aabd4708a8dc3a0ff833208a2d24cc3f1db"
+    },
+    {
+      "path": "energy_meter_digits/images/train/5/158_002.jpg",
+      "size": 17291,
+      "sha256": "0cc4d3132378c6505fb22c82a49ed4275c1139ac85a962c9a58acf33601a341d"
+    },
+    {
+      "path": "energy_meter_digits/images/train/5/159_001.jpg",
+      "size": 12166,
+      "sha256": "c17f47523de01d4b863e4c2c95781c3a5d2659711002bc86ae246e6aeb3cd2b3"
+    },
+    {
+      "path": "energy_meter_digits/images/train/5/164_003.jpg",
+      "size": 4097,
+      "sha256": "d7b847eae41b4b344ee60f482810b1aae92aa7d7ee3973b7c2da1de7aed7c754"
+    },
+    {
+      "path": "energy_meter_digits/images/train/6/004_003.jpg",
+      "size": 12605,
+      "sha256": "5e4dd42249271e80ea8b347465bc86b5752c9002b2f0aaa9d5070476801ae083"
+    },
+    {
+      "path": "energy_meter_digits/images/train/6/007_003.jpg",
+      "size": 15832,
+      "sha256": "ae1ed7d7b66667a77d14288cd03fa4126a71e6afbdfe6b16ff14642189bb5ae3"
+    },
+    {
+      "path": "energy_meter_digits/images/train/6/008_002.jpg",
+      "size": 10562,
+      "sha256": "6014e37fc9b73694516fc469207bb1b362b281d715cc86bddf94fe7024e834c3"
+    },
+    {
+      "path": "energy_meter_digits/images/train/6/009_005.jpg",
+      "size": 11656,
+      "sha256": "3c00d19621a620f6b3c471ac4b1da581fe0bf41affbaa32ed93e0bec5cd76f2b"
+    },
+    {
+      "path": "energy_meter_digits/images/train/6/014_003.jpg",
+      "size": 10816,
+      "sha256": "84b1cc6039c8bd86460db6997c67286343e08f65bf8440e4b2b1298b837c9350"
+    },
+    {
+      "path": "energy_meter_digits/images/train/6/016_003.jpg",
+      "size": 13754,
+      "sha256": "0988defb7c67c6e6d7ab5e545c20a3d3c086ae4eb77a54c8a7288c16b8dafdda"
+    },
+    {
+      "path": "energy_meter_digits/images/train/6/026_004.jpg",
+      "size": 10770,
+      "sha256": "02dbc4ddae630cb147b11530bf2b9f3b8315d2eac14649f53b55ad66bfad9eb2"
+    },
+    {
+      "path": "energy_meter_digits/images/train/6/027_003.jpg",
+      "size": 15105,
+      "sha256": "fe3fc2c8764515df802210c8c92c9e42a12977ec85441c6ec6c33c751ca8847d"
+    },
+    {
+      "path": "energy_meter_digits/images/train/6/035_000.jpg",
+      "size": 9409,
+      "sha256": "d49e3353d08e6c0cc4ea2d9defaecd80f44c31c8478749e9c524671a2fcab89e"
+    },
+    {
+      "path": "energy_meter_digits/images/train/6/038_001.jpg",
+      "size": 20134,
+      "sha256": "588a942db29ec3f464d7d566157e274239038f80c4eb2e176f2028815b03f1d2"
+    },
+    {
+      "path": "energy_meter_digits/images/train/6/045_003.jpg",
+      "size": 22615,
+      "sha256": "49e80a12ae022e44840dc916ea47df8462f259d0627a4c602011213644dd82eb"
+    },
+    {
+      "path": "energy_meter_digits/images/train/6/048_003.jpg",
+      "size": 2881,
+      "sha256": "dfa8451db98063e521e0d800a358d3f1246679fc15fdc5fdc72d41e59f1dbcfe"
+    },
+    {
+      "path": "energy_meter_digits/images/train/6/056_002.jpg",
+      "size": 12186,
+      "sha256": "96370b5ee89845e3f3ff8700a12f88cb28363b610da259e8210a24069951e790"
+    },
+    {
+      "path": "energy_meter_digits/images/train/6/066_004.jpg",
+      "size": 14614,
+      "sha256": "6a488f70e207b47ede8cbcd5f887ad97aad61b3b60ba540548c20349bfb2cb31"
+    },
+    {
+      "path": "energy_meter_digits/images/train/6/067_003.jpg",
+      "size": 13120,
+      "sha256": "863e7cbf60c2dbf6c10812d53d4ea9185434ee98e506f64f9770dd8051172adc"
+    },
+    {
+      "path": "energy_meter_digits/images/train/6/069_000.jpg",
+      "size": 9748,
+      "sha256": "1d0c9b812f5a85fe55196e23006d353d4d7d285eb280c806f6958389337ef018"
+    },
+    {
+      "path": "energy_meter_digits/images/train/6/069_001.jpg",
+      "size": 10409,
+      "sha256": "3f025c6cd2db6b0dc770aa88f7610c16e9ac7d532c702259e0c675622693997a"
+    },
+    {
+      "path": "energy_meter_digits/images/train/6/069_002.jpg",
+      "size": 10644,
+      "sha256": "d8161dca67aa9d50390ffde49096d4fca88579fe68e7f808278a0078c496fea8"
+    },
+    {
+      "path": "energy_meter_digits/images/train/6/079_001.jpg",
+      "size": 17440,
+      "sha256": "7b61b0124b16c7bd17ba2c5ba42c5e63fb7d6418b4c8b83b5109cd57d774a6f6"
+    },
+    {
+      "path": "energy_meter_digits/images/train/6/087_002.jpg",
+      "size": 14207,
+      "sha256": "4bdbdc861a69d2695dc98520f303842e56073258d70289defe05275866e1e351"
+    },
+    {
+      "path": "energy_meter_digits/images/train/6/089_000.jpg",
+      "size": 12316,
+      "sha256": "b9ba7cdd5e5c88205e02e2920618aa6483c89bf3b1892c97ca3ec238717bafa8"
+    },
+    {
+      "path": "energy_meter_digits/images/train/6/089_001.jpg",
+      "size": 11635,
+      "sha256": "b4aab4f1a9f808b6ed38e3598f41078653022aa659ad772f114b01606f3a8ec6"
+    },
+    {
+      "path": "energy_meter_digits/images/train/6/094_003.jpg",
+      "size": 2946,
+      "sha256": "55a0c0dec59543cb9eb38e5a11aed09cabd1ead1ddf565a00152fcd2a9d96bc0"
+    },
+    {
+      "path": "energy_meter_digits/images/train/6/099_003.jpg",
+      "size": 5238,
+      "sha256": "12abe7a81253c7b9d7fb897fbe553a9dc5a9752fc231f5d5d3ce726d0bbc8157"
+    },
+    {
+      "path": "energy_meter_digits/images/train/6/108_000.jpg",
+      "size": 14976,
+      "sha256": "b1428e2f7d65e275af7ecb5dfd362e0a90f4267e26993429f3bb14ed8bf8a7df"
+    },
+    {
+      "path": "energy_meter_digits/images/train/6/118_003.jpg",
+      "size": 11347,
+      "sha256": "7545628e5123c38624a016eb35e8d8a8c9e4e081613f2530005d977a8b4de13c"
+    },
+    {
+      "path": "energy_meter_digits/images/train/6/128_002.jpg",
+      "size": 14515,
+      "sha256": "6b71b17aeb7ed3492f3681133857d9764e5752a5715eb2add6f5192b1d3208c6"
+    },
+    {
+      "path": "energy_meter_digits/images/train/6/146_003.jpg",
+      "size": 3578,
+      "sha256": "4b237675e01a0fcfc00739df1b81aaeb3ba006961d768655c9bfff6914a8823c"
+    },
+    {
+      "path": "energy_meter_digits/images/train/6/148_003.jpg",
+      "size": 2789,
+      "sha256": "d250fa3188f297651316d755ee1fcc5a99e1ea76c597e579a48617dd3c2a3902"
+    },
+    {
+      "path": "energy_meter_digits/images/train/6/154_005.jpg",
+      "size": 12529,
+      "sha256": "1dfb31c6418b64c7e887a9d4f2f108293888a80f9a94ea0479d2f3c9f4dbfe72"
+    },
+    {
+      "path": "energy_meter_digits/images/train/7/008_003.jpg",
+      "size": 8833,
+      "sha256": "a2ac9d615240682e02996e0cabcbb068bd2b1d9108424d9ae64a6e1327dcce1f"
+    },
+    {
+      "path": "energy_meter_digits/images/train/7/017_002.jpg",
+      "size": 7786,
+      "sha256": "49bf36088f131f355c6c49ebf1749260a8f8b6071fd79fb067401957f5d39c57"
+    },
+    {
+      "path": "energy_meter_digits/images/train/7/018_002.jpg",
+      "size": 8715,
+      "sha256": "24f233f960ed982cc33ceb0f1d60de231168d67afcd8baf04339cdb5155c8807"
+    },
+    {
+      "path": "energy_meter_digits/images/train/7/019_004.jpg",
+      "size": 10779,
+      "sha256": "6294d283404df8267768696924df5031581a6a7add7d8264c40ccbfd4ae6b05a"
+    },
+    {
+      "path": "energy_meter_digits/images/train/7/024_003.jpg",
+      "size": 9932,
+      "sha256": "b6b1cb187773db99ecce7f397f5812dea6b98ef4f0f455131e597b1dca692d66"
+    },
+    {
+      "path": "energy_meter_digits/images/train/7/028_003.jpg",
+      "size": 9862,
+      "sha256": "fcd042665f32133849534f6d51476c8a450a150df334811780fd0f4f12270ba8"
+    },
+    {
+      "path": "energy_meter_digits/images/train/7/035_001.jpg",
+      "size": 8218,
+      "sha256": "2c992840ac8379501a3dda8df388e71da6bd2e2832050cd1df63d81777583dd2"
+    },
+    {
+      "path": "energy_meter_digits/images/train/7/035_002.jpg",
+      "size": 6998,
+      "sha256": "203063660a0f9ee97e1f26b33ee398f82fe8f443a11fec6f64f0147b8bc0a4f3"
+    },
+    {
+      "path": "energy_meter_digits/images/train/7/044_002.jpg",
+      "size": 12431,
+      "sha256": "0067dd765291d42a32b121f7832b1e2c606ecfa456f3189a28ec01ecd508e77c"
+    },
+    {
+      "path": "energy_meter_digits/images/train/7/049_002.jpg",
+      "size": 7259,
+      "sha256": "72806bee6927f04747e4175f570add6807a1f918d73119b7c9137b17762d4700"
+    },
+    {
+      "path": "energy_meter_digits/images/train/7/054_002.jpg",
+      "size": 9192,
+      "sha256": "c34444722a2e7046f01250a3f32cae4deccf4713426e93675c12a35f26ca8812"
+    },
+    {
+      "path": "energy_meter_digits/images/train/7/057_003.jpg",
+      "size": 5594,
+      "sha256": "7b31953ffe9f0470ff8e7cbe080c99c5ed50f199e3a12b915a52594b6bcdc953"
+    },
+    {
+      "path": "energy_meter_digits/images/train/7/058_003.jpg",
+      "size": 7750,
+      "sha256": "34d747e3c9c82700454dd6003cacd28a41190969e7b8183b362b89a71a2ac9d3"
+    },
+    {
+      "path": "energy_meter_digits/images/train/7/059_003.jpg",
+      "size": 7258,
+      "sha256": "6d5ef2815f528c4b6d80a060a17f024c944e09f2a9233c0a40704c7a8f58f028"
+    },
+    {
+      "path": "energy_meter_digits/images/train/7/067_004.jpg",
+      "size": 9296,
+      "sha256": "4b49c7d0e33029303fd9ec4a7d69cfcd178ae9e79cee3e6a98fa9c0a5e73ff42"
+    },
+    {
+      "path": "energy_meter_digits/images/train/7/069_003.jpg",
+      "size": 8690,
+      "sha256": "9848b4eb45b9e55b4a9331746c884309c5ed0e9560fa200030223b4963985b4a"
+    },
+    {
+      "path": "energy_meter_digits/images/train/7/076_003.jpg",
+      "size": 4018,
+      "sha256": "07439be4758f7a03879627787baa6363e25ee58a7a0290c072d67233d73514a9"
+    },
+    {
+      "path": "energy_meter_digits/images/train/7/079_002.jpg",
+      "size": 14281,
+      "sha256": "f76fc460a542fb3c4dfe252b20708c990b9cbfab98222529dededc0197e87a49"
+    },
+    {
+      "path": "energy_meter_digits/images/train/7/079_003.jpg",
+      "size": 13151,
+      "sha256": "bb5a6a000570af24d7aad8ce8ef06d982a190e382c36b7a0d7a9b5ea96a816fc"
+    },
+    {
+      "path": "energy_meter_digits/images/train/7/085_003.jpg",
+      "size": 7907,
+      "sha256": "8317fe09c981a2335b2ab99cd2bdea932e7a4a33ead1c7f8bb2baa400593a7f7"
+    },
+    {
+      "path": "energy_meter_digits/images/train/7/096_003.jpg",
+      "size": 4188,
+      "sha256": "270adc1ed5d2f6c994e220556223efc2f38cc6af467d3cb1c2283290e58f1f96"
+    },
+    {
+      "path": "energy_meter_digits/images/train/7/098_002.jpg",
+      "size": 7636,
+      "sha256": "fe5eeed9f8b50e1db27f1c2b0c22b939f05315b784eebf77af40d11f640111a7"
+    },
+    {
+      "path": "energy_meter_digits/images/train/7/104_002.jpg",
+      "size": 9378,
+      "sha256": "ee33426080280730604e60cb76457aa3592488a75c8d23fabfd8bc0af47b47f7"
+    },
+    {
+      "path": "energy_meter_digits/images/train/7/104_003.jpg",
+      "size": 9541,
+      "sha256": "a894e77bd4a95fefc744d9a47c352b397248d2e9b0b7aebc54a0a22cab9aa0e9"
+    },
+    {
+      "path": "energy_meter_digits/images/train/7/105_003.jpg",
+      "size": 7163,
+      "sha256": "41b43e83e54b9c59e7d845fb39c6b28da9c40ed778f78268ea0415cb30cea8f0"
+    },
+    {
+      "path": "energy_meter_digits/images/train/7/108_001.jpg",
+      "size": 10792,
+      "sha256": "aefd109ff7aaec62588301728d25249ae61d453f9d1426fccfc0bcc7f84e76db"
+    },
+    {
+      "path": "energy_meter_digits/images/train/7/116_003.jpg",
+      "size": 12095,
+      "sha256": "b10371bb032941addf87d257eec2dece5b3f1803656261df43e18d3371526ed1"
+    },
+    {
+      "path": "energy_meter_digits/images/train/7/124_002.jpg",
+      "size": 7228,
+      "sha256": "0f121ee1309e936e2b12aa7ffc26560e2218cacbc6b2db39c8e29ab59a650a5c"
+    },
+    {
+      "path": "energy_meter_digits/images/train/7/125_002.jpg",
+      "size": 13659,
+      "sha256": "341a1b7fe278b162e8f52c5ecb195d2978fa6b37031948096f3eeb6364338f6b"
+    },
+    {
+      "path": "energy_meter_digits/images/train/7/129_004.jpg",
+      "size": 6921,
+      "sha256": "739f614d20a377a3ad88ea845b78dd9d4a002cb50f41eace14778ea60f3c2e9d"
+    },
+    {
+      "path": "energy_meter_digits/images/train/7/134_004.jpg",
+      "size": 8300,
+      "sha256": "842cd1fdf210cfe6e87babc739f564c63fe5c5ffd1228fd457e80b8726c9c4d6"
+    },
+    {
+      "path": "energy_meter_digits/images/train/7/136_002.jpg",
+      "size": 11270,
+      "sha256": "8634e72227b0e98683fcd20aa85bcd84ec0169821d02b079f82868a97b20c270"
+    },
+    {
+      "path": "energy_meter_digits/images/train/7/136_003.jpg",
+      "size": 9028,
+      "sha256": "ba605d6373eaaea79541bf8f2ebafa6804704ca47c1751fa7e05268b8ebac544"
+    },
+    {
+      "path": "energy_meter_digits/images/train/7/137_002.jpg",
+      "size": 8461,
+      "sha256": "32bcb523499225a278ad688653eade8f843163fc403ff2f1643b04c62cbc60f1"
+    },
+    {
+      "path": "energy_meter_digits/images/train/7/137_003.jpg",
+      "size": 7818,
+      "sha256": "243873b12bca3f34bc973dcb02857892d25e53f2995a4c6755c5c02dfd1e2266"
+    },
+    {
+      "path": "energy_meter_digits/images/train/7/147_002.jpg",
+      "size": 8777,
+      "sha256": "cb24a850de66d75239f16fba8bf6aad1c638895a8730aec754ab13ee36a6bd96"
+    },
+    {
+      "path": "energy_meter_digits/images/train/7/149_003.jpg",
+      "size": 4915,
+      "sha256": "495704752f2224b576797612b45ff8802bc343590a377936b4a0081a00d9482c"
+    },
+    {
+      "path": "energy_meter_digits/images/train/8/007_004.jpg",
+      "size": 14869,
+      "sha256": "abc937e8902fb2fde4a2dc4b5bc62d8857638f720e6c88853637ebf067312d44"
+    },
+    {
+      "path": "energy_meter_digits/images/train/8/015_003.jpg",
+      "size": 10232,
+      "sha256": "122375a53c1c3ee3d38a4fad2cc067bc54101419c634162d6f41f2731a01361f"
+    },
+    {
+      "path": "energy_meter_digits/images/train/8/016_004.jpg",
+      "size": 13479,
+      "sha256": "13c4e2efbfaba02cb3ab6de1ff53dd496ccc0457e6b26dd2c327fd1cb20e9014"
+    },
+    {
+      "path": "energy_meter_digits/images/train/8/018_003.jpg",
+      "size": 11272,
+      "sha256": "96126eaa32979b08ff8ff8331d222c40ec5f1b9861ffe51469611fc2b882faf2"
+    },
+    {
+      "path": "energy_meter_digits/images/train/8/027_004.jpg",
+      "size": 14918,
+      "sha256": "9dd9138be2851a0a089b48b8aad5aef8e3e2903356bda1e57ebf3e3944f10512"
+    },
+    {
+      "path": "energy_meter_digits/images/train/8/034_004.jpg",
+      "size": 11096,
+      "sha256": "5b7b13b42b2296836a249884923d5cab3ee1ff7283958562fbf89222de680972"
+    },
+    {
+      "path": "energy_meter_digits/images/train/8/035_003.jpg",
+      "size": 8239,
+      "sha256": "809569617af0819fc30ac390b28c5b6ba0d53c2963712a50d70ed310c8df1859"
+    },
+    {
+      "path": "energy_meter_digits/images/train/8/038_002.jpg",
+      "size": 17907,
+      "sha256": "8fa0f3bc3c6510a7f07bc8f97d0ad2c39f057f4125341459a17ec93392eeeb6b"
+    },
+    {
+      "path": "energy_meter_digits/images/train/8/039_004.jpg",
+      "size": 17116,
+      "sha256": "7ec4eb41579fdb036a29954eafc73e3b3bd7f7c14907ab8ee8cc30a968fae29c"
+    },
+    {
+      "path": "energy_meter_digits/images/train/8/046_003.jpg",
+      "size": 11785,
+      "sha256": "c31d4f21e5a2d91b41c57cffd3ee318214553a5eeaa0ccd69c1af70258e8a0dd"
+    },
+    {
+      "path": "energy_meter_digits/images/train/8/049_003.jpg",
+      "size": 8799,
+      "sha256": "6626bb0b899e0bda6a1bd65c19812e595949ccc886fe183565655dd6d53f8c82"
+    },
+    {
+      "path": "energy_meter_digits/images/train/8/068_001.jpg",
+      "size": 12298,
+      "sha256": "84f7f55a5c6e17c739b6e3c81463497d3a03812a6d647945713d26510d9923c8"
+    },
+    {
+      "path": "energy_meter_digits/images/train/8/069_004.jpg",
+      "size": 4317,
+      "sha256": "2a87e803e77e1195090c0e09d2f9950842eafd72b8fcc6a5f9aed22037ca686c"
+    },
+    {
+      "path": "energy_meter_digits/images/train/8/074_003.jpg",
+      "size": 26643,
+      "sha256": "87d514de24fd9f86cc0d19431cfc98b12afead7c952390f341d3ab2c80278a77"
+    },
+    {
+      "path": "energy_meter_digits/images/train/8/075_004.jpg",
+      "size": 13379,
+      "sha256": "61b9a7acf733ef161159447fd950a398d1d5b8b710140e2a8468b4dcf5250735"
+    },
+    {
+      "path": "energy_meter_digits/images/train/8/077_003.jpg",
+      "size": 16950,
+      "sha256": "931d9bef07dddba627b0e38967e61d7c51b146cfde058185edf344e1c23da466"
+    },
+    {
+      "path": "energy_meter_digits/images/train/8/078_001.jpg",
+      "size": 18706,
+      "sha256": "6d5f1fcef7fb551e56a3daabe8b031fc791907db926d33de8a51adf3904a093f"
+    },
+    {
+      "path": "energy_meter_digits/images/train/8/079_004.jpg",
+      "size": 22526,
+      "sha256": "95e3be4170dd411a7e951e7149239cf6d71b21cf37c7c83fc3e3f4c409d4e2f5"
+    },
+    {
+      "path": "energy_meter_digits/images/train/8/086_003.jpg",
+      "size": 14268,
+      "sha256": "0be23455d6e2ab351fe24fed7775322d0f605a80f01f0a9ef6aa5fcf56a7ca6e"
+    },
+    {
+      "path": "energy_meter_digits/images/train/8/088_003.jpg",
+      "size": 11111,
+      "sha256": "bd35c7f15430a601838376a59594fb78fa531f260138ef1f4ba7c4c0a42ebf11"
+    },
+    {
+      "path": "energy_meter_digits/images/train/8/089_002.jpg",
+      "size": 11727,
+      "sha256": "af9d7ccdc9a7a7acb620b43b8f17ef99a78dadf2dcaba55d0e79eb9aa95f453d"
+    },
+    {
+      "path": "energy_meter_digits/images/train/8/096_004.jpg",
+      "size": 5648,
+      "sha256": "e17ef53c71282d51544ecd16bc52822f76273b4b14295611bc762a255521111b"
+    },
+    {
+      "path": "energy_meter_digits/images/train/8/098_003.jpg",
+      "size": 9227,
+      "sha256": "366a2f05e50f41c65fe673989281a621a9881d60e86bb6dec77a1a7f97aea740"
+    },
+    {
+      "path": "energy_meter_digits/images/train/8/105_004.jpg",
+      "size": 10482,
+      "sha256": "5b6784d1447b79bf8ca77c76c67d086d77c8f99a7fbc29c7ee3f776a011d1614"
+    },
+    {
+      "path": "energy_meter_digits/images/train/8/106_001.jpg",
+      "size": 12475,
+      "sha256": "dd9b3fdf808f5f049547a67262cdbad8398f482b85e545488b6d3c4615e06e01"
+    },
+    {
+      "path": "energy_meter_digits/images/train/8/108_002.jpg",
+      "size": 15443,
+      "sha256": "eb797bb8e516546f9f5614983ed4ae9f1ed8dd40082255057401649a67b1fa14"
+    },
+    {
+      "path": "energy_meter_digits/images/train/8/114_003.jpg",
+      "size": 9869,
+      "sha256": "eb784279c76871a0e0be41a981c63b0e77e6cd8d65898945585e3db88d3083d5"
+    },
+    {
+      "path": "energy_meter_digits/images/train/8/115_001.jpg",
+      "size": 12907,
+      "sha256": "6dcecb057d86b95bd7e726c66ebbe65e50d28710cf506892a5197b1d529a872a"
+    },
+    {
+      "path": "energy_meter_digits/images/train/8/119_003.jpg",
+      "size": 16261,
+      "sha256": "a60beed87daf5c251039849005830677ab63d897ed105b314b74325af09f905d"
+    },
+    {
+      "path": "energy_meter_digits/images/train/8/125_003.jpg",
+      "size": 15477,
+      "sha256": "306cae5490dc5721c7c05a3d75162e1809a9043bcf36d1843155c5c85dc5cede"
+    },
+    {
+      "path": "energy_meter_digits/images/train/8/126_003.jpg",
+      "size": 13674,
+      "sha256": "4e4f5f8d733e0d59215439dae9e9ad8a6d7a1090b1fa2aaeb29d808096d02940"
+    },
+    {
+      "path": "energy_meter_digits/images/train/8/135_001.jpg",
+      "size": 14949,
+      "sha256": "f2a78503adc81d628b9e434e6581b8ab38a75b40701620006cf94275bb4f27bf"
+    },
+    {
+      "path": "energy_meter_digits/images/train/8/138_002.jpg",
+      "size": 11154,
+      "sha256": "91a527da6bb86bcf849228db109ef547fac61f05961f547e1b4a05e8f09b7901"
+    },
+    {
+      "path": "energy_meter_digits/images/train/8/147_003.jpg",
+      "size": 9799,
+      "sha256": "a93f2ce8d51d37922762c57d1a267b760aa43c810596040a3d9ca2a195503b16"
+    },
+    {
+      "path": "energy_meter_digits/images/train/8/149_004.jpg",
+      "size": 6683,
+      "sha256": "87af35d3cdeeb989039f2c68f8e5be4f4d48560c80eed89635580ba3626d4743"
+    },
+    {
+      "path": "energy_meter_digits/images/train/8/166_003.jpg",
+      "size": 10400,
+      "sha256": "dd293a2899690023ab7136ce9b889b181f30b3b01cba6dbe7ed17050388a52c2"
+    },
+    {
+      "path": "energy_meter_digits/images/train/8/167_002.jpg",
+      "size": 20841,
+      "sha256": "cc0ea084b1951944631c486dceebf9e9478b9dfb6f48a4308914cb16772fbb83"
+    },
+    {
+      "path": "energy_meter_digits/images/train/8/169_002.jpg",
+      "size": 10873,
+      "sha256": "d70d0cb970fa39a8ec770055fa1e8a6d32c58aefb353ad92475cdd9d89127c1c"
+    },
+    {
+      "path": "energy_meter_digits/images/train/9/005_002.jpg",
+      "size": 10645,
+      "sha256": "6eac6f5ffb4117d423a65b3196a5cdba44257bcab272318c9c969b7947fcb037"
+    },
+    {
+      "path": "energy_meter_digits/images/train/9/008_004.jpg",
+      "size": 10409,
+      "sha256": "876e35be19c274453184191a01110c619db559add30def3415fa94fe14af410e"
+    },
+    {
+      "path": "energy_meter_digits/images/train/9/017_003.jpg",
+      "size": 13086,
+      "sha256": "57fba2cf6af175ca08e67303b93017613d9f1bcb769bad290966ee94af48df4d"
+    },
+    {
+      "path": "energy_meter_digits/images/train/9/017_004.jpg",
+      "size": 11243,
+      "sha256": "7706152e019b8b9f7c1d0d14807b543a4f0006573461691dbd59db45e58c9846"
+    },
+    {
+      "path": "energy_meter_digits/images/train/9/025_003.jpg",
+      "size": 10719,
+      "sha256": "da46c8cc354ea32c04202c3f088e6565e07e9806163cfda924e1cd25a8c80be3"
+    },
+    {
+      "path": "energy_meter_digits/images/train/9/045_004.jpg",
+      "size": 21342,
+      "sha256": "c95e3911f73c10479c468fb4d0ce61d10247a346ef12d5ceaf7ad3b08b6d5c30"
+    },
+    {
+      "path": "energy_meter_digits/images/train/9/046_004.jpg",
+      "size": 10805,
+      "sha256": "1b14a8612e0b7bf7dbe886388f5af7b9e13be853a4d9f701c6d1d29dec0da83b"
+    },
+    {
+      "path": "energy_meter_digits/images/train/9/057_004.jpg",
+      "size": 8201,
+      "sha256": "a10f78fd1f697c09ca728c40e644681683d77e91fc6b19e0d2a675469982dfde"
+    },
+    {
+      "path": "energy_meter_digits/images/train/9/058_004.jpg",
+      "size": 9803,
+      "sha256": "b344e0569081f8d9a2722ed6ff5af3d282b463610a489dbab49644bc76e794b0"
+    },
+    {
+      "path": "energy_meter_digits/images/train/9/059_004.jpg",
+      "size": 10127,
+      "sha256": "9548f525894f980e7837e84e17c26b182ddfc7c23cf51b4f12313299eb75fbf9"
+    },
+    {
+      "path": "energy_meter_digits/images/train/9/065_003.jpg",
+      "size": 13631,
+      "sha256": "1b34c49089d2b2c59f8e48ce6e7c3cf9a85ef3c65d6448ebb3e6465c5b9bcd6a"
+    },
+    {
+      "path": "energy_meter_digits/images/train/9/068_002.jpg",
+      "size": 10271,
+      "sha256": "440944e08860a8025b3705b0ab4949deed75dda16ab399ac3b755c4f22808f17"
+    },
+    {
+      "path": "energy_meter_digits/images/train/9/076_004.jpg",
+      "size": 10759,
+      "sha256": "ad094c31f8fe5dd2de1cf5f5e26f0ec2ee1eacb1811fcd60d5f2c7b796d7a1ed"
+    },
+    {
+      "path": "energy_meter_digits/images/train/9/078_002.jpg",
+      "size": 15736,
+      "sha256": "71a4e4993542728d0d81b0039393d084cb52911a2f5a532874d48a73477afbde"
+    },
+    {
+      "path": "energy_meter_digits/images/train/9/084_003.jpg",
+      "size": 10535,
+      "sha256": "b331501c66586aaf63fc8e32fb65a3202be8a43b538d5199096a66b2631273a1"
+    },
+    {
+      "path": "energy_meter_digits/images/train/9/086_004.jpg",
+      "size": 12620,
+      "sha256": "8e0f53f226c17f773de2ae540f321254c6dd6df482c6c462f7b79c4a892095a8"
+    },
+    {
+      "path": "energy_meter_digits/images/train/9/089_003.jpg",
+      "size": 11639,
+      "sha256": "a923854e97163f28f481f4b482fd31ae3a854ebc5aaa4c48cebb22f3b3818303"
+    },
+    {
+      "path": "energy_meter_digits/images/train/9/089_004.jpg",
+      "size": 9465,
+      "sha256": "79109ab578c6a6abaaa7f706cfef6b956292ff6db7ac1ec16c7d5ef8b1a87587"
+    },
+    {
+      "path": "energy_meter_digits/images/train/9/095_003.jpg",
+      "size": 14196,
+      "sha256": "aaa289602de9588eb71a106a23b1bc743477cbfa213a90a7659d72f9e33672f3"
+    },
+    {
+      "path": "energy_meter_digits/images/train/9/095_004.jpg",
+      "size": 5597,
+      "sha256": "ccc271251beacf8c19505c81b12ac1f0b3afa693e8f2a7cb3156221f75b34365"
+    },
+    {
+      "path": "energy_meter_digits/images/train/9/104_004.jpg",
+      "size": 18209,
+      "sha256": "5387e328164b0ecdd5b0323e5b96f11c2044ed2030199b8580c2962b2a69edf8"
+    },
+    {
+      "path": "energy_meter_digits/images/train/9/106_002.jpg",
+      "size": 12154,
+      "sha256": "0ac3fe81a7a017ca0405832211931c6bab02065b9c1be7c856ff12bc74d72de7"
+    },
+    {
+      "path": "energy_meter_digits/images/train/9/107_003.jpg",
+      "size": 14265,
+      "sha256": "77af778a8b3f890246cc571da9c19306b3d45627d2832903537d7d659538238e"
+    },
+    {
+      "path": "energy_meter_digits/images/train/9/108_003.jpg",
+      "size": 15651,
+      "sha256": "95a3f35e518766525691510b5d0c25ff464ab84940819a22fb5497db841a92a6"
+    },
+    {
+      "path": "energy_meter_digits/images/train/9/108_004.jpg",
+      "size": 15386,
+      "sha256": "e59a5e5b1b44f66467d2ef4999b010c7e20c064f7f22a684e06c88cb199195db"
+    },
+    {
+      "path": "energy_meter_digits/images/train/9/109_003.jpg",
+      "size": 10263,
+      "sha256": "60c3cb4494a87b5cf0cdc17434ecdcd0f56aba4c05ebdc57c40885bdfcf80e62"
+    },
+    {
+      "path": "energy_meter_digits/images/train/9/114_004.jpg",
+      "size": 10063,
+      "sha256": "05ce3f202b9412307f2f43ccb4e953959296b6c661ef52cd2e9d8d728dd82bdb"
+    },
+    {
+      "path": "energy_meter_digits/images/train/9/115_002.jpg",
+      "size": 12806,
+      "sha256": "bb0f8e241be25119b8d97cc1afdcfe1764ba270cc6f7bd5fada54085e4fdf569"
+    },
+    {
+      "path": "energy_meter_digits/images/train/9/124_003.jpg",
+      "size": 11786,
+      "sha256": "c0cd377633e01c6d3ce4db8d3d16f0b65a0e2c493d0a501e9c12eda7dbaf61dc"
+    },
+    {
+      "path": "energy_meter_digits/images/train/9/124_004.jpg",
+      "size": 10295,
+      "sha256": "14d679c61baed095b326f00552e48e6f683364a9bdaa4a47e34ca22efd2d0b17"
+    },
+    {
+      "path": "energy_meter_digits/images/train/9/126_004.jpg",
+      "size": 12027,
+      "sha256": "63e2752530fdcd62f7fc5e4174347f8af8e367b3011b6fc9c3189ce13cd90b86"
+    },
+    {
+      "path": "energy_meter_digits/images/train/9/127_004.jpg",
+      "size": 10173,
+      "sha256": "1f904b2cf5694699d3a95ec1ee11d6a5759b7521f667149967a148941b998192"
+    },
+    {
+      "path": "energy_meter_digits/images/train/9/135_002.jpg",
+      "size": 11150,
+      "sha256": "ac5277eed5bae37800b0c56556e017fd9b010fe1cb8776c9065697616096c093"
+    },
+    {
+      "path": "energy_meter_digits/images/train/9/137_004.jpg",
+      "size": 10136,
+      "sha256": "7bb7bdf9c6a6572b4bc3c808dbb25771dc2a331459b8e881bab9a1b7487c21b0"
+    },
+    {
+      "path": "energy_meter_digits/images/train/9/138_003.jpg",
+      "size": 11608,
+      "sha256": "2f0f03cfcdb09b919978fab6b365a9cefc9f0064622721bc9049b2789afdbaeb"
+    },
+    {
+      "path": "energy_meter_digits/images/train/9/138_004.jpg",
+      "size": 9764,
+      "sha256": "f85cde20946f6c92f2704b76a64a33d39573a1633497f02fdb5808c1c68fee85"
+    },
+    {
+      "path": "energy_meter_digits/images/train/9/144_003.jpg",
+      "size": 12651,
+      "sha256": "8ec2ec81e319752604bcb8d3d19f554763391e394aa64efb1426df1309ee2ef0"
+    },
+    {
+      "path": "energy_meter_digits/images/train/9/144_004.jpg",
+      "size": 4180,
+      "sha256": "497a7a0e8617d85d74de1a8c91e91da1629eb1f90b3fc92df3529863315cbdb4"
+    },
+    {
+      "path": "energy_meter_digits/images/train/9/145_003.jpg",
+      "size": 8459,
+      "sha256": "9bc9e2e265c019e9eabe25efdf64d87bb752670eae927dfae9cd40554a35009a"
+    },
+    {
+      "path": "energy_meter_digits/images/train/9/145_004.jpg",
+      "size": 3487,
+      "sha256": "2fae7728acd056f0bbc630ebdc657b4ef2f3ab76718c332049bcc96a08a49567"
+    },
+    {
+      "path": "energy_meter_digits/images/train/9/155_003.jpg",
+      "size": 11300,
+      "sha256": "fb32a66c59f1995f2f99f472f3e1f5d23a0f978e74ef30b71e2f559c68a25768"
+    },
+    {
+      "path": "energy_meter_digits/images/train/9/155_004.jpg",
+      "size": 11570,
+      "sha256": "e9d731cce0d004b4848daccdf6c7762015de9bc483be64f852e2d0079bcb7145"
+    },
+    {
+      "path": "energy_meter_digits/images/train/9/158_003.jpg",
+      "size": 19495,
+      "sha256": "bee231cce79f52886e2569818e93f62c4ae1e270637c22c5343fe1d6da3a17eb"
+    },
+    {
+      "path": "energy_meter_digits/images/train/9/159_002.jpg",
+      "size": 14069,
+      "sha256": "85fdc69e99856017a83bfbc48091a16f6754caae55b8410194857c4858a599ff"
+    },
+    {
+      "path": "energy_meter_digits/images/train/9/164_004.jpg",
+      "size": 8734,
+      "sha256": "e4129e64bbdd65cdb144565fe89c77dc478f231113680057bb8a21b8b5876f3f"
+    },
+    {
+      "path": "energy_meter_digits/images/train/9/165_004.jpg",
+      "size": 9012,
+      "sha256": "2b7031d3c63dc58c98dfa32317bcabcb18efecd51b54d20ff07e48d46d4282d5"
+    },
+    {
+      "path": "energy_meter_digits/images/train/9/168_004.jpg",
+      "size": 9617,
+      "sha256": "5b269dbf37d0197dc35525438bda00067ba52d434c7c29a93052340253a51f91"
+    },
+    {
+      "path": "energy_meter_digits/images/train/9/169_003.jpg",
+      "size": 10063,
+      "sha256": "d266b6a4dfda301bda4d712ba84bbccce1a3ad26e965c2970a07556abd65ad26"
+    },
+    {
+      "path": "energy_meter_digits/images/val/0/002_003.jpg",
+      "size": 34145,
+      "sha256": "2ae27d9a7c7b6a39d15ede97d2724c79a5b8f36bbf55b7070e9256db51b72a75"
+    },
+    {
+      "path": "energy_meter_digits/images/val/0/002_004.jpg",
+      "size": 29430,
+      "sha256": "ad8dabf1435669f5c7722c011074b155182f7f5e6882e4c2d3a21141788763f2"
+    },
+    {
+      "path": "energy_meter_digits/images/val/0/002_005.jpg",
+      "size": 25307,
+      "sha256": "6725c7f3929e4dac6059a1ce9c7b7302a1c822134e1aa1358614c79d447f4203"
+    },
+    {
+      "path": "energy_meter_digits/images/val/0/002_006.jpg",
+      "size": 22683,
+      "sha256": "ec31ee77fa6dc596f7fb523e755f72c0f8a540544c6eab9bb7020080e204584c"
+    },
+    {
+      "path": "energy_meter_digits/images/val/0/003_004.jpg",
+      "size": 15797,
+      "sha256": "b5d9ca1b1999dcded9bde5b0c1ed79af758971d50ee26270cd35320bf7537b02"
+    },
+    {
+      "path": "energy_meter_digits/images/val/0/003_005.jpg",
+      "size": 14656,
+      "sha256": "6a23e49360cad31e0f01a72a85b133552e2cd8dd7578cd68d895c28ba972e7ab"
+    },
+    {
+      "path": "energy_meter_digits/images/val/0/012_005.jpg",
+      "size": 16597,
+      "sha256": "cd7841c755233e055fe7871ac192264cd53c0fbb9cf56b56b31a55f83fdda5f3"
+    },
+    {
+      "path": "energy_meter_digits/images/val/0/012_006.jpg",
+      "size": 12747,
+      "sha256": "474c0ffa19eba5be5ec8e9e8f81b23204a8832cfb5d722d5ec09c0da7fef92cc"
+    },
+    {
+      "path": "energy_meter_digits/images/val/0/013_004.jpg",
+      "size": 9964,
+      "sha256": "7435c51ed15ee315f0994c79db428d46f117dbd77d8784e384ba4ce6657b52eb"
+    },
+    {
+      "path": "energy_meter_digits/images/val/0/032_004.jpg",
+      "size": 16132,
+      "sha256": "79936e4aee81f39699d86bc9f9f72c2dce1401ca605a3118203b24b9f2d613e7"
+    },
+    {
+      "path": "energy_meter_digits/images/val/0/053_004.jpg",
+      "size": 10131,
+      "sha256": "d7af0f57700b48fb9b634a1bb7f1da2728288428fb27b6fc5ac7ea46227fbd77"
+    },
+    {
+      "path": "energy_meter_digits/images/val/0/053_005.jpg",
+      "size": 9141,
+      "sha256": "7d7c05398f748a9518cf2fed64c65e805950b3da8a7419201fdeec2b56649f67"
+    },
+    {
+      "path": "energy_meter_digits/images/val/0/053_006.jpg",
+      "size": 9122,
+      "sha256": "ceed66d909f391b39fdcd82dedab902528f82ebc9c66f71c109cdb33d8a743a6"
+    },
+    {
+      "path": "energy_meter_digits/images/val/0/062_005.jpg",
+      "size": 13699,
+      "sha256": "a92f0d8cbb0d178c3074c6caa0bccfe9acd0d7d96f8d9430153640e4712cdb7c"
+    },
+    {
+      "path": "energy_meter_digits/images/val/0/062_006.jpg",
+      "size": 12094,
+      "sha256": "4d8ad25fa585f276ecf6f162527421c4b2984d7a09b8a2e40e65e065c8a04eda"
+    },
+    {
+      "path": "energy_meter_digits/images/val/0/072_004.jpg",
+      "size": 21215,
+      "sha256": "7fff3bf481dd35f4dca6c8e04195a80f72895296f551b0850b496dbb8f545f63"
+    },
+    {
+      "path": "energy_meter_digits/images/val/0/072_005.jpg",
+      "size": 19112,
+      "sha256": "ab9e94f7fc30a2682a0dbde27b75feaa85ae5dee0d3970871251bbcb009e3194"
+    },
+    {
+      "path": "energy_meter_digits/images/val/0/073_005.jpg",
+      "size": 16879,
+      "sha256": "2379b6bd660cb31e33a5dd32416834da8589a4f345b66103c23e61dc49d8134e"
+    },
+    {
+      "path": "energy_meter_digits/images/val/0/082_005.jpg",
+      "size": 11098,
+      "sha256": "2d12c3fdf4e8a922b8c3841fcc1eef5707130b92a2e4a3b08e76211258bbea35"
+    },
+    {
+      "path": "energy_meter_digits/images/val/0/082_006.jpg",
+      "size": 8845,
+      "sha256": "90d3a84a33ad1202f94102714a739d1d1304b9dc4fbf49ad51066f586b7e1d09"
+    },
+    {
+      "path": "energy_meter_digits/images/val/0/083_004.jpg",
+      "size": 16635,
+      "sha256": "4d0eb3199d9682fd770389e57a4e3806ba27d411acb1a45d996a5792bc467182"
+    },
+    {
+      "path": "energy_meter_digits/images/val/0/083_005.jpg",
+      "size": 12017,
+      "sha256": "1310f56364453f42013d6f162fed1d87d3c1a132b4a4c7504cf47005cb11d3ba"
+    },
+    {
+      "path": "energy_meter_digits/images/val/0/083_006.jpg",
+      "size": 11533,
+      "sha256": "84b9ad1ea99da2b832804a8c3980e6d58961eefb3e6ab1eac01f582eb8236049"
+    },
+    {
+      "path": "energy_meter_digits/images/val/0/093_005.jpg",
+      "size": 19956,
+      "sha256": "2a901b0544e2c583c05c4858a70bcae7848245fdfb338f04676b0af0d38c00c9"
+    },
+    {
+      "path": "energy_meter_digits/images/val/0/093_006.jpg",
+      "size": 15339,
+      "sha256": "46c9323b0b58756b8b7ccde3df13e9490a0bee29a274f522efc8f30a90fd9566"
+    },
+    {
+      "path": "energy_meter_digits/images/val/0/112_004.jpg",
+      "size": 6434,
+      "sha256": "3e7fea949ccf505d7db1170d9668a4aa68d716ba0ccdf0c20d40c1abcaa07643"
+    },
+    {
+      "path": "energy_meter_digits/images/val/0/112_005.jpg",
+      "size": 5860,
+      "sha256": "17ebb553d1df93a7f3a23c5fe73e4de5708eb0c07543fe60d757821cca40c548"
+    },
+    {
+      "path": "energy_meter_digits/images/val/0/112_006.jpg",
+      "size": 5651,
+      "sha256": "5c524e1cfaf30a16b1818920fd70ebb0bcf94319c4e5ce6d750a7373a4558bb6"
+    },
+    {
+      "path": "energy_meter_digits/images/val/0/113_005.jpg",
+      "size": 5157,
+      "sha256": "61fa43f69b3b973cf41428bc4e5deb2d7a02614a03c132ca7c420529bbd3c742"
+    },
+    {
+      "path": "energy_meter_digits/images/val/0/113_006.jpg",
+      "size": 5582,
+      "sha256": "cc49a57dc93023413201990d603f9f17e76a9a193cdad8a31b19eeacc7ba8443"
+    },
+    {
+      "path": "energy_meter_digits/images/val/0/113_007.jpg",
+      "size": 6296,
+      "sha256": "1ea359413ab3a0ebdadfb15cefccc9cb83546a39bec188d74d791ea4daeba164"
+    },
+    {
+      "path": "energy_meter_digits/images/val/0/122_003.jpg",
+      "size": 28219,
+      "sha256": "693a0b77d703d79b8a70b207574c25cffd35aee9d3a52944ff6d1a4f8be6aacb"
+    },
+    {
+      "path": "energy_meter_digits/images/val/0/123_004.jpg",
+      "size": 9471,
+      "sha256": "d34d0bbb05b67d97eb836b800ff992f82fd6518cf2f2e33931542cdddcd379fc"
+    },
+    {
+      "path": "energy_meter_digits/images/val/0/142_003.jpg",
+      "size": 21612,
+      "sha256": "15fb80bf27dedee7f6d028449b571ab9f8d92dcbdfe37bf60105163b524ca184"
+    },
+    {
+      "path": "energy_meter_digits/images/val/0/142_004.jpg",
+      "size": 17498,
+      "sha256": "6a8ac74b45429edfb1c60c71f64624bd06d54493fd2a43bcbea24ba686b7c6bf"
+    },
+    {
+      "path": "energy_meter_digits/images/val/0/142_005.jpg",
+      "size": 14307,
+      "sha256": "8360e35f05d17b1e03dfd39e4c3d4ea51e009af1b85fadbb99ac56faf2bd403e"
+    },
+    {
+      "path": "energy_meter_digits/images/val/0/142_006.jpg",
+      "size": 13997,
+      "sha256": "fa295c300f476fe6e97ff01c4d48466dc4f50f5850218ebbe131ff68680a9497"
+    },
+    {
+      "path": "energy_meter_digits/images/val/0/152_006.jpg",
+      "size": 13462,
+      "sha256": "f29addc431da7e80990e5d2eaece7f7769c3d03a5d2324021bb607038f394e64"
+    },
+    {
+      "path": "energy_meter_digits/images/val/0/152_007.jpg",
+      "size": 8006,
+      "sha256": "956674f213de1e93b024c7a8722acb0a2596e3137a0031d38f70c90bd5076e1e"
+    },
+    {
+      "path": "energy_meter_digits/images/val/0/153_003.jpg",
+      "size": 21835,
+      "sha256": "f260f25b5800642ed5b3c67714f010880c5e80addaf1bd8c80375ed9d1923e60"
+    },
+    {
+      "path": "energy_meter_digits/images/val/0/162_005.jpg",
+      "size": 20181,
+      "sha256": "1bc28f9ad9b16248d4b2ea89a6c44e3de6b4e49dd8286c734bcace2f3b3f5357"
+    },
+    {
+      "path": "energy_meter_digits/images/val/0/162_006.jpg",
+      "size": 18517,
+      "sha256": "82b9dbcd1f0a72eae1c33cae182d43d4e7f521cff13e22c634d80ebb97ad142c"
+    },
+    {
+      "path": "energy_meter_digits/images/val/0/163_005.jpg",
+      "size": 11708,
+      "sha256": "6ae8aaf70b05f1629655a76f84b8eef8db2e0833d2d976cda5e42ab73d27fd76"
+    },
+    {
+      "path": "energy_meter_digits/images/val/0/163_006.jpg",
+      "size": 10811,
+      "sha256": "d52528e4c11c934caa778789afe3530eaeae36ec52d3e157198f4c8316b7d3ad"
+    },
+    {
+      "path": "energy_meter_digits/images/val/1/002_000.jpg",
+      "size": 13521,
+      "sha256": "c762e76e9468cfe5b286008e13d677bde0b20fd204f2517373b62a144c4f3083"
+    },
+    {
+      "path": "energy_meter_digits/images/val/1/012_000.jpg",
+      "size": 7403,
+      "sha256": "629367aeb8ed1608ccb12470e96f14ed3b9d169ac02de91b630db5de1b8a65d8"
+    },
+    {
+      "path": "energy_meter_digits/images/val/1/012_001.jpg",
+      "size": 7332,
+      "sha256": "140a57df5fe73beb34f1af3896efb90b6a2880ab3a1a169fec72c07624ee973f"
+    },
+    {
+      "path": "energy_meter_digits/images/val/1/013_000.jpg",
+      "size": 5997,
+      "sha256": "abacd0f874f2d3bffec9895b9fcc206625cae73069b436cc3ecebb364327520f"
+    },
+    {
+      "path": "energy_meter_digits/images/val/1/022_000.jpg",
+      "size": 9569,
+      "sha256": "4d89e4eb51d2acf0b0b670920ccf039f705347f7e7862d338cb7dd4298476c44"
+    },
+    {
+      "path": "energy_meter_digits/images/val/1/032_000.jpg",
+      "size": 9620,
+      "sha256": "efcb4968b5a71dd56a314323a10807ed81c962313fe0924c2d0dd037ec3bccdc"
+    },
+    {
+      "path": "energy_meter_digits/images/val/1/033_000.jpg",
+      "size": 7244,
+      "sha256": "f4c614bfe0f2a147d6317782c3492a52aed436584892d2f14c984871c86e15dc"
+    },
+    {
+      "path": "energy_meter_digits/images/val/1/042_000.jpg",
+      "size": 10669,
+      "sha256": "0ed856fb27df398cf9de3efdeba7e7fa30177e988c012a8413117a068cb8bcf2"
+    },
+    {
+      "path": "energy_meter_digits/images/val/1/043_000.jpg",
+      "size": 11730,
+      "sha256": "16cbdf4e7dc4987526e76e17f51bc736183ce19c3c7ac516666bc790f54a7f81"
+    },
+    {
+      "path": "energy_meter_digits/images/val/1/043_001.jpg",
+      "size": 9350,
+      "sha256": "2930425e36e6aab1ea1cc6b33aeb56967d945db092f69a3aecf0d521d0e0c983"
+    },
+    {
+      "path": "energy_meter_digits/images/val/1/082_000.jpg",
+      "size": 4611,
+      "sha256": "3fa938d52655746299b75772491c679a6d9aae9ccecb0d0dc1e28afd37f478aa"
+    },
+    {
+      "path": "energy_meter_digits/images/val/1/092_000.jpg",
+      "size": 11770,
+      "sha256": "6a93e3abb4bd300e8f3e4cc85ff85fb1aecc425482d1ec1a973adf9a634c970c"
+    },
+    {
+      "path": "energy_meter_digits/images/val/1/093_000.jpg",
+      "size": 6527,
+      "sha256": "219307ed626cf65e4e0786935bb98511d7f7ff1d41188f3557156045c3074577"
+    },
+    {
+      "path": "energy_meter_digits/images/val/1/093_001.jpg",
+      "size": 2839,
+      "sha256": "c17a26e280eab35569e31c6eaf3396a27c26021116cb1c2194fe83a5e937bb02"
+    },
+    {
+      "path": "energy_meter_digits/images/val/1/103_000.jpg",
+      "size": 8285,
+      "sha256": "b06ca274766a646c873ccc90abf4c19e853f38fdda26780dd45de75823812bb7"
+    },
+    {
+      "path": "energy_meter_digits/images/val/1/113_000.jpg",
+      "size": 3169,
+      "sha256": "c417253b6138e2a785f05371cc7a8d310c008863fcd660918334a01a78da9305"
+    },
+    {
+      "path": "energy_meter_digits/images/val/1/122_000.jpg",
+      "size": 10969,
+      "sha256": "68801cb4635bea38b5bc772a38f5c6b60456cb6087cebff56c1dc5b833c25428"
+    },
+    {
+      "path": "energy_meter_digits/images/val/1/123_000.jpg",
+      "size": 5751,
+      "sha256": "24f989e921ec2f5891f7dcc5f835fd3b9a7266d9589868df29be0065dfeb257e"
+    },
+    {
+      "path": "energy_meter_digits/images/val/1/123_001.jpg",
+      "size": 5677,
+      "sha256": "b56b088a1dafd4106aa36c302e46e582ceb6b010ff49840d474a314811f76490"
+    },
+    {
+      "path": "energy_meter_digits/images/val/1/142_000.jpg",
+      "size": 8649,
+      "sha256": "04c487b5aa0af3c28b09a9cb25613472a4a59d52683ec8f1f05de736bcd75d19"
+    },
+    {
+      "path": "energy_meter_digits/images/val/1/143_000.jpg",
+      "size": 5486,
+      "sha256": "66678229177d307082438fa4216e97f9d0a500626814c648887c0fcde593a814"
+    },
+    {
+      "path": "energy_meter_digits/images/val/1/152_000.jpg",
+      "size": 5490,
+      "sha256": "773e3ac596a5c7763e11d06114a39daa3d4d99fa2485bf06bc970ff7ff767197"
+    },
+    {
+      "path": "energy_meter_digits/images/val/1/162_000.jpg",
+      "size": 10954,
+      "sha256": "384e5f391c6bed490b87420fee7e7ee740ee61243ffcf911e3bfd09c41a26bbd"
+    },
+    {
+      "path": "energy_meter_digits/images/val/2/003_000.jpg",
+      "size": 11178,
+      "sha256": "bd29dc13fbae051615e79cc8b1ac66454738d6935600bb3ffead5969686bc37b"
+    },
+    {
+      "path": "energy_meter_digits/images/val/2/003_001.jpg",
+      "size": 11691,
+      "sha256": "39bc1c3ca02514631cd10165d98e04184047dac51df45d1dbd45c327b7ee8d65"
+    },
+    {
+      "path": "energy_meter_digits/images/val/2/023_000.jpg",
+      "size": 12395,
+      "sha256": "51e0384b1c098869b6ba864c4a6f8b70fa0c88b78130490ca8b9e071ef41a482"
+    },
+    {
+      "path": "energy_meter_digits/images/val/2/033_001.jpg",
+      "size": 12769,
+      "sha256": "6c281c83abc66a473f6d49d50e51aec6000c788dffe680e8b75c410dcc16fd16"
+    },
+    {
+      "path": "energy_meter_digits/images/val/2/042_001.jpg",
+      "size": 14170,
+      "sha256": "04c677982d49ac0de04d2e12697b6ec50e5af0ec50642b1333c9b118f2ec0951"
+    },
+    {
+      "path": "energy_meter_digits/images/val/2/042_002.jpg",
+      "size": 16190,
+      "sha256": "e5be1955a2bc07e8d02d7938cd43d4203e3949b27eae65a8ab80d7b7a02ad2ed"
+    },
+    {
+      "path": "energy_meter_digits/images/val/2/043_002.jpg",
+      "size": 18029,
+      "sha256": "4ac12effc89106bd846171dac4208aaa7c9b5420cad940a454988077e0cee568"
+    },
+    {
+      "path": "energy_meter_digits/images/val/2/052_000.jpg",
+      "size": 14615,
+      "sha256": "45c26fbdfc2f7c10dde4d83d1cb08c819a29a53fc8aed3bb745c48c33377a16d"
+    },
+    {
+      "path": "energy_meter_digits/images/val/2/053_000.jpg",
+      "size": 8324,
+      "sha256": "3c5f694430143490e34ef90fcd9c57e6c4cb0650b78f94ff2058ff4b0eeb835d"
+    },
+    {
+      "path": "energy_meter_digits/images/val/2/062_000.jpg",
+      "size": 10641,
+      "sha256": "da03432cc8f696c365d40c81285cebb7bec464321796041fd9beef748a4729d6"
+    },
+    {
+      "path": "energy_meter_digits/images/val/2/062_001.jpg",
+      "size": 9127,
+      "sha256": "30db22c8d498a1ae7d49a56f369c899cf6a95c7139e44ef4f311e412e0368bf6"
+    },
+    {
+      "path": "energy_meter_digits/images/val/2/072_000.jpg",
+      "size": 15527,
+      "sha256": "038da27d20796a2e0a1ee347962d52577e014176f92ca408035c6ae566ff1513"
+    },
+    {
+      "path": "energy_meter_digits/images/val/2/073_000.jpg",
+      "size": 12709,
+      "sha256": "c275a204413d46134079779a39f66917e2249819a1e659a3fdf817fa60ce6cc6"
+    },
+    {
+      "path": "energy_meter_digits/images/val/2/073_001.jpg",
+      "size": 10917,
+      "sha256": "79c7c227b053ad72769f24cfd7f8210c95fcfe8562f9081fe72d119496a732c1"
+    },
+    {
+      "path": "energy_meter_digits/images/val/2/083_000.jpg",
+      "size": 10871,
+      "sha256": "f7de12afb6f4a58c60227f8e0c00b674866463ff30dc00e1da015b9e3548f7fd"
+    },
+    {
+      "path": "energy_meter_digits/images/val/2/102_000.jpg",
+      "size": 12366,
+      "sha256": "63ce5dc21a76c2b178599c2d1631c124c34abc23b1272b2a1bb9801ce185b79b"
+    },
+    {
+      "path": "energy_meter_digits/images/val/2/103_001.jpg",
+      "size": 13199,
+      "sha256": "8708f873ecd14e4f50c3d3412bcded47fde8ac031eee9d184402e614993f76dc"
+    },
+    {
+      "path": "energy_meter_digits/images/val/2/122_001.jpg",
+      "size": 29562,
+      "sha256": "9ae0c262b0130ef2d60a95acc4466c44b7d3e3c26e18725776fa0d486de53b2a"
+    },
+    {
+      "path": "energy_meter_digits/images/val/2/132_000.jpg",
+      "size": 11187,
+      "sha256": "bb15bd3aff4bbed486c068f02e4de415cefdba894a21cb39bf1fbb2c40679650"
+    },
+    {
+      "path": "energy_meter_digits/images/val/2/133_000.jpg",
+      "size": 12723,
+      "sha256": "a2d99ee1c3c91bc7752be2eb4798b54db2a3cbee3451b53da3f8606b41c25401"
+    },
+    {
+      "path": "energy_meter_digits/images/val/2/152_001.jpg",
+      "size": 7760,
+      "sha256": "3eedd405c98e65f7de0ac3fdae7c85d8da4b72a6554ceee19cfe90bd5ea81928"
+    },
+    {
+      "path": "energy_meter_digits/images/val/3/002_001.jpg",
+      "size": 19489,
+      "sha256": "d0d0fe0c084877ce48fb6e7de52acfbf3ae42b424f8f38237ebeb1ad0bab0c14"
+    },
+    {
+      "path": "energy_meter_digits/images/val/3/012_002.jpg",
+      "size": 10270,
+      "sha256": "b473bc7e8773ab4083b790d9238f308fde4522635e207210af9df5f841a87ec0"
+    },
+    {
+      "path": "energy_meter_digits/images/val/3/042_003.jpg",
+      "size": 18263,
+      "sha256": "cc23d8491edf11012f0de4260027ca955f9910ba5dbc4bf9b1e60caccc5236d3"
+    },
+    {
+      "path": "energy_meter_digits/images/val/3/052_001.jpg",
+      "size": 13264,
+      "sha256": "fde67046d259c34352db814cb8b9a5ce92281903e542d31fa46c68565d701e02"
+    },
+    {
+      "path": "energy_meter_digits/images/val/3/063_000.jpg",
+      "size": 9927,
+      "sha256": "ab3ba3da4f4eaca033ea29fb0c322d8db71c1bb457809b491c36a5fb14ecdd41"
+    },
+    {
+      "path": "energy_meter_digits/images/val/3/072_001.jpg",
+      "size": 17129,
+      "sha256": "2acb300bcfddee60965f7c909cdf0b9484f0b834e521b8f8a853ab69feffd23e"
+    },
+    {
+      "path": "energy_meter_digits/images/val/3/073_002.jpg",
+      "size": 12942,
+      "sha256": "0a37f452b1d6cdc74cec258c88c725434216b98e2379d38bc9727e6767d1a5b8"
+    },
+    {
+      "path": "energy_meter_digits/images/val/3/092_001.jpg",
+      "size": 25469,
+      "sha256": "ea3c339910b20e3e89b0eec8bf32087c26713f3b8fd4d587eebab5c95270c6a7"
+    },
+    {
+      "path": "energy_meter_digits/images/val/3/092_002.jpg",
+      "size": 16862,
+      "sha256": "3cfdcea17eea3240e77c812d5151c151ef0a8db725cd279e1149c3d6bb133a1b"
+    },
+    {
+      "path": "energy_meter_digits/images/val/3/102_001.jpg",
+      "size": 13251,
+      "sha256": "6522d2c74f535ef1baad23d5f8389e0b9191abf494d6f88b3ec2bdfeff9b8da9"
+    },
+    {
+      "path": "energy_meter_digits/images/val/3/102_002.jpg",
+      "size": 13503,
+      "sha256": "975218fcbad4c5e72c7d20f7bc292fbf2280f966588c17479347c7f8f8331847"
+    },
+    {
+      "path": "energy_meter_digits/images/val/3/103_002.jpg",
+      "size": 16051,
+      "sha256": "63bb067aab68baea4a77525841d0af6ab660379e3c678cbf089c26619f8b891f"
+    },
+    {
+      "path": "energy_meter_digits/images/val/3/112_000.jpg",
+      "size": 5062,
+      "sha256": "d1b776598e7b5dee86f0ddfece238c9a995feb3a5c46dd61c4366d75124878ac"
+    },
+    {
+      "path": "energy_meter_digits/images/val/3/112_001.jpg",
+      "size": 5082,
+      "sha256": "87427371e1a4cca685ab43e558531236d8dff689b30629dd612381b615403cb0"
+    },
+    {
+      "path": "energy_meter_digits/images/val/3/113_001.jpg",
+      "size": 4646,
+      "sha256": "86d17cb2519e306a3edbd85f7a544a1ce599a8e4d8fb5d7fbe0bb9ad8824c688"
+    },
+    {
+      "path": "energy_meter_digits/images/val/3/143_001.jpg",
+      "size": 10666,
+      "sha256": "80d1daf3425851cfd916fe445399f0fc278ab1458eb672d5850c2bf611bb7ee5"
+    },
+    {
+      "path": "energy_meter_digits/images/val/3/152_002.jpg",
+      "size": 6582,
+      "sha256": "8243c343a5983088ec5e55b1135ca852ac5040d26603364f747b4ad7d669cd96"
+    },
+    {
+      "path": "energy_meter_digits/images/val/3/153_000.jpg",
+      "size": 15748,
+      "sha256": "cc2f0c878b16e356a09a7be0a668509acd18d4364c76e3dea85574bf83249dc8"
+    },
+    {
+      "path": "energy_meter_digits/images/val/3/162_001.jpg",
+      "size": 17147,
+      "sha256": "eff11014c760c17f94fc86b022b921422c817dd7844f664a989cd8fad28adc09"
+    },
+    {
+      "path": "energy_meter_digits/images/val/3/163_000.jpg",
+      "size": 8158,
+      "sha256": "1a81b09dd9b95e7eb390a9024dec29aa121b6472e8ea7704762a365528215669"
+    },
+    {
+      "path": "energy_meter_digits/images/val/4/003_002.jpg",
+      "size": 9698,
+      "sha256": "bc2fc34ac3f8955cb83662c35f39af8248d06aa1320ce01aa27142ca4ac6e916"
+    },
+    {
+      "path": "energy_meter_digits/images/val/4/022_001.jpg",
+      "size": 17391,
+      "sha256": "762b390cef3a9440ff9e9f4f8d02fcb059bf2a3e5f8aefd5828a460b9af18f81"
+    },
+    {
+      "path": "energy_meter_digits/images/val/4/053_001.jpg",
+      "size": 6787,
+      "sha256": "1db40c29a3a7558c61327a903819a20a34be89429b0a286288ed526af18a9e92"
+    },
+    {
+      "path": "energy_meter_digits/images/val/4/062_002.jpg",
+      "size": 8535,
+      "sha256": "a2b241d69c19ede77a2d8e94979bc4ce9870196a16d32f3aba270ec182170b76"
+    },
+    {
+      "path": "energy_meter_digits/images/val/4/063_001.jpg",
+      "size": 9522,
+      "sha256": "ddfff44eeda2fd4859382724c842f0603dc79b70e05ad1b90dadd65fbdbdb010"
+    },
+    {
+      "path": "energy_meter_digits/images/val/4/082_001.jpg",
+      "size": 7942,
+      "sha256": "9d63f45dd71a7392db77576c17d3f96eecc641aa19914c0ef35893aa41e98e51"
+    },
+    {
+      "path": "energy_meter_digits/images/val/4/083_001.jpg",
+      "size": 8390,
+      "sha256": "2ae6ea8f25f654313380b20c60d94dbb16c0237413c078899a3e9fce935a3bba"
+    },
+    {
+      "path": "energy_meter_digits/images/val/4/103_003.jpg",
+      "size": 11441,
+      "sha256": "60db3f0b82fe053a155072c375b89feec6445b3df14bcca81653c71da9dd1226"
+    },
+    {
+      "path": "energy_meter_digits/images/val/4/112_002.jpg",
+      "size": 4846,
+      "sha256": "eda7ba4c83d47929308b756162fe4e38c13cf41349475040b20149c5a5602016"
+    },
+    {
+      "path": "energy_meter_digits/images/val/4/113_002.jpg",
+      "size": 4814,
+      "sha256": "99b1116d7f0a09333139393a248a00f4d39e198e50b73a475b5076725b45d4ac"
+    },
+    {
+      "path": "energy_meter_digits/images/val/4/113_003.jpg",
+      "size": 5122,
+      "sha256": "f6f7a628dfc0e14b9189eb5dc720a98e49db2d93a0d58b2c46f966b2867daf76"
+    },
+    {
+      "path": "energy_meter_digits/images/val/4/133_001.jpg",
+      "size": 11924,
+      "sha256": "8c7435e73630d3e9bdcd53b922f1e879d21c00b1f1e371b69d32ced0d0db8d4a"
+    },
+    {
+      "path": "energy_meter_digits/images/val/4/143_002.jpg",
+      "size": 11001,
+      "sha256": "a7d1d3b8166c29a8e25fb766705e9ff701144057055dcf3c98a3796c9b81fffc"
+    },
+    {
+      "path": "energy_meter_digits/images/val/4/153_001.jpg",
+      "size": 15550,
+      "sha256": "4ca6a177ec6023f056ef89a1df22c4b9c5a65729c9817d3343bb8f8e6dece7ce"
+    },
+    {
+      "path": "energy_meter_digits/images/val/4/163_001.jpg",
+      "size": 7620,
+      "sha256": "8bc6f3399be8846006f0c950d41a47cbe481284b49d39a082830f49f2ce8f055"
+    },
+    {
+      "path": "energy_meter_digits/images/val/5/002_002.jpg",
+      "size": 22045,
+      "sha256": "f0745de4f2e99143df60b58d147b89330ba9ae64160ea75d1d3c2bdfeca03e02"
+    },
+    {
+      "path": "energy_meter_digits/images/val/5/013_001.jpg",
+      "size": 9827,
+      "sha256": "ad3f4a5f8cb6728838ab4378eb6f073492ce92e4975a0aa3f9d0b49fca27bace"
+    },
+    {
+      "path": "energy_meter_digits/images/val/5/032_001.jpg",
+      "size": 12906,
+      "sha256": "87ddbc9932aaab2f26f1bc9ce19723fd6392296bd2d6d30979efdce74c3d820c"
+    },
+    {
+      "path": "energy_meter_digits/images/val/5/052_002.jpg",
+      "size": 12247,
+      "sha256": "79345a469c5e3a50890bee88bb591fe24752dd5d0c4ca529c4d64a8b536cde72"
+    },
+    {
+      "path": "energy_meter_digits/images/val/5/053_002.jpg",
+      "size": 8068,
+      "sha256": "99df96a32a74eec0ea51f8684b454ab34ea38aa116cade672d7c5aeba11039e8"
+    },
+    {
+      "path": "energy_meter_digits/images/val/5/063_002.jpg",
+      "size": 11646,
+      "sha256": "98abbe788a1827aeeb84bdf5805a9bdd4ee05bd21522d5a17628256f2cf0a176"
+    },
+    {
+      "path": "energy_meter_digits/images/val/5/082_002.jpg",
+      "size": 8657,
+      "sha256": "d3be8cee0598a4653ad605651f6683c77b7e5dc244178aae85f85602e952cc4d"
+    },
+    {
+      "path": "energy_meter_digits/images/val/5/083_002.jpg",
+      "size": 9106,
+      "sha256": "91b45b95f52e49c2cf7d25c7c4eb5e674d8ab4b7661526f7ef2a7cc90eda85b6"
+    },
+    {
+      "path": "energy_meter_digits/images/val/5/092_003.jpg",
+      "size": 16155,
+      "sha256": "ae8968b1aec252a5f7791109eb51304ac60f9a904689b9ef1b7b1f90a68dcdfe"
+    },
+    {
+      "path": "energy_meter_digits/images/val/5/093_002.jpg",
+      "size": 14395,
+      "sha256": "37b161b5d412056d1978036c8e0653deef9827fa01870afc755c214c83d40ac7"
+    },
+    {
+      "path": "energy_meter_digits/images/val/5/093_003.jpg",
+      "size": 14322,
+      "sha256": "d0705319fd0583f5bdc5779253c5f845a12a7c7a2138bd171b10b574dc05ebdb"
+    },
+    {
+      "path": "energy_meter_digits/images/val/5/093_004.jpg",
+      "size": 14662,
+      "sha256": "5bee33d894e3720301cf3ef50d83a8725c6933be33fcf9cd7061df23e19f557b"
+    },
+    {
+      "path": "energy_meter_digits/images/val/5/123_002.jpg",
+      "size": 11837,
+      "sha256": "2be0cb89dea24813d97fd92acfade52cf3794871c3b6253630c15212f7bff83d"
+    },
+    {
+      "path": "energy_meter_digits/images/val/5/152_003.jpg",
+      "size": 6717,
+      "sha256": "3451b57b3524e28f58ac1f34ddb88a216ba5e5b735927fc83cba4b20e582b34a"
+    },
+    {
+      "path": "energy_meter_digits/images/val/5/162_002.jpg",
+      "size": 17189,
+      "sha256": "85ccb8235af1ff8dfa56e6a375bf0f5f3198229a4e1975af13b9a09b68da7fe7"
+    },
+    {
+      "path": "energy_meter_digits/images/val/6/022_002.jpg",
+      "size": 15297,
+      "sha256": "f1928f2a6079e64cfb3cecb8aab49e43b6b6a117fede3142e06c5e6464f804ae"
+    },
+    {
+      "path": "energy_meter_digits/images/val/6/023_001.jpg",
+      "size": 13478,
+      "sha256": "7b35725f07cc094aede8068f32c7b1e6fe3280ae7bd8aecd95ec9e9fa0dd2476"
+    },
+    {
+      "path": "energy_meter_digits/images/val/6/042_004.jpg",
+      "size": 16190,
+      "sha256": "fc543c80206eda3c41b7c2a1cb6c05099d89f6629a5b2f662f09b9f171cdec5b"
+    },
+    {
+      "path": "energy_meter_digits/images/val/6/072_002.jpg",
+      "size": 18169,
+      "sha256": "60a14839b64dd1dd350e7bfbdfcb31ab0ff9d07313c5ce85a22dd951a5a7009f"
+    },
+    {
+      "path": "energy_meter_digits/images/val/6/072_003.jpg",
+      "size": 18678,
+      "sha256": "a918b37f1347332e7bed8f559f2bfc27178c079a5791dbb3c3581be28c2922bd"
+    },
+    {
+      "path": "energy_meter_digits/images/val/6/073_003.jpg",
+      "size": 12175,
+      "sha256": "5ec60e986ad05dd97dd6b51df41fe98b3536f4659692483b891786dec9cedd50"
+    },
+    {
+      "path": "energy_meter_digits/images/val/6/103_004.jpg",
+      "size": 16878,
+      "sha256": "42e8233944c370a0a5a85e6bd5b59c3718c839115757c198af0ba36bcf5b2b68"
+    },
+    {
+      "path": "energy_meter_digits/images/val/6/112_003.jpg",
+      "size": 2384,
+      "sha256": "d453708e2489b0d6621d854b58b5cf30822be57d2696056b98ca151fe8290908"
+    },
+    {
+      "path": "energy_meter_digits/images/val/6/113_004.jpg",
+      "size": 5705,
+      "sha256": "4267981cef0fced2e08b9608b493ce8eb93e3d2968fb59ad9dd203ea154d5393"
+    },
+    {
+      "path": "energy_meter_digits/images/val/6/132_001.jpg",
+      "size": 12703,
+      "sha256": "e60939abb6fad6daf56252ed78b9168ee5af503bd29854f4657c8c159b572e37"
+    },
+    {
+      "path": "energy_meter_digits/images/val/6/133_002.jpg",
+      "size": 13558,
+      "sha256": "2adbb2c974cb98340f3142d84c0ea1ee6f75baa0557209f1b67d20633fe55a50"
+    },
+    {
+      "path": "energy_meter_digits/images/val/6/162_003.jpg",
+      "size": 13916,
+      "sha256": "94d9e2b23ec4f4b14063b115b3bfffaafb98ba56916276c41e619835296573de"
+    },
+    {
+      "path": "energy_meter_digits/images/val/7/012_003.jpg",
+      "size": 4827,
+      "sha256": "646f818afff6fb800199cf2feedc08d9a13a032e55f43bed54e5550962ebc5b9"
+    },
+    {
+      "path": "energy_meter_digits/images/val/7/013_002.jpg",
+      "size": 7808,
+      "sha256": "eceb5a573852541758b445a2559401fca4f703ec4f10c7a09ffaef6fbee68640"
+    },
+    {
+      "path": "energy_meter_digits/images/val/7/023_002.jpg",
+      "size": 9624,
+      "sha256": "84faf2f0ebe8c884696311d6412fce2cf0a6cbbf58f960d159ddf82707e0bb65"
+    },
+    {
+      "path": "energy_meter_digits/images/val/7/023_003.jpg",
+      "size": 8980,
+      "sha256": "4219d8a3d28dcbb68d16fe5234b4fe5e74d8aa031c430cd1747a61f03f5538c7"
+    },
+    {
+      "path": "energy_meter_digits/images/val/7/033_002.jpg",
+      "size": 10492,
+      "sha256": "3fe4d0d1efe4c42231e0581886c8e9be0caa8bad3c29e3daebb3c1fa00c5888d"
+    },
+    {
+      "path": "energy_meter_digits/images/val/7/033_003.jpg",
+      "size": 9187,
+      "sha256": "86cfb30fbf9eb549f549324e42917e04f0b11740b075d4661b6e597d3bc9d884"
+    },
+    {
+      "path": "energy_meter_digits/images/val/7/043_003.jpg",
+      "size": 11854,
+      "sha256": "615d38b865b9cc11871664ff826a1a5ff5856d0884802fd691f02d5f7e3fa902"
+    },
+    {
+      "path": "energy_meter_digits/images/val/7/063_003.jpg",
+      "size": 7939,
+      "sha256": "a7ac4dd82d822a98e893e16263b84483e8a5455e4fadaaaf10ee938229eb99e7"
+    },
+    {
+      "path": "energy_meter_digits/images/val/7/083_003.jpg",
+      "size": 10688,
+      "sha256": "5d31d50708448c7d3e956c0734cb1907474c9492d73e81bcc3562c15d9a123bd"
+    },
+    {
+      "path": "energy_meter_digits/images/val/7/102_003.jpg",
+      "size": 9245,
+      "sha256": "522c7764f0c4211286864e3e182b2327619a28f7fbfad5ee9fab91ed0796ee25"
+    },
+    {
+      "path": "energy_meter_digits/images/val/7/132_002.jpg",
+      "size": 10101,
+      "sha256": "e1452453d07393532398f15975f47eca06788ce0544e225a13777d4c1572feb5"
+    },
+    {
+      "path": "energy_meter_digits/images/val/7/132_003.jpg",
+      "size": 9784,
+      "sha256": "66fdb4f7e88939df2cba89d27bef799ee9b9131f806a4873a719fba63c7d1cb0"
+    },
+    {
+      "path": "energy_meter_digits/images/val/7/163_002.jpg",
+      "size": 6304,
+      "sha256": "53a1fba018d5feed608a8d5be9740b549c39ee47e433a60f2b931006bc1f3cb4"
+    },
+    {
+      "path": "energy_meter_digits/images/val/8/003_003.jpg",
+      "size": 13716,
+      "sha256": "52b3d0f3f8a21bbfc4a7cf3fd8aabf021086746e005df28c1b992e2305cbd46b"
+    },
+    {
+      "path": "energy_meter_digits/images/val/8/032_002.jpg",
+      "size": 18975,
+      "sha256": "a37e03f4e8741a688a40866bcf1ddcc6e0ac71f8f778d1da16a0111485c4756a"
+    },
+    {
+      "path": "energy_meter_digits/images/val/8/052_003.jpg",
+      "size": 17985,
+      "sha256": "98b68b8745ee09462dc9b625075fd927fab1ac698c5b06023296d792fadabcca"
+    },
+    {
+      "path": "energy_meter_digits/images/val/8/082_003.jpg",
+      "size": 8762,
+      "sha256": "59449a27febab719ea1fa70ff53064114d25137b8c627d77dd4cec4080ba0990"
+    },
+    {
+      "path": "energy_meter_digits/images/val/8/102_004.jpg",
+      "size": 17121,
+      "sha256": "6a8ac54011c4213d69ae42dac50bcf19e701d5c43c5e611ec0157db2684582fe"
+    },
+    {
+      "path": "energy_meter_digits/images/val/8/122_002.jpg",
+      "size": 26418,
+      "sha256": "278ae83dcc320d293045086eaaf47a86cd187f89412a635717e413e4e288c208"
+    },
+    {
+      "path": "energy_meter_digits/images/val/8/133_003.jpg",
+      "size": 13143,
+      "sha256": "88da4ff57d16368e5ba18f26e09e3e554eae1b114e574aadb73c73a52073f6fd"
+    },
+    {
+      "path": "energy_meter_digits/images/val/8/142_001.jpg",
+      "size": 13902,
+      "sha256": "2e1c7832fc628ec725f66db43721dab0184b1a446bdd860f2062ae3177900540"
+    },
+    {
+      "path": "energy_meter_digits/images/val/8/142_002.jpg",
+      "size": 13120,
+      "sha256": "12a601369db56808f9aeba92565b4ae4487788bfbf7d119c620e4aaad592dda5"
+    },
+    {
+      "path": "energy_meter_digits/images/val/8/143_003.jpg",
+      "size": 10903,
+      "sha256": "4997d43c6264a81e5ba93650194b1acd16403c2ccaf4364a936057828be388ce"
+    },
+    {
+      "path": "energy_meter_digits/images/val/8/152_004.jpg",
+      "size": 8734,
+      "sha256": "75798ae2975d297e7757626a3a1415438b36cacd7021a0f967078ee625260e52"
+    },
+    {
+      "path": "energy_meter_digits/images/val/8/152_005.jpg",
+      "size": 7085,
+      "sha256": "797e86d8212ee13f3be4465122ad8958501c2eb9b99fdabca5eef6b09ce05fca"
+    },
+    {
+      "path": "energy_meter_digits/images/val/8/153_002.jpg",
+      "size": 29760,
+      "sha256": "f0b3f283679c582803fcc1297e2e0f10850201476815e774c85dcd0d0dc39949"
+    },
+    {
+      "path": "energy_meter_digits/images/val/8/162_004.jpg",
+      "size": 15019,
+      "sha256": "b8c84346f2069ca02af43a0f090b739e6d2c2c6c873420a9e5e2fd332a9e5f94"
+    },
+    {
+      "path": "energy_meter_digits/images/val/8/163_003.jpg",
+      "size": 9685,
+      "sha256": "e681f0dabf174ad9673672b826269bcf745b98734b28489638ed0812501df290"
+    },
+    {
+      "path": "energy_meter_digits/images/val/9/012_004.jpg",
+      "size": 12172,
+      "sha256": "69b832c5e599ab93ff7e939e1fabe7ccd778ef69cf2d2d68ce8a6c9c6ff4aaa8"
+    },
+    {
+      "path": "energy_meter_digits/images/val/9/013_003.jpg",
+      "size": 11120,
+      "sha256": "e88b1549cb4e88828aa4b06acf53668bea1c9248788e0c2219bcf196f9b80a7a"
+    },
+    {
+      "path": "energy_meter_digits/images/val/9/022_003.jpg",
+      "size": 15003,
+      "sha256": "876b1b0f8ecd7d97598d46d40098a2512f59eac773e568c897a4ba014079c797"
+    },
+    {
+      "path": "energy_meter_digits/images/val/9/032_003.jpg",
+      "size": 13491,
+      "sha256": "9541d09fd3b808e8633096d0447bcf1569b066addc57b57379b25373e508d888"
+    },
+    {
+      "path": "energy_meter_digits/images/val/9/033_004.jpg",
+      "size": 12119,
+      "sha256": "d5fb84bc9ec8bdafbf986cdd01e640847c83483f9df95b99ce1724830282be51"
+    },
+    {
+      "path": "energy_meter_digits/images/val/9/043_004.jpg",
+      "size": 16915,
+      "sha256": "dd84d056d7fc081409c39ff9fac158eb7663cb4c56368f238de9c05828058bcb"
+    },
+    {
+      "path": "energy_meter_digits/images/val/9/052_004.jpg",
+      "size": 15009,
+      "sha256": "4f16b1dee1dd15bf488110ac5889660614a81c98bb7d053acafc7295fe94ef8d"
+    },
+    {
+      "path": "energy_meter_digits/images/val/9/053_003.jpg",
+      "size": 8025,
+      "sha256": "3b6108286b8ed0a4775b652a0f66d5e222b404878f20b75da7bff54bc7bd83a6"
+    },
+    {
+      "path": "energy_meter_digits/images/val/9/062_003.jpg",
+      "size": 10452,
+      "sha256": "d57c28e4cf9098bf4aaca18ed2a1e39d61ba0c7e854e8176cbc63172cdcc24c6"
+    },
+    {
+      "path": "energy_meter_digits/images/val/9/062_004.jpg",
+      "size": 9289,
+      "sha256": "026ad8e409e8b65fe11758cab281a071d7cd0741f50847603346153e05f951b2"
+    },
+    {
+      "path": "energy_meter_digits/images/val/9/063_004.jpg",
+      "size": 11079,
+      "sha256": "98d6c05b3ca760924c354890e90441b3c3f63e0550649fc0a3b99096d28b4091"
+    },
+    {
+      "path": "energy_meter_digits/images/val/9/073_004.jpg",
+      "size": 14051,
+      "sha256": "cca7981d74b09da46d03d2b10bdc166ad75e7ff248a8a57219f0022922cf8659"
+    },
+    {
+      "path": "energy_meter_digits/images/val/9/082_004.jpg",
+      "size": 9114,
+      "sha256": "8dc7657e8c1ce49182772c88a6883ee65e21d4c5aad1a00e254dcdfac3cfb7bc"
+    },
+    {
+      "path": "energy_meter_digits/images/val/9/092_004.jpg",
+      "size": 18399,
+      "sha256": "8d70af66650dc5af18e970e8a2326d06e542107ff23b29c2212071e5380ec94b"
+    },
+    {
+      "path": "energy_meter_digits/images/val/9/123_003.jpg",
+      "size": 10460,
+      "sha256": "fcf9983d46619c13d3db39a4e24dd77620d042e37e8ec145f11d03ec4531712c"
+    },
+    {
+      "path": "energy_meter_digits/images/val/9/143_004.jpg",
+      "size": 12370,
+      "sha256": "dfc464f9d19979e7a55393c93f796b2be72f481b1e1a711c93363eda81e613a6"
+    },
+    {
+      "path": "energy_meter_digits/images/val/9/163_004.jpg",
+      "size": 3149,
+      "sha256": "6fe2fef86d78cac0ee391530175dba423ba38f62c81efb7223a43c32b01da830"
+    },
+    {
+      "path": "energy_meter_digits/labels.csv",
+      "size": 34033,
+      "sha256": "1013d701b874755ec7aba2bdd2fd04ea78b96fd209bac0e99f751769e72a1f82"
+    },
+    {
+      "path": "energy_meter_digits/manifest.json",
+      "size": 193,
+      "sha256": "19bda61204fd1885e7859d73a61e89718c4d987427b0adc74d42b003f97b0208"
+    },
+    {
+      "path": "energy_meter_digits/metadata.jsonl",
+      "size": 73094,
+      "sha256": "0068d2a2d130bf9a49488eb1ca119ae7525f3408a797ea399c0b34af6e7c8747"
+    }
+  ],
+  "image_count": 977,
+  "label_format": "classification_csv_and_jsonl",
+  "transform_version": "energy_meter_coco_digits_bbox_crop_padding_8pct_group_split_v1",
+  "license": "CC0 1.0",
+  "attribution": "KARTHICK K and Kavaskar S (2019), “Data for: Text detection and Recognition in Raw Image Dataset of Seven Segment Digital Energy Meter Display,” Mendeley Data v1, DOI 10.17632/fnn44p4mj8.1, CC0 1.0.",
+  "source": {
+    "url": "https://data.mendeley.com/datasets/fnn44p4mj8/1",
+    "version": "Mendeley Data v1",
+    "sha256": "98318ccf2cbf4ba51bf27805e1dd3f85634e3ce345400ce443dac62a953cd2c0"
+  },
+  "classes": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+  ]
+}
