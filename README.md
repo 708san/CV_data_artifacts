@@ -62,3 +62,13 @@ reports/        実体監査の要約
 `bdroadsigns` v0.1.0 contains 5,136 images in 18 categories from the Mendeley v1 `Compress Dataset` variant. It is for classroom sign-recognition and sign-literacy projects; the Bangladeshi signs do not represent Japanese traffic rules or real-world navigation. See the license record, manifest, and audit report.
 
 `orange_fruit` v0.1.0 is published as a fixed 15,000-image CC BY 4.0 classification artifact. It is suitable for student experiments about visual categories and image conditions in a food-waste discussion; labels do not establish freshness, edibility, food safety, or plant disease. See its license record and audit report.
+
+
+## Prepared datasets (v0.1.0)
+
+These datasets passed fixed-source, license, image and library-format review. Release assets are published after the accompanying manifests and audit records merge.
+
+- Indoor Waste Image Dataset: indoor litter detection to support cleanup checks.
+- WasteSegCluster: waterway litter detection for cleanup planning.
+- Fire Recognition Image Dataset: classroom fire-scene classification only; labels do not establish safety.
+- AgriFreshNET: produce-stage classification for prioritizing human inspection; not a food-safety decision.

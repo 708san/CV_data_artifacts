@@ -1,0 +1,94 @@
+{
+  "dataset_id": "fire_recognition_image",
+  "artifact_version": "0.1.0",
+  "publication_status": "prepared_for_release_pending_merge",
+  "source_url": "https://data.mendeley.com/datasets/7jk6xh7h6w/4",
+  "source_version": "4",
+  "source_archive_bytes": 286573795,
+  "source_archive_sha256": "6deb4c485f5bb422b724441451535b42cfe75155604d42d16f1bad678261ed7c",
+  "license": "CC BY 4.0",
+  "attribution": "Snigdha Saha, Hridoy Sutradhar, Md Anwarul Islam, and Md Mafiul Hasan Matin (2026), “Fire Recognition Image Dataset,” Mendeley Data v4, DOI: 10.17632/7jk6xh7h6w.4, CC BY 4.0.",
+  "image_count": 1112,
+  "classes": [
+    "Artificial_Fire",
+    "Fire",
+    "Safe_Fire",
+    "Smoke"
+  ],
+  "class_counts": {
+    "Artificial_Fire": 286,
+    "Fire": 283,
+    "Safe_Fire": 270,
+    "Smoke": 273
+  },
+  "annotation_count": null,
+  "archive_bytes": 286615690,
+  "artifact_archive_sha256": "df561876b5945592077b3ba1f5ec29ad11c4ad1cfb4f36695a26005cdf73bb9c",
+  "label_format": "Classification; labels.csv columns image,label,split",
+  "transform": "cvlesson-0.1.0: original 400x400 PNG images only; pixel bytes unchanged; augmented images excluded; deterministic per-class 70/15/15 split, seed 42",
+  "student_use_case": "火・煙などの教材画像を分類し、周囲の人による確認手順を考える",
+  "limitations": "Author categories are Fire, Smoke, Safe_Fire, Artificial_Fire. “Safe” is only the source label and does not indicate real-world safety. Never use for alarm, evacuation, or emergency decisions. 48 images visually sampled.",
+  "checks": {
+    "all_images_decoded": true,
+    "archive_crc": "passed",
+    "library_archive_structure_validation": "passed",
+    "library_manifest_and_label_validation": "passed",
+    "all_source_archive_sha256_verified": true
+  },
+  "inner_manifest": {
+    "case_id": "fire_recognition_image",
+    "version": "v0.1.0",
+    "dataset_id": "fire_recognition_image",
+    "artifact_version": "0.1.0",
+    "source_license": "CC BY 4.0",
+    "source_url": "https://data.mendeley.com/datasets/7jk6xh7h6w/4",
+    "source_doi": "10.17632/7jk6xh7h6w.4",
+    "source_archive_sha256": "6deb4c485f5bb422b724441451535b42cfe75155604d42d16f1bad678261ed7c",
+    "image_count": 1112,
+    "classes": [
+      "Artificial_Fire",
+      "Fire",
+      "Safe_Fire",
+      "Smoke"
+    ],
+    "class_counts": {
+      "Artificial_Fire": 286,
+      "Fire": 283,
+      "Safe_Fire": 270,
+      "Smoke": 273
+    },
+    "split_counts_by_class": {
+      "Artificial_Fire": {
+        "test": 43,
+        "train": 200,
+        "val": 43
+      },
+      "Fire": {
+        "test": 43,
+        "train": 198,
+        "val": 42
+      },
+      "Safe_Fire": {
+        "test": 41,
+        "train": 189,
+        "val": 40
+      },
+      "Smoke": {
+        "test": 41,
+        "train": 191,
+        "val": 41
+      }
+    },
+    "split_strategy": "Within each source class, deterministic SHA-256 ordering, approximately 70/15/15 split; source original-image set only; seed 42.",
+    "transformation": {
+      "pixels_modified": false,
+      "augmented_source_images_included": false,
+      "original_format": "PNG"
+    },
+    "visual_review": "48 images visually sampled across classes. Author labels are scene categories: Fire, Smoke, Safe_Fire, Artificial_Fire. These do not establish actual safety, danger, or alarm decisions.",
+    "decoded_images": 1112,
+    "decode_failures": 0,
+    "duplicate_count": 0,
+    "source_exif_keys": []
+  }
+}

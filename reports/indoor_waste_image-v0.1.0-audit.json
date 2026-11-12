@@ -1,0 +1,120 @@
+{
+  "dataset_id": "indoor_waste_image",
+  "artifact_version": "0.1.0",
+  "publication_status": "prepared_for_release_pending_merge",
+  "source_url": "https://data.mendeley.com/datasets/dy7smxr93r/1",
+  "source_version": "1",
+  "source_archive_bytes": 105181785,
+  "source_archive_sha256": "e2be225fdb4d02138ce6a564c89564b273c70e9f4382fd20d4020e70e5ef89fb",
+  "license": "CC BY 4.0",
+  "attribution": "Yangke L (2025), “Indoor Waste Image Dataset,” Mendeley Data v1, DOI: 10.17632/dy7smxr93r.1, CC BY 4.0.",
+  "image_count": 4000,
+  "classes": [
+    "paper",
+    "plastic",
+    "cap",
+    "shell"
+  ],
+  "class_counts": {
+    "train": {
+      "cap": 1187,
+      "paper": 1716,
+      "shell": 973,
+      "plastic": 949
+    },
+    "valid": {
+      "cap": 367,
+      "paper": 326,
+      "shell": 207,
+      "plastic": 222
+    },
+    "test": {
+      "cap": 330,
+      "paper": 269,
+      "shell": 249,
+      "plastic": 173
+    }
+  },
+  "annotation_count": 6968,
+  "archive_bytes": 107068558,
+  "artifact_archive_sha256": "44a754d2fd7b00ed9b910d84aff5fb45ba5a1bcf1c033d58e2bfd19ff2bcccb7",
+  "label_format": "YOLO normalized bounding boxes (class_id x_center y_center width height); annotations.jsonl retains normalized boxes",
+  "transform": "cvlesson-0.1.0: unchanged JPEG pixels; source rectangles clipped to image bounds where they exceeded dimensions by at most 1 pixel; splits assigned by source-video group (seed 42)",
+  "student_use_case": "室内に残された紙・プラスチック・キャップ・殻を検出し、清掃箇所の確認を補助する",
+  "limitations": "床面ごみの検出候補。4,000 images, 6,968 boxes. Distant people occur in some frames; 50-image sample showed no clearly identifiable faces; this sample is not a privacy clearance. Local waste rules require human confirmation.",
+  "checks": {
+    "all_images_decoded": true,
+    "archive_crc": "passed",
+    "library_archive_structure_validation": "passed",
+    "library_manifest_and_label_validation": "passed",
+    "all_source_archive_sha256_verified": true
+  },
+  "inner_manifest": {
+    "dataset_id": "indoor_waste_image",
+    "artifact_version": "0.1.0",
+    "source_license": "CC BY 4.0",
+    "source_url": "https://data.mendeley.com/datasets/dy7smxr93r/1",
+    "source_doi": "10.17632/dy7smxr93r.1",
+    "source_image_archive_sha256": "e2be225fdb4d02138ce6a564c89564b273c70e9f4382fd20d4020e70e5ef89fb",
+    "source_annotation_archive_sha256": "0e6a477dee1e147af48a34d286dc031cd8a2eaf4a6199c39907317e4c1660d3f",
+    "image_count": 4000,
+    "annotation_count": 6968,
+    "classes": [
+      "paper",
+      "plastic",
+      "cap",
+      "shell"
+    ],
+    "classes_ja": {
+      "paper": "紙ごみ",
+      "plastic": "プラスチック",
+      "cap": "キャップ",
+      "shell": "殻"
+    },
+    "split_strategy": "SHA-256 seeded assignment by source video group, 280/400 train, 60/400 validation, 60/400 test; no video group crosses splits; seed 42",
+    "split_counts": {
+      "train": 2765,
+      "valid": 685,
+      "test": 550
+    },
+    "box_counts_by_split": {
+      "train": 4825,
+      "valid": 1122,
+      "test": 1021
+    },
+    "class_counts_by_split": {
+      "train": {
+        "cap": 1187,
+        "paper": 1716,
+        "shell": 973,
+        "plastic": 949
+      },
+      "valid": {
+        "cap": 367,
+        "paper": 326,
+        "shell": 207,
+        "plastic": 222
+      },
+      "test": {
+        "cap": 330,
+        "paper": 269,
+        "shell": 249,
+        "plastic": 173
+      }
+    },
+    "transformation": {
+      "image_pixels_modified": false,
+      "source_groups": 400,
+      "bbox_clipped_count": 380,
+      "maximum_source_excursion_pixels": 0.9984010233451137,
+      "bbox_format": "pixel coordinates clipped to image boundary, then normalized YOLO xywh"
+    },
+    "visual_review": "50 evenly spaced images reviewed. Waste objects are visible on indoor floors; incidental distant people are present in some images, with no clearly identifiable faces in the reviewed sample. This is a sample review, not a legal anonymization finding.",
+    "exact_duplicate_images": 0,
+    "decoded_images": 4000,
+    "decode_failures": 0,
+    "source_exif_keys": [],
+    "case_id": "indoor_waste_image",
+    "version": "v0.1.0"
+  }
+}
