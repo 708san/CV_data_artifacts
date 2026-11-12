@@ -76,7 +76,7 @@ def prepare(source_root: Path, source_archive: Path, destination: Path, manifest
             for source in (labels_root / source_split).glob("*.txt"):
                 shutil.copyfile(source, labels_out / source.name)
         (cli_input / "classes.json").write_text('{"classes":["trash"]}\n', encoding="utf-8")
-        manifest = prepare_yolo(
+        inner = prepare_yolo(
             cli_input,
             destination,
             dataset_id=DATASET_ID,
@@ -88,15 +88,56 @@ def prepare(source_root: Path, source_archive: Path, destination: Path, manifest
             attribution=ATTRIBUTION,
         )
 
-    manifest.update({
+    repo_root = Path(__file__).resolve().parents[1]
+    shutil.copyfile(repo_root / "datasets" / DATASET_ID / "README.md", destination / "README.md")
+    shutil.copyfile(repo_root / "datasets" / DATASET_ID / "LICENSE.md", destination / "LICENSE.md")
+    inner.update({
         "transform_version": "click_trash_v0.1.0; resize max-side 1024; JPEG quality 0.88; strip source EXIF/GPS; preserve normalized boxes",
         "split_counts": {"train": 901, "valid": 113, "test": 112},
+        "class_names_ja": ["ごみ"],
         "source": {
-            **manifest["source"],
+            **inner["source"],
             "file_id": SOURCE_FILE_ID,
             "size": SOURCE_ARCHIVE_SIZE,
         },
+        "preprocessing": {
+            "max_image_side": 1024,
+            "jpeg_quality": 0.88,
+            "source_exif_gps_camera_metadata": "removed",
+            "bbox_coordinates": "preserved normalized coordinates",
+            "source_val_split_renamed": "valid",
+            "selected_label_space": "single-class trash",
+            "empty_background_images": 4,
+        },
     })
+    (destination / "manifest.json").write_text(json.dumps(inner, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+
+    files = []
+    for path in sorted(destination.rglob("*")):
+        if path.is_symlink():
+            raise ValueError(f"symlink in prepared artifact: {path}")
+        if path.is_file():
+            files.append({
+                "path": f"{DATASET_ID}/{path.relative_to(destination).as_posix()}",
+                "sha256": sha256(path),
+                "size": path.stat().st_size,
+            })
+    manifest = {
+        "manifest_version": "1.0.0",
+        "dataset_id": DATASET_ID,
+        "artifact_version": VERSION,
+        "files": files,
+        "image_count": inner["image_count"],
+        "split_counts": inner["split_counts"],
+        "label_format": "yolo_normalized_jsonl",
+        "classes": ["trash"],
+        "class_names_ja": ["ごみ"],
+        "transform_version": inner["transform_version"],
+        "license": "CC BY 4.0",
+        "attribution": ATTRIBUTION + " Images are resized to a maximum side of 1024 pixels, re-encoded as JPEG at quality 0.88, and source EXIF/GPS/camera metadata is removed; normalized bounding boxes are retained.",
+        "source": inner["source"],
+        "annotation_conversion": inner["annotation_conversion"],
+    }
     manifest_path.parent.mkdir(parents=True, exist_ok=True)
     manifest_path.write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     return manifest
