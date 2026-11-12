@@ -72,3 +72,4 @@ These datasets passed fixed-source, license, image and library-format review. Re
 - WasteSegCluster: waterway litter detection for cleanup planning.
 - Fire Recognition Image Dataset: classroom fire-scene classification only; labels do not establish safety.
 - AgriFreshNET: produce-stage classification for prioritizing human inspection; not a food-safety decision.
+- Brazil Road Potholes: source pothole masks for a maintenance-request documentation prototype; Brazilian 2014–2017 images do not assess local or current road safety.
