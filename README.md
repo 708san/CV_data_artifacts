@@ -55,6 +55,8 @@ reports/        実体監査の要約
 
 `pust_cafeteria_food` v0.1.0 is published and registered as a 691-image, 16-class educational object-detection artifact from Mendeley Data v2. Its fixed Release asset is available to the library. See its license record and audit report for the source, transformations, and limitations.
 
+`click_trash` v0.1.0 is prepared from the fixed Mendeley Data v2 release under CC BY 4.0. It contains 1,126 outdoor litter images and 2,213 single-class bounding boxes. Images are resized to 1,024px maximum side and source GPS/camera metadata is removed. The student use case is documenting litter locations for a cleanup activity; images are from India and do not represent Japanese streets. See the license record and audit report for full details.
+
 `fashion_mnist` v0.1.0 contains 70,000 28×28 grayscale garment-category images under the source repository’s declared MIT license. The artifact preserves grayscale pixel values, separates a deterministic validation split from official training data, and retains the official test split. It is an introductory benchmark and does not classify real-world garment condition, size, brand, or reuse suitability. See the license record, source manifest, and audit report.
 
 `fabricspotdefect` v0.1.0 is published as an original-image-only object-detection artifact from Mendeley Data v1 under CC BY 4.0. It supports educational prototypes for noticing visible spots before washing. The labels do not establish clothing cleanliness, wearability, safety, stain-removal success, or textile quality. See its license record, manifest, and audit report.

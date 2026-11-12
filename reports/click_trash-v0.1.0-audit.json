@@ -1,0 +1,112 @@
+{
+  "dataset_id": "click_trash",
+  "artifact_version": "0.1.0",
+  "status": "prepared_pending_release",
+  "source": {
+    "title": "CLICK Trash Dataset",
+    "contributor": "Manjit Baishya",
+    "url": "https://data.mendeley.com/datasets/htcvvz6fm2/2",
+    "version": "Mendeley Data v2",
+    "doi": "10.17632/htcvvz6fm2.2",
+    "license": "CC BY 4.0 (as displayed on the official Mendeley Data v2 page)",
+    "file": "data.zip",
+    "file_id": "811798c3-3f08-4101-ad81-1d2564c91446",
+    "size": 5571902652,
+    "sha256": "902fd9665e3ca84222540ed5071d6a6d114ec09e785c2f174509b28fbd2e2d42"
+  },
+  "source_archive_audit": {
+    "zip_entries": 3404,
+    "uncompressed_bytes": 5598982499,
+    "unsafe_paths": 0,
+    "absolute_paths": 0,
+    "symlinks": 0,
+    "duplicate_member_names": 0,
+    "crc_read_errors": 0,
+    "images_decoded": 1126,
+    "image_decode_failures": 0,
+    "source_orientation_counts": {
+      "1": 1126
+    },
+    "source_exif_images": 886,
+    "source_gps_images": 663,
+    "source_camera_make_model_images": 886,
+    "source_exact_duplicate_groups": 0
+  },
+  "labels": {
+    "selected_label_space": "single-class YOLO",
+    "classes": [
+      "trash"
+    ],
+    "source_images_by_split": {
+      "train": 901,
+      "val": 113,
+      "test": 112
+    },
+    "artifact_split_counts": {
+      "train": 901,
+      "valid": 113,
+      "test": 112
+    },
+    "bbox_count_by_split": {
+      "train": 1802,
+      "valid": 221,
+      "test": 190
+    },
+    "bbox_count": 2213,
+    "empty_background_images": {
+      "train": 4,
+      "valid": 0,
+      "test": 0
+    },
+    "source_image_label_name_mismatches": 0,
+    "malformed_or_out_of_bounds_boxes": 0,
+    "max_boxes_per_image": 29,
+    "13_class_label_space_included": false,
+    "COCO_polygon_annotations_included": false
+  },
+  "artifact": {
+    "asset_name": "click_trash-v0.1.0.zip",
+    "size": 668588437,
+    "sha256": "5a97374493c341aac6fe9a6b7a65dcd4437eddb3071085238c2237e9aaff023e",
+    "image_count": 1126,
+    "file_count": 2258,
+    "resized_image_bytes": 668944432,
+    "resized_image_dimensions": "long side <= 1024 pixels",
+    "jpeg_quality": 0.88,
+    "source_exif_gps_camera_metadata": "removed; ImageIO output contains only technical pixel-dimension/color-space EXIF fields",
+    "exact_duplicate_groups": 0,
+    "bbox_coordinates": "unchanged normalized YOLO values"
+  },
+  "visual_review": {
+    "representative_images": 3,
+    "splits": [
+      "train",
+      "valid",
+      "test"
+    ],
+    "findings": "The sampled images show litter in leaf litter, soil, grass, and outdoor debris. Product packaging, printed text, and marks are visible incidentally. The three inspected images did not show identifiable people; this was not a full-set people or trademark review."
+  },
+  "education_review": {
+    "decision": "suitable_for_student_litter_detection_prototype",
+    "direct_task": "Show approximate litter locations in photos to help document where a school or neighborhood cleanup took place.",
+    "limits": [
+      "Source photos are from India and are not representative of Japanese streets or school grounds.",
+      "Test again with student-collected local images before using in a local activity.",
+      "The model does not classify recycling categories, determine hazard, or replace human review."
+    ]
+  },
+  "rights_review": {
+    "decision": "redistribution_allowed_under_source_license_with_attribution",
+    "basis": "The official Mendeley v2 landing page displays CC BY 4.0; the author describes the images as phone photos taken in outdoor settings.",
+    "attribution": "Manjit Baishya (2026), CLICK Trash Dataset, Mendeley Data v2, DOI 10.17632/htcvvz6fm2.2, CC BY 4.0.",
+    "changes_notice": "Images resized and re-encoded; source EXIF/GPS/camera metadata removed; labels reorganized; original splits retained with val renamed valid.",
+    "third_party_content": "Packaging text and marks remain in some photos; no endorsement is implied and third-party trademark rights remain with their owners."
+  },
+  "verification": {
+    "artifact_manifest": "passed",
+    "artifact_file_hash_and_size_inventory": "passed",
+    "yolo_pairs_and_bounds": "passed",
+    "manifest_schema": "passed",
+    "unit_tests": "not_run"
+  }
+}
