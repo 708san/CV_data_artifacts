@@ -1,0 +1,57 @@
+{
+  "dataset_id": "brazil_road_potholes",
+  "artifact_version": "0.1.0",
+  "audit_date": "2026-11-12",
+  "source": {
+    "url": "https://data.mendeley.com/datasets/t576ydh9v8/3",
+    "version": "Mendeley Data v3",
+    "doi": "10.17632/t576ydh9v8.3",
+    "license": "CC BY 4.0",
+    "archive_bytes": 231728698,
+    "archive_sha256": "e59bb8d771e18f059ab78d88e640e83869fc8c8fd808697a0c2c48e16eec4f76"
+  },
+  "source_archive_checks": {
+    "sha256_match": true,
+    "zip_entries": 11176,
+    "crc_check": "passed",
+    "unsafe_paths_or_symlinks": 0,
+    "unpacked_bytes": 251473314
+  },
+  "source_inventory": {
+    "images": 2235,
+    "lane_masks": 2235,
+    "crack_masks": 2235,
+    "pothole_masks": 2235,
+    "image_dimensions": "1024x640",
+    "mask_dimensions_sample_reviewed": "1024x640"
+  },
+  "prepared_artifact": {
+    "images": 2235,
+    "pothole_masks": 2235,
+    "pixel_changes": "none",
+    "excluded_source_masks": [
+      "LANE",
+      "CRACK"
+    ],
+    "split_counts": {
+      "val": 335,
+      "train": 1565,
+      "test": 335
+    },
+    "split_group_count": 28,
+    "split_method": "fixed seed 42; route-segment key inferred from source filename; each route segment assigned wholly to one split",
+    "file_count": 4476,
+    "unpacked_bytes": 214701063,
+    "zip_bytes": 207450159,
+    "zip_sha256": "3c5999c01f7dbac64cdf3e7a7ee5467b62b471142dc8fab78cb9f35527ed5eb7",
+    "zip_crc_check": "passed"
+  },
+  "visual_review": {
+    "images": 4,
+    "masks": 1,
+    "finding": "road surface and pothole outlines correspond in reviewed examples; DNIT watermark visible and retained; binary mask uses black background and white marked regions",
+    "limits": "sample review only; no claim of full semantic accuracy or current/local road coverage"
+  },
+  "student_use": "prototype to highlight marked pothole regions while documenting a road maintenance request; not road safety assessment",
+  "attribution": "Passos et al. (2020), Cracks and Potholes in Road Images, Mendeley Data v3, CC BY 4.0; reorganized and selected source POTHOLE masks."
+}

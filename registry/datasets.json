@@ -354,6 +354,27 @@
       "transform_version": "japanese_receipts_detailed_v1",
       "manifest_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/manifests/japanese_receipts_detailed-v0.1.0.json",
       "audit_report_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/reports/japanese_receipts_detailed-v1-full-audit.json"
+    },
+    {
+      "dataset_id": "brazil_road_potholes",
+      "artifact_version": "0.1.0",
+      "artifact_url": "https://github.com/708san/CV_data_artifacts/releases/download/brazil-road-potholes-v0.1.0/brazil_road_potholes-v0.1.0.zip",
+      "artifact_sha256": "3c5999c01f7dbac64cdf3e7a7ee5467b62b471142dc8fab78cb9f35527ed5eb7",
+      "source_url": "https://data.mendeley.com/datasets/t576ydh9v8/3",
+      "source_version": "Mendeley Data v3, DOI 10.17632/t576ydh9v8.3",
+      "source_sha256": "e59bb8d771e18f059ab78d88e640e83869fc8c8fd808697a0c2c48e16eec4f76",
+      "license": "CC BY 4.0",
+      "rights_status": "approved_for_redistribution",
+      "attribution": "Bianka T. Passos, Mateus J. Cassaniga, Anita M. R. Fernandes, Kátya B. Medeiros, and Eros Comunello (2020), Cracks and Potholes in Road Images, Mendeley Data v3, https://doi.org/10.17632/t576ydh9v8.3, CC BY 4.0.",
+      "modifications": [
+        "Retained 2,235 source images and their POTHOLE masks byte for byte; excluded the CRACK and LANE masks.",
+        "Reorganized filenames into the common segmentation layout.",
+        "Assigned whole road-segment groups to train/val/test so adjacent source frames do not cross splits.",
+        "Preserved the DNIT watermark and made no endorsement claim."
+      ],
+      "transform_version": "source_pothole_masks_preserved; group_split_by_road_segment_v1",
+      "manifest_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/manifests/brazil_road_potholes-v0.1.0.json",
+      "audit_report_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/reports/brazil_road_potholes-v0.1.0-audit.json"
     }
   ]
 }
