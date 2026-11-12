@@ -1,0 +1,28 @@
+{
+  "manifest_type": "source_file_inventory",
+  "manifest_version": "1.0.0",
+  "dataset_id": "energy_meter_digits",
+  "provider": "KARTHICK K and Kavaskar S",
+  "source_url": "https://data.mendeley.com/datasets/fnn44p4mj8/1",
+  "source_version": "Mendeley Data v1, DOI 10.17632/fnn44p4mj8.1",
+  "license_claim": "CC0 1.0 displayed on the fixed Mendeley Data v1 page.",
+  "file_count": 2,
+  "files": [
+    {
+      "path": "export-coco-2019-06-11T14_40_00.348423.json",
+      "file_id": "mendeley-data-fnn44p4mj8-v1-coco-json",
+      "filename": "export-coco-2019-06-11T14_40_00.348423.json",
+      "size": 322934,
+      "sha256": "5b23d2380d433c218f2f26d800639c54dff51d74cb15ea9c842b0a552db3200b",
+      "download_url": "https://data.mendeley.com/datasets/fnn44p4mj8/1"
+    },
+    {
+      "path": "RAW IMAGES.zip",
+      "file_id": "mendeley-data-fnn44p4mj8-v1-raw-images",
+      "filename": "RAW IMAGES.zip",
+      "size": 104176444,
+      "sha256": "d4dadbd2e51a8e85809a035afa390e8312d6c9206ae6bcd98e094fa61f623529",
+      "download_url": "https://data.mendeley.com/datasets/fnn44p4mj8/1"
+    }
+  ]
+}

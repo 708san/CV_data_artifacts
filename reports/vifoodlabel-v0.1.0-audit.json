@@ -1,0 +1,14 @@
+{
+  "dataset_id": "vifoodlabel",
+  "artifact_version": "0.1.0",
+  "source_url": "https://data.mendeley.com/datasets/v97x4ys84h/2",
+  "source_version": "Mendeley Data v2",
+  "source_archive_sha256": "81686c12ac9ec32580d7fa712d33fbf1dfb4bacf0ddd6f9ab55edfaccbb027f5",
+  "license": "CC BY-NC 4.0",
+  "image_count": 600,
+  "visual_review": "Representative image sample reviewed; source and labels visually correspond.",
+  "audit_scope": "Full file count, source archive SHA-256, safe archive CRC and image-to-label structure; representative visual review.",
+  "transform_version": "vifoodlabel_source_images_and_json_preserved_eval_only_v1",
+  "rights_status": "approved_for_redistribution",
+  "limitations": "CC BY-NC 4.0; structured field ground truth is not character-level transcription."
+}

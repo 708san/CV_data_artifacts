@@ -395,6 +395,66 @@
       "transform_version": "obstacles_assistance_v1.0.0 + detection_yolo_v1.1.0",
       "manifest_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/manifests/obstacles_assistance-v0.1.0.json",
       "audit_report_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/reports/obstacles_assistance-v0.1.0-audit.json"
+    },
+    {
+      "dataset_id": "trashnet",
+      "artifact_version": "0.1.0",
+      "artifact_url": "https://github.com/708san/CV_data_artifacts/releases/download/trashnet-v0.1.0/trashnet-v0.1.0.zip",
+      "artifact_sha256": "ce35f986308784e280bc7c757c5346043d4b5514818ce8260df9534a85417eea",
+      "source_url": "https://raw.githubusercontent.com/garythung/trashnet/6fa2b878c6c1b4304b91109070ce0edf9279bb31/data/dataset-resized.zip",
+      "source_version": "6fa2b878c6c1b4304b91109070ce0edf9279bb31",
+      "source_sha256": "0bf472790f8b20e5c950d5b5012a9d38af0d3392efd65f8ce171334fc16b07c2",
+      "license": "MIT License",
+      "rights_status": "approved_for_redistribution",
+      "attribution": "Gary Thung and Mindy Yang (2016–2017), TrashNet, fixed commit 6fa2b878c6c1b4304b91109070ce0edf9279bb31, MIT License.",
+      "modifications": [
+        "Copied source JPEG bytes unchanged into common image/split/class layout.",
+        "Created deterministic image-ID-based 70/15/15 splits.",
+        "Included MIT license text and attribution."
+      ],
+      "transform_version": "trashnet_source_bytes_preserved_grouped_split_v1",
+      "manifest_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/manifests/trashnet-v0.1.0.json",
+      "audit_report_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/reports/trashnet-v0.1.0-audit.json"
+    },
+    {
+      "dataset_id": "vifoodlabel",
+      "artifact_version": "0.1.0",
+      "artifact_url": "https://github.com/708san/CV_data_artifacts/releases/download/vifoodlabel-v0.1.0/vifoodlabel-v0.1.0.zip",
+      "artifact_sha256": "3845c8794b74c80deabe52dd6c1dcfd4b33a1af9d385cc3188ea4d357d43fff6",
+      "source_url": "https://data.mendeley.com/datasets/v97x4ys84h/2",
+      "source_version": "Mendeley Data v2",
+      "source_sha256": "81686c12ac9ec32580d7fa712d33fbf1dfb4bacf0ddd6f9ab55edfaccbb027f5",
+      "license": "CC BY-NC 4.0",
+      "rights_status": "approved_for_redistribution",
+      "attribution": "Dung Huynh Thi Cam, Vu Nguyen Hong, Thien Tran Khai, and Hoa Dinh Minh (2026), ViFoodLabel, Mendeley Data v2, DOI 10.17632/v97x4ys84h.2, CC BY-NC 4.0.",
+      "modifications": [
+        "Preserved 600 images and their JSON records byte for byte.",
+        "Placed all rows in eval; emitted structured field records into labels.csv and metadata.jsonl.",
+        "Included CC BY-NC 4.0 terms, attribution, and changes."
+      ],
+      "transform_version": "vifoodlabel_structured_ocr_eval_v1",
+      "manifest_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/manifests/vifoodlabel-v0.1.0.json",
+      "audit_report_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/reports/vifoodlabel-v0.1.0-audit.json"
+    },
+    {
+      "dataset_id": "energy_meter_digits",
+      "artifact_version": "0.1.0",
+      "artifact_url": "https://github.com/708san/CV_data_artifacts/releases/download/energy-meter-digits-v0.1.0/energy_meter_digits-v0.1.0.zip",
+      "artifact_sha256": "e1e44c6666f4dbb13e0eed67cb3433f783b0e5bfbadf054c92814f566f7e599f",
+      "source_url": "https://data.mendeley.com/datasets/fnn44p4mj8/1",
+      "source_version": "Mendeley Data v1",
+      "source_sha256": "98318ccf2cbf4ba51bf27805e1dd3f85634e3ce345400ce443dac62a953cd2c0",
+      "license": "CC0 1.0",
+      "rights_status": "approved_for_redistribution",
+      "attribution": "KARTHICK K and Kavaskar S (2019), Data for: Text detection and Recognition in Raw Image Dataset of Seven Segment Digital Energy Meter Display, Mendeley Data v1, DOI 10.17632/fnn44p4mj8.1, CC0 1.0.",
+      "modifications": [
+        "Extracted 977 COCO-labeled digit boxes with 8% padding; did not include full-frame source photos.",
+        "Grouped train/val/test assignment by original image.",
+        "Included source attribution and crop description."
+      ],
+      "transform_version": "energy_meter_coco_bbox_digit_crop_v1",
+      "manifest_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/manifests/energy_meter_digits-v0.1.0.json",
+      "audit_report_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/reports/energy_meter_digits-v0.1.0-audit.json"
     }
   ]
 }

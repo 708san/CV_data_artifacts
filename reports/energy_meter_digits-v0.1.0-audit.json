@@ -1,0 +1,14 @@
+{
+  "dataset_id": "energy_meter_digits",
+  "artifact_version": "0.1.0",
+  "source_url": "https://data.mendeley.com/datasets/fnn44p4mj8/1",
+  "source_version": "Mendeley Data v1",
+  "source_archive_sha256": "98318ccf2cbf4ba51bf27805e1dd3f85634e3ce345400ce443dac62a953cd2c0",
+  "license": "CC0 1.0",
+  "image_count": 977,
+  "visual_review": "Representative image sample reviewed; source and labels visually correspond.",
+  "audit_scope": "Full file count, source archive SHA-256, safe archive CRC and image-to-label structure; representative visual review.",
+  "transform_version": "energy_meter_coco_digits_bbox_crop_padding_8pct_group_split_v1",
+  "rights_status": "approved_for_redistribution",
+  "limitations": "Digit-only crops; does not encode full meter reading or decimal semantics."
+}

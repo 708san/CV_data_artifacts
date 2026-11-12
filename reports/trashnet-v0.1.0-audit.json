@@ -1,0 +1,19 @@
+{
+  "dataset_id": "trashnet",
+  "artifact_version": "0.1.0",
+  "source_url": "https://raw.githubusercontent.com/garythung/trashnet/6fa2b878c6c1b4304b91109070ce0edf9279bb31/data/dataset-resized.zip",
+  "source_version": "6fa2b878c6c1b4304b91109070ce0edf9279bb31",
+  "source_archive_sha256": "0bf472790f8b20e5c950d5b5012a9d38af0d3392efd65f8ce171334fc16b07c2",
+  "license": "MIT License",
+  "image_count": 2527,
+  "visual_review": "10 examples from each of 6 classes reviewed; labels corresponded to the visible material.",
+  "audit_scope": "Full file count, source archive SHA-256, safe archive CRC and image-to-label structure; representative visual review.",
+  "transform_version": "trashnet_source_bytes_preserved_grouped_stratified_70_15_15_v1",
+  "rights_status": "approved_for_redistribution",
+  "limitations": "White posterboard background; material classes are not local sorting rules.",
+  "split_counts": {
+    "train": 1762,
+    "val": 382,
+    "test": 383
+  }
+}
