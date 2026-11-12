@@ -30,6 +30,8 @@
 
 `prepare_click_trash_v1.py`は、固定Mendeley v2アーカイブのSHA-256を照合してから、macOS ImageIO helperで画像を1,024px以下へ再書き出し、撮影時のEXIF/GPS/カメラ情報を落とします。single-class `trash`のbboxと公式分割を保ち、`val`を`valid`へ整理します。縮小画像と元画像の対応が必要なため、元の相対ファイル名を維持します。
 
+`prepare_obstacles_assistance_v1.py`は、固定Mendeley v1 ZIPのSHA-256・CRC・安全な展開先を確認し、4クラスのYOLO bboxを共通形式へ並べ替えます。train/validの1,250画像・1,627注釈を保持し、画像画素と正規化座標は変更しません。配布元説明では公開Roboflow画像を選定したとされていますが、ページ上で各上流データセットのID・ライセンスは特定されていないため、その限界を権利記録に明記します。
+
 共通形式は、データセットディレクトリ内に次を持ちます。
 
 - `images/<split>/<label>/画像ファイル`

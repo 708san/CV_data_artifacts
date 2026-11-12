@@ -375,6 +375,26 @@
       "transform_version": "source_pothole_masks_preserved; group_split_by_road_segment_v1",
       "manifest_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/manifests/brazil_road_potholes-v0.1.0.json",
       "audit_report_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/reports/brazil_road_potholes-v0.1.0-audit.json"
+    },
+    {
+      "dataset_id": "obstacles_assistance",
+      "artifact_version": "0.1.0",
+      "artifact_url": "https://github.com/708san/CV_data_artifacts/releases/download/obstacles-assistance-v0.1.0/obstacles_assistance-v0.1.0.zip",
+      "artifact_sha256": "fb95637824d7470ec7da5f890b48af24a9cbda291b07d5074ef684f95ac17b7a",
+      "source_url": "https://data.mendeley.com/datasets/xwhnp82rhk/1",
+      "source_version": "Mendeley Data v1, DOI 10.17632/xwhnp82rhk.1",
+      "source_sha256": "cc68e314ef6e8aaab3a7b37fe7897528ec7850ca06f0761206dcd4ddf202515a",
+      "license": "CC BY 4.0",
+      "rights_status": "approved_for_redistribution",
+      "attribution": "Yi Xian Wang (2025), Obstacles Avoidance Assistance for Visually Impaired, Mendeley Data v1, DOI: 10.17632/xwhnp82rhk.1, CC BY 4.0.",
+      "modifications": [
+        "Retained 1,250 source images, the official train/valid split, and all 1,627 normalized YOLO boxes.",
+        "Reorganized files into CV_data common object-detection format; image pixels and bounding-box coordinates are unchanged.",
+        "Added Japanese class names, common annotations/metadata, and attribution/limitation records."
+      ],
+      "transform_version": "obstacles_assistance_v1.0.0 + detection_yolo_v1.1.0",
+      "manifest_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/manifests/obstacles_assistance-v0.1.0.json",
+      "audit_report_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/reports/obstacles_assistance-v0.1.0-audit.json"
     }
   ]
 }

@@ -1,0 +1,73 @@
+{
+  "dataset_id": "obstacles_assistance",
+  "artifact_version": "0.1.0",
+  "audit_date": "2026-11-12",
+  "source": {
+    "title": "Obstacles Avoidance Assistance for Visually Impaired",
+    "contributor": "Yi Xian Wang",
+    "url": "https://data.mendeley.com/datasets/xwhnp82rhk/1",
+    "version": "Mendeley Data v1",
+    "doi": "10.17632/xwhnp82rhk.1",
+    "license": "CC BY 4.0 (displayed on the official Mendeley v1 page)",
+    "archive_url": "https://data.mendeley.com/public-api/zip/xwhnp82rhk/download/1",
+    "archive_bytes": 84945675,
+    "archive_sha256": "cc68e314ef6e8aaab3a7b37fe7897528ec7850ca06f0761206dcd4ddf202515a",
+    "upstream_provenance": "The page says selected images came from public Roboflow datasets and were manually annotated; it does not enumerate upstream dataset IDs or their individual licenses."
+  },
+  "source_archive_audit": {
+    "zip_entries": 2501,
+    "unpacked_bytes": 84510799,
+    "unsafe_paths_or_symlinks": 0,
+    "duplicate_member_names": 0,
+    "crc_check": "passed",
+    "extraction": "performed after source size and SHA-256 verification"
+  },
+  "source_content": {
+    "images": 1250,
+    "image_dimensions": "640x640 JPEG for all images",
+    "image_decode_failures": 0,
+    "source_image_metadata_scan": "sips reported no nontechnical metadata properties for all 1,250 images",
+    "exact_duplicate_image_groups": 0,
+    "splits": {
+      "train": 1000,
+      "valid": 250,
+      "test": 0
+    },
+    "classes_in_source_order": ["bump", "fence", "hole", "pole"],
+    "bbox_counts_by_class": {
+      "bump": 479,
+      "fence": 368,
+      "hole": 419,
+      "pole": 361
+    },
+    "bbox_counts_by_split": {
+      "train": 1306,
+      "valid": 321
+    },
+    "image_label_pairs": 1250,
+    "orphan_or_missing_labels": 0,
+    "malformed_or_out_of_bounds_boxes": 0
+  },
+  "prepared_artifact": {
+    "format": "CV_data common object detection; normalized YOLO bbox + JSONL",
+    "transform_version": "obstacles_assistance_v1.0.0 + detection_yolo_v1.1.0",
+    "image_count": 1250,
+    "annotation_count": 1627,
+    "file_count": 2506,
+    "unpacked_bytes": 85369027,
+    "zip_bytes": 84776089,
+    "zip_sha256": "fb95637824d7470ec7da5f890b48af24a9cbda291b07d5074ef684f95ac17b7a",
+    "zip_crc_check": "passed",
+    "unsafe_paths_or_symlinks": 0,
+    "manifest_file_hash_mismatches": 0,
+    "source_image_sha256_matches": "1250/1250",
+    "bbox_coordinate_changes": 0
+  },
+  "visual_review": {
+    "images": 8,
+    "finding": "Reviewed examples show walkways, poles, fences, curb/raised-surface conditions, and damaged pavement consistent with the intended broad obstacle classes.",
+    "limits": "Sample-only review. A fence or pole is not necessarily an obstruction; source labels do not encode usable width, route availability, accessibility, or an individual's needs. No full-image human review for faces or vehicle identifiers was performed."
+  },
+  "student_use": "Prototype a map that marks possible footpath obstacle objects for a person to inspect and annotate. Do not use the model alone for mobility, navigation, safety, or accessibility decisions. Validate local use with local images and affected pedestrians.",
+  "attribution": "Yi Xian Wang (2025), Obstacles Avoidance Assistance for Visually Impaired, Mendeley Data v1, CC BY 4.0; reorganized without changing image pixels or normalized boxes."
+}
