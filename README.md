@@ -57,6 +57,8 @@ reports/        実体監査の要約
 
 `click_trash` v0.1.0 is prepared from the fixed Mendeley Data v2 release under CC BY 4.0. It contains 1,126 outdoor litter images and 2,213 single-class bounding boxes. Images are resized to 1,024px maximum side and source GPS/camera metadata is removed. The student use case is documenting litter locations for a cleanup activity; images are from India and do not represent Japanese streets. See the license record and audit report for full details.
 
+`obstacles_assistance` v0.1.0 contains 1,250 images and 1,627 YOLO bounding boxes for bump, fence, hole, and pole. The fixed Mendeley v1 page declares CC BY 4.0. The student use is a prototype that marks possible footpath obstacles for a human-reviewed accessibility map; object presence alone does not establish that a route is blocked. Mendeley describes the images as selected from public Roboflow datasets but does not itemize their IDs or individual licenses; this provenance limit is recorded in the license and audit files.
+
 `fashion_mnist` v0.1.0 contains 70,000 28×28 grayscale garment-category images under the source repository’s declared MIT license. The artifact preserves grayscale pixel values, separates a deterministic validation split from official training data, and retains the official test split. It is an introductory benchmark and does not classify real-world garment condition, size, brand, or reuse suitability. See the license record, source manifest, and audit report.
 
 `fabricspotdefect` v0.1.0 is published as an original-image-only object-detection artifact from Mendeley Data v1 under CC BY 4.0. It supports educational prototypes for noticing visible spots before washing. The labels do not establish clothing cleanliness, wearability, safety, stain-removal success, or textile quality. See its license record, manifest, and audit report.
@@ -75,3 +77,4 @@ These datasets passed fixed-source, license, image and library-format review. Re
 - Fire Recognition Image Dataset: classroom fire-scene classification only; labels do not establish safety.
 - AgriFreshNET: produce-stage classification for prioritizing human inspection; not a food-safety decision.
 - Brazil Road Potholes: source pothole masks for a maintenance-request documentation prototype; Brazilian 2014–2017 images do not assess local or current road safety.
+- Obstacles Avoidance Assistance: bounding boxes for possible footpath obstacles; not an autonomous mobility or accessibility judgment.
