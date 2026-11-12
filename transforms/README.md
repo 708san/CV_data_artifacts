@@ -28,6 +28,8 @@
 
 `detection_yolo_v1.py`は、`classes.json`または`nc`・`names`を含む単純な`data.yaml`、ならびにYOLO bbox / polygonラベルを受け取ります。polygon行は座標の最小値・最大値から軸平行なbboxへ変換し、変換元形式をJSONLとmanifestへ残します。bbox注釈の座標・クラスは維持します。これはbbox形式の学習用artifactであり、元のpolygon輪郭を保持したsegmentationデータではありません。
 
+`prepare_click_trash_v1.py`は、固定Mendeley v2アーカイブのSHA-256を照合してから、macOS ImageIO helperで画像を1,024px以下へ再書き出し、撮影時のEXIF/GPS/カメラ情報を落とします。single-class `trash`のbboxと公式分割を保ち、`val`を`valid`へ整理します。縮小画像と元画像の対応が必要なため、元の相対ファイル名を維持します。
+
 共通形式は、データセットディレクトリ内に次を持ちます。
 
 - `images/<split>/<label>/画像ファイル`
