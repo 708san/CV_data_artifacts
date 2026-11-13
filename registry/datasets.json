@@ -455,6 +455,27 @@
       "transform_version": "energy_meter_coco_bbox_digit_crop_v1",
       "manifest_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/manifests/energy_meter_digits-v0.1.0.json",
       "audit_report_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/reports/energy_meter_digits-v0.1.0-audit.json"
+    },
+    {
+      "dataset_id": "sky_weather_next_day",
+      "artifact_version": "0.1.0",
+      "artifact_url": "https://github.com/708san/CV_data_artifacts/releases/download/sky-weather-next-day-v0.1.0/sky_weather_next_day-v0.1.0.zip",
+      "artifact_sha256": "c438ca3444bf72773d4a7bb430ed3f20885db8fbb0fd5d3f00ee7727149564e0",
+      "source_url": "https://huggingface.co/datasets/knl2366/NREL_Sky_Imagery",
+      "source_version": "User-provided ZIP; upstream dataset revision not recorded",
+      "source_sha256": "c30cf675819fea9b0bad62e0d0c8cb77890b808253e92c604b39d6c97a6f5280",
+      "license": "CC BY 4.0",
+      "rights_status": "approved_for_redistribution",
+      "attribution": "Joshua E. Hammond and Brian A. Korgel, NREL SRRL Minute-Resolution Sky Imagery Dataset (CC BY 4.0); Open-Meteo Historical Weather API ERA5 reanalysis (CC BY 4.0). Changes: normalized paths and indexes, preserved JPEG bytes, and retained educational next-day labels and chronological splits.",
+      "modifications": [
+        "Preserved the 1,000 source JPEG image bytes and organized them as images/<split>/<class>/.",
+        "Added labels.csv, metadata.jsonl, manifest.json, Japanese documentation, and license/attribution records.",
+        "Retained the user-prepared next-day labels, weather measurements, and chronological split assignments.",
+        "Pinned the user-provided input ZIP and normalized artifact by SHA-256; the upstream image dataset revision was not recorded."
+      ],
+      "transform_version": "sky_weather_next_day_v1.0.0",
+      "manifest_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/manifests/sky-weather-next-day-v0.1.0.json",
+      "audit_report_url": "https://raw.githubusercontent.com/708san/CV_data_artifacts/main/reports/sky_weather_next_day-v0.1.0-audit.json"
     }
   ]
 }
