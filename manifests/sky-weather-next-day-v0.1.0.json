@@ -1,0 +1,5057 @@
+{
+  "manifest_version": "1.0.0",
+  "dataset_id": "sky_weather_next_day",
+  "artifact_version": "0.1.0",
+  "files": [
+    {
+      "path": "sky_weather_next_day/LICENSE.md",
+      "size": 1951,
+      "sha256": "6ff2e35dd928b8220c128d2a777eaff8806eed05c3b2feb2933193d730cac300"
+    },
+    {
+      "path": "sky_weather_next_day/README.md",
+      "size": 1107,
+      "sha256": "c3a65468b0cee9d5bdc2c0d1dd09b604465ad4bb97df69f4379de205680881f1"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/cloudy/000065.jpg",
+      "size": 11840,
+      "sha256": "30649450c587b4dc71d02ee14d1c1e82f0ac299e334740029c234c2e1308201c"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/cloudy/000068.jpg",
+      "size": 9152,
+      "sha256": "720548c9b4341053b632dd92a753740a29baa814b498e9cc1b1486001077d75f"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/cloudy/000124.jpg",
+      "size": 11695,
+      "sha256": "05b6524872e942efed8296455d41d994e75ef8779b70c5509cd6957690c8f528"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/cloudy/000126.jpg",
+      "size": 9137,
+      "sha256": "6e295dd6f60ac8e41ed663cde08b46caef9c45e84321119591e93b13ac626f07"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/cloudy/000301.jpg",
+      "size": 11617,
+      "sha256": "5fbb5b47b6bfbd1cf5706a029183d472ce65383880b2ca57c8592c33377578fe"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/cloudy/000303.jpg",
+      "size": 9140,
+      "sha256": "e932c34cda4d6d653f6510693330b3249d682e92983b2f025829c2a15d324e3c"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/cloudy/000325.jpg",
+      "size": 11365,
+      "sha256": "898f2727cea6ec93c44995c46a8d419f77a8ed3ce17ee602fcd7ea8a87a5ec06"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/cloudy/000326.jpg",
+      "size": 9148,
+      "sha256": "4486afcd83c36bdc5b32bbe761b02c1db332b9874de2b62363c56a761c296108"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/cloudy/000559.jpg",
+      "size": 11246,
+      "sha256": "287cac6f8398ce583d302142b8b92679728de9795205f6d9f02e3b4de125f7f8"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/cloudy/000561.jpg",
+      "size": 9151,
+      "sha256": "4cc30ca4284260cf5df354beaed67049252f19cb8d2acac7685d392c189d0085"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/cloudy/000602.jpg",
+      "size": 11288,
+      "sha256": "9d1ab5499cfc64525e1b478985590abe0722c2e1c1a806962b63333d1c08bcdd"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/cloudy/000603.jpg",
+      "size": 9105,
+      "sha256": "86d62b7209adf0b8d16a90402ac909ef84e97d979ac1db72219ae16da2b89b56"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/cloudy/000625.jpg",
+      "size": 11438,
+      "sha256": "9b1930bf0b67fe8f53bc5a523bb1949001a63ce20bf9029027ba92ba003ab44a"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/cloudy/000626.jpg",
+      "size": 9145,
+      "sha256": "da46f3c2e98ac79e7805dd01eabe402b0634fa8497c6cade0f50f17b2cbcc9b4"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/cloudy/000648.jpg",
+      "size": 11293,
+      "sha256": "a4eee674dab8ce6c9b87c7d9509b2ee171646b7244565cdccc385ba726b58e6a"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/cloudy/000649.jpg",
+      "size": 9075,
+      "sha256": "1a2ac8036858d3c8b13164e065dcae0d9b4592484e2ff2fc70ec21293249fabd"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000021.jpg",
+      "size": 11372,
+      "sha256": "9cc3923914fd3b2b47e568188c4c0069185f00cbacb4868eb312fc58e17802e8"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000024.jpg",
+      "size": 9248,
+      "sha256": "b2a5ebc1e9fa716ce6290bf17ad68cf3346747c18d643584796b842173af27f8"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000027.jpg",
+      "size": 8279,
+      "sha256": "77acd85215e1dea74eff112e69ea5b591f0ead89f45b8be6edeb5bd426d8d098"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000030.jpg",
+      "size": 10544,
+      "sha256": "a6cab3bcdc9d72f76f95633364167ebedd7408ef9bf7dd90dea3ad07911c3982"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000033.jpg",
+      "size": 13659,
+      "sha256": "28d3ccf832f8509306cbcc98c4763e3f754329a416634f18de1ee17f1977d009"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000036.jpg",
+      "size": 7211,
+      "sha256": "22021ba02539489c8fdfae1a895f7a07bb624d9ed9ce9114c9ce146814971938"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000039.jpg",
+      "size": 9126,
+      "sha256": "128376c4e5b02da249657914403759b24fae5b7d73273a8bb182bf2e554b7573"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000042.jpg",
+      "size": 8280,
+      "sha256": "aa589b3f28b122026e7428719a74238d37e9ead229655a7f264a4316b6706263"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000045.jpg",
+      "size": 10651,
+      "sha256": "201c6ce85637e6801df0ab2bec374f3b14cd86f1e7dbbaa11bc5d88e51f22648"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000048.jpg",
+      "size": 8064,
+      "sha256": "dad02e9e12246072924589ee9710b05bc5e79d1253c0d2fb5477640a568bfa08"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000051.jpg",
+      "size": 9485,
+      "sha256": "1b0f7209b74311713e6f07e1ac2c2aac126ecf8c77014aea312dc21716eb9f2e"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000072.jpg",
+      "size": 11066,
+      "sha256": "2172741e48a9fbacc9bf0c4b07194f46743f3b92f5a5ed2bb7c4671549a13a2e"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000075.jpg",
+      "size": 9301,
+      "sha256": "ed0d112dac26ac5d490b79138e2cbb6c9eb58e7014b0c62d9c6a31403b34c5d9"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000078.jpg",
+      "size": 8415,
+      "sha256": "1ee99e00565345ea9cd5ab520a47bbdc23a6cdf86a879db38b8313e9ba37bad2"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000081.jpg",
+      "size": 10427,
+      "sha256": "013cffd979b6c91b4e7fba729adbb93067305eaff69bfe362ceae7e994b3d29b"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000084.jpg",
+      "size": 13515,
+      "sha256": "030e8965846e53ef077786e76c76395035ac29542579d3ec8540ce0fc5894698"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000087.jpg",
+      "size": 7279,
+      "sha256": "a93872fbaa7a31f20f46568652d082917738004fc02e09e2b9f2eb583ab5ecec"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000090.jpg",
+      "size": 9017,
+      "sha256": "c060f54b6a6cb57a45ab306547509e4e5300c08c70a3bafee08298615880d054"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000093.jpg",
+      "size": 8190,
+      "sha256": "488b1ffa94353b180b629b33dee693be26034fcf12fbc13721169c37bdaf5ae9"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000096.jpg",
+      "size": 10360,
+      "sha256": "60655387471d5bb9ea007eaeda31e9cadfceaa0758466b3939ee6517cb3778d9"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000099.jpg",
+      "size": 7844,
+      "sha256": "2961bd09f1a862cfed9fb1b597877187e19bf3d4604b2ab1f6d3eecce3e30de9"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000102.jpg",
+      "size": 9564,
+      "sha256": "1eee0ba580d594220b82d0f39207e7444c3384f36d80c93ce417d49440b729e6"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000253.jpg",
+      "size": 11052,
+      "sha256": "db94d6cc0f56885545bdc5b44fd06ed6d38bd9ef31f2daae4121b710ea4f640e"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000254.jpg",
+      "size": 9382,
+      "sha256": "955ea9378f796331b244d8e28e44db2efb490212e4166f63a999f12ef93ad8c2"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000255.jpg",
+      "size": 8332,
+      "sha256": "72821f45b16077dd751f15e871a3959841845418864aee1c6a6ca392eb55c8b4"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000256.jpg",
+      "size": 10360,
+      "sha256": "d2b95cacd9503ba6afc9337f94cffaf1c8d39550eded4fa293908a71f18c9cb7"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000257.jpg",
+      "size": 13432,
+      "sha256": "e78c16152954e83765baf96c48a42af98629b4be59bebddc1684eeb0bfb50c6d"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000258.jpg",
+      "size": 7266,
+      "sha256": "7f9aa6389896b45de904021a9b50cd43573771dcb86f4f6f72654ad5bbcebef3"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000260.jpg",
+      "size": 9056,
+      "sha256": "c08648f827eed1fbe745cc06cd614cff2b0a227b40564a584ecb2469e52a3185"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000262.jpg",
+      "size": 8224,
+      "sha256": "d80b6f04baf4fd228e1c7da6262512e9db7ffc556059d0c1dd85e04a3d328d1c"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000264.jpg",
+      "size": 10013,
+      "sha256": "fd4f3bded152e47e91d8ccb3a9f10beefc3bf7e5d5bf350e6626242176d0ebc3"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000266.jpg",
+      "size": 7538,
+      "sha256": "7216598c9079df322f3df31ac17293cfafbcbe3b40176734697e6371b636384c"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000268.jpg",
+      "size": 9602,
+      "sha256": "3ad972a1ef8cf241481a51ddac792603001da5720567837c789883d14d90e06d"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000282.jpg",
+      "size": 10998,
+      "sha256": "449ff8fdd326e062169b0ed423357a09417db2408e621aa56fce2285efd08a4e"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000284.jpg",
+      "size": 9451,
+      "sha256": "dd1c343258e7a7105e9a00b816baa6824d85115fe0db2f1818fe94e78e513116"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000286.jpg",
+      "size": 8103,
+      "sha256": "0fca93e6def854b02d4847033b4fff3485e7ac2842114338bc2fde001b52d93e"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000288.jpg",
+      "size": 10274,
+      "sha256": "1b58075cb398614a4828a00f9dd0137455fe88b00eef8b04b1a2e591939b269c"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000290.jpg",
+      "size": 13394,
+      "sha256": "14193e42c3f8a90aba75c36e9ab7dcc59efc484c410e7cb8ea5cca7249b3b61d"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000292.jpg",
+      "size": 7214,
+      "sha256": "64e0a92d18bdf0302bbe9c90c40f66b6f63ff243b180c1279996ca67994ddea6"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000294.jpg",
+      "size": 9111,
+      "sha256": "2573759ffe24b98e8c1d3e402b1149cea833a981b72db5d7fe0d7fe5217d9ca5"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000296.jpg",
+      "size": 8142,
+      "sha256": "a3b1be2983deb32f5e392dc7a0f41af4375c263481839819f4c3d5429f6772cc"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000298.jpg",
+      "size": 9814,
+      "sha256": "2558f8aed01299ddffe57a628a099df55867d693c2971b34673e4eb8f7e606cc"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000300.jpg",
+      "size": 7423,
+      "sha256": "372d51a0a3d33d955a964394ae45cefcdcadf86d86e9dd2c43e065095e243e7c"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000302.jpg",
+      "size": 9712,
+      "sha256": "2d2e13cc222a35857951dd2e041fcfe4939e14f861aa427412f990f0cfd6a50c"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000499.jpg",
+      "size": 11108,
+      "sha256": "ea091440796cbb192b3853e6ae9fe690f2b3a5e7f8d38c3f9f70ba10c5e720fc"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000500.jpg",
+      "size": 9623,
+      "sha256": "52f7fd8fc3e69cd7610fd3695ff35f1727e124d3b94b6cce14cdf983706cbbd1"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000501.jpg",
+      "size": 8130,
+      "sha256": "2cb10562efc66196ec693dd739196041e8fcbe9891094e79af960670b32d351f"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000502.jpg",
+      "size": 10291,
+      "sha256": "21727170986f8a4d9c54ef4582283a6d9c8f7dc3163185d0a2d5e9616812c928"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000503.jpg",
+      "size": 13453,
+      "sha256": "001439c467f840ba62d5d2aa55a54401257e43bb2a2a9bf74271b52bd28f21bd"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000504.jpg",
+      "size": 7249,
+      "sha256": "2f1f54f0e9a37b02f07f6ceeef40c6e09eb0d1fee3e0496cd7dba51bbd425179"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000505.jpg",
+      "size": 9076,
+      "sha256": "2cb06bda5ad93cff2915bd8800cfc9c064dc15b732c32153a2f1156c456b8514"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000506.jpg",
+      "size": 8109,
+      "sha256": "dc88654463ac1e5ce0f19d22b6b66223e1f71ec8fc72f76f5085d8ff4c74262f"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000507.jpg",
+      "size": 9681,
+      "sha256": "9335269cfeef40ddbefb616702e219470a312fba9dc23b80db0e8391869bc651"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000508.jpg",
+      "size": 7269,
+      "sha256": "1634c1edb9bd908d6cd7e7a3dc5fb66d65ef77d27e2b46e240908ddce566a3b3"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000509.jpg",
+      "size": 9826,
+      "sha256": "a2dae63c6d5baa431d61f55ea5d86fcdeb78e6ae38330e0c392d4dce3c2dfd16"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000516.jpg",
+      "size": 11004,
+      "sha256": "b0b15079dbeebbc8050db8d82df1736badeb144d605bd13d3868bbf738d8bfe4"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000518.jpg",
+      "size": 9676,
+      "sha256": "70586989f27e06c24026ec01604578efa18bea326eb5e1137a4df8f5d9d024e7"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000520.jpg",
+      "size": 8021,
+      "sha256": "bcba29a754511d504ff0b49a054c06e988b3a30226fbf424ee59c0825bedf21f"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000522.jpg",
+      "size": 10369,
+      "sha256": "43ab7eeb0ec5d1cad634f61b27afabd749884a71e1ca581fcccbe46f255a7fed"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000524.jpg",
+      "size": 13456,
+      "sha256": "dfb329d1428b9b74211616b2aeac75964dd6787b696f386dad300001b43133ae"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000526.jpg",
+      "size": 7156,
+      "sha256": "6227939f04bbbaa767f641f11b5160c6b021be8878df012d56286c48e765c51d"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000528.jpg",
+      "size": 9014,
+      "sha256": "1e3f47f45a6459569a4107fdff6590a01e94aad52fc3d7ac7cb50d8de7c23ec1"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000530.jpg",
+      "size": 8141,
+      "sha256": "2080fa7bab36d976c10965e08ceca256da21b8fe53afd842176748745fce3e27"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000532.jpg",
+      "size": 9540,
+      "sha256": "1d19398c57e6775dee9d77622ec8239f23c928c523403db723f0ffde02b3508b"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000534.jpg",
+      "size": 7041,
+      "sha256": "f5d04be42d5c207b301deeb7959c9fc03f1871d2d9c3da0787fd09fc43100579"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000548.jpg",
+      "size": 10912,
+      "sha256": "b39f492b4b8e1e66d43a6d13bc24426e0d00b3db8d6a9fa0277003f23f74ae70"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000550.jpg",
+      "size": 9618,
+      "sha256": "d307faec8f337ab5fbcbe4f771eb143da0aa73170984afcc818ff31796765292"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000552.jpg",
+      "size": 7999,
+      "sha256": "ff9f8df6e2f1f9275558b47d32c155bd23da79fe401956eaa1e387fe86f74c5e"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000554.jpg",
+      "size": 10358,
+      "sha256": "cacce7d5dffc259f0a98af4dc85d1b065ef62ad7bdbc18a5c03a27450ad50368"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000556.jpg",
+      "size": 13664,
+      "sha256": "1ff07dd15e41c085b2d5f55e52233f0ab3116fb141c5906cfe1fcd1426fdfa1b"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000558.jpg",
+      "size": 7120,
+      "sha256": "332b54caaa0988a970d19aa899bf5f209e31fa71e2b82314ddc9694c8037ac02"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000560.jpg",
+      "size": 8962,
+      "sha256": "bb0848c430ed38d001c605f4e1021608abc953d6e7db114143a7b6e64ff77608"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000562.jpg",
+      "size": 8121,
+      "sha256": "949b5998a72664e5f3c9f169f9f2d633e0ca493eead2a9599db74d2cea908037"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000564.jpg",
+      "size": 9413,
+      "sha256": "736914ad4e415fe53cf050897f27c527443f577303821dbe5193507628f09467"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000566.jpg",
+      "size": 7018,
+      "sha256": "11867b322bc7982c73fc0699da63cc6c31b0d6548e81790078bf9f0c588f501e"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000580.jpg",
+      "size": 10931,
+      "sha256": "4406b7fcf23108a41089217af3ed9f0b7fd594227716617b47a64e99f67685c0"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000582.jpg",
+      "size": 9560,
+      "sha256": "c879893557eb286e6de762f3a1f5868683576945ba8a925d385ec805e8665c8f"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000584.jpg",
+      "size": 7976,
+      "sha256": "d041f21c5cf55a11f37d30e2108f470d9819837a34ea8374a963c25bab930245"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000586.jpg",
+      "size": 10261,
+      "sha256": "b4561d74d60bd1470badd6ffa24a77b8edc06e1c5e0f734aef5f052939afe407"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000588.jpg",
+      "size": 13661,
+      "sha256": "7cde86c476972cfca83ad6232cd89ed8974bd597a905773c796ccbb345f01fa3"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000590.jpg",
+      "size": 7070,
+      "sha256": "801a386f1b9f1b9ecefba5f998d2415adeb1231b5da87788ffd77fae3793899a"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000592.jpg",
+      "size": 8914,
+      "sha256": "bb8163ffcb7ad70ec90ec96bed2f970831aa35160f5681dba36dd3304db1ba5e"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000594.jpg",
+      "size": 8180,
+      "sha256": "c09dc14d184ee34c66decf6a124c0406544d91e8418be5899ae01479eb2bc281"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000596.jpg",
+      "size": 9458,
+      "sha256": "51d12557f4bdcfb22ea8b843adfa4de912cdd41739ded79758580677a63a5fd7"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000598.jpg",
+      "size": 6873,
+      "sha256": "1f2a034372a4b647abf8d54cae2deb63dde3e83b1f46cdd4563290b7b07028e6"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000988.jpg",
+      "size": 10963,
+      "sha256": "5209ca997f54d14ab6b8c1d6effa108f92344353503e958842a0b6c85a01c866"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000989.jpg",
+      "size": 9471,
+      "sha256": "8864f9c198211f1f9d4371dd8e8ea30e8dfa24615f3c798ced6baa2c1ddf34b0"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000990.jpg",
+      "size": 7893,
+      "sha256": "2dcb99af5b75ec5e00fabba3b2e3fb89e93dd1cc24e6e430072305e783988114"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000991.jpg",
+      "size": 10080,
+      "sha256": "02fc4b888eb6bcf09721a9f2dab06980c440e6e4bef4c6172c42bb26475730ea"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000992.jpg",
+      "size": 13674,
+      "sha256": "d56d696429f3080050e5e01b9302bc8a8d87e9c5eb96f1e71b85197eacf2d107"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000993.jpg",
+      "size": 7049,
+      "sha256": "c6c29fb5496ba708328ab74a18e9f61ba9f0bd64f64130ff58fbd7e5b1a48fbd"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000994.jpg",
+      "size": 8875,
+      "sha256": "9228b732c3eec68bb74c0b891a53b47e7163c192a8676722e592d9281421155c"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000995.jpg",
+      "size": 8253,
+      "sha256": "bb0457967f36143149306998b187ff81986ce0029528b5878b5d807139658d48"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000996.jpg",
+      "size": 9578,
+      "sha256": "00e4fd177980d5fbaa4ce275e210a13c8d26d1de60e98d84ab613d51a729adac"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/rainy/000997.jpg",
+      "size": 6792,
+      "sha256": "c4d4797ef759ec956f53decdff8dbe6e6c126aa90957070cb784e733b0d21658"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000155.jpg",
+      "size": 15123,
+      "sha256": "6aa57231f9ea62016e516d3d75354a3e0868e20bae1b044d12c0e44b26c3ca7c"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000156.jpg",
+      "size": 11546,
+      "sha256": "ec50e9d1ddb2ffeb763635af72f587debede01b1824c87ed9f0e4e088b667317"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000157.jpg",
+      "size": 9103,
+      "sha256": "c3422967af1b4385c5a81179178638b9b07ff161c023a78f890b52bdd95b0a1c"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000158.jpg",
+      "size": 6783,
+      "sha256": "6a7c5322342364770496de38062edd193e993de5bfb0f9e16b11601325079ff2"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000159.jpg",
+      "size": 9255,
+      "sha256": "ef736d2743863091b7f3643d86886758ab11d9ba3cc0ac032fd06d93fc9aa626"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000160.jpg",
+      "size": 9375,
+      "sha256": "546772351466bc6ae6e9014594acc769a1117e0aa8724b565ff0b002473a67f2"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000161.jpg",
+      "size": 12275,
+      "sha256": "447a2621c639f26707b6ca62cf21ca0b6a7be9956da846eddb22b90d03795d79"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000162.jpg",
+      "size": 8353,
+      "sha256": "e1508b96051ddfdc988cd08f4e852d2b84ebf4860144f17b4d3db02d2ea227c8"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000163.jpg",
+      "size": 11090,
+      "sha256": "f900ab593cff4732263d04415461ecc52ff91b6b35b097f8265a21504b594a44"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000238.jpg",
+      "size": 14742,
+      "sha256": "853b1618228d92deb6c7c84b0b72af14f212f00170cc24cc3e755a75bd84a903"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000239.jpg",
+      "size": 11304,
+      "sha256": "861d23685963e2791cb131d41b780c26bc9d773f36b253891f2922d7bdc35311"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000240.jpg",
+      "size": 9073,
+      "sha256": "80912fa0373abc3bce73512dc426cb281262b3a1546b481d7984995009a0cdd2"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000241.jpg",
+      "size": 6962,
+      "sha256": "9dbdf978b21a03410efd36e1c46e406c0466c30bafd02b56a1575c3282a87550"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000242.jpg",
+      "size": 9248,
+      "sha256": "108b182668763d3f4605390892dc1953e70efc238cdb07076b1ae5f7ee57479b"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000243.jpg",
+      "size": 9416,
+      "sha256": "4313be61b5a450dee891132fac6e2708308e8e35e83366a53580451052368eba"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000244.jpg",
+      "size": 12174,
+      "sha256": "706d497eb8d34aec9d93e0b3a71e3513e92323a8e7fd3267d5b92adde18f2d37"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000245.jpg",
+      "size": 8316,
+      "sha256": "794ce2f6039a889b5af5d94104981a3e3fe2d8aecbc00c71329904d299dad0dc"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000246.jpg",
+      "size": 10888,
+      "sha256": "88ae4ad8e0578bb3227c9076060c97bd2bd119d93a32f5323bc177d3eeb22ad6"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000401.jpg",
+      "size": 14640,
+      "sha256": "6b20b7ad6438d8c0fdd02a22e2b20ccb9ab44c9ceaa64ba536c97c761e7c8ef4"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000402.jpg",
+      "size": 11325,
+      "sha256": "9ce501329d5397e9b5ed8329d701f249f17593816b9c1016029b949279a8e7e8"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000403.jpg",
+      "size": 9172,
+      "sha256": "4996219c08017b574a3d8d71cb890b3a377fa216040688781911065da50a2a6b"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000404.jpg",
+      "size": 7070,
+      "sha256": "9640db567be5f490a6abbf2b80dc4204d75962d0f3b8715858617102acf4c33d"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000405.jpg",
+      "size": 9237,
+      "sha256": "4c040c633ac858c53274dcf18ac16b520cb9b642780fed5b4b28ad78065f7562"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000406.jpg",
+      "size": 9406,
+      "sha256": "5b6eac6274157f6d43171abe8f63bc8557c0f9d5681e69c1ca4b9006ea3cc8d0"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000407.jpg",
+      "size": 12145,
+      "sha256": "32a32ed3cc157e120d9b4a7fa148f93842101ae24c7b50d698ec984feeb06009"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000408.jpg",
+      "size": 8309,
+      "sha256": "e3383c2cf30e6124e686aa8d7405c24c68ab97ce76d162fad424d945135c19f9"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000409.jpg",
+      "size": 10780,
+      "sha256": "0a6b7679f5aab12f9fa1884fd988dd5c1c42b07fdbe24e67e30ebfe7fa7cdae2"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000484.jpg",
+      "size": 14441,
+      "sha256": "c6bc373499caec8a98c940efb05e00292275951966f91d131d13677ab8b4f96c"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000485.jpg",
+      "size": 11325,
+      "sha256": "493777814fa3427506e718de0163a6a8fba802864904558737e961680bb5b01a"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000486.jpg",
+      "size": 9088,
+      "sha256": "9f0c34c6d57c80fc4ced4d5e82cb210adad4d6137061680b2330202f065693f3"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000487.jpg",
+      "size": 7161,
+      "sha256": "25e91987eae1e19bd1a386eb9d95809980e5423f945f09018ad65f920b4f61b6"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000488.jpg",
+      "size": 9283,
+      "sha256": "a67ee97f555222482e3e8d38b7ce90d06d266cd36904ef403d942e4cfc427b4e"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000489.jpg",
+      "size": 9441,
+      "sha256": "e9723c446cd2a78a937839184c1b19dec9e668bf13da53ce25e92a1a8891ceac"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000490.jpg",
+      "size": 12207,
+      "sha256": "f8a4f24455e2c709d12f5b38408d2f6192eb40dd0e2d5e06b72a82bae17f0fcc"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000491.jpg",
+      "size": 8271,
+      "sha256": "34fcb8a8ef147493030ea1f89eacaae26307c5b7faf195f9dae8b04538471b55"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000492.jpg",
+      "size": 10914,
+      "sha256": "dfa8112a083e6680edd9a18c4993c167954705855cbdb979455b64b4190a97a2"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000724.jpg",
+      "size": 14429,
+      "sha256": "0042f2f4fa8262c7fb7837e50eff6b1af9b22f6a51c164c1eb162de3cb7982ed"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000725.jpg",
+      "size": 11314,
+      "sha256": "3164a68aab0b212eaf1ca9ecfd2d12dedf36e2653f8102a3ba9e4adfd8c653d9"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000726.jpg",
+      "size": 9102,
+      "sha256": "5699a8b8fbb0b9e00c67b592558eda5d4278009775f390afac6b0533fb2c3760"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000727.jpg",
+      "size": 7168,
+      "sha256": "0a0ceac1ff92f185d9f7b5266c504b646ea48e606785befc1f59ead685fb7c64"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000728.jpg",
+      "size": 9260,
+      "sha256": "d62b98a04c2721eb044c88700ba96327dfef8428760edbe99b1a00732da0003a"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000729.jpg",
+      "size": 9382,
+      "sha256": "031cc9c248471dc1f3fb9837194394648d284a33f7b619dd7a46f63afd1d01fa"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000730.jpg",
+      "size": 12208,
+      "sha256": "00ec39c49a77c3f81c35e2a76f4fc6c91e104170d9e85520cd920f71706bb705"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000731.jpg",
+      "size": 8305,
+      "sha256": "db66880d55d2d7ab22cd1aa39d4c36c2eed9bed76ab905682944a80fd0477a92"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000732.jpg",
+      "size": 10918,
+      "sha256": "4da0e202c6229278c6bf3f742e4521d1c017e4e50cd5f5fa8e91c1f4cec436ee"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000807.jpg",
+      "size": 14401,
+      "sha256": "fc8322246ce1d6204ab8292222339f92a5011f0da781204b5b8f3740ff379ae4"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000808.jpg",
+      "size": 11405,
+      "sha256": "a82afc79fcc8fa562a744423d420d37ebdb3ffdb50a44eea4341cbc3706f383d"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000809.jpg",
+      "size": 9056,
+      "sha256": "1607c6a998e103fe987ab0ff328686290e98714a0ce265e71e7edf6ca50625cf"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000810.jpg",
+      "size": 7234,
+      "sha256": "542ecf5eb0b1429b8f1617235043a5a0fb9400453532c2ada256c7f33f51091d"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000811.jpg",
+      "size": 9189,
+      "sha256": "cbe01d9c8b98b350a4712eee31556e4d29050091b1f4f8244bfadf95194977eb"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000812.jpg",
+      "size": 9550,
+      "sha256": "72c590e08b440b2d5c9567cc9d95dd64fc8c9dd0227cdaf3e0eab9417a8f7b22"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000813.jpg",
+      "size": 11905,
+      "sha256": "4b4c32311eddc873f9814eb9f59f995f431c0cee2e27b24f1034a1f586da8e61"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000814.jpg",
+      "size": 8257,
+      "sha256": "62ff4bb0e35961cb38b3484564b589aa6a9374c99e1d275f796b49ccfd8a8c72"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000815.jpg",
+      "size": 10989,
+      "sha256": "e594a188a07706a00779626b53fdf0397ac9760af4a3bb084538f656b5abf1cf"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000890.jpg",
+      "size": 14366,
+      "sha256": "9d85ea4c630f88a216b05ae74eb2257f2547209e2d59a744e2f2ad554e07e231"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000891.jpg",
+      "size": 11465,
+      "sha256": "81a3af79cc3417c9b1293c3f5e06f670cc37ec0ae2406a5eb031009e3863e5a1"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000892.jpg",
+      "size": 9068,
+      "sha256": "a3894af94871d84204527e46fbf63fe8e991b5dfc2aefd4a63cd8e4895b93111"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000893.jpg",
+      "size": 7241,
+      "sha256": "e6877e2314c268fc3dd22eda438f78ce2909df661e0dc7d6fdf3f4f561f5bd9c"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000894.jpg",
+      "size": 9229,
+      "sha256": "9b2f358fd7a7c247747f3e38d8f15d92a65c2ac3d7776634bfd8f874b7807919"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000895.jpg",
+      "size": 9412,
+      "sha256": "5a856f0bd98acdaf22efece2535756842227ba50d4e633fa63ef95178e6854d4"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000896.jpg",
+      "size": 12032,
+      "sha256": "ac1f86d5a95b9d052192adee1253182bb375051e55c6f5d17ff4e2896ed8e1b0"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000897.jpg",
+      "size": 8298,
+      "sha256": "00b32becc490c1b1af8301cd333130bb0cfccbe44e1d60bca553e9221e31f855"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000898.jpg",
+      "size": 11141,
+      "sha256": "8357f9d50a2a601a1b5664d7604c23f90beb5bc096296a506e84ff1e265ce77a"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000973.jpg",
+      "size": 14361,
+      "sha256": "4a8316e3e3758408aa26e294a08187065dd19e0cb3e325610fd8b1bb23d26c3c"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000974.jpg",
+      "size": 11397,
+      "sha256": "912364b0acd682d8a520cbceb8a0ca2fa54e7f268c4226c97e13a89700286fc8"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000975.jpg",
+      "size": 9042,
+      "sha256": "4cc48b99dea27e60e9096bb87b8a842ca7bdd7a8c8a85e3d39c8663f67117168"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000976.jpg",
+      "size": 7064,
+      "sha256": "c0cb99c8df0cc1ea795c4272507678513674f4e50f6679285cc9eeaaedd8bb2f"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000977.jpg",
+      "size": 9128,
+      "sha256": "a4a12cdd5c879d4e97e871b5226629aa09c68786a09d63faf0d3799b31e4335c"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000978.jpg",
+      "size": 9397,
+      "sha256": "d01ccf85ed669d92bd60fb294ebb6787649d4b7cc53acbb923978624fe2c6194"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000979.jpg",
+      "size": 11946,
+      "sha256": "832229f43f9b21b2bed422e2fb52934d218ae8a54d543189f0dda24db7251ae0"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000980.jpg",
+      "size": 8279,
+      "sha256": "8a88d13f6e9868f415ae2c82c5cfba17dbf2409e7b24dffd144c598696ecaaf0"
+    },
+    {
+      "path": "sky_weather_next_day/images/test/sunny/000981.jpg",
+      "size": 11137,
+      "sha256": "231b0179df5cd09b132a7c083e840e588fd58fddc912b607994b05bf3c3560f3"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000003.jpg",
+      "size": 10252,
+      "sha256": "c30628ee67898e0fc44a9896de2dcde708b71b22b3c518c2174b8912e9a25f08"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000006.jpg",
+      "size": 9121,
+      "sha256": "af262dcc63e0a378b4386a91df20f94c987e112e3c6b6252a19ac84f9797f495"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000008.jpg",
+      "size": 10721,
+      "sha256": "e2e98b0bd27926c79c6dd05803c73798f05dfadee0162a599cfcd2c178e26392"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000011.jpg",
+      "size": 8802,
+      "sha256": "f11b3105b0348d58037012080bcda685bf6c52ac32808926783432cc0064daae"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000014.jpg",
+      "size": 14253,
+      "sha256": "f8066038e4ff0c8277b11c451c19d4b9ba5e327d365ee15379671c81b898873d"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000017.jpg",
+      "size": 10387,
+      "sha256": "9027ad231bde25e03a58baad0be65272135b534cdc8b35d2c7095f22bcfbbb79"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000020.jpg",
+      "size": 8710,
+      "sha256": "f9a8c822b3a1a1c437a4ef91915a7260842cd4490579498253c6f05bf8efcec4"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000023.jpg",
+      "size": 9249,
+      "sha256": "25f314d33d255e41d5c603811b419e11923c38e374ff48e0c66b875d42c61281"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000026.jpg",
+      "size": 10018,
+      "sha256": "62a451110a07e938eef81d615aa59914adb69ec72bbf8c981eced3564a627c7b"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000029.jpg",
+      "size": 13353,
+      "sha256": "db254325995ef3241c3cadddb0a16156bdde80a79b274da24fdba1bf78414178"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000032.jpg",
+      "size": 11711,
+      "sha256": "f7b480ddff8401ae821144a1e8f4a63d53a4131517660ca365db8d7c77a09e60"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000035.jpg",
+      "size": 10154,
+      "sha256": "8ff7bffe23961faf89de1dee9312044c1db82cc7647fd4b3b52fc56cc0165064"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000038.jpg",
+      "size": 9542,
+      "sha256": "3f015303a2187ba5acbe6b5e46f401353575251eda728baf8c1c3e45da094609"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000041.jpg",
+      "size": 9083,
+      "sha256": "633724e266281d4c3f00596c2d7d89d4416b86655d88d90a8c658338b33f3cc2"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000044.jpg",
+      "size": 11936,
+      "sha256": "bcff269fc9d921e5a08374be0c0d99800bbffff5d9dcf42ab945ead8f581b624"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000071.jpg",
+      "size": 10129,
+      "sha256": "5de0dcfedb8279ef4d5e4126e85a4744e429806eee2396bdbb80a97f231cf25f"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000074.jpg",
+      "size": 9056,
+      "sha256": "de4fa491d6c4a4b9c0d924f942846c93a95d6241aa25a7760e2772773399486a"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000077.jpg",
+      "size": 10697,
+      "sha256": "36988845136c33b02cf4ef991aa0fddc89cd5bc9ed416c461af82a7cc14f24f4"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000080.jpg",
+      "size": 8807,
+      "sha256": "b283396a35fe4b4b8294ac57729aee7581b4cf705053af50cc438e544d8c7b0f"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000083.jpg",
+      "size": 13525,
+      "sha256": "e85d4798f8dde5b7c909716d9c5947806bae404bf02aadef289916e3d97aea3e"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000086.jpg",
+      "size": 10355,
+      "sha256": "86eb67ecaed5fe7034c0591af387e2625402ffed87655a48af2b62a387454032"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000089.jpg",
+      "size": 8777,
+      "sha256": "ed82ab20767239f0faa04f6ae231e68099ca49061eb32206a06584e7d02d7835"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000092.jpg",
+      "size": 9176,
+      "sha256": "bfa6d2910f825a6ecbfa8249d72a4b527d23a35944fdf04681179a66ec8b4a2d"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000095.jpg",
+      "size": 9858,
+      "sha256": "472a6a043bcd7db1690f686df0d113849d800c3546884f747b815a5e5c296d71"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000098.jpg",
+      "size": 13121,
+      "sha256": "10619d0faa32fbcfa2af2c4ac490ada61441c17b998d3fde7a908b981c83df8a"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000101.jpg",
+      "size": 11638,
+      "sha256": "b60e17704c514c97f0eb92210a46e919e6d203d9f5b67c49f37d545dee63fc14"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000104.jpg",
+      "size": 10154,
+      "sha256": "a86743b43c056d152a3f75a8d2514ccfc001a25232ede6594e333f8f37549ced"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000106.jpg",
+      "size": 9569,
+      "sha256": "c7d49e6a9a704b76e0470fc78b9701fe15437b1764edc58853ebd9af20c363a6"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000108.jpg",
+      "size": 8897,
+      "sha256": "bb9f61d239cffea464743683dbc5b9118a879330048c460d30c0a33bb3b8b744"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000110.jpg",
+      "size": 12009,
+      "sha256": "eee3eb615e8ef6923ec1bfc6f05bd0c706fcb9d973987fcf5fd7bfa08c611969"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000259.jpg",
+      "size": 10060,
+      "sha256": "79759a5ddf382a0a1a30ff8caabeeddb6467fa6f58205a484c625550caecf6a7"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000261.jpg",
+      "size": 9059,
+      "sha256": "d8b564e833a0f3f303af1f9f8b9e85c9348efe2c4f3636a42c1f3333601b91be"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000263.jpg",
+      "size": 10715,
+      "sha256": "73d952f4668c9858dcd6605b0bf099e07362bf12cdf2767f9b0c4f9340d30273"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000265.jpg",
+      "size": 8799,
+      "sha256": "aecbda6a83b75e9093a3af24789db4c755fe0f82f2bb9ebda584e6b983c5386d"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000267.jpg",
+      "size": 13061,
+      "sha256": "f9978098ca36890652fb90b31070885cbea95169a2fae3e8ab3b837429e38bfc"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000269.jpg",
+      "size": 10359,
+      "sha256": "4c4f834d6b2a0a6529fe183554a47539e40239e4627b37244d08846551bd7a41"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000271.jpg",
+      "size": 8682,
+      "sha256": "a86b12a2a1bf5ef50916496adc9c817fcc9b91432807199421852dea6e36e436"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000273.jpg",
+      "size": 9097,
+      "sha256": "e88635b4d1816d162262cdb80f9d77aaf4ca3f2b09d69f973b11a7bc0928c6be"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000275.jpg",
+      "size": 9746,
+      "sha256": "bd8da327ab4ac9b82b7c356b73211d80219cb7efc305a00c58ae579329c5640c"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000277.jpg",
+      "size": 13185,
+      "sha256": "f4582ec937f8be0dc9660d498a808eac796a555d1a1b62afdc26b050f07bc665"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000279.jpg",
+      "size": 11593,
+      "sha256": "839dde6086e8a7b21a2dd6c15ffd529794b9db49e22b6779b152c6bdcc1df808"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000281.jpg",
+      "size": 10050,
+      "sha256": "5dfffeb64a0f9e569171846c85b040e4cb9d0f0b4b499818a7bcc43acdf6a32d"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000283.jpg",
+      "size": 9582,
+      "sha256": "aba713d58f86f9da47e07706eee136fc4d5d52290e87f1df8dd70c47a1333f67"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000285.jpg",
+      "size": 8762,
+      "sha256": "466cbfcab31ab613e76196fb42a8267d9ee673a732a59dc2aa216207fb2c0914"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000287.jpg",
+      "size": 12094,
+      "sha256": "1d68b5275c618454c95902f2c76b76ba96c6c5383a8367999321248e20cca6b0"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000304.jpg",
+      "size": 9969,
+      "sha256": "0ce421a942f4290b4ab4300cbd58f50ede79e3ac4096f0909e2e0a82e7bff372"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000305.jpg",
+      "size": 9083,
+      "sha256": "8e588d6848f3688cf6e88067a7cdf6ea44114b2b74ddeca8c95751cd5e873701"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000306.jpg",
+      "size": 10830,
+      "sha256": "05197785fa187ebb93e263b57e62608c1285f5d4fe57e7334d8bae04cfec04cc"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000307.jpg",
+      "size": 8795,
+      "sha256": "1709ab536dcc5cc14f103203022781c495b68214ed23de91da21c27487b66eb2"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000308.jpg",
+      "size": 12536,
+      "sha256": "fff31a66dfdddddca0ebc7d77e0d13dad3bef228f8e014ec12f729eed0b99ed4"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000309.jpg",
+      "size": 10372,
+      "sha256": "de8f27ac267770e223b725db02a768e8f2ec75e4faa9229eb81165976ecdfcf7"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000310.jpg",
+      "size": 8716,
+      "sha256": "4adcf74b1b3e3e7c205987662aa8df1ebee813c3e5858c111e78dc46a4e6c54a"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000311.jpg",
+      "size": 9130,
+      "sha256": "d25db0089abc9e39ea6845ecb923de950c020e74941ec0b30affb0f047f21ed7"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000312.jpg",
+      "size": 9729,
+      "sha256": "cadb21e59174b71727555f326ddf3362ca750bf6939f3dd04996908e5fa3e60f"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000313.jpg",
+      "size": 13084,
+      "sha256": "f85cd865f321a9d9d31805448df33c7c50a5b307d98889d8f8726a7baeb1df6b"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000314.jpg",
+      "size": 11505,
+      "sha256": "474863323b9ec8fbac1a0c6547861ff6e13435bb182f499b6e87e3d36baa5e81"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000315.jpg",
+      "size": 10010,
+      "sha256": "26f1f590c055c11ba7915e532d6b9e4e19352e487eafc1fc0e1648cbc5988838"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000316.jpg",
+      "size": 9685,
+      "sha256": "961262eb75053a34e7ac9fbb5b14bafb27b8bc6a85bae9f64c2a84148c8496ec"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000317.jpg",
+      "size": 8676,
+      "sha256": "54c86aa606deeab4479ca1f991caeeba2152239b1d6703827253e32faf436ee5"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000318.jpg",
+      "size": 12032,
+      "sha256": "7ea9c0344951817c97537424106cd8cc6805d3a75057c1ba7c187356ea07334b"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000517.jpg",
+      "size": 9601,
+      "sha256": "dffb5349ea0c9c5286894d979d52935efaacbcc345d66143403de031f029eb2b"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000519.jpg",
+      "size": 8830,
+      "sha256": "80a5e8b8c9150d6f113a6ef4ec9bd168fbc9d9fe9e765f4ee0082c08c0d63223"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000521.jpg",
+      "size": 10823,
+      "sha256": "5eed878ae16a63a4fb52782f5767ef06a5c56a9164b5192d6e9ccc5ac7538108"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000523.jpg",
+      "size": 8809,
+      "sha256": "040c2db1ddac87dc64c6ec5d31fe66aa10e80b1e9e3a0689335c2bce69c5ef4c"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000525.jpg",
+      "size": 12294,
+      "sha256": "b8f1dffbb5ac729af03f1c859099fbad4cbc6f0adc6a3f69fed01bb805b4011a"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000527.jpg",
+      "size": 10377,
+      "sha256": "8a7012514617b01b5150d25bb5bf309b6992f6b94653ea7c003a5045a637ec56"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000529.jpg",
+      "size": 8732,
+      "sha256": "0aecf03cc05e3345addba4f7fca3320b67c46e9c94028dac35c9594b8913eb57"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000531.jpg",
+      "size": 9091,
+      "sha256": "44864e42e0b04e91c452d8674d9fafac92a4bd3ce6fe3fabe2aad4f61f7ef06c"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000533.jpg",
+      "size": 9587,
+      "sha256": "3ab01daef0ee04eb33264108333c42a6b24abeebc70cf18c30371632cc8b0c62"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000535.jpg",
+      "size": 13107,
+      "sha256": "ad50220fa7bc10624071051ce72688c632ab326ae487e1eec59475e1c62e3a19"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000537.jpg",
+      "size": 11289,
+      "sha256": "080c0f4922921ceeecc1f06091cf3f855d03cb7f368b6ce2dbd8992d3543ac21"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000539.jpg",
+      "size": 9633,
+      "sha256": "b71b356ea463bcdfc99eef63b5b7558cb3521a0818149bfcec088704851d8503"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000541.jpg",
+      "size": 9677,
+      "sha256": "8253e68a33e735387c2307f085adeacf0f3f9e6e1360f3dfeeea06b5dd0d9c43"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000543.jpg",
+      "size": 8551,
+      "sha256": "d85514ad98f538a14dcd42ca7309ed68f6d5cfcdd2190bef3eb1a8bdec9b42fd"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000545.jpg",
+      "size": 11895,
+      "sha256": "07b11773796105ffbd494343aef5176ae0fe5c33cc7e80ef86356ad131f7b23f"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000563.jpg",
+      "size": 9427,
+      "sha256": "1e67b127e40b864d3587ec7fa3e1993594ff97744feaf003c457683ca4b68ee2"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000565.jpg",
+      "size": 8814,
+      "sha256": "de7ceb2c35127f390b46e9a1f9861a864685a08e4ac50dc89bb37554afb61b74"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000567.jpg",
+      "size": 10840,
+      "sha256": "1f14d4998bebc8c895e9b77f89acb514cc4da7032029b9e3159e0dba88f345d7"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000569.jpg",
+      "size": 8829,
+      "sha256": "662d7608759acb21869c6256d3c0cbd59d8b1e51ba957513874f545213d7919d"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000571.jpg",
+      "size": 12242,
+      "sha256": "d09af8f00d7625052b739bb06df9ede2c528f01e94a9a06b6b2567990646e0a9"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000573.jpg",
+      "size": 10412,
+      "sha256": "ffeeb89393576e52819b7536eb2253c26b9c180296d108c15203fd4119185818"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000575.jpg",
+      "size": 8755,
+      "sha256": "d9cd0410481e432a4175071f18290195e826f8ed51f81071e8ac73891cb83de3"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000577.jpg",
+      "size": 9105,
+      "sha256": "223c1e00e5b9b8a7cbadd17285480a09ad8ad92fb3188c5953c5bc3ddc47409f"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000579.jpg",
+      "size": 9603,
+      "sha256": "cbe8a3034a914ffc95b6b1a38a599b50c7a27aeea9520e558d37858c45a14b3f"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000581.jpg",
+      "size": 13104,
+      "sha256": "8fd1a9dc43ec6061c28b70cafa4b5a3f60ebd82896cd7797c9a41233c02db039"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000583.jpg",
+      "size": 11129,
+      "sha256": "aa240dc635598a5c8a3395b82ee7892368142fb3da13ae7b3ef708a4a36597e9"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000585.jpg",
+      "size": 9521,
+      "sha256": "10ff9533eb81491bccac65e98605c2f8e542c556033bd8ae4312b4e9e151400c"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000587.jpg",
+      "size": 9649,
+      "sha256": "7eadc45b3648dec2302c4b922f0d12dd08f01e915a205981b45e6f963066e159"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000589.jpg",
+      "size": 8475,
+      "sha256": "192bf6b3296ea172136e5f1d9582d82e0ff9e24c58c1a37cf361263788cb2e29"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000591.jpg",
+      "size": 11632,
+      "sha256": "df790a7ba03c3a88a26cad786f60af10a123768bbb2a0e3fa3603d80405d5e30"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000604.jpg",
+      "size": 9122,
+      "sha256": "cbbc4c6fc98b4f5d61aa136667075f4a753f13967f08d12b6c700f7b16bef036"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000605.jpg",
+      "size": 8823,
+      "sha256": "c341dcbe5b25520816311645eecdf489441d1fc562582c810ac41ac4ae0e3fad"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000606.jpg",
+      "size": 10833,
+      "sha256": "fce0626277b3f0140af03d38167247bf8902425004ca5d84d19f28605c4928df"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000607.jpg",
+      "size": 8829,
+      "sha256": "8172e22e68998ad0a737680e9cc4185f6e2e220a423a08a9fbded8e6b6a5fd29"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000608.jpg",
+      "size": 12380,
+      "sha256": "a68973d9664af3d8d0bdf6fc9594bd550833ef274d4e9682b8f8173fd947457d"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000609.jpg",
+      "size": 10359,
+      "sha256": "90294f24e865a090a2fc6a23c2b2683adfe043f718da637624713d8578c40e65"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000610.jpg",
+      "size": 8766,
+      "sha256": "9be00adbf0a9dded8fa02882017a1721455d29ed3bd0200fb3437c60ee32ba7a"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000611.jpg",
+      "size": 9092,
+      "sha256": "6482c771f6a11074a3b941cda1ead24c6ac07835aca2afa8540306a3263a290f"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000612.jpg",
+      "size": 9678,
+      "sha256": "dadc64f1fd58f2a9ef5a5b6ed565a89c1416d15940c5c515a82088989a9b4b9c"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000613.jpg",
+      "size": 13100,
+      "sha256": "36c66a47777134c8f3f18eb28a5ce20f1ed7184328e96d365ed3b25b565ff8a1"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000614.jpg",
+      "size": 11038,
+      "sha256": "020c2af772a3527994c435ffa36055ee965bdc5ad268925648916888a6398296"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000615.jpg",
+      "size": 9540,
+      "sha256": "f9cd9b6d447d6fa7395cf085c36c2329f100f790b45774e741daf2ac6926dd8f"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000616.jpg",
+      "size": 9574,
+      "sha256": "c3c49403f3e95a01aaba5cc6357355914c066b6087cefb327b15d33f7e2d8b11"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000617.jpg",
+      "size": 8333,
+      "sha256": "70973d1fd90c35e93e454bd9463c9c4ca69cbd657b3eb80022d60abeb4506e51"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000618.jpg",
+      "size": 11415,
+      "sha256": "fc9ff5cd7c36020735ab5377fb207edf92ea123bdafae43d15cb9258ed5d9e4d"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000627.jpg",
+      "size": 8927,
+      "sha256": "31bb577290e6242a85a64b44f8183114c95ed2ead2be1c55d5db20b98cc632e2"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000628.jpg",
+      "size": 8834,
+      "sha256": "3e7a4b82092ab010c1c45d85ad6f1b87863198e1c943eb5b17d88ed8184d0a41"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000629.jpg",
+      "size": 10957,
+      "sha256": "7f604999d52bc560cb4d5d6ec622c8da32185cf9beffcd8094b3476eb5ea5267"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000630.jpg",
+      "size": 8811,
+      "sha256": "e69e779d49799ef2cd858caad933164e07a8e1adb64c5448c0b729d9d3851621"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000631.jpg",
+      "size": 12521,
+      "sha256": "00140a13bf1cb8a40ddf38d43cd16a6ba2fdeb63f99e2b08275e94b71c34bb9b"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000632.jpg",
+      "size": 10446,
+      "sha256": "6e972b12ba49dee2dcd693b82237c00f56d69dd70bbec64b4a57fae615a969b8"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000633.jpg",
+      "size": 8789,
+      "sha256": "3cee7882d6cfc7b542642f2ccef3027d4a06635649b374f3e255213ea8858ab4"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000634.jpg",
+      "size": 9120,
+      "sha256": "b9ae40e828c7613911c9ede8b2bdd996d6c7a181c0538e57dd4b618cac11f7e1"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000635.jpg",
+      "size": 9711,
+      "sha256": "9428edcfc3d57cc684d3b06d4e3c6fc59d34b8271363d73f4f9f37e9fafc91db"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000636.jpg",
+      "size": 13185,
+      "sha256": "b8de101f8a51b72d5890549d25854447f4667c5564c5798f2efb568fee7afeef"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000637.jpg",
+      "size": 10970,
+      "sha256": "4b4a8b6bfba940b9e22277ab99c000a91a3163b95e12ac0da07ad98325f1baef"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000638.jpg",
+      "size": 9582,
+      "sha256": "c869d726fb1c746eb114e0a0f6f461e1357f7401839559e1537d4f225dde2951"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000639.jpg",
+      "size": 9613,
+      "sha256": "533c2260f44467b07c626153dd2c18023418e07e70213db126999c661644b0fc"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000640.jpg",
+      "size": 8302,
+      "sha256": "36e90c78fa0d637189b7de7d8639c41eba4f3e7eaac7f272644b78791b20d11f"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/cloudy/000641.jpg",
+      "size": 11311,
+      "sha256": "76ced376175f43efb2851ba3b419d3582ae8cae64f4aa81c67b16b774b679356"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/rainy/000002.jpg",
+      "size": 12111,
+      "sha256": "093b11054ab8155b11f09b746a49b7469de043e58d082378fcb3c9059b45633b"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/rainy/000005.jpg",
+      "size": 8505,
+      "sha256": "8ce90dded536bf4da4751d2ed25f31c4289ebc1d3d69f384f76d269b44b7baf3"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/rainy/000009.jpg",
+      "size": 12110,
+      "sha256": "88bf1e70d3745e6adfe96dc62b3197326707f0863997ba3cf76b770e5c764ff3"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/rainy/000012.jpg",
+      "size": 10742,
+      "sha256": "e34a2a247ed7908844df1e283cf8ac7757f5d80ab5ece0fbcda183dc1c1e861d"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/rainy/000015.jpg",
+      "size": 12754,
+      "sha256": "c0e4a3d7cf63fa139ca90fa487967627618eebe8be66bc40bb2b5934051d63b9"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/rainy/000054.jpg",
+      "size": 12182,
+      "sha256": "e466d262f806f480645d38554be23ed4f42cc41ebcd924e0919938e8638f441c"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/rainy/000057.jpg",
+      "size": 8277,
+      "sha256": "f7813e9f3c906ab2217c5bbc53c733259f0ade84f7440a98a49519b5df911131"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/rainy/000060.jpg",
+      "size": 12003,
+      "sha256": "2100bc2bd6afcefef66cdfb16788276e542a2667b012abea0d5cec2cde63d619"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/rainy/000063.jpg",
+      "size": 10426,
+      "sha256": "f6e2b2b391ed188252f92d3d7c2699092c93ca0c1419d0222f09c230bc2397a6"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/rainy/000066.jpg",
+      "size": 12906,
+      "sha256": "36e4047896e990d941adcb143974215c42281f2a0f7ee655711950d65cb15403"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/rainy/000247.jpg",
+      "size": 12130,
+      "sha256": "8aa06d65f42dece25f90cc6258e764813af943feee9ad527c2edd84ccdc99637"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/rainy/000248.jpg",
+      "size": 8146,
+      "sha256": "8177278491dcc047b46c899b7ec9980c9d7386c19143695c69db68c20a3865af"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/rainy/000249.jpg",
+      "size": 12045,
+      "sha256": "f1de3e338c010642815ecfce5184e2b4e8447d7f6e1921e0ba9081a2043a5f30"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/rainy/000250.jpg",
+      "size": 10384,
+      "sha256": "44f099a42cf09a4e2620309a26ba4f8bf01027136fa4a002da2c9767f7253158"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/rainy/000251.jpg",
+      "size": 12947,
+      "sha256": "f250703047d238ab35a8a6f7169e1d027a81119d8ccef96d5f81e9384b46448a"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/rainy/000270.jpg",
+      "size": 12162,
+      "sha256": "fa3fc98af40bb55224ab42cd6cfef699922304962e22b4ad686f15a332822ebd"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/rainy/000272.jpg",
+      "size": 8111,
+      "sha256": "e9822858c634e4272debfbbbd8e8a624859af86ec854c0c358fd4c0de58ca48d"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/rainy/000274.jpg",
+      "size": 11936,
+      "sha256": "071d4c4c19a1d38b13e1a47ccfd27760af6cace56f3c21262fcfea0fc6c19dde"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/rainy/000276.jpg",
+      "size": 10464,
+      "sha256": "766f70d704c1eb82c7502ee064be21315bf8a4a7b76772cd08a55a5ef4d904de"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/rainy/000278.jpg",
+      "size": 12910,
+      "sha256": "81c9d4321d8edba8e97abef256bec6e73099476353c1b7068ca8e4679c8f3d4f"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/rainy/000493.jpg",
+      "size": 12192,
+      "sha256": "f4506972d6494e39a8a53a08ff3576869462e9bfe821ed8bfb6790dae44ced11"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/rainy/000494.jpg",
+      "size": 8023,
+      "sha256": "945396f545c8989838a96deece3bb417ff252f7bca9a38dc1609488a6328d561"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/rainy/000495.jpg",
+      "size": 11838,
+      "sha256": "e1b562a312be0295c39184c1dd71131e4ccaf84c3f9f123c1aa264b163ee8bf3"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/rainy/000496.jpg",
+      "size": 10315,
+      "sha256": "bad6c83148997264fe39bc0d869d63edd75810e9ed037600943a559cb4cc0fe4"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/rainy/000497.jpg",
+      "size": 12969,
+      "sha256": "fd0c936ca0fb1d5617a45b560a44cf6d0417488a48780e40403c7374d4351556"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/rainy/000510.jpg",
+      "size": 12242,
+      "sha256": "e9dce5c8e81dc769942efed5c13d0c78e3a7013b5984a81feeae2b392a91253a"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/rainy/000511.jpg",
+      "size": 7977,
+      "sha256": "b884585927d455d85e991de016844bf3f0222331766596e3efa26e3dc433649d"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/rainy/000512.jpg",
+      "size": 11638,
+      "sha256": "ea6497ed0a631bc0b5bfa4f9a02d491428e0bc8e65e46da22973498e9cbeade3"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/rainy/000513.jpg",
+      "size": 10103,
+      "sha256": "e52d925999d5a5258b271073b2e99aadd2286b882e2da514b7d413f4c8ccc558"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/rainy/000514.jpg",
+      "size": 12835,
+      "sha256": "53ad48b2748c64b7db80ed5726d1117fd945b042be12da91b901094c6409a583"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/rainy/000536.jpg",
+      "size": 12198,
+      "sha256": "af60f16aa222d502f13efa24818910eb8b8a441fface89ef6ca9d4ca0de6b58f"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/rainy/000538.jpg",
+      "size": 7914,
+      "sha256": "3b3cdc02a29e299495e403b0312088dc193f3894f28152038f933f03a53b2fc7"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/rainy/000540.jpg",
+      "size": 11607,
+      "sha256": "22cd902cfc9180b6a637ba431ffdb3a5e540a7ee78063fb98be006a802031512"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/rainy/000542.jpg",
+      "size": 9946,
+      "sha256": "86d0f1301149577014b99f874dbc0db89a0f162bc5bff263689824e2e37fe73d"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/rainy/000544.jpg",
+      "size": 12755,
+      "sha256": "832d04d6c5874a556099d457caa53fc75e4a310324682a451c171b1e901f2149"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/rainy/000568.jpg",
+      "size": 12227,
+      "sha256": "faa960bc21f6fe78b6e6ab76420a0f026e01fab91a16ed39dd7b7b96bea60c0c"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/rainy/000570.jpg",
+      "size": 7857,
+      "sha256": "26b642a4a6a9228b23daa92369fdf365050a4d07802c50a67ce88ec9e8cd91b7"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/rainy/000572.jpg",
+      "size": 11562,
+      "sha256": "bd524d30d98fcc46b2f532b192d126287f2c87f81e526d2491269e79a9e39312"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/rainy/000574.jpg",
+      "size": 9815,
+      "sha256": "120aa7d293e7764f3a3af429cbbed0a08f33d98921a95af97133a2bacc7e0a60"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/rainy/000576.jpg",
+      "size": 12884,
+      "sha256": "d80f0cf927831f6a7aed0426c05e16c8a74c7066ffa8b96296ae1b1fe7fe51b7"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/rainy/000982.jpg",
+      "size": 12124,
+      "sha256": "e8c4d87a0b6e5ede2143ab5d36857be3ab8273cfe2e38af32895d2f49e9d1c05"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/rainy/000983.jpg",
+      "size": 7793,
+      "sha256": "0a2f4cca204cb99ba5b86f27a4a6048cda3ba94811d29385e39a5bd5a66a91e6"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/rainy/000984.jpg",
+      "size": 11581,
+      "sha256": "2171a2b85c63197bd325eca4bf61422b23c31ebc164f8002e469b68a54d5b5df"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/rainy/000985.jpg",
+      "size": 9769,
+      "sha256": "2d8a66effc59ecdf533185918581be8447bf15210f0ae37cc8b45a4d305101e4"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/rainy/000986.jpg",
+      "size": 12742,
+      "sha256": "d4f25409ea615ec923f8c8525a8ba1a5290fb6cd6823e9e6d6eef758dbea4933"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/rainy/000998.jpg",
+      "size": 12214,
+      "sha256": "cdde5546411885d4e087ae0da090ae67fd134af12f284bf25fc4432a18caf5e6"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/rainy/000999.jpg",
+      "size": 7726,
+      "sha256": "b1bfbfd34b397b69f365b3e089306753a5d1521c7a7e52e21791734d39538caf"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/rainy/001000.jpg",
+      "size": 11596,
+      "sha256": "b42194a2037b2428e03937392d0f1845751966288a5477a2eab40997fcaacb98"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000001.jpg",
+      "size": 11999,
+      "sha256": "c8ea797e2996c38c499d4f31ab078c301189301e363317579e05e3d77f306fab"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000004.jpg",
+      "size": 9141,
+      "sha256": "2b9b25ff889b9112f64b966bb252807873af51a4ac8cfacee818d7625f9d89ce"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000007.jpg",
+      "size": 12652,
+      "sha256": "e93efd3c409d93399b4296f4ea756858bfeef1994cdf7496651710bdf45942a1"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000010.jpg",
+      "size": 10628,
+      "sha256": "58646e6e3fa01ce646ad24d20934f4c33ac1fb249ff97aa14217dc905881ddb4"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000013.jpg",
+      "size": 10267,
+      "sha256": "73e3d4382d694017db1ad1fcc207850787bbd27e6050171baba25218b02a2008"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000016.jpg",
+      "size": 10897,
+      "sha256": "8c2c9cc31ad04771a439b957d62e4bc46248e17d76dff57cd89e81b1bea65aac"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000019.jpg",
+      "size": 13012,
+      "sha256": "cc3444c154e911c506089cb218f67493de5e624f34f17ec6360091d1f696c9af"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000022.jpg",
+      "size": 9139,
+      "sha256": "c81e2e18a1dde29005a053bd6123c812215fa59db71ddc08f03cadeef30998b3"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000025.jpg",
+      "size": 8745,
+      "sha256": "04272f50a5d2fa3dbb1fa2b34d4405d5169266fabd8de3b965e36d44c1be9098"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000028.jpg",
+      "size": 10764,
+      "sha256": "8cd00db779abdd1be7b0bdca76060c3e74adb0ed1ac8f13b36bec4ddf9f399b3"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000031.jpg",
+      "size": 9226,
+      "sha256": "d0b324fefe9651b7a42e22641925f8eb754a4f1156f09a287addd26b166e8890"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000034.jpg",
+      "size": 9375,
+      "sha256": "f8c7594145e2c78b62ee86999798bdab1bc05cbc12dc5c886b8ee8fa9f61c9c4"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000037.jpg",
+      "size": 9956,
+      "sha256": "4a6b0a2b4ca598572834243df3d4c1109bb46134126ce05d70f89608547aa757"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000040.jpg",
+      "size": 8100,
+      "sha256": "ba95e5227da6cf0b7e1337a35995f7841fba6d3de75578335cbac47f2433eeeb"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000043.jpg",
+      "size": 11139,
+      "sha256": "506f7e7325f42781229577163d1610f2536e9ea4f55b984a820fe09e8974a6bc"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000046.jpg",
+      "size": 10894,
+      "sha256": "9066aee9dc230dfc1cb333b818cb6ef5a8808dff2c7726d256f3dae49f8eb4c7"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000049.jpg",
+      "size": 8659,
+      "sha256": "973c48a041fab2edfa42f65111d7338b55826bdf39c727900f094158edcb0577"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000052.jpg",
+      "size": 9415,
+      "sha256": "a0dc838ea7cba87b7a939f6e3d3d02ed20b804a6e285cbe0045d937e2d2f3f25"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000055.jpg",
+      "size": 12503,
+      "sha256": "e701bdf1cd381b32f1a15238473e72b34ee349611d0cf48472d8eff752f50151"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000058.jpg",
+      "size": 12593,
+      "sha256": "7c0cd1f873593e6edaec0828c809fe47ecd5c2ebf3d5bf82cd2236971f198a7c"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000061.jpg",
+      "size": 8667,
+      "sha256": "1e18ab702c61450cc3df81aea71db683062a18fe52ba8e08142f70440a3ee4bb"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000064.jpg",
+      "size": 10509,
+      "sha256": "c41f53ad1ee9254e1cc27a7c582a03a4ba0c6436449a5b594b460f6f4b630f3c"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000067.jpg",
+      "size": 11855,
+      "sha256": "b749e9c698bb454b7fa32789ad6c070abc0ba07943388f1d04aa856d9fe6f2d0"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000070.jpg",
+      "size": 9060,
+      "sha256": "d0560d18a6c2c5358f5dd01d539c595a213f32a3186f1448357b9bb9f5af5175"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000073.jpg",
+      "size": 8116,
+      "sha256": "4e286146db0770e49e5e529ebf20469dd8597c4eb128ae15da7ad07515394174"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000076.jpg",
+      "size": 6937,
+      "sha256": "2901b142e416d2398df27671cc14965c343529394212df6ccbe6cbf018eb00f0"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000079.jpg",
+      "size": 11080,
+      "sha256": "81bbd262ee19054f1f9ed1f5dee3ae5da9eb2dc1a667398dc751e67338ddcc0e"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000082.jpg",
+      "size": 5824,
+      "sha256": "c598907aa14ccb3b029b32bbbfa184bc136f0438e4b11b35d4b5ee50d0937357"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000085.jpg",
+      "size": 4727,
+      "sha256": "5facf8066cef79a3f1031b633493c9b347cb07f3360da7a18bde6fd831a3e216"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000088.jpg",
+      "size": 8691,
+      "sha256": "e402f5d5c0544ec06fe48025007b76e634c9e22d9959ca30961ff1e6cf59ce06"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000091.jpg",
+      "size": 10138,
+      "sha256": "aada55e3fdbee59d856af27fffbf02ebcc2bec9795286166d61476525972d95e"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000094.jpg",
+      "size": 9352,
+      "sha256": "7eec7c1e713afe464ba35b16d2a1c06f902403a6d0f4019ccb0ceac588e8519d"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000097.jpg",
+      "size": 10569,
+      "sha256": "323afee3add73fc005dc7dd69a394ceb45848cc84f9bb55d964bdfbdef5a1219"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000100.jpg",
+      "size": 8852,
+      "sha256": "64cd2ad88822f58ee8f54a9dc8228e75af5cc08ac49b85eaf836de1909dedc2a"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000103.jpg",
+      "size": 9893,
+      "sha256": "8b0db24f4101e83022382d7ed3eb8715885ba991cb4413d8c6a3863819486b55"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000105.jpg",
+      "size": 10099,
+      "sha256": "fc47762c4fe132a908522d6a08e6fc2faaeb20eea27e1e5113484d8e774b9baa"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000107.jpg",
+      "size": 4785,
+      "sha256": "4ba7c0d57c7b74a3b04e12691143a3ba644cc74adfaae0ca6482e562825240cb"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000109.jpg",
+      "size": 13138,
+      "sha256": "d8484df12a3732a0467b8c79e960d27b68b01ddd22bcf42148f45f2b98467a4b"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000111.jpg",
+      "size": 9174,
+      "sha256": "6dd84bc54bec9df467320d6d2ad22260d04e122f243ef0bbf8f4fca575d746bf"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000113.jpg",
+      "size": 10878,
+      "sha256": "21494bdd9707331848b7b111e3799ce24d0e72b28ea8f928bbb240e1d33e41fa"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000115.jpg",
+      "size": 9062,
+      "sha256": "0b1ab636d0784cb987c0ba6e4c7175267ccfef14fd282f49dfddbd48360b2835"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000117.jpg",
+      "size": 7297,
+      "sha256": "4e18d2db5f5cb085f490bf237220abb684f91bd1c17ceaf2e1ff4f6170a40b32"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000119.jpg",
+      "size": 9204,
+      "sha256": "692775032aa9f6c9a4125bb706b451270f8b0498464e69e57c3be570cf26ab01"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000121.jpg",
+      "size": 10282,
+      "sha256": "266e4d31c0833508e15eb1adb6cf1155689733a51d3f420063d3755e7db1b185"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000123.jpg",
+      "size": 9962,
+      "sha256": "baddbb2e3901b3fd0bc59a7e7c812d393bb213966c07ab7192f924202ec06381"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000125.jpg",
+      "size": 13054,
+      "sha256": "213b3a48420a992866caf9d865c41240255f3a0483f520b7611e7b66e3e8b9e1"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000127.jpg",
+      "size": 9611,
+      "sha256": "39f03f6328d0ef64cb5597e35a3ba27b4a1b9a1af0fa9d9cf6bc7d1755846407"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000128.jpg",
+      "size": 7194,
+      "sha256": "badf1df06e61f84d09be6d4e0ee56a18bcd44a6766a92a773dadc7eab7d814f0"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000129.jpg",
+      "size": 9719,
+      "sha256": "1cea003197396ab248eb24f754bf37ec9e76cd4c2a03f05592c89de5d30ec4a8"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000130.jpg",
+      "size": 9134,
+      "sha256": "b0c8fc82eecd13939a8e07f36c8014f33c79de8702d87eb8c0c25626e8f1b5b3"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000131.jpg",
+      "size": 8763,
+      "sha256": "658c9b5ee1ace8e780c5e7c08bbbe72cffc372f82719994dbdc1c4a8da92bff5"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000132.jpg",
+      "size": 10177,
+      "sha256": "07fbd148202434da1bb7352ebaa5349fa7b7f94e61da37f0fa174c20b31ff789"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000133.jpg",
+      "size": 9243,
+      "sha256": "20b0e7e4a273bf99a38cafba6562e3fd4e4a76b493ad44caf2bfd4e4d6875bb4"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000134.jpg",
+      "size": 11351,
+      "sha256": "ec9943a9947311b220f6e2fda94b96e0891d763d31ba1bd5761648f1055e6913"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000135.jpg",
+      "size": 11017,
+      "sha256": "9b2e7f940b065bb2a05a100444ba22aa5153bc937ecd34beb3a6bf2990187708"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000136.jpg",
+      "size": 9056,
+      "sha256": "c806c060ac04bd42d0749c5268274e9a5000494107c413bb645e80785852cbfc"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000137.jpg",
+      "size": 7649,
+      "sha256": "f67af5f7bfb79ac84c40ba2a85ae45b83b86a61e3e1012d628f6a1f8cfe54a79"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000138.jpg",
+      "size": 9095,
+      "sha256": "40f7ecab2b24977bb38405a23c16a30ea7c71c03e9333e6bbcbc5f3bc4cf9a7b"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000139.jpg",
+      "size": 9813,
+      "sha256": "be0e1e6eb67943043165b413d326e513c39b1a76c5704ccbb902a465f9a9e066"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000140.jpg",
+      "size": 9358,
+      "sha256": "402ba3017dd3530f9b9ac56667f49b86db3d5a9c32077c547a5afca8d31f4b1c"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000141.jpg",
+      "size": 7922,
+      "sha256": "d8e92b61fdb56259b686463204294cf41598a08cd3811e2875c3ad3b86eedad7"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000164.jpg",
+      "size": 11859,
+      "sha256": "2e81cc8a95f5981acf0d94850cfa9aab73d69faa130a13344129faa373e9a871"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000165.jpg",
+      "size": 8958,
+      "sha256": "0ebeb882b5f066f51bd062a8ff9164c040b5f2e9244f0369414fc2f09795fb33"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000166.jpg",
+      "size": 12796,
+      "sha256": "51fe37f9041175d0483c2843516624e61c7c4326da0a83b2c0f2995009eae9e0"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000167.jpg",
+      "size": 10762,
+      "sha256": "f365b40450f52c2d5183151c30da1290ec104c7abb62aa335976c9bb4ce42287"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000168.jpg",
+      "size": 10353,
+      "sha256": "46c5fd4306857be7e81bcc7a6e27f291b0ea5c34dfae43074127de0d345cd1e9"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000169.jpg",
+      "size": 10722,
+      "sha256": "39bacd6ea5cb773b32f6832b6cc8c4381474933bdcb4a363598babe98b0f6852"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000170.jpg",
+      "size": 13005,
+      "sha256": "c04196ae831d07a4e227d7e65e7089c9d866148bdf1b2632029c945122190b07"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000171.jpg",
+      "size": 9117,
+      "sha256": "79505d74a814c4c651f4e1cd8fde05585b0bef98b8a74acf7dfd929f571b5663"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000172.jpg",
+      "size": 8761,
+      "sha256": "7b1a034e6651d108c4b2cc2eedf0f9c53a075d151a5d5db94a0ecf928c568396"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000173.jpg",
+      "size": 10673,
+      "sha256": "72a17ec18d7c0aeb4b87f50a5773b7b8c46826c18929795cf1df977b7c48087e"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000174.jpg",
+      "size": 9248,
+      "sha256": "c851156fe0cdedffa054ca5c6d15971f8b9719d894182bf0746fea81c65ebca2"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000175.jpg",
+      "size": 9478,
+      "sha256": "67a72de795dd1ade866cf0b64cdc9da7f14e9e2f24695137e8ea3814dc05589b"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000176.jpg",
+      "size": 10007,
+      "sha256": "d9a57365581b75e5383d35db512fc7c36b1660bf9b681b1450076b63ea0b2ac6"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000177.jpg",
+      "size": 8071,
+      "sha256": "2be26b884a4c1595cce350d0807ce8e7cb1ec0a303b8fc01bfe20477fefa2053"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000178.jpg",
+      "size": 11022,
+      "sha256": "1d5f89c95251f06b852c77cb049e66860d83421279481e2eb401f2b7efb80a2c"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000179.jpg",
+      "size": 10814,
+      "sha256": "a5e2d4eec80a2d00bbb37acd69f6684fd5a17d3583165b74d201e14819e7b3c8"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000180.jpg",
+      "size": 8673,
+      "sha256": "68aa4edfcbd737432a353db731b114bada2587d29f8c725e88d68a498e408695"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000181.jpg",
+      "size": 9473,
+      "sha256": "a1d6d1592f69c5cdb083c584b7acdb8b55141be33bcd90c1e40ab339d7828ab0"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000182.jpg",
+      "size": 12503,
+      "sha256": "77b295bde52fd438d13c9d1392589fc2e2735ef859bbe3b3d86be8b9d1bc4eaf"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000183.jpg",
+      "size": 12585,
+      "sha256": "380f2fa0f48bdc714a8bf52bebdd891b29ab825f1f7d4de30bf445663a1d3ce5"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000184.jpg",
+      "size": 8732,
+      "sha256": "056eb170309136c0e2f2fe7571b3120dcadac5c4154f74bb24f00b6e16074fdf"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000185.jpg",
+      "size": 10475,
+      "sha256": "46c546ac1915ebf670b9c53d5e083044a8d81a2c75fab9c1cd960cb08fb2a89e"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000186.jpg",
+      "size": 11421,
+      "sha256": "6c6ec2376bda4bf738259b4e431c0dbab72e66f49cfa51daf679d2148deacf56"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000187.jpg",
+      "size": 9029,
+      "sha256": "9d046995ab52f824dbbe9aceea3b1f1cb21021d3ff6b234e2c46c6fb72e04086"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000188.jpg",
+      "size": 7867,
+      "sha256": "63b062a2f0c83778c86ced49d6248ffa560a94f556f03d2bfb4b023c46019330"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000189.jpg",
+      "size": 6837,
+      "sha256": "6460cc462509df7e8f336829dd62b4361b8cc945f923d890401e742bbd4b7fae"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000190.jpg",
+      "size": 10509,
+      "sha256": "a0f31871cbed0890b4fd42d4c0b0d1bea74bbedf3df122da30c420a9b5744ba8"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000191.jpg",
+      "size": 5800,
+      "sha256": "f4f9c2392ca2774595a82dbd892230fd9896eca66f1e345418eaa9392f7b9248"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000192.jpg",
+      "size": 4773,
+      "sha256": "dee6bab35652f1720e68c9888e2e363d5ff920a696b02d45834d8752ec6a975a"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000193.jpg",
+      "size": 8665,
+      "sha256": "92314aa6b4135be69d035c95b62dafc85438881646252f7551888aaea96137d7"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000194.jpg",
+      "size": 10078,
+      "sha256": "9593e0c0e9ff7efd66d2758f0502b9ad2eb6e03d6927fadb511cdf6aef812180"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000195.jpg",
+      "size": 9394,
+      "sha256": "79cb0623891ade501a78ae01c03b4a36282e25052880083bc4664bd9c0c742c1"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000196.jpg",
+      "size": 10573,
+      "sha256": "6b91f97004f714064c27f82ec374ddf36397d6cbef58a75afad87eeb934c75db"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000197.jpg",
+      "size": 8831,
+      "sha256": "886c7e03f3149b85e9d9cad55c31f2e0d7da678b0c34628e9ad5c05d0054a004"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000198.jpg",
+      "size": 9894,
+      "sha256": "9423dd3b53a596495811ef70a2db33d714394708c511eda3d1b33349d53be275"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000199.jpg",
+      "size": 10058,
+      "sha256": "16fb902da2ebb44e074ff2168d55712eb4720d70fe332d9c71e06bdb05a09f47"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000200.jpg",
+      "size": 4783,
+      "sha256": "e76cfa221c9177ecbb927ce748e731272a2fdee7df6916a35c68c0bbc8976264"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000201.jpg",
+      "size": 13393,
+      "sha256": "256411b27d1924811d4c878952bc8b51dd8e49e3281560205da0faeafe861197"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000202.jpg",
+      "size": 9148,
+      "sha256": "d2f87c2a53e436b1d2d4e3d6c82e783793e51dc84dedf3af9484cebe1549d501"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000203.jpg",
+      "size": 10942,
+      "sha256": "fb2c9329322060f0291601a13cc189b5eb2ee8138ac83888bc112075d956b506"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000204.jpg",
+      "size": 8991,
+      "sha256": "ae6280e3132bb06e0e7c2946ca94f74d709b6a41d1a1a8a728db60b0c371eebf"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000205.jpg",
+      "size": 7223,
+      "sha256": "80e5fcf5a950bde41f66cfac9aaf1f1dd9b3db7ab58daf0d343e203b67525ff6"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000206.jpg",
+      "size": 9094,
+      "sha256": "95c3850055330474e36bf3da0cb39e8b330d8194d7d480a0e25a3ea0452434dd"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000207.jpg",
+      "size": 10285,
+      "sha256": "9c6613e2c9b45ebf073d151145affe8886afefca51ebdcb194a307be98ae8870"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000208.jpg",
+      "size": 9989,
+      "sha256": "b45e8bd10e1d33477010dd890ae70a8d5d30f6e7c8a28392ca0e34076eb5da4e"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000209.jpg",
+      "size": 12938,
+      "sha256": "86596a1a1b446f8461d06ddc1a941a7385024916e3bcc302453ffdd8eedac723"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000210.jpg",
+      "size": 9855,
+      "sha256": "be5cc0994f52cb9badf41a6b6e93b567d7f92a4ab8774b7598692543a9f09eba"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000211.jpg",
+      "size": 7226,
+      "sha256": "cf6a390f5310f35a8c0c383e1571b682bb2c1c593804b462dd8eb509f2e0b9c4"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000212.jpg",
+      "size": 9741,
+      "sha256": "70cb059f00d4e496a05b5473c2443efd1c301535354d78390230e4b77025651b"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000213.jpg",
+      "size": 9135,
+      "sha256": "86ed67d2bd9a6cb77295bd5bd39320a1bbc24109ed13697bb1196da74e233571"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000214.jpg",
+      "size": 8806,
+      "sha256": "e85bcba17c582741c7d92611cb9c10840cb5ea54433069d60f3829d3b555085e"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000215.jpg",
+      "size": 10218,
+      "sha256": "b105535d6d391232c61a76e235165cdc81f03b19ac7c4a2e7ea4b01f32aae38c"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000216.jpg",
+      "size": 9251,
+      "sha256": "1073e2bdb99004451dec4bc46ae5fab42c904d52caeb329ccc0b82d05580d12a"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000217.jpg",
+      "size": 11375,
+      "sha256": "7486caca44f36b7d289a84ba7940de766d0eae988e7a599a8c25a4c1feea0f3e"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000218.jpg",
+      "size": 11098,
+      "sha256": "9c27bf9f7c43401ce2ba68bb69285f189a25c0ef88bce109467bc674acb5730e"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000219.jpg",
+      "size": 9017,
+      "sha256": "c8893350e0d3484b974eb1a12ec05e36d27b77fefde2c8174f69895b65fe9694"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000220.jpg",
+      "size": 7434,
+      "sha256": "f9eb7ad06131efb2393b63918948fe484c387bad6d83e835b0c853ac93ca78af"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000221.jpg",
+      "size": 9109,
+      "sha256": "710bdeff0709b0d2cce696a30f54ac142b1fe7a1868f9333d8c5378a6dd35dec"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000222.jpg",
+      "size": 9833,
+      "sha256": "14ab2e21657ec5da4d1d86efda659150f8754d4f1bb847c7fe0787efd5079d31"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000223.jpg",
+      "size": 9367,
+      "sha256": "7753ee28ecc506b10544a0e5a9066919b5dbc0295bcec773793415ce95674b45"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000224.jpg",
+      "size": 8002,
+      "sha256": "8131415713002d487a150b3be78ead2c1e0c67024a90672c39f149766d16c131"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000327.jpg",
+      "size": 11947,
+      "sha256": "afa73d0a66ce9e9730fd7e5f8d19034a6fb93d7a0a2da75f27a41c472bca7a88"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000328.jpg",
+      "size": 8991,
+      "sha256": "3cf595cfd837759111500f02b4d6fb486f07dddc56ebcd5adf959478ccec0d8e"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000329.jpg",
+      "size": 13013,
+      "sha256": "34deb3befbfae9e4088010a34758446aa581d60698440491032cd1a5f90edc4b"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000330.jpg",
+      "size": 10814,
+      "sha256": "8af45e37ad5fb0eda0bb5e733d5b449f36acac3a8aff7d0a822955b8ea8fea9d"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000331.jpg",
+      "size": 10521,
+      "sha256": "3d8766263f151c165a9f46112968c90d24dc9808d4a2ec5f189275d6de4de132"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000332.jpg",
+      "size": 10594,
+      "sha256": "6015a44411b9a85ef28eb3c286e7f17409e6fe50b8cef481052c4d58bbda5b95"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000333.jpg",
+      "size": 12964,
+      "sha256": "f9f0a7ff6a2ad870b7172649de4cca7d1c154bbbd99d8102238c7a2e0a4719a2"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000334.jpg",
+      "size": 9170,
+      "sha256": "5fe073ed43bf6643b027a0a3a4857eb18d5593d95f317ae251730d3a1f3b5857"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000335.jpg",
+      "size": 8778,
+      "sha256": "cae1b31bb32e295ec2a08bc5f2e55974b563b3f802ec0665e90e87e989e812f7"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000336.jpg",
+      "size": 10736,
+      "sha256": "2e59b0caf7853a6aad70c531a735749f7185b769cb0c6eacef7ce1257be39e85"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000337.jpg",
+      "size": 9192,
+      "sha256": "d157608d98d001134de0ea84be5b9332b1f1daa8e7c683ca39bc9a8dfcc13ed3"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000338.jpg",
+      "size": 9570,
+      "sha256": "ee46e66fdcebc21784ab86c344251375aa2329eff407a7f67bbed9a416846df2"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000339.jpg",
+      "size": 10018,
+      "sha256": "b2d59fb137841cf1a19fa01a88453300969d33d284a0603bdf1d8304fb466193"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000340.jpg",
+      "size": 8084,
+      "sha256": "e8e244cc85c8c9f4044dccba71a4ec75a5fc873958e0d01fe32272833839b19a"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000341.jpg",
+      "size": 10900,
+      "sha256": "b36dd4a78d3ec6aff2d5ade952e1fb03f5a3ff1b0ea76f11a2e44df5a81b5c5b"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000342.jpg",
+      "size": 10546,
+      "sha256": "7b74aed8ca6fd2809e1cd17beaa6135fc6e887751eb6baa64a17087e09c394ea"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000343.jpg",
+      "size": 8669,
+      "sha256": "48892ad87de974abded952bb61451ba4fc48980ba5401cfea860e2ede3d09ec4"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000344.jpg",
+      "size": 9591,
+      "sha256": "e504618bda1ceab6f632dcb6d4f6b4fd6a9633c909c122fe6ae897b7fc7aec18"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000345.jpg",
+      "size": 12286,
+      "sha256": "1d7b5b8fa57ed26320456fb5f1108b884edafce7db06488af42b87cb4393312b"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000346.jpg",
+      "size": 12400,
+      "sha256": "66303a84c0346bd068738df62cf98ba2f7551022f9b8a778a6c5fef8333deafb"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000347.jpg",
+      "size": 8763,
+      "sha256": "dce550530f75af17acebef0cb123d0a78f59a1be8d868c12c8cac5f8f85551b9"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000348.jpg",
+      "size": 10500,
+      "sha256": "8649265663f2f819eb4ff1f051b1948945f9bc344c4c38fcaf576a222f066faf"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000349.jpg",
+      "size": 11074,
+      "sha256": "17e8e7a105623e1e67258da3ffaf7fd0f6760a1561264a875646e94a76ee4d7d"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000350.jpg",
+      "size": 9020,
+      "sha256": "9c9c39907507a801c3c657a4f321da01f25872c59cf3883159977e53d573251b"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000351.jpg",
+      "size": 7623,
+      "sha256": "647c97c79e3a71b14fa2729cbdd92a29ffd40b8e7da94f22f31b78c46ca9503a"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000352.jpg",
+      "size": 6889,
+      "sha256": "05aedff92e75842324279b307c3a6d0ac7dbadf28a7610d33edc5922576f8ec5"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000353.jpg",
+      "size": 10478,
+      "sha256": "3c7e8bdf1698f4efa55d7a45844ddcc190d25454a0c9b767ea0e814572d8d904"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000354.jpg",
+      "size": 5877,
+      "sha256": "9ed8ee03756724cfd804956bdf7088ee002dd694c949e5f8e71399618a992d95"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000355.jpg",
+      "size": 4801,
+      "sha256": "e45df05ee46b6c739ce5a1417866b5d9bf3e2f7d0fde6e22388de02345b71af6"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000356.jpg",
+      "size": 8622,
+      "sha256": "3c8412a3cd439385443ad69ab66428df880c1aaa13924bdad754b4d3ae32cbb6"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000357.jpg",
+      "size": 10173,
+      "sha256": "f17d1d9d395bfaafc7e51e932845c48301f913d72053f8fc0162eea0a4530b78"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000358.jpg",
+      "size": 9427,
+      "sha256": "6a2f3e6624b3f6ffd42ca683983f69528f16ce583753cd4da6447b46f71fe664"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000359.jpg",
+      "size": 10620,
+      "sha256": "b86757ba5c50e592d9ea0f97198e839c6ec5dd16611071cad64915a87874224b"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000360.jpg",
+      "size": 8840,
+      "sha256": "1c0ba12ca2f9bd09d64f0f0363edacd26f8b23f7953f05292c5c8681fb998b57"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000361.jpg",
+      "size": 9906,
+      "sha256": "ede0bdde478c171bb2b2c5a49cfb52e7b3f4ed10be8c0fecdd08149a8d95dc06"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000362.jpg",
+      "size": 10051,
+      "sha256": "fc31941b2bf4404f1b2a4c5f3ece792a780d093e28c1d25e5403b650473f438a"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000363.jpg",
+      "size": 4767,
+      "sha256": "fa3e8c9adaa27a46892284109b450c03c80d56a9e78347efda01e791677343f9"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000364.jpg",
+      "size": 13758,
+      "sha256": "11e13bbc96e5464188e5468e000ef3d5720e28140ab464fe9aad6cc4d9d68ef7"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000365.jpg",
+      "size": 9117,
+      "sha256": "cea1375c36b591f70b729f97d73dc52841258c81e552bf8792ae9e380ee8527c"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000366.jpg",
+      "size": 10834,
+      "sha256": "90ef7b24a9f2afebb588b6dfc13620fa968d7e823bda0a75091360a8b3495e08"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000367.jpg",
+      "size": 8984,
+      "sha256": "5d58de70d666f2af3be063a2a2af4c889c115c4224763580066033a9ea9bd367"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000368.jpg",
+      "size": 7203,
+      "sha256": "f74b8349901025f3a41856123cd51232f8adeaf56943870514b01a09fc6d6b74"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000369.jpg",
+      "size": 9024,
+      "sha256": "6b8ca0597a0e5bda791ff52d7994774193c68bc58d0876c4089505af7050e504"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000370.jpg",
+      "size": 10233,
+      "sha256": "29580fd008abdc70c97976e272a161b60601fce0be30c7c98f09bdf0718b918e"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000371.jpg",
+      "size": 10010,
+      "sha256": "2dd198c44280e54ac77f23d58f89fed7b78ec47d3a6c1f9044218f5336a33754"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000372.jpg",
+      "size": 12952,
+      "sha256": "98c67945a9ffdd4df73b35cf35da18caf8db8381d85e2d500044f7159b8cfef8"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000373.jpg",
+      "size": 9907,
+      "sha256": "894f3c6cc52ea65e03dd69ac3a0c87a8b96df75b15a708d3ffb7ac452204716f"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000374.jpg",
+      "size": 7339,
+      "sha256": "4c349621b67219b0d5887fc036f3c802278562ae03f7872bbab6c07d87705c5d"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000375.jpg",
+      "size": 9682,
+      "sha256": "19500240f3f159a672bc9f397c093cdbc4a867ebacfad2c049a3d643d48c944e"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000376.jpg",
+      "size": 8863,
+      "sha256": "c1785323d29c077a227e2fbc89d26d30d781e4b02c01888b3f4ff598d9d95559"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000377.jpg",
+      "size": 8787,
+      "sha256": "8aba8e69df08cc9ea69ae3d30c3e44ded1cb5e08e60a8be7967dc2a86ea4f74a"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000378.jpg",
+      "size": 10176,
+      "sha256": "c56609681124809a103434234bf8943d020a5a80a72f1a12e8670bb7d7eb32d1"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000379.jpg",
+      "size": 9222,
+      "sha256": "b464ca5dec8fc3ff6ef0aa5cfcc369804492877400e1a1139304930c2518398b"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000380.jpg",
+      "size": 11239,
+      "sha256": "714d8b267de4271ec49be7ed7484e0f4985594cc57235ff78c009ccda9ff051b"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000381.jpg",
+      "size": 11088,
+      "sha256": "901d203c05d26e54f24fcfdec180782bc2f42a91d01c9bdada5c97e9e0cebcb4"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000382.jpg",
+      "size": 9023,
+      "sha256": "c692c27a76651a7e114ec975c97d1f4251f74a493c47c4cd57b66707a1cd4cab"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000383.jpg",
+      "size": 7536,
+      "sha256": "e4a8c0e2644c41cdf0f1da36d45b36a07b6b28ad55dc347a1bb52de3289ac676"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000384.jpg",
+      "size": 9085,
+      "sha256": "92f9201a31eeceaaf932f3a8658f1e9529ba7f8c86a0d046fb968e98115b7ad5"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000385.jpg",
+      "size": 9835,
+      "sha256": "92bac7ea084ff8822d92fe2cdb9c6dcf54909a4de7d36ac7f0383d0b64276bf1"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000386.jpg",
+      "size": 9347,
+      "sha256": "a9f8e02dc41fab48919f3ccc0ef178b29441fa0112a6de8db743f97fcd0d5df0"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000387.jpg",
+      "size": 8015,
+      "sha256": "9042bb682155dc92e158015731f39c3871ab274823f0a5758b58e6c7aadb78fd"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000410.jpg",
+      "size": 12134,
+      "sha256": "2caad0e40aa4dbdc8f1e7602b01e31a2e38e3da9cf87936a867615254ce262e6"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000411.jpg",
+      "size": 8988,
+      "sha256": "6e525e28717ce65eadb2279b2822d498e0f2759a323dd205882c491598d689e0"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000412.jpg",
+      "size": 12976,
+      "sha256": "56656c5f2fde8a7eda4d42308479a3fe88f7ab86920cbcf22baed5ff6fc725bd"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000413.jpg",
+      "size": 10988,
+      "sha256": "5d1a26f6fec0e073387e6262db15d602c2a91ac4a1b4e5d5218dc4f9371ab373"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000414.jpg",
+      "size": 10529,
+      "sha256": "1d6aa13fc716b0bad0cbedf2e9af63408e205c6c9017ece06f388ecebec286f5"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000415.jpg",
+      "size": 10446,
+      "sha256": "196e8fd327b8fdd3a84ad879e194e2da955015182902d483025ec47e3ee0f129"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000416.jpg",
+      "size": 12872,
+      "sha256": "1a37c188eba1eac674c6fc051ecdf8a02a86525a627182214c6c1956ce100d2e"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000417.jpg",
+      "size": 9190,
+      "sha256": "81f155a63403923b525c864689a2ddae019ef5412e06439feef84b9dabb04f50"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000418.jpg",
+      "size": 8736,
+      "sha256": "695671281f31c453b904b3f330a3df96858f53bc69191639402393f15e2f46f4"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000419.jpg",
+      "size": 10748,
+      "sha256": "fc9f720599cc65e2325e916b829726965374c93d17012036a7eb47e34f54c076"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000420.jpg",
+      "size": 9179,
+      "sha256": "cf41299faac711f2270e4a3e639b0ed77be9425cf71c817aa2407b2513c0e30c"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000421.jpg",
+      "size": 9678,
+      "sha256": "f02fe84efdbcc036c9804cc57039848f21a9bd9d4e1a30f0f83b88ac4642ea59"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000422.jpg",
+      "size": 10022,
+      "sha256": "0094a214516e292f6609f846d20f0e118861bc0f23c89af62d98813234850112"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000423.jpg",
+      "size": 8112,
+      "sha256": "7fea7c0cf1c4f2418032009e61c41e8bb196c43bca0f4701fce90d31cde0cabb"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000424.jpg",
+      "size": 10806,
+      "sha256": "c12cc54bfc6cc3c496d9538ed13b024e2d293172f6ce7a714479d18fc3fe1547"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000425.jpg",
+      "size": 10338,
+      "sha256": "59ab523057965d761186f676015bbf8dd795220ed2c7cbf5e37abb0dc73d384c"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000426.jpg",
+      "size": 8648,
+      "sha256": "5bcd2a3890550b2efa86d0f6c871bc5f9b3f9b25f1d32160e805532fef7909b1"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000427.jpg",
+      "size": 9697,
+      "sha256": "ac2be0e218bfa119d626ba319abb9016b21a97dfe54eff7c45a56d18586aa49d"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000428.jpg",
+      "size": 12088,
+      "sha256": "4bdc904f188911d1447d64711b2f9d3021d99237be22ee83b2b5e5652b6727c9"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000429.jpg",
+      "size": 12188,
+      "sha256": "18bf8bc446c7d87a287e9e1c59f4351b4096e6b0de04e96ca7ff5cef1a8f0bf0"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000430.jpg",
+      "size": 8888,
+      "sha256": "2aa88d0fed1e8b6b0d3f9a7394e0329b0d9fb3f4a5da3c772dbb32f40ebbec43"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000431.jpg",
+      "size": 10440,
+      "sha256": "43b9baacb3415d0582707fd587d9ff5f640246438b41b764c6215a830b05a862"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000432.jpg",
+      "size": 10790,
+      "sha256": "9a86273294235640a7019c15cf63ad415c6b790b26c4f717404c193f1838b38c"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000433.jpg",
+      "size": 8933,
+      "sha256": "923105bd3988f84be9dac0654f868791a625642d60a7c7da9e9608ee5de711ee"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000434.jpg",
+      "size": 7519,
+      "sha256": "752c17c511fbd5c69a2b5fc10b4e0c2eab8cb21a976b3b47c06985bf9ed7d803"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000435.jpg",
+      "size": 6822,
+      "sha256": "db1193adabca88cdfc61d9da084ade253ef6da14a2ea18140ce1076e92814406"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000436.jpg",
+      "size": 10538,
+      "sha256": "92f792a11ff97f33ac461b29df971a68716546d71df3e6a98f356adc7c4a1ef1"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000437.jpg",
+      "size": 5989,
+      "sha256": "facb8eb2fb942dc85a1cb44f51a3e42aa0381ff8b8b3ff27187b40097176b8f0"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000438.jpg",
+      "size": 4662,
+      "sha256": "6bf144c567c8c46fb731360ebeb7e4300b60fe847c93ebeca8b65f7c493400a4"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000439.jpg",
+      "size": 8637,
+      "sha256": "f88f22e477c2f17ac392965a6b6df1d5886988ffa9bc5983ce730a4c4ca36950"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000440.jpg",
+      "size": 10267,
+      "sha256": "43b36982f9c16800bd992229d5fd342073d3e97c4a758b18f96f2c0f6ec22062"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000441.jpg",
+      "size": 9401,
+      "sha256": "01a48a380c0b21132dd69838ea6074e43d4bb76bc4b9e298ffc2d8e66ed17fa1"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000442.jpg",
+      "size": 10605,
+      "sha256": "29216d6f6df0ea07a0e55a4825f338686901b3edd3b54ac8e68a88e668f28129"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000443.jpg",
+      "size": 8826,
+      "sha256": "2f30309fbaa32824f033ecef113213f53a4cf97b467a5503389dbc01102ffc45"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000444.jpg",
+      "size": 9820,
+      "sha256": "b2789898b4dc3b419857a7498bae3b3bddd078436d619fddc1814a4f895c8c31"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000445.jpg",
+      "size": 10091,
+      "sha256": "fe9aefa119af1fc80a20ebea7386021db4716d912d53809e1dc65ecb8d76f644"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000446.jpg",
+      "size": 4795,
+      "sha256": "399395f16189a514fd765fd84dfaaadc04acb86a34364c5353e2c4e0349205f1"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000447.jpg",
+      "size": 13593,
+      "sha256": "ede8de070d8437d353ac2e552caf6af41b1ab164afd969b7725e98dc8d15c379"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000448.jpg",
+      "size": 9085,
+      "sha256": "df8a5fa06e7e527f3a436ad03675a1bd74ee6ddc52cce36dacd24a711c11eb5f"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000449.jpg",
+      "size": 10693,
+      "sha256": "0fbd063aa1e4535d6ccc7076fc72954641001447413c4a9a1771d2a0e31869c0"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000450.jpg",
+      "size": 8967,
+      "sha256": "ac8b4e8fe02e2817dfbe02a742001695471529ecd1bf6f986dd59333bfbf0109"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000451.jpg",
+      "size": 7225,
+      "sha256": "fc7d13cda07454fb605e64cb36278b8e966b491a1cad942612a76b9727ec4c00"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000452.jpg",
+      "size": 8986,
+      "sha256": "992cdb12588ab9de0159d36c1536e468ab6e821201186869b92bd57d85dfd31b"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000453.jpg",
+      "size": 10239,
+      "sha256": "2bcdf6e919673edca791a6d64a457511eaf9686db4a95651f3881d8adbf92ea9"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000454.jpg",
+      "size": 10102,
+      "sha256": "8af6528c3210e6d9dca64cb1869c33d103f3629744fc59240202c821572a504a"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000455.jpg",
+      "size": 12908,
+      "sha256": "883119ac0b85ee86fc8068e1adbdd12bd8edb2a9a71fc0f5198db3e3cd1a1beb"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000456.jpg",
+      "size": 10164,
+      "sha256": "9001215ee8f1ae0517917c013ce2c1f10f9a48d3fd4250f05d2911b6a5155a22"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000457.jpg",
+      "size": 7336,
+      "sha256": "194ec20e0093a572fac69430cb90c5663249c3ac05cded069e1c050a73e8f2ec"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000458.jpg",
+      "size": 9687,
+      "sha256": "cfb612ad2e5d6ed92677af419b3a87b76aafd781f44969298e85ef69cae09e89"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000459.jpg",
+      "size": 8713,
+      "sha256": "7c14b171b11f25c6a666c50bf515e53cb824288757de6ce0e2ce25a14f085d4b"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000460.jpg",
+      "size": 8775,
+      "sha256": "92e0929ac86e5ab1783bd2abe00e41d81a4deca76950ca11ab38f1de6ac8e4a3"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000461.jpg",
+      "size": 10066,
+      "sha256": "32679d09b4b80753a8e6037ad6ce53fd98f5dc233d5a9a3a5fdcb77f4311e74c"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000462.jpg",
+      "size": 9230,
+      "sha256": "07941b622cee4a2e2b631881b065f60578772d2d66cdf1bbb49c18ec90bca00b"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000463.jpg",
+      "size": 11250,
+      "sha256": "63e6f1609650604864a4469f29f1a81f6d44536fcc2ed9f9a5f7d64050a8ed74"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000464.jpg",
+      "size": 11016,
+      "sha256": "fda8e585e007fcd669a41269418d58fa56b1fcadf8a241e2f6a58f329f2c0af1"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000465.jpg",
+      "size": 9057,
+      "sha256": "f874cf4bb21b6fcdabbe2176c0bfe2af65db323e3a1ee2781b0acb2a14c26abc"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000466.jpg",
+      "size": 7538,
+      "sha256": "820bc8a4b4acc986d243bbbead48823e1f360534e840a63d51a832b714f1d0a8"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000467.jpg",
+      "size": 9077,
+      "sha256": "13a5eabe039c5e7cc64a1d2be2398d145be0894180b20c9a95ca24de99a74ec9"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000468.jpg",
+      "size": 9849,
+      "sha256": "0ef7faa235f1d6017452b4a5ab5401568816c7ee2eb470f0fbe54eedffefe861"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000469.jpg",
+      "size": 9336,
+      "sha256": "ed46fb16fe9fb4f13630ff07e417c165cc9c0f250b6e416ce13c21a513ee39ac"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000470.jpg",
+      "size": 8017,
+      "sha256": "e8185ab94f508e79640681e95d924ae7c49d103beed383a04cb49bac86aecfb5"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000650.jpg",
+      "size": 12325,
+      "sha256": "9ba182faca2e57ca7ff90b3a507e2ca41b232cf48be3e624eb80b426fe28f1fa"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000651.jpg",
+      "size": 8949,
+      "sha256": "5fb018ca1da457227a1a8d0ee5c9aaf1079d098553cd5bdb3477f26cddb0717f"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000652.jpg",
+      "size": 12828,
+      "sha256": "e8c26557371d829681e7b73dea75607d78169d7d8abe7b2e961a20dfdcde9683"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000653.jpg",
+      "size": 11037,
+      "sha256": "9425e04eacbcf1b4c2ff93ec61b2d99d922cd713251c4bb6d0c60e4b1a00da40"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000654.jpg",
+      "size": 10522,
+      "sha256": "c032657cb55994b35063aae58a8b26eff769153fe7f73e1e56703e616e0a7edd"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000655.jpg",
+      "size": 10329,
+      "sha256": "7406406d1f62eb6820538a83ddd7647e76b76f9a913f39e78805d8f1c3de8c07"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000656.jpg",
+      "size": 12953,
+      "sha256": "ac867fbaaa05d5108fcb151905c7d80a64131feb4c51e9f9be575fe3141e8ce2"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000657.jpg",
+      "size": 9172,
+      "sha256": "8fa29d444079bd1ab825846eff4e7a07d1973fd538aa14b78f001fe8a2e1e88a"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000658.jpg",
+      "size": 8742,
+      "sha256": "ace585dc743a8eb4e0317d3b5d1ef572d24ecef6a27fb30e096942ec525c9d3c"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000659.jpg",
+      "size": 10676,
+      "sha256": "4b49cd46c006346010f426a3e4f0138a276cf31e0e3a6630796239bcaa854782"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000660.jpg",
+      "size": 9213,
+      "sha256": "672258ac4161e96c02c9c9992f5007dfef67745d7aaa1d48d47c3ea7aceed71a"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000661.jpg",
+      "size": 9780,
+      "sha256": "c0d54c6a2bafd2720647f78202658de2959f2165d644823766697d96082540bb"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000662.jpg",
+      "size": 10060,
+      "sha256": "a19cb037fbe25fed448788d69fd50c5ffa69de3af564bba5497e9ff10e66ff35"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000663.jpg",
+      "size": 8090,
+      "sha256": "266d36616813c6a7532dc2c586d3b99b2a40860742e0ae80e3503db70efe3d3c"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000664.jpg",
+      "size": 10712,
+      "sha256": "dd579c335bb5c4106a94a424fd435bf6cc50b0ce840b0e852f58f635a16c8693"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000665.jpg",
+      "size": 10276,
+      "sha256": "591ddab98738c45244fcd91fc309f2831a09bf1b1f14e69a897ff4319b996477"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000666.jpg",
+      "size": 8685,
+      "sha256": "689e35b42b80c48addb0e8944d6a06d2902e7e8e38288baa80bd5c156b6fa776"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000667.jpg",
+      "size": 9784,
+      "sha256": "9395c132c2b38327e30a171c72096bd023decf994ab3cf9cadd8a712031c606e"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000668.jpg",
+      "size": 12002,
+      "sha256": "620fa98a102bea92377bfe8e0dbe0cb94ab55d0681f10afccc3eaaa16c7185ac"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000669.jpg",
+      "size": 12034,
+      "sha256": "eb93b85fea25bf90e014bd9896754369d7f472d6c3ef201823f0e2498552693d"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000670.jpg",
+      "size": 8896,
+      "sha256": "f4729a7e19baf4e656b90821c5114da599de5ab5b48a552782081062e4bfd224"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000671.jpg",
+      "size": 10387,
+      "sha256": "5b30cde1aed5db68c0eebba371b16d08265685028fad935225fb7100d8140956"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000672.jpg",
+      "size": 10566,
+      "sha256": "8a6a812a31751cb8abf584ffaa542ef27279a613f789166b942c824f5a9d7ac8"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000673.jpg",
+      "size": 9029,
+      "sha256": "15b58c2ab3739dc2dfd686badfe7f0943b7fdf537bd2b3bea34c0b95cf4f7a21"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000674.jpg",
+      "size": 7342,
+      "sha256": "5ed81928475192e8326e3feac03486b7b5c8053b852343d6c4dab9593053da02"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000675.jpg",
+      "size": 6865,
+      "sha256": "d0615c2811c6f5869cf5461d93d265f8d5566b58b0f7bcccc03528510b48cea5"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000676.jpg",
+      "size": 10468,
+      "sha256": "32dc0bb1b751641f634fa0b2b6ae21573f8debabffa3a375d772689d82487b20"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000677.jpg",
+      "size": 6044,
+      "sha256": "67fcbfe489a08919da383ba3edb86d062596a923784d8f15f2b4131abbda0fc5"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000678.jpg",
+      "size": 4566,
+      "sha256": "076caffa2aee7fd889294999ed75ae6faddc5f83ac56663a2db26f3df61b7e4d"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000679.jpg",
+      "size": 8647,
+      "sha256": "b5d008b06ac38dd21357432f1cf172e8abda2db80b51d88f4d6fbaff96d58ede"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000680.jpg",
+      "size": 10226,
+      "sha256": "c14ecc6c6dd55424876d3ceea009cc7b59201f3c3e6980f590fe630fe0c197e0"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000681.jpg",
+      "size": 9341,
+      "sha256": "cf38aeaf3dfc5dd11324c2a576b0f7b10cb6fbc870947af90427710dd612500d"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000682.jpg",
+      "size": 10593,
+      "sha256": "2a529930fdc7e32e4a7b8ddc0ebc14914c189554824a92f862a50bb12cf7b851"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000683.jpg",
+      "size": 8790,
+      "sha256": "c675a75d612d98340acaf0fd8cca5dcd9ace02071689cfe2963b295f2187a596"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000684.jpg",
+      "size": 9889,
+      "sha256": "82da9c0dd11a8001cebeda319458021affa368a65415dc1ce96025b57a9b8d7f"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000685.jpg",
+      "size": 10088,
+      "sha256": "0fe0a7143cb41c735465208225aad71de4a216627b2ef22d2bb71ff2157fb2f2"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000686.jpg",
+      "size": 4749,
+      "sha256": "c5c1d83032232b6f6b77a9a579f15ec88e48d5d7b8b12809190f3badaeb39ae2"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000687.jpg",
+      "size": 13486,
+      "sha256": "38c411eb28d266db5a5f8899f143ecf949d0d57d163912e092340680c6d83f64"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000688.jpg",
+      "size": 9130,
+      "sha256": "a83bd28b364790e58d84db70d47041f47c2c90f70cf362df93b055b1781d146b"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000689.jpg",
+      "size": 10510,
+      "sha256": "dcb747c0abd29ad38df3774c0e51a54df92674beb88e18369188668ca8128e7c"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000690.jpg",
+      "size": 8980,
+      "sha256": "26f1e575733f420cfdb45bebe5bbaaff36836ac7c2b9c225588a8b8f13605ba0"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000691.jpg",
+      "size": 7080,
+      "sha256": "8e390041ee57350783b72024093d3207be040903018735558ca65d3988ed6e02"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000692.jpg",
+      "size": 8922,
+      "sha256": "739cd0ad462851b1113885a544cbce0fa441400d46ada86b2cac4a6c647e2bbb"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000693.jpg",
+      "size": 10151,
+      "sha256": "c90cabeee0c13866db14059fffa687e4c20ca874d72c0683a801963943feea4d"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000694.jpg",
+      "size": 10102,
+      "sha256": "be81ae9ab3f77a1376cb15ad21202e33769ff24f0df6711a7d8d9d0da5280842"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000695.jpg",
+      "size": 12806,
+      "sha256": "0703267e3af82be4e3b9752e1f7d0753c26e81b3d9720e1f885034d2f6a2aa2f"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000696.jpg",
+      "size": 10305,
+      "sha256": "08140b995b5e67feee0229223b1cf816f5d412a9eae1168ab663cc9a33cef136"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000697.jpg",
+      "size": 7343,
+      "sha256": "695e5d5750da68b00537bf27feb8072bd3055d9b669224fb14f047d8d771f898"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000698.jpg",
+      "size": 9688,
+      "sha256": "0b16d01bd0835479efa2397978d295df9e224f954c90079a9b3241e3fad1c227"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000699.jpg",
+      "size": 8778,
+      "sha256": "0cf74fb7740add4f718f653803aa631b43d416ed49c4260f331fa2732b23bc06"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000700.jpg",
+      "size": 8713,
+      "sha256": "9764d32ec5ec0c940fdb8505b0310aaa0117841b242f79043303d276a1648345"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000701.jpg",
+      "size": 10119,
+      "sha256": "31a80b6a167cfbef570792212503b6fd4a7503ba1a327661bb965f23e4c23e39"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000702.jpg",
+      "size": 9184,
+      "sha256": "9b233416da8acedffd854f1307f314a7b9edf18086635eb86b0867c6bafdb204"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000703.jpg",
+      "size": 11138,
+      "sha256": "00ff15070bc6ea42462afba43f154b283a9c862c65f5216959ce8e4909d970b3"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000704.jpg",
+      "size": 10973,
+      "sha256": "5c240f70cc732fb9aa069dedf6b8ab3a3e12d64b05a4053fb12b457ccc29a9c2"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000705.jpg",
+      "size": 9015,
+      "sha256": "3fd31fb42812dd12206867c2705765e8c748f8ef9299cf400e8b2a6cd384106b"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000706.jpg",
+      "size": 7489,
+      "sha256": "da21cfc4a8b5f4f6e49080f805083af5ec310dcaaf49472162e7e30853bfdb3b"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000707.jpg",
+      "size": 9073,
+      "sha256": "578faadd9c53496342bdad1da304f6caef3a09e3e9b7e22445a36b8a75c5d309"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000708.jpg",
+      "size": 9833,
+      "sha256": "5cbd687bed8c29eddc899a0bcd3cb187b9bb704f0dc6d43ed4afdb5a02327aba"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000709.jpg",
+      "size": 9522,
+      "sha256": "650bb644d5fe90594da7963d1a62fa29083a91bc82a73cef6629c1f37d4e0aff"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000710.jpg",
+      "size": 8006,
+      "sha256": "463567834673a41b552a44a451897bc3de55a6580855f8e015e5a92bf436e346"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000733.jpg",
+      "size": 12557,
+      "sha256": "939d43e85f7622bbd555e233e7db13c7b1d1c1f3bf70ff12269c8f9a22788c1a"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000734.jpg",
+      "size": 8960,
+      "sha256": "ef92efe18ba8a36d16ba591f4bd41858249b6275fa376e38c8b6b3c481402a98"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000735.jpg",
+      "size": 12519,
+      "sha256": "02831aa90b17cc60ac831ba57a35a87db5bda7c8ffd91b38b6792df93c287bcc"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000736.jpg",
+      "size": 11209,
+      "sha256": "57956e60d5b1d3fc3e42f277639fbdd1e01a97944ea45795aeffe7a2be313de0"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000737.jpg",
+      "size": 10436,
+      "sha256": "506657300f501418cb2c10c8951bc4f719701299a76ff024b535555b9b23a91d"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000738.jpg",
+      "size": 10428,
+      "sha256": "04aeb7d3d64ce5f7e7aec3148eb89a1a5b800dc56db7c8a511132a86af05d986"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000739.jpg",
+      "size": 12901,
+      "sha256": "dff0d0d0032effdc53c512885fc2bb93fd644f666d058763fb5ba6ae158323c4"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000740.jpg",
+      "size": 9151,
+      "sha256": "83f236ae81641e8e0c510054b6a9226f58c1cdf5c50a2ee32509d08a356e01c2"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000741.jpg",
+      "size": 8790,
+      "sha256": "6cf1176d7ccfcec665351bb1bfe8ba3b8bc0417ae70bda9c7f7a347c5ea26005"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000742.jpg",
+      "size": 10683,
+      "sha256": "123d586e81c92797dbc7e5a0deae7ab723bb99a51120ca5162fd4c1d03c673a1"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000743.jpg",
+      "size": 9236,
+      "sha256": "e664590cf389c34ebc4fc6722493bc73d22b7055b73658d141d2b32d522ae86c"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000744.jpg",
+      "size": 9835,
+      "sha256": "12a3091711fde5b7009610b3b8a026773b5dd0f8421cd131b41d5b32f3a374c8"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000745.jpg",
+      "size": 10019,
+      "sha256": "459cfa16b64a4364977044c261826a41f27c46ca7b7e0bb97ac4b2b75f41a5e2"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000746.jpg",
+      "size": 7875,
+      "sha256": "ef50d9b85f05ad8eccd104922cb647e39097d310c4356e9b4bc411691eb9c8c7"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000747.jpg",
+      "size": 10580,
+      "sha256": "5473e9761907c034c168e5418e878f73b825fc369fe53da43fec4a583d478d4b"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000748.jpg",
+      "size": 10441,
+      "sha256": "1492f4af41e0c5dbc9411a83974d4a80bce79a8bad43d67bef8d992a88c6b7b5"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000749.jpg",
+      "size": 8616,
+      "sha256": "27c4455a0d807bfb37a131c6f12f7d5e2795147ca9fd795be14defe2b3c09599"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000750.jpg",
+      "size": 9838,
+      "sha256": "9db22f6e2dbc0d5dd04a8e240d8ca9f66e80072582ac8abb3bffc5039e5ad162"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000751.jpg",
+      "size": 12221,
+      "sha256": "222edb6301e96d61d4ef054bef5015ed6d5008557ddf557ea6d6035e4658b017"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000752.jpg",
+      "size": 11902,
+      "sha256": "9b426426369e2a4e125ff8af9205f82cc144d96f6340b0063a5daefdc15ff068"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000753.jpg",
+      "size": 8949,
+      "sha256": "6a82aa6afbde2a503e4a9b4d0f668753fa1d75abc2ff6f187e13f199e7dd6630"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000754.jpg",
+      "size": 10393,
+      "sha256": "b5d3556d5a287e9cc1bca8b50d1c328ca52c034015d3b9eb3fe04add74145c46"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000755.jpg",
+      "size": 10500,
+      "sha256": "4f820fe4f9230d1a32f79eeb04390ac91276828ceb22e517dfc43a9cb4d4eea9"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000756.jpg",
+      "size": 8953,
+      "sha256": "47e6ebdc097901372a565a6af51fb9d80ba5c6938147ba2491f3cb03c303d540"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000757.jpg",
+      "size": 7428,
+      "sha256": "357151f9fae96360ec5f4e6ebcf96f5bfbe22177cf079ee09d8c4b652ff5f38f"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000758.jpg",
+      "size": 6912,
+      "sha256": "66e53e2cd145164f1e37a066ddf2b9c059538e9f61fc7114f3cc77df45b4f456"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000759.jpg",
+      "size": 10369,
+      "sha256": "f5716c1744b83208c4e61cdd63e94d558cb3b78f6147356bbe251edb40c49ceb"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000760.jpg",
+      "size": 6040,
+      "sha256": "1fffc88c6ebc2048cf9d0ac8c29e9c17f0a3b131a542ebd18ff2d63f3f3ab91c"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000761.jpg",
+      "size": 4612,
+      "sha256": "9c115e887691cffc77193e113765ff33d1572f7734d270d6645a14af2d66276f"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000762.jpg",
+      "size": 8666,
+      "sha256": "695f0f982c161f7f01269321ab1be4cb5eda1d0601cca5859d00a414f24cb780"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000763.jpg",
+      "size": 10347,
+      "sha256": "e2e1922df9755d3cbc83038e3ccb985bba25e8a85b7203bae10e90689a33f9c2"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000764.jpg",
+      "size": 9477,
+      "sha256": "f81aaa2168ba6377644804db7f80f14893318fc1e3ed7dd214b8629c962652a9"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000765.jpg",
+      "size": 10623,
+      "sha256": "beab032a07748e83bdb4cc9913ff77178816543b60f3ac871e9c80a248c46bb0"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000766.jpg",
+      "size": 8819,
+      "sha256": "6c2e73c558dfb845d938c4e6dbbc4cf9947e5c99c284a736782283b69691bbcc"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000767.jpg",
+      "size": 9966,
+      "sha256": "62d1681c61144334a770e3bb2e12b9523576d50c96bc9e937fc8929dbbe13138"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000768.jpg",
+      "size": 10151,
+      "sha256": "9ad7e895cb4be7e84628f32085fca4e3a4e1a2e11d9e21f12cd187dac4168019"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000769.jpg",
+      "size": 4749,
+      "sha256": "073cfce0b4e8c64193cbc3e7500bf98a0946f3c0cbcca9f850333eb3c61a6405"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000770.jpg",
+      "size": 13696,
+      "sha256": "227693d9f27b66bf83be94bf3b7c4e1d96f594ed801fe3cc3961afd114b6da67"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000771.jpg",
+      "size": 9064,
+      "sha256": "22080ecd2ed1402c70d14dbbdb2bf467f3a43e57974e0168788104f9ca7abe01"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000772.jpg",
+      "size": 10333,
+      "sha256": "3713c7ab8ff53f24e9fa821fcdd7a34c72e282aa58da090b12425d72f06ff060"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000773.jpg",
+      "size": 9021,
+      "sha256": "064da4c706930d46a98111da2828f788082574eea614e286c9d08af6bee2aa9d"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000774.jpg",
+      "size": 6998,
+      "sha256": "70260a245c3677c0ccd5c04fbd52b58d42108dcada85b4d45c7b514eb8af3b3f"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000775.jpg",
+      "size": 8925,
+      "sha256": "03166525ea18b78267487742c01bb249687c54d7200abb11874e1fbb87bc43b8"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000776.jpg",
+      "size": 10140,
+      "sha256": "d35e08f10c2c94b96d7416b3a7ac8be1cc2383bca47ac00463bdf312bdd63e26"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000777.jpg",
+      "size": 10072,
+      "sha256": "1c7cb1419926651c1a02427ce7f09132e9977990ebe1d55545b53951900028d0"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000778.jpg",
+      "size": 12770,
+      "sha256": "b805febec22eb8addbf60c5c08c4b9d14bae0c838a989f99ff00e330252fd60a"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000779.jpg",
+      "size": 10319,
+      "sha256": "72ba07d66e313d9b0acbdf8cdba84b0e06892586ce944f63a620472684fdd70c"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000780.jpg",
+      "size": 7292,
+      "sha256": "fdf78e5c7b690cd70c70245e37bfe4f1452a7c956f5952fb2349b4f227669f36"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000781.jpg",
+      "size": 9721,
+      "sha256": "39a982d04e01068dc7ee0c0691cbb0fa2899fbd91e2fe1a3a738faa948d5f89a"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000782.jpg",
+      "size": 8590,
+      "sha256": "38441dab440c97f096607fbf1599abe3b17352fe55cd87480793f49bf18559ca"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000783.jpg",
+      "size": 8670,
+      "sha256": "a542e57e58b2158be68c68d2e03aa0f7d0cd810a24696e6b5f66d36ce8236309"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000784.jpg",
+      "size": 10036,
+      "sha256": "1e55b0e3cd49dac84dd99ff5bcbb24a3d6d945901d7d08da7624f1ab6a622627"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000785.jpg",
+      "size": 9180,
+      "sha256": "952260f277d685cceac7c28774815ee3edcd88337557938c6f9ba7e788fdc8e7"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000786.jpg",
+      "size": 10911,
+      "sha256": "4448faa8b02138aeebcd3000ade06a1462804c9a9222f571f239c6eabebc87fc"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000787.jpg",
+      "size": 10963,
+      "sha256": "e7c1d9cf110cf9ec8fe55f47053849373ed10411d74d4c2fa0fe0968d49fb4b2"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000788.jpg",
+      "size": 8999,
+      "sha256": "0aa06d8c043f72f3a27c23c85bfb0964891672aa061ebbdf6bcfa292c3bd9a65"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000789.jpg",
+      "size": 7503,
+      "sha256": "cc2e9e9de2ebe8a7d3ce3e316d0d38de8bfcd9902b095e8851420940975a557e"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000790.jpg",
+      "size": 9056,
+      "sha256": "035d86c38164d39c35fa8c84b139134665098efa026e7604b3478ee94447fad2"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000791.jpg",
+      "size": 9783,
+      "sha256": "3714c0df815f5c7c6fb6e93882ca44795930dfe23e3229e6094d44953396aa6a"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000792.jpg",
+      "size": 9474,
+      "sha256": "7a4ba1298207805b2bafecd2c59a3951c101d43b3be39febb0acf49e6a56e00a"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000793.jpg",
+      "size": 8019,
+      "sha256": "29f26e32a9132e2a1a6f84ab71e0f8668b67c101605970b3299e0ba931eac2f1"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000816.jpg",
+      "size": 12522,
+      "sha256": "a5ce76a2d1cddabea50df0906ae61d5db0284eca15080498f7e4ec3079b5fca6"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000817.jpg",
+      "size": 8925,
+      "sha256": "8e15f3aa8e402cad35d0cc1cea365df06bc84e753ab4880d71dc2fb98969cb16"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000818.jpg",
+      "size": 12185,
+      "sha256": "3fbc17045f0ed358eb128680d23c60dc98b7ae918a7ca1068534f279b64d5d2a"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000819.jpg",
+      "size": 11407,
+      "sha256": "5fab9edfdc2571425715a92b48955d652bab2961ddf5074c7a6ff4fa93df409b"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000820.jpg",
+      "size": 10259,
+      "sha256": "a703b5c0280f56111f9066942850a508f86b5054543d128faa6727b6dbc7e364"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000821.jpg",
+      "size": 10439,
+      "sha256": "a6b5262bc89b238a34775ee7feacbf7e0861456e4df43fd5e88b1410dfc66392"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000822.jpg",
+      "size": 11284,
+      "sha256": "6b0731ad3ddadfca1cadcacc4e74e7cb2213223b3b82bf9c59b1af2de59d197b"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000823.jpg",
+      "size": 7894,
+      "sha256": "d27331b0959bc736cba677403ff8fd19ff06013111349bcfb21e9f53f7720939"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000824.jpg",
+      "size": 7216,
+      "sha256": "e5e3d765fd458273cbb72cae1656721d1e72273e9d5cb03b8a5dd8ae5b89c085"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000825.jpg",
+      "size": 10495,
+      "sha256": "1126bb7548046b253e96de2d63e5f1a9a7c990e21d2d3fb96c0fce5d40aa4f4d"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000826.jpg",
+      "size": 9222,
+      "sha256": "c490b917760a088852e36f63f90ba00ba7acc8df433a5b899447623e70e5461b"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000827.jpg",
+      "size": 9980,
+      "sha256": "76415bba967e300e223b946704fac56a50e38f1c853a7c1c8c7626341f648016"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000828.jpg",
+      "size": 9964,
+      "sha256": "b58f194689057a23d6333f78df39eae6b0a593f082f8ffc113a0200ecbb942ed"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000829.jpg",
+      "size": 7820,
+      "sha256": "6ebc721463bf7821e5812b15ebe1532e9575a7dc6e58407361fa4ad91d59950b"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000830.jpg",
+      "size": 10444,
+      "sha256": "9bceb48691a03c9ba41869a8d7ad7ee04ab191164c13380e2bc4faeb2815303e"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000831.jpg",
+      "size": 10378,
+      "sha256": "cc871be29f948c3434812093cbd637c23316f95c524b728e8720e9be99238692"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000832.jpg",
+      "size": 8682,
+      "sha256": "7a002a56f86940adec2bae22e32b1385c3886209a240b292380d5b1995b2a6ac"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000833.jpg",
+      "size": 9873,
+      "sha256": "9d07005cd7419bcf9aac4db8031044de885bd24c2a6d9b64e07a3346faaa19d0"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000834.jpg",
+      "size": 12345,
+      "sha256": "da9c81572734b08089d2e2e38493f52e4d1a9027518fb19b8d101d06afc1ed6a"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000835.jpg",
+      "size": 11866,
+      "sha256": "03f07211b635b9f52726b39c839b68308c4cd56e511067fab26635dc1dde6825"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000836.jpg",
+      "size": 8965,
+      "sha256": "c8474a29ff81474c15a1da950cb66ec58bcf755bb60ba68feccd32a89cd41e32"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000837.jpg",
+      "size": 10315,
+      "sha256": "af56291a30a4350dd18f8b2a30240e2f9e76eb6e69eeb1ebfa716dc9fcd70d40"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000838.jpg",
+      "size": 10358,
+      "sha256": "796e98bc0e89a4c7e1ae1cdba631e69681c8dd00b0335703616393ef67b4d721"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000839.jpg",
+      "size": 8967,
+      "sha256": "65ffab37928ef4196dc1d7bd753346e4b402c639a2184900886717f6f0549b6e"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000840.jpg",
+      "size": 7469,
+      "sha256": "d08e18f234592385ced6a86fdc3e98ea2e0e1fa2393e1ca76d9890caf562660e"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000841.jpg",
+      "size": 6964,
+      "sha256": "7d0bce20b18427a5ab3b88903a98fda94910f32b35d6abbeeb132b9abbb559ec"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000842.jpg",
+      "size": 10394,
+      "sha256": "6e209fa7d7c140b785545ee0b8c53d9be55b5080e70cc77f7b09e445aab21475"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000843.jpg",
+      "size": 6005,
+      "sha256": "dd639e1be4fa368aa1c60d3257ce0bb45c8ed8163ae1ac8503b48a0e9d0c2249"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000844.jpg",
+      "size": 4627,
+      "sha256": "2297fbafb31dea46ec149b5cfd470ea07f159ccedb8edac6ca26346ca15ef913"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000845.jpg",
+      "size": 8641,
+      "sha256": "435c20844d2fbd054eaba2da77380a417ad3a62d18dd832fde05fee1b704d0e8"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000846.jpg",
+      "size": 10321,
+      "sha256": "a09b84da007f68f270081547897c8e1d4d31d1a7511693083a1817e054541243"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000847.jpg",
+      "size": 9470,
+      "sha256": "aa97d74c12df780ce7d30d6e15445e9360457331379c7ea55723dc8d5b434738"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000848.jpg",
+      "size": 10647,
+      "sha256": "652944c790df1c6a736bfd4a41585fe363e30d8bb44fd2c72cad162be6b81819"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000849.jpg",
+      "size": 8824,
+      "sha256": "b7528171a7b653bf0e22c8909f3c69271b84af498ab85ce1197c20c1ea81f4e3"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000850.jpg",
+      "size": 10048,
+      "sha256": "2de0871473e9e6abaf61b4f150518bb4b0cde4194cd44bac92c89665033215ea"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000851.jpg",
+      "size": 10201,
+      "sha256": "bb2813693459acd1b69ef40d5d3ac08ab15576353da37cbae0ed01cb60d83dcd"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000852.jpg",
+      "size": 4821,
+      "sha256": "ab5bd0d4ea3db723485702ce3e9973f1e7a00456b4ebc8469163d87d5ed49d0a"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000853.jpg",
+      "size": 13691,
+      "sha256": "f214f20b77b9a9aea0eac091dfc9adbc3f1d4fcaf61af3f8b3a748c97939f5af"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000854.jpg",
+      "size": 9017,
+      "sha256": "a3a3548979fa7869b6ed14064e50ee23d0981bae0ca68640ef066357b6af62f9"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000855.jpg",
+      "size": 10255,
+      "sha256": "292a1be5fa781b44a0b658ceccc17b9665ff1f64531cc59b8d9af41ed572940b"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000856.jpg",
+      "size": 9004,
+      "sha256": "35b4b60a344c0cab16c802a56c154ce73ca0b8af0a17d4e952ba0792bfb97410"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000857.jpg",
+      "size": 6825,
+      "sha256": "4768f30544c9831e160d3c0542e504bf6fdfd7685646bdb4b54390738f8cf0b0"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000858.jpg",
+      "size": 9018,
+      "sha256": "b7c5761e0e7aa2736fd5d0aae37a7ea430b93bbc7ccc7588b3076ecb7a80c1ce"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000859.jpg",
+      "size": 10113,
+      "sha256": "f309d03377ca7c6d4e9d70fae834095e6690f34362c08b93ff5a08451dc6cc1c"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000860.jpg",
+      "size": 10133,
+      "sha256": "68aeaf54ff00ef207191848b996e0c5e199b56a5e70214f8d73bb95e0ea79a78"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000861.jpg",
+      "size": 12963,
+      "sha256": "af1721f9efaf398263dabe8ba36e0de9ac92c9bab1697df1214db09de3aa7761"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000862.jpg",
+      "size": 10327,
+      "sha256": "e4c204b547dd48e658e3366bae7ef66db6d28fdc520a954bd9d70b9b6dee3f09"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000863.jpg",
+      "size": 7293,
+      "sha256": "49584c46853adaaa4ffb848f7e2ccd9952d7b08b691fd54c8c3b0ca486e08a7b"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000864.jpg",
+      "size": 9677,
+      "sha256": "158bded9283123628f915cbb7d7e1407ee1d333ef581c9afee82b602b7be50c3"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000865.jpg",
+      "size": 8374,
+      "sha256": "617c7f2cf8113c4273db62d39a0e3cc4fe6ed00999c5a716bc3cba4aff97a9c2"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000866.jpg",
+      "size": 8695,
+      "sha256": "8d05bc4529fe2458119a78a6c7cb2b6d1c695bdc5c99a996ae10394490e9999a"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000867.jpg",
+      "size": 9989,
+      "sha256": "3d42e3929a18aea438843fd3fc055b59bd3390a9ad822c986a5c87219e07789b"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000868.jpg",
+      "size": 9211,
+      "sha256": "9caa3368c3f0c470e24a2e3dd8841b503a7fbdaa574dbf5c33f03cef4bee23ae"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000869.jpg",
+      "size": 10759,
+      "sha256": "024a436120640f84241cd0ab51718bc338c0d20b0161c560adf4cfcb7a54dcd2"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000870.jpg",
+      "size": 11040,
+      "sha256": "33424730e9cd5c18eaad92a0d94d440338bad2a6907e172487f636bb2de2b241"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000871.jpg",
+      "size": 8973,
+      "sha256": "e0a308548de019bcef2b5940a260defef5423f1590a0fb0e1c45c42a894283f8"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000872.jpg",
+      "size": 7425,
+      "sha256": "18ea6bf698334c83c08801bb009ac4b2868c5df968f1274d3f49092dce66ff46"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000873.jpg",
+      "size": 9075,
+      "sha256": "daa2eae4fad3d2a1b7e8715c570493095cef7cff3fa00d4dcdbfca10669b2844"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000874.jpg",
+      "size": 9789,
+      "sha256": "a92536569e127f280bab22b1a8abd66585955c42450c8656c7f340aa4f25a302"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000875.jpg",
+      "size": 9410,
+      "sha256": "aa280abb3d7887a1997cdde4762c086a1329043ae2e8110b2696bb6bcfcaccc2"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000876.jpg",
+      "size": 8010,
+      "sha256": "bb22c060bb79ece37a7270aa55a288025d2145046e6f0ae1bb5b018870ef9561"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000899.jpg",
+      "size": 12050,
+      "sha256": "418249b226a72512f65f627a2ec37aae171441098b2e48370d0067a2daa5b3d0"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000900.jpg",
+      "size": 8909,
+      "sha256": "c7d53fc88355d5a4ced03d26a2a7ed93a1b80324aa0089f3def3a618519dcd46"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000901.jpg",
+      "size": 11902,
+      "sha256": "5fb85e79f32c7f732f1ddf5d19cfd2fab6cbb6dab089e2051f7c0905af46ffc6"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000902.jpg",
+      "size": 11678,
+      "sha256": "ca047c7dbb04c63c14a1c1727b411ee500d1a80e066fbd2a737bbfd3529c97a6"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000903.jpg",
+      "size": 10116,
+      "sha256": "1e3fd1a6b7eba5590c37f7c3e9f556cff027cc02c5839313dbbffe1c190c045f"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000904.jpg",
+      "size": 10396,
+      "sha256": "63bc407b49d3e3e4fee5b94ad8481e12d3c1f834a94ca2b15751bc6350cb5beb"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000905.jpg",
+      "size": 13013,
+      "sha256": "004e77aeb465b21f1924d03bc86c37a69a7c82fef185928d12afe4f5350af8c5"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000906.jpg",
+      "size": 9146,
+      "sha256": "e68de5e6636cec7a57e7241788cff7e22106230982770b7251d1dbfc12bfc7d9"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000907.jpg",
+      "size": 8745,
+      "sha256": "b98f72fdb84a6576ae070ef82e0b3fd46b232411fc23f1f437e6b63712d73ecf"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000908.jpg",
+      "size": 10405,
+      "sha256": "97b12b42b21d65643eed3586b979ea8b63b9321e7062a4e37c82f253a148f577"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000909.jpg",
+      "size": 9234,
+      "sha256": "f10d7e3653bebd3285a1cd666ea587ad8aceaf747b2e06f98bb4b0fbcb8efe7a"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000910.jpg",
+      "size": 10142,
+      "sha256": "f4b7bd4632e320105021a4aceaf1fb805e781730e79bf9b485760a740d554b57"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000911.jpg",
+      "size": 9985,
+      "sha256": "f0351456005fea8171607e2c91f16aa538087c58a4acdbf42d7349f60af64a26"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000912.jpg",
+      "size": 7810,
+      "sha256": "7e2e31bab92ba478f844eb8394ea17b1ab071b4a6adbdb454a7059ba98b96851"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000913.jpg",
+      "size": 10264,
+      "sha256": "48ed3deb27610b70792beaab55141656deb2bc6e143fc69368b5e17df2e261a7"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000914.jpg",
+      "size": 10243,
+      "sha256": "3408944fac4399fc15cbaa6cd3bff312830b01d37243087e4a03bd8486b6345e"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000915.jpg",
+      "size": 8586,
+      "sha256": "39577e00ff7ee13c54022bae1b2a5ef8b9407e73ccf0e2ac0a277361aaed7843"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000916.jpg",
+      "size": 9940,
+      "sha256": "f7aeac23126d6cb4335210773b4debfbafa9b4b46ca78bf2288c2478c6f6a14b"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000917.jpg",
+      "size": 11957,
+      "sha256": "a92903f2aba473a2b82027f3b1b1340b37d094bc2413e7a671c989d965eac3d1"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000918.jpg",
+      "size": 11831,
+      "sha256": "530e0835104d5188e64926c5a6d2b809aac9232b18ca23ba97b9a06278d719ce"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000919.jpg",
+      "size": 8936,
+      "sha256": "0c570c8103323ca7b7707da5298f57ba8caa2035ada11a64d6b739f0244f1384"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000920.jpg",
+      "size": 10148,
+      "sha256": "307a7f89fefe2db1244febc506081a5f1bd7d110a53f62273a7d5e700a9ab787"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000921.jpg",
+      "size": 10299,
+      "sha256": "b63caf9572367cf941160e3f3c9430d1a6be2bb07b59b8b315a448ba6a4e7916"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000922.jpg",
+      "size": 8996,
+      "sha256": "73c65eaefacc711fb5bdf7a3a291a6c93703fcf10dfa51275cd1195d17e5a9ba"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000923.jpg",
+      "size": 7481,
+      "sha256": "5b3809ea57a036175ef7b4c62cc9554e20f46c6a6cd8ac4b5b6c574ba7b9c576"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000924.jpg",
+      "size": 6926,
+      "sha256": "33d5b60ae91f448f6519cf273f6f2fdf24bc03990b4d011f043707e536071339"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000925.jpg",
+      "size": 10360,
+      "sha256": "f67458a1df59958eb9c4fba4e9a5908ec16be4d23fade74db647c5794fcedd67"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000926.jpg",
+      "size": 5989,
+      "sha256": "ca716adf61d48308c6d4e0c24c622ec6c45ff39eb9959d9b4241a2d3dd58d8d9"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000927.jpg",
+      "size": 4642,
+      "sha256": "6b948bbed1f5c08287f75982d8b5e0710e26eaf4c071ee42fb3833bee319eae5"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000928.jpg",
+      "size": 8691,
+      "sha256": "e82d5967d06946428a867afdb1f0c525d5d9002efa7840e98e1c678943d8ddc3"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000929.jpg",
+      "size": 10183,
+      "sha256": "66254aa66c96459d282417d77237b51af1574c03ea54c7bbc9070bf3ffab3c5a"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000930.jpg",
+      "size": 9466,
+      "sha256": "946dc5f34e4a46d5463d8fc4908b6decc20c323575a11bb3cc8030d57cfd5455"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000931.jpg",
+      "size": 10647,
+      "sha256": "a6479a7ce9f5dd64aff4513f0458e2e5b89262ca43b8ec8c55252bd6c75abf95"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000932.jpg",
+      "size": 8837,
+      "sha256": "f0f531420245bf6d47edc0ea01f2aaf7096110adb58f5b5e0e97cd474b9f3e39"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000933.jpg",
+      "size": 10010,
+      "sha256": "a2913be2151c6531e0b6e536e8653dee65f46b4c6320a23a9f9674fbb21955d8"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000934.jpg",
+      "size": 10272,
+      "sha256": "6e06c62ce78f98f8040f2f70de4806886707dc29657aa045f9a3618f98dba03e"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000935.jpg",
+      "size": 4851,
+      "sha256": "08812858ce91b7358eec2341b4aa2f474b9eb579e2211cfc04525c08e2e9eecd"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000936.jpg",
+      "size": 13670,
+      "sha256": "3460ff8131732241b34268b6ecd0e384fb21ade7aef68dd552a44c735d27c775"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000937.jpg",
+      "size": 8961,
+      "sha256": "36647bb7e1302745821ac5dc9d3a299bbafc2cff82a4566921a16e818ae80a8c"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000938.jpg",
+      "size": 10240,
+      "sha256": "491a55596210a6bd6e9feb62cc9215e1cb70e3bee7fc84eead961f0639567679"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000939.jpg",
+      "size": 8986,
+      "sha256": "fdabeeb60268105e4c2aacea4bca89f169afd744599cc08cd0da9f7a1e415e9d"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000940.jpg",
+      "size": 6617,
+      "sha256": "1f67eec6a62660288cfb8589454841fc9449eeda9db16300cbca88f80066293c"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000941.jpg",
+      "size": 8990,
+      "sha256": "98d6a0de93ffa1d112fad60eea61578aa7e167ee593fcc82b2334c0c9c51822a"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000942.jpg",
+      "size": 10056,
+      "sha256": "b64d81c907547157a8081e34d9032b799dd70ee7d999fcee0e0838d722b04489"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000943.jpg",
+      "size": 10145,
+      "sha256": "69efc5da4650521af1bcfcd24dbf9a081515b2f7174581e87d0500cc3cc1d5f6"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000944.jpg",
+      "size": 13021,
+      "sha256": "0c6de368d16e83e5bf1f1c511bb6d47986a8209bf626f05fdbe5831a661613f0"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000945.jpg",
+      "size": 10228,
+      "sha256": "e079ead161a6075a7c3dd2a290b5e61624caf750f727f8587993403276284f7a"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000946.jpg",
+      "size": 7248,
+      "sha256": "489ba39b37f34db13b71da81149da6a08994b274c27698245ee633e2e00e7837"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000947.jpg",
+      "size": 9654,
+      "sha256": "c37d41248b496f8475e348ae9f9957b9a3fa0299832d04e79338968de2785f5c"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000948.jpg",
+      "size": 8156,
+      "sha256": "0c0d56e1d0a41e327006bc2d9e88300039ca7b6394a715bf209373520cf5f8dd"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000949.jpg",
+      "size": 8693,
+      "sha256": "2d1cc7825fce5603b0d10a4f4b0bd11b37e759fc60b2b1e95cfb121cac9b5d22"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000950.jpg",
+      "size": 10093,
+      "sha256": "18f977e65345d46dc7e179f37e422e885323c67548bc2c89f33bd393ceb908a9"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000951.jpg",
+      "size": 9204,
+      "sha256": "eba6cb010081ef9ae09730b1d3e94a1310dd9225cc2287907aed6edc78bd6d07"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000952.jpg",
+      "size": 10710,
+      "sha256": "2520b547f3bfef26495daa94e037552e9b57c338224c6414a3a4c03d28b49693"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000953.jpg",
+      "size": 10941,
+      "sha256": "ab3f2f1f866079bbb516e63971c4901539a29c8d05f676653b29487c629d1722"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000954.jpg",
+      "size": 8978,
+      "sha256": "c8b5b5d3e72fc6b9db45792aa7c02c4ebce00e6e9c49adfe74e1508595c39a4c"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000955.jpg",
+      "size": 7466,
+      "sha256": "0614427fd6f26a28f904d93ab64217fc35ca0ec116b992f58850f76fcb58148a"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000956.jpg",
+      "size": 9064,
+      "sha256": "3007eb727d2e25d60f4cafe546e0e4c61a30827ed4018294d3dbf46327ddac02"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000957.jpg",
+      "size": 9769,
+      "sha256": "853ec43295b92893169a9dba83d4bd9eed34c30f2162defa2ac53749f0d51a65"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000958.jpg",
+      "size": 9210,
+      "sha256": "d04ea3c8d6994bbfd894a4676943d9540adcb016be72c86367ba4124324fb2db"
+    },
+    {
+      "path": "sky_weather_next_day/images/train/sunny/000959.jpg",
+      "size": 7936,
+      "sha256": "3b53bcd609e1a52c7c1ad80a15b68a04c8de47f94c984aa3ec26c264978891c7"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/cloudy/000047.jpg",
+      "size": 9004,
+      "sha256": "612fab579f23bf50c4546df12b3613f6e2ee78d4071ea27c0e2349a2a98d6fd4"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/cloudy/000050.jpg",
+      "size": 9921,
+      "sha256": "a2cc992d18e6a98c66a62b92ed1e4ccb04e93a65e66e972b01d6c6ca393f8cff"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/cloudy/000053.jpg",
+      "size": 7941,
+      "sha256": "c1d0e04b1b2a8c658c1c20bcc368682c55351e833eeca4177ad0ca66b24a664f"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/cloudy/000056.jpg",
+      "size": 9290,
+      "sha256": "283de238b1029934ffaa87bade13b70c68648d8fe5521e1ddf5e2e0b4fbf8c21"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/cloudy/000059.jpg",
+      "size": 13926,
+      "sha256": "4e7f0b133873b0b25a830a426f173ddd72965c5ce7182b1cd3aafb1c0345f19d"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/cloudy/000062.jpg",
+      "size": 9133,
+      "sha256": "e493ab870225c08def2a410ff2a6020eff260d2fc5f3c6c421ed6c8e4e1b9a46"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/cloudy/000112.jpg",
+      "size": 9021,
+      "sha256": "65d7c71e209cb06e193cfad748a7cf0964fb5d70ee0ed99de0ee5abacc4924b0"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/cloudy/000114.jpg",
+      "size": 9831,
+      "sha256": "d41364e489f44ccc5abc63d799e3b7b19da58b0764e722c77caeb6ad377faa14"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/cloudy/000116.jpg",
+      "size": 7979,
+      "sha256": "f5c0931e45091cf3d205ce0440c0a0948f43e170633ccb8377c083799b0c6f65"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/cloudy/000118.jpg",
+      "size": 9302,
+      "sha256": "96a294abb226934d7dfeb7cee1a56d2e2c731c5533d5c311bbc8365a403d188f"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/cloudy/000120.jpg",
+      "size": 13954,
+      "sha256": "b1882e5c9a48049624d8fa65671cfc7ca06b5fb3b8f9ffad6d466a608a1e3a87"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/cloudy/000122.jpg",
+      "size": 9070,
+      "sha256": "aa1f116892ecd65e85a8d2fc636143f307704b3b89270a3db3765c747a02dc8f"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/cloudy/000289.jpg",
+      "size": 9009,
+      "sha256": "b8e373adc899c61b4d12257b740c14285643837f8d4e08179ac8ccfdbd1837c8"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/cloudy/000291.jpg",
+      "size": 9756,
+      "sha256": "15b0d19c9f1fd6982c53fb0abec4074df50f8f3e83f502ea6c210bf5ba7059e1"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/cloudy/000293.jpg",
+      "size": 7868,
+      "sha256": "e8988e3bf1820336b5958d7a6fc7c17ce7d0bd76190bb42321cdaf323b9740f8"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/cloudy/000295.jpg",
+      "size": 9528,
+      "sha256": "5691a91ac7cd7a43fd39b9d6e586d097261858d7f5035f5e5f869b631b4637d6"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/cloudy/000297.jpg",
+      "size": 13744,
+      "sha256": "53a69590cc70416119772c545e5f42f21d87b75f7efa6ea150f7e419d2e85687"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/cloudy/000299.jpg",
+      "size": 9022,
+      "sha256": "a1bc5d7956c9f7249af61bc7011f1be5ec1de91dbcc5b883b91fb4af5597e5c5"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/cloudy/000319.jpg",
+      "size": 9036,
+      "sha256": "c07cc4878a3c439865123ad71ea78fa6d0fd20b2e92dcc2df73af34ded431732"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/cloudy/000320.jpg",
+      "size": 9576,
+      "sha256": "23c094e6b38188fa5be36e5c778e2a5fd46b6562b5b0006262cc27127920af69"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/cloudy/000321.jpg",
+      "size": 7809,
+      "sha256": "9d1c9dc017416a29619e4e5d30e960d196b7c4e27c3fedc6a913f410dec88741"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/cloudy/000322.jpg",
+      "size": 9740,
+      "sha256": "6117b40c8f44883a10d0f43ce258c69b68b3964298f5c44ea6e9bfe16742a302"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/cloudy/000323.jpg",
+      "size": 14093,
+      "sha256": "6da33a105af9ab9f7dac1a63ca4f26957349001359769511db69ade9bf9744ee"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/cloudy/000324.jpg",
+      "size": 9066,
+      "sha256": "6443fa6bb08b1518d1e576f3bb33d18f5551423631cfc6b05a0bc0351511ebeb"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/cloudy/000547.jpg",
+      "size": 9068,
+      "sha256": "f4acdedb7c2e63633d3c88b957fc48343ca2f9fb5059d45a6be5e08439e1aba5"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/cloudy/000549.jpg",
+      "size": 9574,
+      "sha256": "a006ff28d24749daba3074039b337c8be62d6cd1714c8847e49c52af5f09cc91"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/cloudy/000551.jpg",
+      "size": 7806,
+      "sha256": "2a6c8a77504fbee2e97cd31be5d249e7628944bc21d2ea9e176d0aad17285977"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/cloudy/000553.jpg",
+      "size": 9802,
+      "sha256": "bad15cffc00606a49b34b27887cc444b7cee52d5ce6db41aaf319c2598e387ba"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/cloudy/000555.jpg",
+      "size": 13916,
+      "sha256": "2aa9124fe2c3fc570340e709752b8750f7d76c0bba0c204e94b37246fec42ff0"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/cloudy/000557.jpg",
+      "size": 9056,
+      "sha256": "e8c979158fdc213facab565ca1110de986f44cad163b6ec77537ac7bddbc66c8"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/cloudy/000593.jpg",
+      "size": 9072,
+      "sha256": "658fb715e9ec45dbfcffa33080ceae09863f7723a37bd38d7d61a9bc0abcadd7"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/cloudy/000595.jpg",
+      "size": 9584,
+      "sha256": "c40b919cb13f1d0d028be36918733ba180f8dc08d004fa592918b57bd057b724"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/cloudy/000597.jpg",
+      "size": 7759,
+      "sha256": "fc98474c602de9f3768c952ef2874e3e6969fa07ea73def530aeb255b965f2cf"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/cloudy/000599.jpg",
+      "size": 9541,
+      "sha256": "3a6ce200f0fa12992600c70d883d525f4f9876fdcf0c3eba9f424a678aab32da"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/cloudy/000600.jpg",
+      "size": 14540,
+      "sha256": "906127a2a3228178bf3457ce08ca3716ec4b1d6928d6b5bfeac54428847a9406"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/cloudy/000601.jpg",
+      "size": 9046,
+      "sha256": "e6f87fe273218fb9912d74cfe8a131f5ecfc52b38c3ad934d02960e870727ebf"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/cloudy/000619.jpg",
+      "size": 9059,
+      "sha256": "c2f672eb10057f8032e517b96c2fb2bcf8d766654eb1e6fbd9d8ea33fe62a715"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/cloudy/000620.jpg",
+      "size": 9644,
+      "sha256": "3f6d5a7ad6aeabd75066f5f5a5f9b2f1643e9e17fdc1ab4d8ab49677c7ecfed1"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/cloudy/000621.jpg",
+      "size": 7857,
+      "sha256": "b20af2695e2ebb79ea144b5a385bef89af4d1d7877baa2038b41b57033bd79e5"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/cloudy/000622.jpg",
+      "size": 9586,
+      "sha256": "30a68f4e12996dae6e45922db2d34132d419fd7af1d6e4d17061c40df6bdcfc3"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/cloudy/000623.jpg",
+      "size": 14422,
+      "sha256": "2ce56248fb2176eded596122534ef086d9c7ee404a6a9df34539908c646f6d44"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/cloudy/000624.jpg",
+      "size": 9037,
+      "sha256": "73d2f8878ba2512fe44d4394e9faf7e3c40a21117563171448e420ef3952b52e"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/cloudy/000642.jpg",
+      "size": 9081,
+      "sha256": "199ca9597ac2449cc4106f5c0d48a158615a89550317bd987ec113cc22c03acc"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/cloudy/000643.jpg",
+      "size": 9500,
+      "sha256": "e19802d0bf85c70e30f10db357e34db58300fe166dbc34c78148187a96785fb2"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/cloudy/000644.jpg",
+      "size": 8088,
+      "sha256": "af6fadc3a3f63bd0635a025dd30fe451285d815e80dbd8df9e5cbbd8de5ea8cc"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/cloudy/000645.jpg",
+      "size": 9773,
+      "sha256": "f392f338a562d5ebc1b7a545e86c2aef2ee66bbc8f51aff9237f06248b7227de"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/cloudy/000646.jpg",
+      "size": 14491,
+      "sha256": "6361d7bbe293ff0a71e75526410317b10bdc785dc23b3989117db7d6dff3c0a5"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/cloudy/000647.jpg",
+      "size": 9044,
+      "sha256": "4a6fb7ad79688a783bd4035818a6f882c970166abe5c2f2efc0a8cfb3ffdb8b3"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/rainy/000018.jpg",
+      "size": 6360,
+      "sha256": "4c804cb9472cdd0952d33034d457a13ade3d6f6c64cccb613a57a1fde9cb22d1"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/rainy/000069.jpg",
+      "size": 6396,
+      "sha256": "0dd81ba12ce687429df7a950f3b370db467d9c6ec5427e561d168207ae47f131"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/rainy/000252.jpg",
+      "size": 6345,
+      "sha256": "83a4687de231b0e227403478ffccfce15fefdfa778fca1de9be58caec8179a55"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/rainy/000280.jpg",
+      "size": 6317,
+      "sha256": "36c1711ffc6336bbb51f172887dc3636805f7f3545ef0de785174333bf66940b"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/rainy/000498.jpg",
+      "size": 6335,
+      "sha256": "5df4d6e845c50f369f384ca2229a1969761d95c6ce1a9592bf79c5a949fd31cb"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/rainy/000515.jpg",
+      "size": 6332,
+      "sha256": "2332b8b1890d10013df3d22e3ea23830a86d070b7571b58921238acbde41140d"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/rainy/000546.jpg",
+      "size": 6290,
+      "sha256": "f193800c2a090fc586ce01ef107269cc2268b53028aac71b2831761c7dfd2fc9"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/rainy/000578.jpg",
+      "size": 6222,
+      "sha256": "60a81b94fee258177f0aa403c500df3c2fa8b61268237f89926ee3e7584227c5"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/rainy/000987.jpg",
+      "size": 6208,
+      "sha256": "ce71b3adfe45e17ab7679491b8e38f2658d8e793ae6152395ed293a7a196417a"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000142.jpg",
+      "size": 10631,
+      "sha256": "78c801542b91ab205e731a181bc2609d79a4aeba0e6f1a5514d40f3e0d018690"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000143.jpg",
+      "size": 11702,
+      "sha256": "46c486c3a95856cac28d807cde3cea283cfe5601a7d02d1718cdff9d7f89fe21"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000144.jpg",
+      "size": 9696,
+      "sha256": "4606afdbd6a112ae3e87eee0e83ba4bacf446c5513d6524aa132d84816375b57"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000145.jpg",
+      "size": 9528,
+      "sha256": "3cad5d36edee566340d96fb57ab19c54d7ca1d5c32bbac065524f4f08dcc8bbe"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000146.jpg",
+      "size": 9298,
+      "sha256": "088c5ab8ccc5b4fa45310289dc91c412f50c6896e29627e487b5e45a17a5a2ad"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000147.jpg",
+      "size": 11284,
+      "sha256": "1ac739899561d25d13bea4f6e017ea46b81cdd191c153db077fd1aaebd27e99e"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000148.jpg",
+      "size": 8876,
+      "sha256": "9a097e3ea6725f1e0a2554faa339c9a764a981a0bd494667be013b81c62918f4"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000149.jpg",
+      "size": 12979,
+      "sha256": "3cb2243a3955b4a1d7ded32d7d0b38a93176bf94246f458ce184da15cebe9291"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000150.jpg",
+      "size": 10139,
+      "sha256": "3248a5981f795a13d5093bea8a3c4ccb26c418156c3ad83d21e57f5175b73d78"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000151.jpg",
+      "size": 9944,
+      "sha256": "64dc2e26914b70d225aa61b53fce01edb107108c63a871767770089527fd0533"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000152.jpg",
+      "size": 10969,
+      "sha256": "af9f602135661aafa1b66a52ff47f11d44411e31385496b4c2e6286198d9ac59"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000153.jpg",
+      "size": 10916,
+      "sha256": "0d273f943ee2ca925af904954c52a4b619cd33d1995ceb6d08176f5e173af6de"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000154.jpg",
+      "size": 8930,
+      "sha256": "aa2272c19ea78b2e4899bcb46b56e3a51b574c36ad46d7358db8a52236bd0e5d"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000225.jpg",
+      "size": 10796,
+      "sha256": "c4b3f77a6b9204f3d669c9a8772757917db81eacec1267a6cf171cbca85fe9d4"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000226.jpg",
+      "size": 11727,
+      "sha256": "c027e9f07b3e9cbb1254fb0d5e5d2198055243966b1d9f4ef45fbe3f519c50bc"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000227.jpg",
+      "size": 9672,
+      "sha256": "06e8503e6979809c39744403cf12419ada6cca65b7158e531c62e3065e2c270d"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000228.jpg",
+      "size": 9522,
+      "sha256": "e7980a8588a57a3ab85ae252e2f40f80b6f5765bde94f76fa12222102a57e32b"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000229.jpg",
+      "size": 9265,
+      "sha256": "bfed17a644c79307da8579647bf8cffce3a276b689b847c0f1a0f283baadc66c"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000230.jpg",
+      "size": 11225,
+      "sha256": "c8eeaac5b9da3af284ab9fe8cb016a34fdccb6e895727ed5679f3c25bf0e11f7"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000231.jpg",
+      "size": 8963,
+      "sha256": "5a7a285399963316ca4699222415316a71dc481bd54edb470232a13fd6d8958f"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000232.jpg",
+      "size": 13351,
+      "sha256": "dce9f5c41f58efc4058ae8250043737f4935cd9cdf7e8de6ea3442dc4ed9e93f"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000233.jpg",
+      "size": 10090,
+      "sha256": "1ab9f4cadd3cfeb26559ffa9e1c500b18eee088ffb4ba72cd7ba2ff135d0ef95"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000234.jpg",
+      "size": 9910,
+      "sha256": "d32c925556ee70c094bf5a38f6ceffa4c5be602aab74b8b918ae345989716241"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000235.jpg",
+      "size": 10739,
+      "sha256": "5d919661fdb0d0602a828180099d4300f4ea2e7714270da1b7042969d6cc5d44"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000236.jpg",
+      "size": 10963,
+      "sha256": "1fd51698fd2a28c643b3c3228e6e1ba9bfe8ac1e79896caa1a5469c2daae21d7"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000237.jpg",
+      "size": 8913,
+      "sha256": "4089882792554ecda61aaccb3f9a195a1eb63b48360b6b8008bd6824635f7847"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000388.jpg",
+      "size": 10742,
+      "sha256": "861fa0d2f41e664ee320d330869a091edade02fd25995064e036edc48b95f26e"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000389.jpg",
+      "size": 11574,
+      "sha256": "16e148bf9f0f55b57cebb503f63563c354fffe222a0810e8316e0a5fe690ce92"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000390.jpg",
+      "size": 9664,
+      "sha256": "65d5c41c26a1247231a1413772263efebe947775de1572fc878daefeab98bd1b"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000391.jpg",
+      "size": 9463,
+      "sha256": "6ec5bfc9452e29a22db1da5f51f7097f3dad3f746f81f6d285e10bc3a6e92542"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000392.jpg",
+      "size": 9251,
+      "sha256": "5e37ca4a2cf98fdf0a1af6f4180fc3f7ef9aeef0226178bf90079e0fda59428d"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000393.jpg",
+      "size": 11006,
+      "sha256": "86d0da31eaf8bc751a54d54bd8bfc4bfbdc0ef481003c11c8e462a5a92522f42"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000394.jpg",
+      "size": 8908,
+      "sha256": "c6dc2da6456d55e2e3d8515766e1b0b9894e36b7eb3741e76c59df10b16f2e74"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000395.jpg",
+      "size": 13473,
+      "sha256": "57f5905b1f499bd8a0a5e759270219cebd7909a996bb2926a5ea176563c571e6"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000396.jpg",
+      "size": 10053,
+      "sha256": "a35463eff56957b839c3afba0c3df6b622e100127792303a8834d54d50d4d1c5"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000397.jpg",
+      "size": 9714,
+      "sha256": "3981de9ee8d6b5c3e8eafe2395f78bb1229b39f53af5510da56e8e55328889a2"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000398.jpg",
+      "size": 10667,
+      "sha256": "be64d99defad3c291c4a4b2a8ada264e855127e1c951a92a701c65a9502e1fc6"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000399.jpg",
+      "size": 11050,
+      "sha256": "397a3b01f31587e2ae71b86f0710119ec7342795234148c26ffc5fb7196c1c28"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000400.jpg",
+      "size": 8880,
+      "sha256": "ed168eacce5660281c73651baa4cc95a03cadff3622d9f15ce121620562842ca"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000471.jpg",
+      "size": 10752,
+      "sha256": "66328ba53b7de4c9e7f62deabb11bcc1acbee2086db9ed2c3178f259ab387898"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000472.jpg",
+      "size": 11700,
+      "sha256": "c97b0dfb7607e0645595d349d7e72c0cdb2a1d891d64a2bf65edb52bc5a028dd"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000473.jpg",
+      "size": 9641,
+      "sha256": "420fbf2acacb029aed2ed502a084988f2902fd13ffde9ad6308c3c07ce20533e"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000474.jpg",
+      "size": 9524,
+      "sha256": "778fff9ad774f1a48b76c922085f2dd2adbbe3a4fa0de0343c60ec7d774046ff"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000475.jpg",
+      "size": 9254,
+      "sha256": "130c796cb28a4ca3130a4e7bb06b03d3f73e1ba83e6a2eff750d92e4a5a67a50"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000476.jpg",
+      "size": 10953,
+      "sha256": "e7cab77dbd044ed3ceb0a17a41b1c03214016bd56b2c22886cdecafa8a82883c"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000477.jpg",
+      "size": 8923,
+      "sha256": "cf4fc50ee8373cff3aa2c69c22a956b0df110a20e23047c3cba2f381d489f887"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000478.jpg",
+      "size": 13514,
+      "sha256": "15b7308762ae7b69854fb12adecf54e7987def9df3d03c3ac8157f8ce021ef94"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000479.jpg",
+      "size": 10037,
+      "sha256": "553d57634db82321bf67179283520133accf4d7903e30a14139365b511828374"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000480.jpg",
+      "size": 9535,
+      "sha256": "a83f617ad991790be1d119ec2e6e0369237329a45822a0487d591ea8693f744f"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000481.jpg",
+      "size": 10812,
+      "sha256": "6e9d22e25c42621a57d058bce4f7c8c96d92fb90b044f57f7af3810d6087185c"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000482.jpg",
+      "size": 11119,
+      "sha256": "8e52ca2c5bf868fdb0098d8f2daf0b6b4923b00aee78469753b7f4aa3b10a14e"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000483.jpg",
+      "size": 8878,
+      "sha256": "862daaf65ebc5497ddc97fef639fd7e0478993de6155b63e3b9ed7f51fed8f01"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000711.jpg",
+      "size": 10670,
+      "sha256": "16fff6646b6f71a835e57e2b657986e3b2289c307df5e8504b896a46ca08a22b"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000712.jpg",
+      "size": 11883,
+      "sha256": "08186d7ce78ea10002a0ae352a2fc0a54fe8563391645e1d199e0aa990822329"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000713.jpg",
+      "size": 9664,
+      "sha256": "bbc8daced087e5ca32a073bc3bb9f2ebbc782cae89e261b03ef5c7278294e8e0"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000714.jpg",
+      "size": 9530,
+      "sha256": "28ef0e12620c3706c4efc70a77fc91154568a20c3ac8f716183831c6187de8ce"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000715.jpg",
+      "size": 9291,
+      "sha256": "35dda8f4246aed80df1c88fed05f1f64b9e8fea3e4624c504636efc15af4186b"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000716.jpg",
+      "size": 10967,
+      "sha256": "75984aead164b53d0a53404f806ab770933fad9f801782907c516bb4bfaeed97"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000717.jpg",
+      "size": 8973,
+      "sha256": "72ab6cb44dab83b5e5dcc7d2756c5667fee8568d96d2930c79350eb6f25206f8"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000718.jpg",
+      "size": 13527,
+      "sha256": "4ea49517addf537d78942bbecd9a5cfae88d5f268a6da929222a500f1c18c68f"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000719.jpg",
+      "size": 10016,
+      "sha256": "5765503d109e0acff857d565fa972d9cbcb8f0de27e6c48446d276c9170d910e"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000720.jpg",
+      "size": 9383,
+      "sha256": "a9c94aeca7b9b42106db4a730d7bb11a68cac9639d231d8a5398a0b57f14b0ba"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000721.jpg",
+      "size": 10741,
+      "sha256": "48af20a347274e5a36e05bd70a98fcb3295ead6e87383747858916dd19f8802d"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000722.jpg",
+      "size": 11160,
+      "sha256": "fc482a4ac351c33597008e371e5d5af040b58b737e7b33d86bd89b592b825703"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000723.jpg",
+      "size": 8900,
+      "sha256": "cea979b6f22f9d64c3653c86920b2f86810b5668f4280584cc9051b271ddffc4"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000794.jpg",
+      "size": 10582,
+      "sha256": "c2c77b878b015c30a707c75bceb6705f1f1664b30dc6d1ba4ff7d6dd94a2c198"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000795.jpg",
+      "size": 12010,
+      "sha256": "f870716f7d45a45961d365712a56a71016f60eb104b760ac2b85d6c8cb81239f"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000796.jpg",
+      "size": 9621,
+      "sha256": "aa3809f84785e719afa719b397e66c556fedf29e9e87ec79475bc1c776b37c51"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000797.jpg",
+      "size": 9466,
+      "sha256": "2251d1519bfd91341fea7218c7f2a9bfd911b0763488b28b3ceab9822ca14ab2"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000798.jpg",
+      "size": 9260,
+      "sha256": "e748d57d09c6b04dc1110a4e224a329a7d873e465cd11bad6e9f66c3eaddec00"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000799.jpg",
+      "size": 11007,
+      "sha256": "25c8b270b462b73f57b6fe906178883644eb4edd2d1016b0b9c660169a7ae3f9"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000800.jpg",
+      "size": 9004,
+      "sha256": "2d005bba0993f5d44bd5c75ba908d72974bb9f9eef205580384d7c226a1dc0a8"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000801.jpg",
+      "size": 13489,
+      "sha256": "e8455365afca670320cf36207a215a409c70ce90f360203f2d3a9f0d424776b5"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000802.jpg",
+      "size": 10001,
+      "sha256": "c98debcfeb7c734a6da4ad9489332797e2e3546f6361b488f0ccbd3eedd1a4cd"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000803.jpg",
+      "size": 9233,
+      "sha256": "f411c59c2dee4c715b29a9288f14bdc89f3cf77434d7449a667b922e9401769d"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000804.jpg",
+      "size": 10710,
+      "sha256": "f7b84e9e639eb590c166cfca6f0cc502fb23736b844abcf4bef209ece2d8398f"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000805.jpg",
+      "size": 11204,
+      "sha256": "123891f5f803fab799055eee5f1c77a3fbf228d97018a6938d5f5a6939860e57"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000806.jpg",
+      "size": 8899,
+      "sha256": "c74e0adc1fa14521960687a510454f8a49019fd9bbc7461dc247cce12e2e4107"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000877.jpg",
+      "size": 10633,
+      "sha256": "e509cab6c0228af981d80b32940f037bc090d6ce340cc06835c82133fdd0923a"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000878.jpg",
+      "size": 12040,
+      "sha256": "ae16deffed810b759d99880fde1abb9c4a6e92b7e5b3b2634179cb0de0822f4c"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000879.jpg",
+      "size": 9584,
+      "sha256": "b903b6d6894027277928888c0227b96c9f565c22ebcde1bc4a7d1c92f8c64a43"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000880.jpg",
+      "size": 9398,
+      "sha256": "f03d2664c0640658b8aa02381158963162584def694b2575ff141dd598c090f9"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000881.jpg",
+      "size": 9272,
+      "sha256": "55b9785696aa06d5a80d0f1ef14e5b7263d082ca0d2bc76d696ffcca5b187e62"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000882.jpg",
+      "size": 11126,
+      "sha256": "e373bb26676875e3ef0b72ba5768745d10ec20c2aac21adc10255adb7de9dd1f"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000883.jpg",
+      "size": 9039,
+      "sha256": "a097b600ef75fd6883a51e9b17c5eb48234962b402fdc8e74a90bd3c866ec6b4"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000884.jpg",
+      "size": 13381,
+      "sha256": "fe15bb47ff5c68a8aa8172381d65d75f3339c99bc09a627a6845171ef506916e"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000885.jpg",
+      "size": 10044,
+      "sha256": "75f5a88e8ec3f91897ca8bd1b260b23004a9c7304a98b95e15e2432d3ac264c8"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000886.jpg",
+      "size": 9340,
+      "sha256": "c3b865a7e62c6cd12a4d399ebc629d70a299dae9d8f7203ca3d378c48607d4b8"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000887.jpg",
+      "size": 10583,
+      "sha256": "e7951c44c0bc0f948233d685bdf1f199829fadb4e0e6a7f5d5913e02ff3124bc"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000888.jpg",
+      "size": 11239,
+      "sha256": "9a2958db9b4ba2e2d18a588a29693942a7416c89067bcbb317f69bd5141f688b"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000889.jpg",
+      "size": 8888,
+      "sha256": "ab9aea35ac42bb75fa7b4891309fbfed1130bfd74f9bca276191436debc48433"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000960.jpg",
+      "size": 10498,
+      "sha256": "8f9326333fb36f2e7716fc49208a523f5a4bf1040af6769e665ff374923ded0c"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000961.jpg",
+      "size": 12083,
+      "sha256": "de67719a442c7b76380f06b99d38dcd5af7df93180d1db408452461514989b57"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000962.jpg",
+      "size": 9583,
+      "sha256": "759180e0d8ecb63d00ccd88427bf0d93bdc8b13876571f772559d452c9466d0d"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000963.jpg",
+      "size": 9416,
+      "sha256": "91a362f59c0c37691a4d5719f76feb7369badbfa8bca31516a27cb7e264ea834"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000964.jpg",
+      "size": 9282,
+      "sha256": "2f7d08292a738b2b3964f4594942e29b18653500541e20f4fce64536898c8b35"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000965.jpg",
+      "size": 11480,
+      "sha256": "62f02e2226e767c342cf747c489bef14dc5d6a7db0473ed05e7eaaf25135ba74"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000966.jpg",
+      "size": 8965,
+      "sha256": "279577517cbd328d65fbad4c92924b8999ab2f3ef35f0094aec2cbc4bb219a5e"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000967.jpg",
+      "size": 13756,
+      "sha256": "69500f288dc5bd5a6c0a5a3ca4182b6d90058afc84bf32a1609234e2b9f3913f"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000968.jpg",
+      "size": 10147,
+      "sha256": "d747f4452d947c956f9b935ef137ae3de5a2e1ef1632012bb2da666f91e30667"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000969.jpg",
+      "size": 9605,
+      "sha256": "9930c0116d1a23a588a91e02d54ffefd76fdc55d2d921ce6899421132a55a7d5"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000970.jpg",
+      "size": 10591,
+      "sha256": "b63bd0e84dc1b3fafecd646ef88e3d8e97eeb8b9be9dae74dfaeb512b6abacb8"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000971.jpg",
+      "size": 11197,
+      "sha256": "a213dea8a9c054aba71375dcf6589f62c35931159f8ee2841cb82854a443bea5"
+    },
+    {
+      "path": "sky_weather_next_day/images/val/sunny/000972.jpg",
+      "size": 8939,
+      "sha256": "30b1217d232fec5c37fd112998a40f4bf0f7f13015eeafae1e1dd32341350518"
+    },
+    {
+      "path": "sky_weather_next_day/labels.csv",
+      "size": 203157,
+      "sha256": "fd516992f4ad345e63deffe5ef2d9aeb09f4d25f6e9750b2f9227ad5ebaa2352"
+    },
+    {
+      "path": "sky_weather_next_day/manifest.json",
+      "size": 841,
+      "sha256": "1f8f10e428137c1d336d897bac994661c6eb1753a77854a971f9af25c7731e0b"
+    },
+    {
+      "path": "sky_weather_next_day/metadata.jsonl",
+      "size": 77358,
+      "sha256": "8c4f3304607f12f349ba3836bc2e05604a2d8083b5ef087b536d862ec594f197"
+    }
+  ],
+  "image_count": 1000,
+  "label_format": "classification_csv_and_jsonl",
+  "split_counts": {
+    "train": 656,
+    "val": 161,
+    "test": 183
+  },
+  "classes": [
+    "sunny",
+    "cloudy",
+    "rainy"
+  ],
+  "class_names_ja": [
+    "晴れ",
+    "曇り",
+    "雨"
+  ],
+  "transform_version": "sky_weather_next_day_v1.0.0",
+  "license": "CC BY 4.0",
+  "attribution": "Joshua E. Hammond and Brian A. Korgel, NREL SRRL Minute-Resolution Sky Imagery Dataset (CC BY 4.0); Open-Meteo Historical Weather API ERA5 reanalysis (CC BY 4.0). Changes: normalized paths and indexes, preserved JPEG bytes, and retained educational next-day labels and chronological splits.",
+  "source": {
+    "url": "https://huggingface.co/datasets/knl2366/NREL_Sky_Imagery",
+    "version": "User-provided ZIP; upstream dataset revision not recorded",
+    "sha256": "c30cf675819fea9b0bad62e0d0c8cb77890b808253e92c604b39d6c97a6f5280"
+  }
+}
