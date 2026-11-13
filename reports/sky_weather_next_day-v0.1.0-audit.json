@@ -6,7 +6,7 @@
   "source_archive_sha256": "c30cf675819fea9b0bad62e0d0c8cb77890b808253e92c604b39d6c97a6f5280",
   "artifact_sha256": "c438ca3444bf72773d4a7bb430ed3f20885db8fbb0fd5d3f00ee7727149564e0",
   "license": "CC BY 4.0",
-  "rights_status": "approved_for_redistribution_with_attribution",
+  "rights_status": "approved_for_redistribution",
   "image_count": 1000,
   "image_validation": {
     "archive_crc": "passed",
