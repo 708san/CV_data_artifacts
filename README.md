@@ -37,6 +37,9 @@ reports/        実体監査の要約
 
 `manifests/`と`reports/`に準備中の候補があっても、`registry/datasets.json`に登録されていないものは公開済みではありません。Release assetの作成とartifact URL・SHA-256の登録が完了するまで、ライブラリから利用可能とは案内しません。
 
+## Sky weather next day v0.1.0
+
+The normalized 1,000-image artifact is published as a fixed Release asset. Its asset SHA-256 matches the manifest and is registered in `registry/datasets.json`. The accompanying license, transformation, and audit records are included in PR #49; merge the PR before treating the registry metadata as part of the repository's default branch.
 ## 準備中の候補
 
 `recyclable_waste` v0.1.1 is published and registered. It contains 976 images after exact duplicate removal and exclusion of a paper image showing political campaign material and a person's portrait. Source license, attribution, privacy checks, and limitations are in its license record and audit report.

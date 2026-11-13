@@ -1,0 +1,46 @@
+{
+  "dataset_id": "sky_weather_next_day",
+  "artifact_version": "0.1.0",
+  "source_url": "https://huggingface.co/datasets/knl2366/NREL_Sky_Imagery",
+  "source_version": "User-provided ZIP; upstream dataset revision not recorded",
+  "source_archive_sha256": "c30cf675819fea9b0bad62e0d0c8cb77890b808253e92c604b39d6c97a6f5280",
+  "artifact_sha256": "c438ca3444bf72773d4a7bb430ed3f20885db8fbb0fd5d3f00ee7727149564e0",
+  "license": "CC BY 4.0",
+  "rights_status": "approved_for_redistribution",
+  "image_count": 1000,
+  "image_validation": {
+    "archive_crc": "passed",
+    "unsafe_paths_or_symlinks": 0,
+    "jpeg_count": 1000,
+    "dimensions": "224x224",
+    "decode_failures": 0,
+    "representative_visual_review": 5
+  },
+  "labels": {
+    "rows": 1000,
+    "classes": {
+      "sunny": 664,
+      "cloudy": 184,
+      "rainy": 152
+    },
+    "splits": {
+      "train": 656,
+      "val": 161,
+      "test": 183
+    },
+    "missing_image_refs": 0,
+    "duplicate_paths_or_content": 0,
+    "same_capture_day_cross_split": 0,
+    "target_date_rule": "capture date + 1 day"
+  },
+  "limitations": [
+    "Single NREL SRRL station in Golden, Colorado; does not represent Japanese local weather.",
+    "Weather labels derive from ERA5 reanalysis and are not official forecasts or direct observations.",
+    "Source archive does not record the exact upstream image-dataset revision; the provided input archive and output artifact are pinned by SHA-256.",
+    "Fixed MST (UTC-7) convention; timestamps should not be interpreted as daylight-adjusted local time.",
+    "Class proportions differ substantially among train, validation, and test splits, especially for rain.",
+    "Open-Meteo free API service access is non-commercial; this service condition is distinct from the CC BY 4.0 data license."
+  ],
+  "audit_scope": "Input ZIP size/SHA, safe member paths, CRC, all image decode/dimensions, table/image correspondence, duplicates, date and split consistency, label rule, and representative visual review.",
+  "visual_review": "Five representative images visually confirmed as all-sky imagery. No per-image semantic or weather-quality review."
+}
